@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v19-50-0]]
+=== Psalm, 50
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of Aʹsaph._
+
+[[v19-50-1]]
+
+^<<v19-50-1,1>>^ The God of gods, Jehovah,^&#42;1^ has spoken;
+He summons the earth
+From the rising of the sun until its setting.^&#42;2^
+
+[NOTE]
+====
+. Or “The Divine One, God, Jehovah.”
+. Or “From east to west.”
+====
+
+[[v19-50-2]]
+
+^<<v19-50-2,2>>^ Out of Zion, the perfection of beauty, God shines forth.
+
+[[v19-50-3]]
+
+^<<v19-50-3,3>>^ Our God will come and cannot remain silent.
+Before him is a consuming fire,
+And a great storm rages all around him.
+
+[[v19-50-4]]
+
+^<<v19-50-4,4>>^ He summons the heavens above and the earth,
+So as to judge his people:
+
+[[v19-50-5]]
+
+^<<v19-50-5,5>>^ “Gather to me my loyal ones,
+Those making a covenant with me over sacrifice.”
+
+[[v19-50-6]]
+
+^<<v19-50-6,6>>^ The heavens proclaim his righteousness,
+For God himself is Judge. (Selah)
+
+[[v19-50-7]]
+
+^<<v19-50-7,7>>^ “Listen, O my people, and I will speak;
+Israel, I will bear witness against you.
+I am God, your God.
+
+[[v19-50-8]]
+
+^<<v19-50-8,8>>^ I do not reprove you because of your sacrifices,
+Nor because of your whole burnt offerings that are constantly before me.
+
+[[v19-50-9]]
+
+^<<v19-50-9,9>>^ I do not need to take a bull from your house,
+Nor goats^&#42;1^ from your pens.
+
+[NOTE]
+====
+. Lit., “male goats.”
+====
+
+[[v19-50-10]]
+
+^<<v19-50-10,10>>^ For every wild animal of the forest is mine,
+Even the beasts upon a thousand mountains.
+
+[[v19-50-11]]
+
+^<<v19-50-11,11>>^ I know every bird of the mountains;
+The countless animals of the field are mine.
+
+[[v19-50-12]]
+
+^<<v19-50-12,12>>^ If I were hungry, I would not tell you,
+For the productive land and everything in it is mine.
+
+[[v19-50-13]]
+
+^<<v19-50-13,13>>^ Will I eat the flesh of bulls
+And drink the blood of goats?
+
+[[v19-50-14]]
+
+^<<v19-50-14,14>>^ Offer thanksgiving as your sacrifice to God,
+And pay your vows to the Most High;
+
+[[v19-50-15]]
+
+^<<v19-50-15,15>>^ Call on me in the time of distress.
+I will rescue you, and you will glorify me.”
+
+[[v19-50-16]]
+
+^<<v19-50-16,16>>^ But God will say to the wicked:
+“What right do you have to relate my regulations
+Or to speak about my covenant?
+
+[[v19-50-17]]
+
+^<<v19-50-17,17>>^ For you hate discipline,^&#42;1^
+And you keep turning your back on my words.^&#42;2^
+
+[NOTE]
+====
+. Or “instruction.”
+. Lit., “throwing my words behind you.”
+====
+
+[[v19-50-18]]
+
+^<<v19-50-18,18>>^ When you see a thief, you approve of him,^&#42;1^
+And you keep company with adulterers.
+
+[NOTE]
+====
+. Or possibly, “you join him.”
+====
+
+[[v19-50-19]]
+
+^<<v19-50-19,19>>^ You use your mouth to spread what is bad,
+And deception is attached to your tongue.
+
+[[v19-50-20]]
+
+^<<v19-50-20,20>>^ You sit and speak against your own brother;
+You reveal the faults of^&#42;1^ your own mother’s son.
+
+[NOTE]
+====
+. Or “defame.”
+====
+
+[[v19-50-21]]
+
+^<<v19-50-21,21>>^ When you did these things, I remained silent,
+So you thought that I would be just like you.
+But now I will reprove you,
+And I will state my case against you.
+
+[[v19-50-22]]
+
+^<<v19-50-22,22>>^ Please consider this, you who forget God,
+So that I may not tear you to pieces with no one to rescue you.
+
+[[v19-50-23]]
+
+^<<v19-50-23,23>>^ The one who offers thanksgiving as his sacrifice glorifies me,
+And as for the one who follows a set course,
+I will cause him to see salvation by God.”
+
+'''
+
+xref:019-psalm/019-psalm-049.adoc#v19-49-0[&#60; Capítulo Anterior] | <<v19-50-0,Topo>> | xref:019-psalm/019-psalm-051.adoc#v19-51-0[Próximo Capítulo &#62;]

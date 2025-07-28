@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v22-6-0]]
+=== The Song of Solomon, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v22-6-1]]
+
+^<<v22-6-1,1>>^ “Where has your dear one gone,
+O most beautiful of women?
+Which way did your dear one turn?
+Let us seek him with you.”
+
+[[v22-6-2]]
+
+^<<v22-6-2,2>>^ “My dear one has gone down to his garden,
+To the beds of spice plants,
+To shepherd among the gardens
+And to pick lilies.
+
+[[v22-6-3]]
+
+^<<v22-6-3,3>>^ I am my dear one’s,
+And my dear one is mine.
+He is shepherding among the lilies.”
+
+[[v22-6-4]]
+
+^<<v22-6-4,4>>^ “You are as beautiful as Tirʹzah,^&#42;1^ my beloved,
+As lovely as Jerusalem,
+As breathtaking as armies around their banners.
+
+[NOTE]
+====
+. Or “Pleasant City.”
+====
+
+[[v22-6-5]]
+
+^<<v22-6-5,5>>^ Turn your eyes away from me,
+For they overwhelm me.
+Your hair is like a flock of goats
+Streaming down the slopes of Gilʹe·ad.
+
+[[v22-6-6]]
+
+^<<v22-6-6,6>>^ Your teeth are like a flock of sheep
+That have come up from being washed,
+All of them bearing twins,
+And not one has lost her young.
+
+[[v22-6-7]]
+
+^<<v22-6-7,7>>^ Like a segment of pomegranate
+Are your cheeks^&#42;1^ behind your veil.
+
+[NOTE]
+====
+. Or “temples.”
+====
+
+[[v22-6-8]]
+
+^<<v22-6-8,8>>^ There may be 60 queens
+And 80 concubines
+And young women without number.
+
+[[v22-6-9]]
+
+^<<v22-6-9,9>>^ But only one is my dove, my flawless one.
+The only one of her mother.
+She is the favorite^&#42;1^ of the one who bore her.
+The daughters see her, and they pronounce her happy;
+Queens and concubines, and they praise her.
+
+[NOTE]
+====
+. Lit., “the pure one.”
+====
+
+[[v22-6-10]]
+
+^<<v22-6-10,10>>^ ‘Who is she who shines^&#42;1^ like the dawn,
+As beautiful as the full moon,
+As pure as the sunlight,
+As breathtaking as armies around their banners?’”
+
+[NOTE]
+====
+. Lit., “looks down.”
+====
+
+[[v22-6-11]]
+
+^<<v22-6-11,11>>^ “I went down to the garden of nut trees
+To see the new growth in the valley,^&#42;1^
+To see whether the vine had sprouted,^&#42;2^
+Whether the pomegranate trees had blossomed.
+
+[NOTE]
+====
+. Or “wadi.”
+. Or “budded.”
+====
+
+[[v22-6-12]]
+
+^<<v22-6-12,12>>^ Before I knew it,
+My desire^&#42;1^ had put me
+At the chariots of my noble^&#42;2^ people.”
+
+[NOTE]
+====
+. Or “soul.”
+. Or “willing.”
+====
+
+[[v22-6-13]]
+
+^<<v22-6-13,13>>^ “Return, return, O Shuʹlam·mite!
+Return, return,
+That we may look upon you!”
+“Why do you gaze upon the Shuʹlam·mite?”
+“She is like the dance of two companies!”^&#42;1^
+
+[NOTE]
+====
+. Or “dance of Mahanaim.”
+====
+
+'''
+
+xref:022-song-of-solomon/022-song-of-solomon-005.adoc#v22-5-0[&#60; Capítulo Anterior] | <<v22-6-0,Topo>> | xref:022-song-of-solomon/022-song-of-solomon-007.adoc#v22-7-0[Próximo Capítulo &#62;]

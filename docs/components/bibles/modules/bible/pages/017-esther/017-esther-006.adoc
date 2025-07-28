@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v17-6-0]]
+=== Esther, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v17-6-1]]
+
+^<<v17-6-1,1>>^ That night the king could not sleep.^&#42;1^ So he said to bring the book of the historical records of the times, and it was read to the king.
+
+[NOTE]
+====
+. Lit., “the king’s sleep fled.”
+====
+
+[[v17-6-2]]
+
+^<<v17-6-2,2>>^ There it was found written what Morʹde·cai had reported concerning Big·thaʹna and Teʹresh, two court officials of the king, doorkeepers, who had plotted to do away with^&#42;1^ King A·has·u·eʹrus.
+
+[NOTE]
+====
+. Lit., “to lay hand on.”
+====
+
+[[v17-6-3]]
+
+^<<v17-6-3,3>>^ The king asked: “What honor and recognition has been given to Morʹde·cai for this?” To this the king’s personal attendants said: “Nothing has been done for him.”
+
+[[v17-6-4]]
+
+^<<v17-6-4,4>>^ Later the king said: “Who is in the courtyard?” Now Haʹman had come into the outer courtyard of the king’s house^&#42;1^ to speak to the king about having Morʹde·cai hanged on the stake that he had prepared for him.
+
+[NOTE]
+====
+. Or “palace.”
+====
+
+[[v17-6-5]]
+
+^<<v17-6-5,5>>^ The king’s attendants said to him: “It is Haʹman standing in the courtyard.” So the king said: “Have him come in.”
+
+[[v17-6-6]]
+
+^<<v17-6-6,6>>^ When Haʹman came in, the king said to him: “What should be done for the man whom the king wishes to honor?” Haʹman said in his heart: “Whom would the king wish to honor more than me?”
+
+[[v17-6-7]]
+
+^<<v17-6-7,7>>^ So Haʹman said to the king: “For the man whom the king wishes to honor,
+
+[[v17-6-8]]
+
+^<<v17-6-8,8>>^ let them bring royal attire that the king wears and a horse on which the king rides, with the royal headdress on its head.
+
+[[v17-6-9]]
+
+^<<v17-6-9,9>>^ Then let the attire and the horse be put into the charge of one of the king’s noble princes, and they should clothe the man whom the king wishes to honor and have him ride on the horse in the public square of the city. They should call out before him: ‘This is what is done for the man whom the king wishes to honor!’”
+
+[[v17-6-10]]
+
+^<<v17-6-10,10>>^ At once the king said to Haʹman: “Quick! Take the attire and the horse, and do what you just said for Morʹde·cai the Jew who is sitting in the king’s gate. Do not leave out anything that you have said.”
+
+[[v17-6-11]]
+
+^<<v17-6-11,11>>^ So Haʹman took the attire and the horse, and he clothed Morʹde·cai and made him ride in the public square of the city and called out before him: “This is what is done for the man whom the king wishes to honor!”
+
+[[v17-6-12]]
+
+^<<v17-6-12,12>>^ Afterward Morʹde·cai returned to the king’s gate, but Haʹman hurried to his house, mourning with his head covered.
+
+[[v17-6-13]]
+
+^<<v17-6-13,13>>^ When Haʹman related to his wife Zeʹresh and to all his friends everything that had happened to him, his wise men and his wife Zeʹresh said to him: “If Morʹde·cai, before whom you have started to fall, is of Jewish descent,^&#42;1^ you will not prevail against him; you will surely fall before him.”
+
+[NOTE]
+====
+. Lit., “from the seed of the Jews.”
+====
+
+[[v17-6-14]]
+
+^<<v17-6-14,14>>^ While they were still speaking with him, the king’s court officials arrived and quickly took Haʹman to the banquet that Esther had made.
+
+'''
+
+xref:017-esther/017-esther-005.adoc#v17-5-0[&#60; Capítulo Anterior] | <<v17-6-0,Topo>> | xref:017-esther/017-esther-007.adoc#v17-7-0[Próximo Capítulo &#62;]

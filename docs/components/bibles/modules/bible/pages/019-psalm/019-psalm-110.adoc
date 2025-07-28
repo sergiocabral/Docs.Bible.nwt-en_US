@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-110-0]]
+=== Psalm, 110
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David. A melody._
+
+[[v19-110-1]]
+
+^<<v19-110-1,1>>^ Jehovah declared to my Lord:
+“Sit at my right hand
+Until I place your enemies as a stool for your feet.”
+
+[[v19-110-2]]
+
+^<<v19-110-2,2>>^ Jehovah will extend the scepter of your power out of Zion, saying:
+“Go subduing in the midst of your enemies.”
+
+[[v19-110-3]]
+
+^<<v19-110-3,3>>^ Your people will offer themselves willingly on the day of your military force.^&#42;1^
+In splendid holiness, from the womb of the dawn,
+You have your company of young men just like dewdrops.
+
+[NOTE]
+====
+. Or “on the day your army mobilizes.”
+====
+
+[[v19-110-4]]
+
+^<<v19-110-4,4>>^ Jehovah has sworn an oath, and he will not change his mind:^&#42;1^
+“You are a priest forever
+In the manner of Mel·chizʹe·dek!”
+
+[NOTE]
+====
+. Or “he will feel no regret.”
+====
+
+[[v19-110-5]]
+
+^<<v19-110-5,5>>^ Jehovah will be at your right hand;
+He will crush kings on the day of his anger.
+
+[[v19-110-6]]
+
+^<<v19-110-6,6>>^ He will execute judgment against^&#42;1^ the nations;
+He will fill the land with dead bodies.
+He will crush the leader^&#42;2^ of a vast land.^&#42;3^
+
+[NOTE]
+====
+. Or “among.”
+. Lit., “head.”
+. Or “of the entire earth.”
+====
+
+[[v19-110-7]]
+
+^<<v19-110-7,7>>^ He^&#42;1^ will drink from the stream along the road.
+Therefore, he will hold his head high.
+
+[NOTE]
+====
+. Referring to “my Lord” in vs. 1.
+====
+
+'''
+
+xref:019-psalm/019-psalm-109.adoc#v19-109-0[&#60; Capítulo Anterior] | <<v19-110-0,Topo>> | xref:019-psalm/019-psalm-111.adoc#v19-111-0[Próximo Capítulo &#62;]

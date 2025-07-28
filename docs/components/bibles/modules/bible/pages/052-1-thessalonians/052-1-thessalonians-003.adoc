@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v52-3-0]]
+=== The First to the Thessalonians, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v52-3-1]]
+
+^<<v52-3-1,1>>^ So when we could bear it no longer, we thought it best to stay on alone in Athens;
+
+[[v52-3-2]]
+
+^<<v52-3-2,2>>^ and we sent Timothy, our brother and God’s minister^&#42;1^ in the good news about the Christ, to make you firm^&#42;2^ and comfort you regarding your faith,
+
+[NOTE]
+====
+. Or possibly, “and God’s fellow worker.”
+. Or “strengthen you.”
+====
+
+[[v52-3-3]]
+
+^<<v52-3-3,3>>^ so that no one might be shaken^&#42;1^ by these tribulations. For you yourselves know that we cannot avoid suffering such things.^&#42;2^
+
+[NOTE]
+====
+. Lit., “swayed.”
+. Or “we are appointed to this.”
+====
+
+[[v52-3-4]]
+
+^<<v52-3-4,4>>^ For when we were with you, we used to tell you in advance that we would suffer tribulation, and that is what has happened, just as you know.
+
+[[v52-3-5]]
+
+^<<v52-3-5,5>>^ That is why, when I could bear it no longer, I sent to learn of your faithfulness, in case somehow the Tempter might have tempted you, and our labor might have turned out to be in vain.
+
+[[v52-3-6]]
+
+^<<v52-3-6,6>>^ But Timothy has just now come to us from you and has given us the good news about your faithfulness and love, that you always continue to remember us fondly and that you long to see us in the same way as we also do you.
+
+[[v52-3-7]]
+
+^<<v52-3-7,7>>^ That is why, brothers, in all our distress^&#42;1^ and tribulation, we have been comforted because of you and the faithfulness you demonstrate.
+
+[NOTE]
+====
+. Lit., “necessity.”
+====
+
+[[v52-3-8]]
+
+^<<v52-3-8,8>>^ Because we are revitalized^&#42;1^ if you are standing firm in the Lord.
+
+[NOTE]
+====
+. Lit., “we live.”
+====
+
+[[v52-3-9]]
+
+^<<v52-3-9,9>>^ For how can we show our thanks to God concerning you in return for the great joy we feel before our God on your account?
+
+[[v52-3-10]]
+
+^<<v52-3-10,10>>^ Night and day we make supplications as earnestly as we can to see you in person^&#42;1^ and to supply what is lacking in your faith.
+
+[NOTE]
+====
+. Lit., “your face.”
+====
+
+[[v52-3-11]]
+
+^<<v52-3-11,11>>^ Now may our God and Father himself and our Lord Jesus make a way for us to come to you.
+
+[[v52-3-12]]
+
+^<<v52-3-12,12>>^ Moreover, may the Lord cause you to increase, yes, to abound in love for one another and for all, just as we do for you,
+
+[[v52-3-13]]
+
+^<<v52-3-13,13>>^ so that he may make your hearts firm, blameless in holiness before our God and Father at the presence of our Lord Jesus with all his holy ones.
+
+'''
+
+xref:052-1-thessalonians/052-1-thessalonians-002.adoc#v52-2-0[&#60; Capítulo Anterior] | <<v52-3-0,Topo>> | xref:052-1-thessalonians/052-1-thessalonians-004.adoc#v52-4-0[Próximo Capítulo &#62;]

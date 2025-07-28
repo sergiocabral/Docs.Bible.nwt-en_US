@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v40-3-0]]
+=== According to Matthew, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v40-3-1]]
+
+^<<v40-3-1,1>>^ In those days John the Baptist came preaching in the wilderness of Ju·deʹa,
+
+[[v40-3-2]]
+
+^<<v40-3-2,2>>^ saying: “Repent, for the Kingdom of the heavens has drawn near.”
+
+[[v40-3-3]]
+
+^<<v40-3-3,3>>^ This, in fact, is the one spoken of through Isaiah the prophet in these words: “A voice of one calling out in the wilderness: ‘Prepare the way of Jehovah!^&#42;1^ Make his roads straight.’”
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v40-3-4]]
+
+^<<v40-3-4,4>>^ Now John was clothed with camel’s hair and had a leather belt around his waist. His food was locusts and wild honey.
+
+[[v40-3-5]]
+
+^<<v40-3-5,5>>^ Then the people of Jerusalem and all Ju·deʹa and all the country around the Jordan were going out to him,
+
+[[v40-3-6]]
+
+^<<v40-3-6,6>>^ and they were baptized^&#42;1^ by him in the Jordan River, openly confessing their sins.
+
+[NOTE]
+====
+. Or “dipped; immersed.”
+====
+
+[[v40-3-7]]
+
+^<<v40-3-7,7>>^ When he caught sight of many of the Pharisees and Sadducees coming to the baptism, he said to them: “You offspring of vipers, who has warned you to flee from the coming wrath?
+
+[[v40-3-8]]
+
+^<<v40-3-8,8>>^ Therefore, produce fruit that befits repentance.
+
+[[v40-3-9]]
+
+^<<v40-3-9,9>>^ Do not presume to say to yourselves, ‘We have Abraham as our father.’ For I say to you that God is able to raise up children for Abraham from these stones.
+
+[[v40-3-10]]
+
+^<<v40-3-10,10>>^ The ax is already lying at the root of the trees. Every tree, then, that does not produce fine fruit is to be cut down and thrown into the fire.
+
+[[v40-3-11]]
+
+^<<v40-3-11,11>>^ I, for my part, baptize you with water because of your repentance, but the one coming after me is stronger than I am, whose sandals I am not worthy to take off. That one will baptize you with holy spirit and with fire.
+
+[[v40-3-12]]
+
+^<<v40-3-12,12>>^ His winnowing shovel is in his hand, and he will clean up his threshing floor completely and will gather his wheat into the storehouse, but the chaff he will burn up with fire that cannot be put out.”
+
+[[v40-3-13]]
+
+^<<v40-3-13,13>>^ Then Jesus came from Galʹi·lee to the Jordan to John, in order to be baptized by him.
+
+[[v40-3-14]]
+
+^<<v40-3-14,14>>^ But the latter tried to prevent him, saying: “I am the one who needs to be baptized by you, and are you coming to me?”
+
+[[v40-3-15]]
+
+^<<v40-3-15,15>>^ Jesus replied to him: “Let it be this time, for in that way it is suitable for us to carry out all that is righteous.” Then he quit preventing him.
+
+[[v40-3-16]]
+
+^<<v40-3-16,16>>^ After being baptized, Jesus immediately came up from the water; and look! the heavens were opened up, and he saw God’s spirit descending like a dove and coming upon him.
+
+[[v40-3-17]]
+
+^<<v40-3-17,17>>^ Look! Also, a voice from the heavens said: “This is my Son, the beloved, whom I have approved.”
+
+'''
+
+xref:040-matthew/040-matthew-002.adoc#v40-2-0[&#60; Capítulo Anterior] | <<v40-3-0,Topo>> | xref:040-matthew/040-matthew-004.adoc#v40-4-0[Próximo Capítulo &#62;]

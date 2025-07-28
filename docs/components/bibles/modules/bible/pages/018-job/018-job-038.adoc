@@ -1,0 +1,267 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Job, 38
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ Then Jehovah answered Job out of the windstorm:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ “Who is this who is obscuring my counsel
+And speaking without knowledge?
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Brace yourself, please, like a man;
+I will question you, and you inform me.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ Where were you when I founded the earth?
+Tell me, if you think you understand.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Who set its measurements, in case you know,
+Or who stretched a measuring line across it?
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ Into what were its pedestals sunk,
+Or who laid its cornerstone,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ When the morning stars joyfully cried out together,
+And all the sons of God^&#42;1^ began shouting in applause?
+
+[NOTE]
+====
+. A Hebrew idiom that refers to angelic sons of God.
+====
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ And who barricaded the sea behind doors
+When it burst out from the womb,
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ When I clothed it with clouds
+And wrapped^&#42;1^ it in thick gloom,
+
+[NOTE]
+====
+. Or “swaddled.”
+====
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ When I established my limit for it
+And put its bars and doors in place,
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ And I said, ‘You may come this far, and no farther;
+Here is where your proud waves will stop’?
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ Have you ever^&#42;1^ commanded the morning
+Or made the dawn know its place,
+
+[NOTE]
+====
+. Lit., “in your days.”
+====
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ To take hold of the ends of the earth
+And to shake the wicked out of it?
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ It is transformed like clay under a seal,
+And its features stand out like those of a garment.
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ But the light of the wicked is held back from them,
+And their uplifted arm is broken.
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ Have you gone down to the sources of the sea
+Or explored the deep waters?
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ Have the gates of death been revealed to you,
+Or have you seen the gates of deep darkness?^&#42;1^
+
+[NOTE]
+====
+. Or “death’s shadow.”
+====
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Have you understood the vast expanse of the earth?
+Tell me, if you know all of this.
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ In which direction does the light reside?
+And where is the place of darkness,
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ That you should take it to its territory
+And understand the paths to its home?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ Do you know this because you were already born
+And the number of your years^&#42;1^ is great?
+
+[NOTE]
+====
+. Lit., “days.”
+====
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ Have you entered the storehouses of the snow,
+Or have you seen the storehouses of the hail,
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ Which I have reserved for the time of distress,
+For the day of battle and war?
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ From what direction is light^&#42;1^ dispersed,
+And from where does the east wind blow on the earth?
+
+[NOTE]
+====
+. Or possibly, “lightning.”
+====
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ Who has cut a channel for the flood
+And made a path for the thunderous storm cloud,
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ To make it rain where no man lives,
+On the wilderness where there are no humans,
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ To satisfy devastated wastelands
+And cause the grass to sprout?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ Does the rain have a father,
+Or who fathered the dewdrops?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ From whose womb did the ice emerge,
+And who gave birth to the frost of heaven
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ When the waters are covered as if with stone,
+And the surface of the deep waters is frozen solid?
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ Can you tie the ropes of the Kiʹmah constellation^&#42;1^
+Or untie the cords of the Keʹsil constellation?^&#42;2^
+
+[NOTE]
+====
+. Possibly the Pleiades stars in the Taurus constellation.
+. Possibly the Orion constellation.
+====
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Can you lead out a constellation^&#42;1^ in its season
+Or guide the Ash constellation^&#42;2^ along with its sons?
+
+[NOTE]
+====
+. Lit., “Mazzaroth.” At 2Ki 23:5, the related term in plural form refers to the constellations of the zodiac.
+. Possibly the Great Bear constellation (Ursa Major).
+====
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Do you know the laws governing the heavens,
+Or can you impose their^&#42;1^ authority on the earth?
+
+[NOTE]
+====
+. Or possibly, “His.”
+====
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ Can you raise your voice to the clouds
+To cause a flood of water to cover you?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ Can you send out lightning bolts?
+Will they come and say to you, ‘Here we are!’
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Who put wisdom within the clouds^&#42;1^
+Or gave understanding to the sky phenomenon?^&#42;2^
+
+[NOTE]
+====
+. Or possibly, “within man.”
+. Or possibly, “to the mind.”
+====
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Who is wise enough to count the clouds,
+Or who can tip over the water jars of heaven
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ When the dust pours into a mass
+And the clods of earth stick together?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ Can you hunt prey for a lion
+Or satisfy the appetites of young lions
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ When they crouch in their lairs
+Or lie in ambush in their dens?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Who prepares food for the raven
+When its young cry to God for help
+And wander about because there is nothing to eat?
+
+'''
+
+xref:018-job/018-job-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-job/018-job-039.adoc#v18-39-0[Próximo Capítulo &#62;]

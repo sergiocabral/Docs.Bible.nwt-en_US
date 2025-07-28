@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-87-0]]
+=== Psalm, 87
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of the sons of Korʹah. A melody. A song._
+
+[[v19-87-1]]
+
+^<<v19-87-1,1>>^ His city’s foundation is in the holy mountains.
+
+[[v19-87-2]]
+
+^<<v19-87-2,2>>^ Jehovah loves the gates of Zion
+More than all the tents of Jacob.
+
+[[v19-87-3]]
+
+^<<v19-87-3,3>>^ Glorious things are being said about you, O city of the true God. (Selah)
+
+[[v19-87-4]]
+
+^<<v19-87-4,4>>^ I will count Raʹhab and Babylon among those who know^&#42;1^ me;
+Here are Phi·lisʹti·a and Tyre, together with Cush.
+It will be said: “This is one who was born there.”
+
+[NOTE]
+====
+. Or “acknowledge.”
+====
+
+[[v19-87-5]]
+
+^<<v19-87-5,5>>^ And about Zion it will be said:
+“Each and every one was born in her.”
+And the Most High will firmly establish her.
+
+[[v19-87-6]]
+
+^<<v19-87-6,6>>^ Jehovah will declare, when recording the peoples:
+“This is one who was born there.” (Selah)
+
+[[v19-87-7]]
+
+^<<v19-87-7,7>>^ Singers and those performing circle dances will say:
+“All my springs are in you.”^&#42;1^
+
+[NOTE]
+====
+. Or “For me, you are the source of all things.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-086.adoc#v19-86-0[&#60; Capítulo Anterior] | <<v19-87-0,Topo>> | xref:019-psalm/019-psalm-088.adoc#v19-88-0[Próximo Capítulo &#62;]

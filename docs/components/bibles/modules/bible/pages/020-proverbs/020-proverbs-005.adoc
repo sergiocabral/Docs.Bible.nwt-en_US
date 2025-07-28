@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v20-5-0]]
+=== Proverbs, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-5-1]]
+
+^<<v20-5-1,1>>^ My son, pay attention to my wisdom.
+Listen carefully^&#42;1^ to my discernment,
+
+[NOTE]
+====
+. Lit., “Incline your ear.”
+====
+
+[[v20-5-2]]
+
+^<<v20-5-2,2>>^ So that you may guard your thinking abilities
+And safeguard knowledge with your lips.
+
+[[v20-5-3]]
+
+^<<v20-5-3,3>>^ For the lips of a wayward^&#42;1^ woman drip like a honeycomb,
+And her mouth is smoother than oil.
+
+[NOTE]
+====
+. Lit., “strange.” See Pr 2:16.
+====
+
+[[v20-5-4]]
+
+^<<v20-5-4,4>>^ But in the end she is as bitter as wormwood
+And as sharp as a two-edged sword.
+
+[[v20-5-5]]
+
+^<<v20-5-5,5>>^ Her feet descend into death.
+Her steps lead straight to the Grave.^&#42;1^
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v20-5-6]]
+
+^<<v20-5-6,6>>^ She gives no thought to the path of life.
+Her course wanders, but she does not know where.
+
+[[v20-5-7]]
+
+^<<v20-5-7,7>>^ Now, my sons, listen to me
+And do not turn away from what I am saying.
+
+[[v20-5-8]]
+
+^<<v20-5-8,8>>^ Stay far away from her;
+Do not go near the entrance of her house,
+
+[[v20-5-9]]
+
+^<<v20-5-9,9>>^ So that you may not give your dignity to others
+Nor reap years of what is cruel;
+
+[[v20-5-10]]
+
+^<<v20-5-10,10>>^ So that strangers may not drain your resources^&#42;1^
+And what you labored for go to the house of a foreigner.
+
+[NOTE]
+====
+. Or “power.”
+====
+
+[[v20-5-11]]
+
+^<<v20-5-11,11>>^ Otherwise, you will groan at the end of your life
+When your flesh and body waste away
+
+[[v20-5-12]]
+
+^<<v20-5-12,12>>^ And you say: “How I hated discipline!
+How my heart despised reproof!
+
+[[v20-5-13]]
+
+^<<v20-5-13,13>>^ I did not listen to the voice of my instructors
+Or pay attention to my teachers.
+
+[[v20-5-14]]
+
+^<<v20-5-14,14>>^ I have come to the brink of complete ruin
+In the midst of the entire congregation.”^&#42;1^
+
+[NOTE]
+====
+. Lit., “In the midst of the assembly and the congregation.”
+====
+
+[[v20-5-15]]
+
+^<<v20-5-15,15>>^ Drink water from your own cistern
+And flowing^&#42;1^ water from your own well.
+
+[NOTE]
+====
+. Or “fresh.”
+====
+
+[[v20-5-16]]
+
+^<<v20-5-16,16>>^ Should your springs be dispersed outside,
+Your streams of water in the public squares?
+
+[[v20-5-17]]
+
+^<<v20-5-17,17>>^ Let them be for you alone,
+And not for strangers with you.
+
+[[v20-5-18]]
+
+^<<v20-5-18,18>>^ May your own fountain^&#42;1^ be blessed,
+And may you rejoice with the wife of your youth,
+
+[NOTE]
+====
+. Or “water source.”
+====
+
+[[v20-5-19]]
+
+^<<v20-5-19,19>>^ A loving doe, a graceful mountain goat.^&#42;1^
+Let her breasts satisfy^&#42;2^ you at all times.
+May you be captivated by her love constantly.
+
+[NOTE]
+====
+. Or “ibex.”
+. Or “intoxicate.”
+====
+
+[[v20-5-20]]
+
+^<<v20-5-20,20>>^ So why, my son, should you be captivated by a wayward^&#42;1^ woman
+Or embrace the bosom of an immoral^&#42;2^ woman?
+
+[NOTE]
+====
+. Lit., “strange.” See Pr 2:16.
+. Lit., “foreign.” See Pr 2:16.
+====
+
+[[v20-5-21]]
+
+^<<v20-5-21,21>>^ For the ways of man are before the eyes of Jehovah;
+He examines all his paths.
+
+[[v20-5-22]]
+
+^<<v20-5-22,22>>^ The wicked one is ensnared by his own errors,
+And he will be caught in the ropes of his own sin.
+
+[[v20-5-23]]
+
+^<<v20-5-23,23>>^ He will die for lack of discipline
+And go astray because of his excessive foolishness.
+
+'''
+
+xref:020-proverbs/020-proverbs-004.adoc#v20-4-0[&#60; Capítulo Anterior] | <<v20-5-0,Topo>> | xref:020-proverbs/020-proverbs-006.adoc#v20-6-0[Próximo Capítulo &#62;]

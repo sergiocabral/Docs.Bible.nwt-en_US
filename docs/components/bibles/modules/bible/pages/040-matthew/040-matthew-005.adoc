@@ -1,0 +1,271 @@
+include::./index.adoc[]
+
+[[v40-5-0]]
+=== According to Matthew, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v40-5-1]]
+
+^<<v40-5-1,1>>^ When he saw the crowds, he went up on the mountain; and after he sat down, his disciples came to him.
+
+[[v40-5-2]]
+
+^<<v40-5-2,2>>^ Then he opened his mouth and began teaching them, saying:
+
+[[v40-5-3]]
+
+^<<v40-5-3,3>>^ “Happy are those conscious of their spiritual need,^&#42;1^ since the Kingdom of the heavens belongs to them.
+
+[NOTE]
+====
+. Or “those who are beggars for the spirit.”
+====
+
+[[v40-5-4]]
+
+^<<v40-5-4,4>>^ “Happy are those who mourn, since they will be comforted.
+
+[[v40-5-5]]
+
+^<<v40-5-5,5>>^ “Happy are the mild-tempered,^&#42;1^ since they will inherit the earth.
+
+[NOTE]
+====
+. Or “meek.”
+====
+
+[[v40-5-6]]
+
+^<<v40-5-6,6>>^ “Happy are those hungering and thirsting for righteousness, since they will be filled.^&#42;1^
+
+[NOTE]
+====
+. Or “satisfied.”
+====
+
+[[v40-5-7]]
+
+^<<v40-5-7,7>>^ “Happy are the merciful, since they will be shown mercy.
+
+[[v40-5-8]]
+
+^<<v40-5-8,8>>^ “Happy are the pure in heart, since they will see God.
+
+[[v40-5-9]]
+
+^<<v40-5-9,9>>^ “Happy are the peacemakers,^&#42;1^ since they will be called sons of God.
+
+[NOTE]
+====
+. Or “peaceable.”
+====
+
+[[v40-5-10]]
+
+^<<v40-5-10,10>>^ “Happy are those who have been persecuted for righteousness’ sake, since the Kingdom of the heavens belongs to them.
+
+[[v40-5-11]]
+
+^<<v40-5-11,11>>^ “Happy are you when people reproach you and persecute you and lyingly say every sort of wicked thing against you for my sake.
+
+[[v40-5-12]]
+
+^<<v40-5-12,12>>^ Rejoice and be overjoyed, since your reward is great in the heavens, for in that way they persecuted the prophets prior to you.
+
+[[v40-5-13]]
+
+^<<v40-5-13,13>>^ “You are the salt of the earth, but if the salt loses its strength, how will its saltiness be restored? It is no longer usable for anything except to be thrown outside to be trampled on by men.
+
+[[v40-5-14]]
+
+^<<v40-5-14,14>>^ “You are the light of the world. A city cannot be hid when located on a mountain.
+
+[[v40-5-15]]
+
+^<<v40-5-15,15>>^ People light a lamp and set it, not under a basket,^&#42;1^ but on the lampstand, and it shines on all those in the house.
+
+[NOTE]
+====
+. Or “measuring basket.”
+====
+
+[[v40-5-16]]
+
+^<<v40-5-16,16>>^ Likewise, let your light shine before men, so that they may see your fine works and give glory to your Father who is in the heavens.
+
+[[v40-5-17]]
+
+^<<v40-5-17,17>>^ “Do not think I came to destroy the Law or the Prophets. I came, not to destroy, but to fulfill.
+
+[[v40-5-18]]
+
+^<<v40-5-18,18>>^ Truly I say to you that sooner would heaven and earth pass away than for one smallest letter or one stroke of a letter to pass away from the Law until all things take place.
+
+[[v40-5-19]]
+
+^<<v40-5-19,19>>^ Whoever, therefore, breaks one of these least commandments and teaches others to do so will be called least in relation to the Kingdom of the heavens. But whoever does them and teaches them will be called great in relation to the Kingdom of the heavens.
+
+[[v40-5-20]]
+
+^<<v40-5-20,20>>^ For I say to you that if your righteousness does not surpass that of the scribes and the Pharisees, you will by no means enter into the Kingdom of the heavens.
+
+[[v40-5-21]]
+
+^<<v40-5-21,21>>^ “You heard that it was said to those of ancient times: ‘You must not murder, but whoever commits a murder will be accountable to the court of justice.’
+
+[[v40-5-22]]
+
+^<<v40-5-22,22>>^ However, I say to you that everyone who continues wrathful with his brother will be accountable to the court of justice; and whoever addresses his brother with an unspeakable word of contempt will be accountable to the Supreme Court; whereas whoever says, ‘You despicable fool!’ will be liable to the fiery Ge·henʹna.^&#42;1^
+
+[NOTE]
+====
+. The place for burning refuse outside of Jerusalem. See Glossary.
+====
+
+[[v40-5-23]]
+
+^<<v40-5-23,23>>^ “If, then, you are bringing your gift to the altar and there you remember that your brother has something against you,
+
+[[v40-5-24]]
+
+^<<v40-5-24,24>>^ leave your gift there in front of the altar, and go away. First make your peace with your brother, and then come back and offer your gift.
+
+[[v40-5-25]]
+
+^<<v40-5-25,25>>^ “Be quick to settle matters with your legal opponent, while you are with him on the way there, so that somehow the opponent may not turn you over to the judge, and the judge to the court attendant, and you get thrown into prison.
+
+[[v40-5-26]]
+
+^<<v40-5-26,26>>^ I say to you for a fact, you will certainly not come out of there until you have paid over your last small coin.^&#42;1^
+
+[NOTE]
+====
+. Lit., “the last quadrans.” See App. B14.
+====
+
+[[v40-5-27]]
+
+^<<v40-5-27,27>>^ “You heard that it was said: ‘You must not commit adultery.’
+
+[[v40-5-28]]
+
+^<<v40-5-28,28>>^ But I say to you that everyone who keeps on looking at a woman so as to have a passion for her has already committed adultery with her in his heart.
+
+[[v40-5-29]]
+
+^<<v40-5-29,29>>^ If, now, your right eye is making you stumble, tear it out and throw it away from you. For it is better for you to lose one of your members than for your whole body to be pitched into Ge·henʹna.^&#42;1^
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v40-5-30]]
+
+^<<v40-5-30,30>>^ Also, if your right hand is making you stumble, cut it off and throw it away from you. For it is better for you to lose one of your members than for your whole body to land in Ge·henʹna.^&#42;1^
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v40-5-31]]
+
+^<<v40-5-31,31>>^ “Moreover, it was said: ‘Whoever divorces his wife, let him give her a certificate of divorce.’
+
+[[v40-5-32]]
+
+^<<v40-5-32,32>>^ However, I say to you that everyone divorcing his wife, except on account of sexual immorality,^&#42;1^ makes her a subject for adultery, and whoever marries a divorced woman commits adultery.
+
+[NOTE]
+====
+. Greek, por·neiʹa. See Glossary.
+====
+
+[[v40-5-33]]
+
+^<<v40-5-33,33>>^ “Again you heard that it was said to those of ancient times: ‘You must not swear without performing, but you must pay your vows to Jehovah.’^&#42;1^
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v40-5-34]]
+
+^<<v40-5-34,34>>^ However, I say to you: Do not swear at all, neither by heaven, for it is God’s throne;
+
+[[v40-5-35]]
+
+^<<v40-5-35,35>>^ nor by earth, for it is the footstool of his feet; nor by Jerusalem, for it is the city of the great King.
+
+[[v40-5-36]]
+
+^<<v40-5-36,36>>^ Do not swear by your head, since you cannot turn one hair white or black.
+
+[[v40-5-37]]
+
+^<<v40-5-37,37>>^ Just let your word ‘Yes’ mean yes, your ‘No,’ no, for what goes beyond these is from the wicked one.
+
+[[v40-5-38]]
+
+^<<v40-5-38,38>>^ “You heard that it was said: ‘Eye for eye and tooth for tooth.’
+
+[[v40-5-39]]
+
+^<<v40-5-39,39>>^ However, I say to you: Do not resist the one who is wicked, but whoever slaps you on your right cheek, turn the other also to him.
+
+[[v40-5-40]]
+
+^<<v40-5-40,40>>^ And if a person wants to take you to court and get possession of your inner garment, let him also have your outer garment;
+
+[[v40-5-41]]
+
+^<<v40-5-41,41>>^ and if someone in authority compels you into service for a mile,^&#42;1^ go with him two miles.
+
+[NOTE]
+====
+. See App. B14.
+====
+
+[[v40-5-42]]
+
+^<<v40-5-42,42>>^ Give to the one asking you, and do not turn away from one who wants to borrow^&#42;1^ from you.
+
+[NOTE]
+====
+. That is, borrow without interest.
+====
+
+[[v40-5-43]]
+
+^<<v40-5-43,43>>^ “You heard that it was said: ‘You must love your neighbor and hate your enemy.’
+
+[[v40-5-44]]
+
+^<<v40-5-44,44>>^ However, I say to you: Continue to love your enemies and to pray for those who persecute you,
+
+[[v40-5-45]]
+
+^<<v40-5-45,45>>^ so that you may prove yourselves sons of your Father who is in the heavens, since he makes his sun rise on both the wicked and the good and makes it rain on both the righteous and the unrighteous.
+
+[[v40-5-46]]
+
+^<<v40-5-46,46>>^ For if you love those loving you, what reward do you have? Are not also the tax collectors doing the same thing?
+
+[[v40-5-47]]
+
+^<<v40-5-47,47>>^ And if you greet your brothers only, what extraordinary thing are you doing? Are not also the people of the nations doing the same thing?
+
+[[v40-5-48]]
+
+^<<v40-5-48,48>>^ You must accordingly be perfect,^&#42;1^ as your heavenly Father is perfect.
+
+[NOTE]
+====
+. Or “complete.”
+====
+
+'''
+
+xref:040-matthew/040-matthew-004.adoc#v40-4-0[&#60; Capítulo Anterior] | <<v40-5-0,Topo>> | xref:040-matthew/040-matthew-006.adoc#v40-6-0[Próximo Capítulo &#62;]

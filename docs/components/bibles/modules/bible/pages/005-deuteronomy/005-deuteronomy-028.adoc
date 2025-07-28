@@ -1,0 +1,321 @@
+include::./index.adoc[]
+
+[[v5-28-0]]
+=== Deuteronomy, 28
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v5-28-1]]
+
+^<<v5-28-1,1>>^ “And if you will without fail listen to the voice of Jehovah your God by being careful to do all his commandments that I am commanding you today, Jehovah your God will certainly put you high above all other nations of the earth.
+
+[[v5-28-2]]
+
+^<<v5-28-2,2>>^ All these blessings will come upon you and overtake you, because you keep listening to the voice of Jehovah your God:
+
+[[v5-28-3]]
+
+^<<v5-28-3,3>>^ “Blessed you will be in the city, and blessed you will be in the field.
+
+[[v5-28-4]]
+
+^<<v5-28-4,4>>^ “Blessed will be your children^&#42;1^ and the fruit of your ground and the offspring of your livestock, your young cattle and sheep.
+
+[NOTE]
+====
+. Lit., “the fruit of your womb.”
+====
+
+[[v5-28-5]]
+
+^<<v5-28-5,5>>^ “Blessed will be your basket and your kneading bowl.
+
+[[v5-28-6]]
+
+^<<v5-28-6,6>>^ “Blessed you will be when you come in, and blessed you will be when you go out.
+
+[[v5-28-7]]
+
+^<<v5-28-7,7>>^ “Jehovah will cause your enemies who rise up against you to be defeated before you. They will attack you from one direction, but they will flee from you in seven different directions.
+
+[[v5-28-8]]
+
+^<<v5-28-8,8>>^ Jehovah will decree for you a blessing on your storehouses and every undertaking of yours, and he will certainly bless you in the land that Jehovah your God is giving you.
+
+[[v5-28-9]]
+
+^<<v5-28-9,9>>^ Jehovah will establish you as a holy people to himself, just as he swore to you, because you continue to keep the commandments of Jehovah your God and walk in his ways.
+
+[[v5-28-10]]
+
+^<<v5-28-10,10>>^ All the peoples of the earth will have to see that Jehovah’s name has been called upon you, and they will be afraid of you.
+
+[[v5-28-11]]
+
+^<<v5-28-11,11>>^ “Jehovah will make you overflow with many children and much livestock and fruitful ground in the land that Jehovah swore to your forefathers to give you.
+
+[[v5-28-12]]
+
+^<<v5-28-12,12>>^ Jehovah will open up to you his good storehouse, the heavens, to give your land rain in its season and to bless all that you do. You will lend to many nations, while you yourself will not need to borrow.
+
+[[v5-28-13]]
+
+^<<v5-28-13,13>>^ Jehovah will make you the head, and not the tail; and you will be on top, and not on the bottom, if you keep obeying the commandments of Jehovah your God that I am commanding you today to observe and to do.
+
+[[v5-28-14]]
+
+^<<v5-28-14,14>>^ You must not deviate from all the words that I am commanding you today, to the right or to the left, to walk after other gods to serve them.
+
+[[v5-28-15]]
+
+^<<v5-28-15,15>>^ “But if you will not listen to the voice of Jehovah your God by taking care to do all his commandments and his statutes that I am commanding you today, all these curses will come upon you and overtake you:
+
+[[v5-28-16]]
+
+^<<v5-28-16,16>>^ “Cursed you will be in the city, and cursed you will be in the field.
+
+[[v5-28-17]]
+
+^<<v5-28-17,17>>^ “Cursed will be your basket and your kneading bowl.
+
+[[v5-28-18]]
+
+^<<v5-28-18,18>>^ “Cursed will be your children^&#42;1^ and the fruit of your ground and your young cattle and sheep.
+
+[NOTE]
+====
+. Lit., “the fruit of your womb.”
+====
+
+[[v5-28-19]]
+
+^<<v5-28-19,19>>^ “Cursed you will be when you come in, and cursed you will be when you go out.
+
+[[v5-28-20]]
+
+^<<v5-28-20,20>>^ “Jehovah will send upon you the curse, confusion and punishment in every undertaking of yours until you have been annihilated and have quickly perished, because of your bad practices and your forsaking me.
+
+[[v5-28-21]]
+
+^<<v5-28-21,21>>^ Jehovah will cause the disease to cling to you until he has exterminated you from the land you are going to take possession of.
+
+[[v5-28-22]]
+
+^<<v5-28-22,22>>^ Jehovah will strike you with tuberculosis, burning fever, inflammation, feverish heat, the sword, scorching blight, and mildew; and they will pursue you until you have perished.
+
+[[v5-28-23]]
+
+^<<v5-28-23,23>>^ The skies over your head will be copper, and the earth beneath you, iron.
+
+[[v5-28-24]]
+
+^<<v5-28-24,24>>^ Jehovah will make the rain of your land powder and dust that will come down on you from the heavens until you have been annihilated.
+
+[[v5-28-25]]
+
+^<<v5-28-25,25>>^ Jehovah will cause you to be defeated before your enemies. You will attack them from one direction, but you will flee from them in seven different directions; and you will become an object of horror to all the earth’s kingdoms.
+
+[[v5-28-26]]
+
+^<<v5-28-26,26>>^ And your carcasses will become food for every bird of the sky and animal of the ground, with no one to frighten them away.
+
+[[v5-28-27]]
+
+^<<v5-28-27,27>>^ “Jehovah will strike you with the boils of Egypt, piles, eczema, and skin lesions, from which you cannot be healed.
+
+[[v5-28-28]]
+
+^<<v5-28-28,28>>^ Jehovah will strike you with madness and blindness and confusion.^&#42;1^
+
+[NOTE]
+====
+. Or “bewilderment of heart.”
+====
+
+[[v5-28-29]]
+
+^<<v5-28-29,29>>^ You will grope about at midday, just as a blind man gropes about in darkness, and you will not succeed in anything you do; and you will be constantly defrauded and robbed, with no one to save you.
+
+[[v5-28-30]]
+
+^<<v5-28-30,30>>^ You will become engaged to a woman, but another man will rape her. You will build a house, but you will not live in it. You will plant a vineyard, but you will not begin to use it.
+
+[[v5-28-31]]
+
+^<<v5-28-31,31>>^ Your bull will be slaughtered before your eyes, but you will not eat any of it. Your donkey will be stolen right in front of you, but it will not return to you. Your sheep will be given to your enemies, but you will have no savior.
+
+[[v5-28-32]]
+
+^<<v5-28-32,32>>^ Your sons and your daughters will be given to another people while you look on, and you will always long for them, but your hands will be powerless.
+
+[[v5-28-33]]
+
+^<<v5-28-33,33>>^ The fruitage of your ground and all that you produce will be eaten by a people whom you have not known, and you will always be defrauded and crushed.
+
+[[v5-28-34]]
+
+^<<v5-28-34,34>>^ You will be driven mad by what your eyes see.
+
+[[v5-28-35]]
+
+^<<v5-28-35,35>>^ “Jehovah will strike you with painful and incurable boils on your knees and legs, from the sole of your foot to the crown of your head.
+
+[[v5-28-36]]
+
+^<<v5-28-36,36>>^ Jehovah will drive you and the king whom you set up over yourself to a nation that you and your forefathers have not known, and there you will serve other gods, gods of wood and of stone.
+
+[[v5-28-37]]
+
+^<<v5-28-37,37>>^ And you will become an object of horror and of scorn,^&#42;1^ and a cause for ridicule among all the peoples to whom Jehovah drives you.
+
+[NOTE]
+====
+. Lit., “a proverb.”
+====
+
+[[v5-28-38]]
+
+^<<v5-28-38,38>>^ “You will take much seed out into the field, but you will gather little, because the locust will devour it.
+
+[[v5-28-39]]
+
+^<<v5-28-39,39>>^ Vineyards you will plant and cultivate, but you will drink no wine and gather nothing, because the worm will consume it.
+
+[[v5-28-40]]
+
+^<<v5-28-40,40>>^ You will have olive trees in all your territory, but you will rub no oil on yourself, because your olives will drop off.
+
+[[v5-28-41]]
+
+^<<v5-28-41,41>>^ Sons and daughters you will bear, but they will not remain yours, because they will go off into captivity.
+
+[[v5-28-42]]
+
+^<<v5-28-42,42>>^ Swarms of insects^&#42;1^ will overwhelm all your trees and the fruitage of your ground.
+
+[NOTE]
+====
+. Or “Whirring insects.”
+====
+
+[[v5-28-43]]
+
+^<<v5-28-43,43>>^ The foreign resident who is in your midst will keep ascending higher and higher over you, while you yourself will keep descending lower and lower.
+
+[[v5-28-44]]
+
+^<<v5-28-44,44>>^ He will lend to you, but you will not lend to him. He will become the head, while you yourself will become the tail.
+
+[[v5-28-45]]
+
+^<<v5-28-45,45>>^ “All these curses will certainly come upon you and pursue you and overtake you until you have been annihilated, because you did not listen to the voice of Jehovah your God by keeping his commandments and his statutes that he commanded you.
+
+[[v5-28-46]]
+
+^<<v5-28-46,46>>^ And they will continue on you and your offspring as a permanent sign and portent,
+
+[[v5-28-47]]
+
+^<<v5-28-47,47>>^ because you did not serve Jehovah your God with rejoicing and joy of heart when you had such an abundance of everything.
+
+[[v5-28-48]]
+
+^<<v5-28-48,48>>^ Jehovah will send your enemies against you, and you will serve them while you are hungry and thirsty and poorly clothed and lacking everything. He will put an iron yoke on your neck until he has annihilated you.
+
+[[v5-28-49]]
+
+^<<v5-28-49,49>>^ “Jehovah will raise up against you a distant nation, from the end of the earth; it will pounce like an eagle, a nation whose language you will not understand,
+
+[[v5-28-50]]
+
+^<<v5-28-50,50>>^ a nation fierce in appearance that will show no regard to the old or favor to the young.
+
+[[v5-28-51]]
+
+^<<v5-28-51,51>>^ They will eat the offspring of your livestock and the fruitage of your ground until you have been annihilated. They will not leave any grain, new wine or oil, young cattle or sheep for you until they have destroyed you.
+
+[[v5-28-52]]
+
+^<<v5-28-52,52>>^ They will besiege you, shutting you up inside all your cities^&#42;1^ throughout your land until your high and fortified walls that you are trusting in fall down. Yes, they will certainly besiege you within all your cities throughout your land that Jehovah your God has given you.
+
+[NOTE]
+====
+. Lit., “gates.”
+====
+
+[[v5-28-53]]
+
+^<<v5-28-53,53>>^ Then you will have to eat your own children,^&#42;1^ the flesh of your sons and your daughters whom Jehovah your God has given you, because of the severity of the siege and the distress your enemy inflicts on you.
+
+[NOTE]
+====
+. Lit., “the fruit of your womb.”
+====
+
+[[v5-28-54]]
+
+^<<v5-28-54,54>>^ “Even the most delicate and sensitive man among you will have no pity on his brother or his cherished wife or his sons who remain,
+
+[[v5-28-55]]
+
+^<<v5-28-55,55>>^ and he will not share with them any of the flesh of his sons that he will eat, because he has nothing else on account of the severity of the siege and the distress your enemy inflicts on your cities.
+
+[[v5-28-56]]
+
+^<<v5-28-56,56>>^ And the delicate and sensitive woman among you who would not even think of putting the sole of her foot on the ground because she is so delicate will show no pity to her cherished husband or her son or her daughter,
+
+[[v5-28-57]]
+
+^<<v5-28-57,57>>^ even toward the afterbirth that comes from between her legs and toward the sons she bears, for she will secretly eat them because of the severity of the siege and the distress your enemy inflicts on your cities.
+
+[[v5-28-58]]
+
+^<<v5-28-58,58>>^ “If you will not carefully observe all the words of this Law that are written in this book and you do not fear this glorious and awe-inspiring name, that of Jehovah your God,
+
+[[v5-28-59]]
+
+^<<v5-28-59,59>>^ Jehovah will inflict very severe plagues on you and your offspring, great and enduring plagues, and grievous and enduring sicknesses.
+
+[[v5-28-60]]
+
+^<<v5-28-60,60>>^ He will bring back upon you all the diseases of Egypt that you used to fear, and they will certainly cling to you.
+
+[[v5-28-61]]
+
+^<<v5-28-61,61>>^ Moreover, Jehovah will even bring upon you every sickness or plague not written in the book of this Law until you have been annihilated.
+
+[[v5-28-62]]
+
+^<<v5-28-62,62>>^ Although you have become as numerous as the stars of the heavens, very few of your number will be left, because you did not listen to the voice of Jehovah your God.
+
+[[v5-28-63]]
+
+^<<v5-28-63,63>>^ “And just as Jehovah once delighted to make you prosper and to multiply you, so Jehovah will delight to destroy you and to annihilate you; and you will be torn from the land you are about to possess.
+
+[[v5-28-64]]
+
+^<<v5-28-64,64>>^ “Jehovah will scatter you among all the nations, from the one end of the earth to the other end of the earth, and there you will have to serve gods of wood and of stone, which you and your forefathers have not known.
+
+[[v5-28-65]]
+
+^<<v5-28-65,65>>^ You will have no peace among those nations nor a place of rest for the sole of your foot. Rather, Jehovah will give you there an anxious heart and failing eyes and a feeling of despair.^&#42;1^
+
+[NOTE]
+====
+. Or “and despair of soul.”
+====
+
+[[v5-28-66]]
+
+^<<v5-28-66,66>>^ Your life will be in great peril, and you will feel dread night and day; and you will be uncertain of your survival.
+
+[[v5-28-67]]
+
+^<<v5-28-67,67>>^ In the morning you will say, ‘If only it were evening!’ and in the evening you will say, ‘If only it were morning!’ because of the dread you will feel in your heart and because of what your eyes will see.
+
+[[v5-28-68]]
+
+^<<v5-28-68,68>>^ And Jehovah will certainly bring you back to Egypt by ship, by the way that I told you, ‘You will never see it again,’ and there you will have to sell yourselves to your enemies as male and female slaves, but there will be no buyer.”
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-027.adoc#v5-27-0[&#60; Capítulo Anterior] | <<v5-28-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-029.adoc#v5-29-0[Próximo Capítulo &#62;]

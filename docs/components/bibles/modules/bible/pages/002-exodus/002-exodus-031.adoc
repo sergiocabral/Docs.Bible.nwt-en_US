@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v2-31-0]]
+=== Exodus, 31
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-31-1]]
+
+^<<v2-31-1,1>>^ Jehovah continued to speak to Moses, saying:
+
+[[v2-31-2]]
+
+^<<v2-31-2,2>>^ “See, I have chosen^&#42;1^ Bezʹal·el the son of Uʹri the son of Hur of the tribe of Judah.
+
+[NOTE]
+====
+. Lit., “called by name.”
+====
+
+[[v2-31-3]]
+
+^<<v2-31-3,3>>^ I will fill him with the spirit of God, giving him wisdom, understanding, and knowledge of every kind of craftsmanship,
+
+[[v2-31-4]]
+
+^<<v2-31-4,4>>^ for making artistic designs, for working with gold, silver, and copper,
+
+[[v2-31-5]]
+
+^<<v2-31-5,5>>^ for cutting and setting stones, and for making every kind of wood product.
+
+[[v2-31-6]]
+
+^<<v2-31-6,6>>^ Moreover, to assist him I have appointed O·hoʹli·ab the son of A·hisʹa·mach of the tribe of Dan, and I am putting wisdom into the heart of all those who are skillful,^&#42;1^ so that they may make everything I have commanded you:
+
+[NOTE]
+====
+. Lit., “wise of heart.”
+====
+
+[[v2-31-7]]
+
+^<<v2-31-7,7>>^ the tent of meeting, the ark of the Testimony and the cover that is on it, all the equipment of the tent,
+
+[[v2-31-8]]
+
+^<<v2-31-8,8>>^ the table and its utensils, the lampstand of pure gold and all its utensils, the altar of incense,
+
+[[v2-31-9]]
+
+^<<v2-31-9,9>>^ the altar of burnt offering and all its utensils, the basin and its stand,
+
+[[v2-31-10]]
+
+^<<v2-31-10,10>>^ the finely woven garments, the holy garments for Aaron the priest, the garments of his sons to serve as priests,
+
+[[v2-31-11]]
+
+^<<v2-31-11,11>>^ the anointing oil, and the perfumed incense for the sanctuary. They will do everything I have commanded you.”
+
+[[v2-31-12]]
+
+^<<v2-31-12,12>>^ Jehovah said further to Moses:
+
+[[v2-31-13]]
+
+^<<v2-31-13,13>>^ “Speak to the Israelites and tell them, ‘Especially, you are to keep my sabbaths, for it is a sign between me and you during your generations in order that you may know that I, Jehovah, am sanctifying you.
+
+[[v2-31-14]]
+
+^<<v2-31-14,14>>^ You must keep the Sabbath, for it is something holy to you. Whoever profanes it must be put to death. If anyone does any work on it, then that person^&#42;1^ must be cut off^&#42;2^ from among his people.
+
+[NOTE]
+====
+. Or “soul.”
+. Or “put to death.”
+====
+
+[[v2-31-15]]
+
+^<<v2-31-15,15>>^ Six days work may be done, but on the seventh day is a sabbath of complete rest. It is something holy to Jehovah. Anyone doing work on the Sabbath day must be put to death.
+
+[[v2-31-16]]
+
+^<<v2-31-16,16>>^ The Israelites must keep the Sabbath; they must observe the Sabbath during all their generations. It is a lasting covenant.
+
+[[v2-31-17]]
+
+^<<v2-31-17,17>>^ It is an enduring sign between me and the people of Israel, for in six days Jehovah made the heavens and the earth and on the seventh day he rested and refreshed himself.’”
+
+[[v2-31-18]]
+
+^<<v2-31-18,18>>^ Now as soon as he had finished speaking with him on Mount Siʹnai, he gave Moses two tablets of the Testimony, tablets of stone written on by God’s finger.
+
+'''
+
+xref:002-exodus/002-exodus-030.adoc#v2-30-0[&#60; Capítulo Anterior] | <<v2-31-0,Topo>> | xref:002-exodus/002-exodus-032.adoc#v2-32-0[Próximo Capítulo &#62;]

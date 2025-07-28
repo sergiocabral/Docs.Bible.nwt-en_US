@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v36-0-0]]
+== Zephaniah
+
+[cols="8*^"]
+|===
+| xref:036-zephaniah/036-zephaniah-001.adoc#v36-1-0[1]
+| xref:036-zephaniah/036-zephaniah-002.adoc#v36-2-0[2]
+| xref:036-zephaniah/036-zephaniah-003.adoc#v36-3-0[3]
+|
+|
+|
+|
+|
+|===

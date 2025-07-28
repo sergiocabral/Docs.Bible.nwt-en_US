@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v19-28-0]]
+=== Psalm, 28
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David._
+
+[[v19-28-1]]
+
+^<<v19-28-1,1>>^ To you I keep calling, O Jehovah my Rock;
+Do not turn a deaf ear to me.
+If you keep silent toward me,
+I will become like those going down to the pit.^&#42;1^
+
+[NOTE]
+====
+. Or “grave.”
+====
+
+[[v19-28-2]]
+
+^<<v19-28-2,2>>^ Hear my pleas when I cry to you for help
+As I lift up my hands toward the innermost room of your sanctuary.
+
+[[v19-28-3]]
+
+^<<v19-28-3,3>>^ Do not drag me away with the wicked, with those practicing what is hurtful,
+Those who are speaking words of peace with their fellow man while evil is in their hearts.
+
+[[v19-28-4]]
+
+^<<v19-28-4,4>>^ Pay them back for their deeds,
+According to their evil practices.
+Repay them for the work of their hands,
+According to what they have done.
+
+[[v19-28-5]]
+
+^<<v19-28-5,5>>^ For they pay no attention to the activities of Jehovah,
+Nor to the work of his hands.
+He will tear them down and not build them up.
+
+[[v19-28-6]]
+
+^<<v19-28-6,6>>^ May Jehovah be praised,
+For he has heard my pleas for help.
+
+[[v19-28-7]]
+
+^<<v19-28-7,7>>^ Jehovah is my strength and my shield;
+In him my heart trusts.
+I have received his help, and my heart rejoices,
+So I will praise him with my song.
+
+[[v19-28-8]]
+
+^<<v19-28-8,8>>^ Jehovah is a strength for his people;
+He is a stronghold, bringing grand salvation to his anointed one.
+
+[[v19-28-9]]
+
+^<<v19-28-9,9>>^ Save your people, and bless your inheritance.
+Shepherd them and carry them in your arms forever.
+
+'''
+
+xref:019-psalm/019-psalm-027.adoc#v19-27-0[&#60; Capítulo Anterior] | <<v19-28-0,Topo>> | xref:019-psalm/019-psalm-029.adoc#v19-29-0[Próximo Capítulo &#62;]

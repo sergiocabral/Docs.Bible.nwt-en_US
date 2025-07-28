@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v58-0-0]]
+== Hebrews
+
+[cols="8*^"]
+|===
+| xref:058-hebrews/058-hebrews-001.adoc#v58-1-0[1]
+| xref:058-hebrews/058-hebrews-002.adoc#v58-2-0[2]
+| xref:058-hebrews/058-hebrews-003.adoc#v58-3-0[3]
+| xref:058-hebrews/058-hebrews-004.adoc#v58-4-0[4]
+| xref:058-hebrews/058-hebrews-005.adoc#v58-5-0[5]
+| xref:058-hebrews/058-hebrews-006.adoc#v58-6-0[6]
+| xref:058-hebrews/058-hebrews-007.adoc#v58-7-0[7]
+| xref:058-hebrews/058-hebrews-008.adoc#v58-8-0[8]
+| xref:058-hebrews/058-hebrews-009.adoc#v58-9-0[9]
+| xref:058-hebrews/058-hebrews-010.adoc#v58-10-0[10]
+| xref:058-hebrews/058-hebrews-011.adoc#v58-11-0[11]
+| xref:058-hebrews/058-hebrews-012.adoc#v58-12-0[12]
+| xref:058-hebrews/058-hebrews-013.adoc#v58-13-0[13]
+|
+|
+|
+|===

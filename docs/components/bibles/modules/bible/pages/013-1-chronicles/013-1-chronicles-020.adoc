@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v13-20-0]]
+=== The First of Chronicles, 20
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v13-20-1]]
+
+^<<v13-20-1,1>>^ At the start of the year,^&#42;1^ at the time when kings go on campaigns, Joʹab led a military expedition and devastated the land of the Amʹmon·ites; he came and besieged Rabʹbah, while David stayed in Jerusalem. Joʹab attacked Rabʹbah and tore it down.
+
+[NOTE]
+====
+. That is, in the spring.
+====
+
+[[v13-20-2]]
+
+^<<v13-20-2,2>>^ Then David took the crown of Malʹcam from its head, and found that it weighed a talent^&#42;1^ of gold, and in it there were precious stones; and it was placed on David’s head. He also took a vast amount of spoil from the city.
+
+[NOTE]
+====
+. About 34.2 kg (1,101 oz t). See App. B14.
+====
+
+[[v13-20-3]]
+
+^<<v13-20-3,3>>^ And he brought out the people who were in it and put them to work at sawing stones and at working with sharp iron instruments and with axes. That was what David did to all the cities of the Amʹmon·ites. Finally David and all the troops returned to Jerusalem.
+
+[[v13-20-4]]
+
+^<<v13-20-4,4>>^ After this, war broke out at Geʹzer with the Phi·lisʹtines. At that time Sibʹbe·cai the Huʹshath·ite struck down Sipʹpai, who was a descendant of the Rephʹa·im, and they were subdued.
+
+[[v13-20-5]]
+
+^<<v13-20-5,5>>^ And there was war again with the Phi·lisʹtines, and El·haʹnan the son of Jaʹir struck down Lahʹmi the brother of Go·liʹath the Gitʹtite, whose spear had a shaft like the beam of loom workers.
+
+[[v13-20-6]]
+
+^<<v13-20-6,6>>^ War broke out yet again at Gath, where there was a man of extraordinary size, with 6 fingers on each hand and 6 toes on each foot, 24 in all; and he too was a descendant of the Rephʹa·im.
+
+[[v13-20-7]]
+
+^<<v13-20-7,7>>^ He kept taunting Israel. So Jonʹa·than the son of Shimʹe·a, David’s brother, struck him down.
+
+[[v13-20-8]]
+
+^<<v13-20-8,8>>^ These were descendants of the Rephʹa·im in Gath, and they fell by the hand of David and by the hand of his servants.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-019.adoc#v13-19-0[&#60; Capítulo Anterior] | <<v13-20-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-021.adoc#v13-21-0[Próximo Capítulo &#62;]

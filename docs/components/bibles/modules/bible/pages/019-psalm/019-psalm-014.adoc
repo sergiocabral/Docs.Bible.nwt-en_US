@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-14-0]]
+=== Psalm, 14
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of David._
+
+[[v19-14-1]]
+
+^<<v19-14-1,1>>^ The foolish^&#42;1^ one says in his heart:
+“There is no Jehovah.”
+Their actions are corrupt, and their dealings are detestable;
+No one is doing good.
+
+[NOTE]
+====
+. Or “senseless.”
+====
+
+[[v19-14-2]]
+
+^<<v19-14-2,2>>^ But Jehovah looks down from heaven on the sons of men
+To see whether anyone has insight, whether anyone is seeking Jehovah.
+
+[[v19-14-3]]
+
+^<<v19-14-3,3>>^ They have all turned aside;
+They are all alike corrupt.
+No one is doing good,
+Not even one.
+
+[[v19-14-4]]
+
+^<<v19-14-4,4>>^ Do none of the wrongdoers understand?
+They devour my people as if they were eating bread.
+They do not call on Jehovah.
+
+[[v19-14-5]]
+
+^<<v19-14-5,5>>^ But they will be filled with great terror,
+For Jehovah is with the generation of the righteous.
+
+[[v19-14-6]]
+
+^<<v19-14-6,6>>^ You wrongdoers try to frustrate the plans of the lowly one,
+But Jehovah is his refuge.
+
+[[v19-14-7]]
+
+^<<v19-14-7,7>>^ O that Israel’s salvation may come from Zion!
+When Jehovah gathers back his captive people,
+Let Jacob be joyful, let Israel rejoice.
+
+'''
+
+xref:019-psalm/019-psalm-013.adoc#v19-13-0[&#60; Capítulo Anterior] | <<v19-14-0,Topo>> | xref:019-psalm/019-psalm-015.adoc#v19-15-0[Próximo Capítulo &#62;]

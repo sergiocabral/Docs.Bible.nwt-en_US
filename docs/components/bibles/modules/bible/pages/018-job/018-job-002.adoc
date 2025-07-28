@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v18-2-0]]
+=== Job, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-2-1]]
+
+^<<v18-2-1,1>>^ Afterward the day came when the sons of the true God^&#42;1^ entered to take their station before Jehovah, and Satan also entered among them to take his station before Jehovah.
+
+[NOTE]
+====
+. A Hebrew idiom that refers to angelic sons of God.
+====
+
+[[v18-2-2]]
+
+^<<v18-2-2,2>>^ Then Jehovah said to Satan: “Where have you come from?” Satan answered Jehovah: “From roving about on the earth and from walking about in it.”
+
+[[v18-2-3]]
+
+^<<v18-2-3,3>>^ And Jehovah said to Satan: “Have you taken note of^&#42;1^ my servant Job? There is no one like him on the earth. He is an upright man of integrity,^&#42;2^ fearing God and shunning what is bad. He is still holding firmly to his integrity, even though you try to incite me against him to destroy^&#42;3^ him for no reason.”
+
+[NOTE]
+====
+. Lit., “set your heart upon.”
+. Or “a blameless and upright man.”
+. Lit., “swallow.”
+====
+
+[[v18-2-4]]
+
+^<<v18-2-4,4>>^ But Satan answered Jehovah: “Skin for skin. A man will give everything that he has for his life.^&#42;1^
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v18-2-5]]
+
+^<<v18-2-5,5>>^ But, for a change, stretch out your hand and strike his bone and flesh, and he will surely curse you to your very face.”
+
+[[v18-2-6]]
+
+^<<v18-2-6,6>>^ Then Jehovah said to Satan: “Look! He is in your hand!^&#42;1^ Only do not take his life!”^&#42;2^
+
+[NOTE]
+====
+. Or “under your control.”
+. Or “soul.”
+====
+
+[[v18-2-7]]
+
+^<<v18-2-7,7>>^ So Satan went out from the presence^&#42;1^ of Jehovah and struck Job with painful boils^&#42;2^ from the sole of his foot to the crown of his head.
+
+[NOTE]
+====
+. Lit., “face.”
+. Or “with severe ulcers.”
+====
+
+[[v18-2-8]]
+
+^<<v18-2-8,8>>^ And Job took a piece of broken pottery to scrape himself, and he was sitting among the ashes.
+
+[[v18-2-9]]
+
+^<<v18-2-9,9>>^ Finally his wife said to him: “Are you still holding firmly to your integrity? Curse God and die!”
+
+[[v18-2-10]]
+
+^<<v18-2-10,10>>^ But he said to her: “You are talking like one of the senseless women. Should we accept only what is good from the true God and not accept also what is bad?” In all of this, Job did not sin with his lips.
+
+[[v18-2-11]]
+
+^<<v18-2-11,11>>^ Three companions^&#42;1^ of Job heard about all the calamities that had come upon him, and each came from his own place—Elʹi·phaz the Teʹman·ite, Bilʹdad the Shuʹhite, and Zoʹphar the Naʹa·ma·thite. So they agreed to meet together to go and sympathize with Job and comfort him.
+
+[NOTE]
+====
+. Or “acquaintances.”
+====
+
+[[v18-2-12]]
+
+^<<v18-2-12,12>>^ When they saw him from a distance, they did not recognize him. They began to weep loudly and to rip their garments apart, and they threw dust into the air and onto their heads.
+
+[[v18-2-13]]
+
+^<<v18-2-13,13>>^ Then they sat on the ground with him for seven days and seven nights. No one said a word to him, for they saw that his pain was very great.
+
+'''
+
+xref:018-job/018-job-001.adoc#v18-1-0[&#60; Capítulo Anterior] | <<v18-2-0,Topo>> | xref:018-job/018-job-003.adoc#v18-3-0[Próximo Capítulo &#62;]

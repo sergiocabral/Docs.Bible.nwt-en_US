@@ -1,0 +1,222 @@
+include::./index.adoc[]
+
+[[v2-25-0]]
+=== Exodus, 25
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-25-1]]
+
+^<<v2-25-1,1>>^ Jehovah then said to Moses:
+
+[[v2-25-2]]
+
+^<<v2-25-2,2>>^ “Tell the people of Israel to take up a contribution for me; from every person whose heart moves him, you are to take up my contribution.
+
+[[v2-25-3]]
+
+^<<v2-25-3,3>>^ This is the contribution that you are to accept from them: gold, silver, copper,
+
+[[v2-25-4]]
+
+^<<v2-25-4,4>>^ blue thread, purple wool,^&#42;1^ scarlet material,^&#42;2^ fine linen, goat hair,
+
+[NOTE]
+====
+. Or “wool dyed reddish-purple.”
+. Or “coccus scarlet material.”
+====
+
+[[v2-25-5]]
+
+^<<v2-25-5,5>>^ ram skins dyed red, sealskins, acacia wood,
+
+[[v2-25-6]]
+
+^<<v2-25-6,6>>^ oil for the lamps, balsam for the anointing oil and for the perfumed incense,
+
+[[v2-25-7]]
+
+^<<v2-25-7,7>>^ and onyx stones and other stones to be set in the ephʹod and the breastpiece.
+
+[[v2-25-8]]
+
+^<<v2-25-8,8>>^ They are to make a sanctuary for me, and I will reside^&#42;1^ among them.
+
+[NOTE]
+====
+. Or “tabernacle.”
+====
+
+[[v2-25-9]]
+
+^<<v2-25-9,9>>^ You are to make it, the tabernacle and all its furnishings, following exactly the pattern^&#42;1^ that I am showing you.
+
+[NOTE]
+====
+. Or “design.”
+====
+
+[[v2-25-10]]
+
+^<<v2-25-10,10>>^ “They are to make an ark^&#42;1^ of acacia wood, two and a half cubits^&#42;2^ long and a cubit and a half wide and a cubit and a half high.
+
+[NOTE]
+====
+. Or “chest.”
+. A cubit equaled 44.5 cm (17.5 in.). See App. B14.
+====
+
+[[v2-25-11]]
+
+^<<v2-25-11,11>>^ Then you will overlay it with pure gold. Inside and outside you are to overlay it, and you will make a border^&#42;1^ of gold all around it.
+
+[NOTE]
+====
+. Or “molding.”
+====
+
+[[v2-25-12]]
+
+^<<v2-25-12,12>>^ And you will cast four rings of gold for it and attach them above its four feet, with two rings on one side and two rings on the other side.
+
+[[v2-25-13]]
+
+^<<v2-25-13,13>>^ And you will make poles of acacia wood and overlay them with gold.
+
+[[v2-25-14]]
+
+^<<v2-25-14,14>>^ You will put the poles through the rings on the sides of the Ark in order to carry the Ark with them.
+
+[[v2-25-15]]
+
+^<<v2-25-15,15>>^ The poles will stay in the rings of the Ark; they are not to be removed from it.
+
+[[v2-25-16]]
+
+^<<v2-25-16,16>>^ You will place in the Ark the Testimony that I will give you.
+
+[[v2-25-17]]
+
+^<<v2-25-17,17>>^ “You will make a cover of pure gold, two and a half cubits long and a cubit and a half wide.
+
+[[v2-25-18]]
+
+^<<v2-25-18,18>>^ You are to make two cherubs of gold; you will make them of hammered work on the two ends of the cover.
+
+[[v2-25-19]]
+
+^<<v2-25-19,19>>^ Make the cherubs on the two ends, one cherub on each end of the cover.
+
+[[v2-25-20]]
+
+^<<v2-25-20,20>>^ The cherubs are to spread out their two wings upward, overshadowing the cover with their wings, and they will face each other. The faces of the cherubs will be turned toward the cover.
+
+[[v2-25-21]]
+
+^<<v2-25-21,21>>^ You will put the cover on the Ark, and in the Ark you will place the Testimony that I will give you.
+
+[[v2-25-22]]
+
+^<<v2-25-22,22>>^ I will present myself to you there and speak with you from above the cover. From between the two cherubs that are on the ark of the Testimony, I will make known to you all that I will command you for the Israelites.
+
+[[v2-25-23]]
+
+^<<v2-25-23,23>>^ “You will also make a table of acacia wood, two cubits long and a cubit wide and a cubit and a half high.
+
+[[v2-25-24]]
+
+^<<v2-25-24,24>>^ You will overlay it with pure gold and make a golden border^&#42;1^ around it.
+
+[NOTE]
+====
+. Or “molding.”
+====
+
+[[v2-25-25]]
+
+^<<v2-25-25,25>>^ You will make a rim around it a handbreadth^&#42;1^ wide and a border^&#42;2^ of gold to go around the rim.
+
+[NOTE]
+====
+. About 7.4 cm (2.9 in.). See App. B14.
+. Or “molding.”
+====
+
+[[v2-25-26]]
+
+^<<v2-25-26,26>>^ You will make for it four rings of gold and place the rings on the four corners, where the four legs are attached.
+
+[[v2-25-27]]
+
+^<<v2-25-27,27>>^ The rings are to be close to the rim as holders for the poles for carrying the table.
+
+[[v2-25-28]]
+
+^<<v2-25-28,28>>^ You will make the poles of acacia wood and overlay them with gold and carry the table with them.
+
+[[v2-25-29]]
+
+^<<v2-25-29,29>>^ “You will also make its dishes, its cups, and its pitchers and bowls from which they will pour drink offerings. You are to make them out of pure gold.
+
+[[v2-25-30]]
+
+^<<v2-25-30,30>>^ And you will put the showbread on the table before me constantly.
+
+[[v2-25-31]]
+
+^<<v2-25-31,31>>^ “You will make a lampstand of pure gold. The lampstand is to be made of hammered work. Its base, its stem, its branches, its cups, its knobs, and its blossoms will be one piece.
+
+[[v2-25-32]]
+
+^<<v2-25-32,32>>^ And six branches will extend out from the sides of the lampstand, three branches from one side and three branches from the other side.
+
+[[v2-25-33]]
+
+^<<v2-25-33,33>>^ Three cups shaped like almond flowers will be on the one set of branches, with knobs and blossoms alternating, and three cups shaped like almond flowers on the other set of branches, with knobs and blossoms alternating. This is how the six branches will extend out from the stem of the lampstand.
+
+[[v2-25-34]]
+
+^<<v2-25-34,34>>^ On the stem of the lampstand are four cups shaped like almond flowers, with its knobs and its blossoms alternating.
+
+[[v2-25-35]]
+
+^<<v2-25-35,35>>^ A knob will be under the first two branches that extend out of the stem and a knob under the next two branches and a knob under the next two branches, for the six branches extending out from the stem.
+
+[[v2-25-36]]
+
+^<<v2-25-36,36>>^ The knobs and the branches and the whole lampstand are to be one piece of pure, hammered gold.
+
+[[v2-25-37]]
+
+^<<v2-25-37,37>>^ You will make seven lamps for it, and when the lamps are lit, they will shine on the area in front of it.
+
+[[v2-25-38]]
+
+^<<v2-25-38,38>>^ Its snuffers^&#42;1^ and its fire holders are to be of pure gold.
+
+[NOTE]
+====
+. Or “tongs.”
+====
+
+[[v2-25-39]]
+
+^<<v2-25-39,39>>^ It should be made, along with these utensils, from a talent^&#42;1^ of pure gold.
+
+[NOTE]
+====
+. A talent equaled 34.2 kg (1,101 oz t). See App. B14.
+====
+
+[[v2-25-40]]
+
+^<<v2-25-40,40>>^ See that you make them after their pattern^&#42;1^ that was shown to you on the mountain.
+
+[NOTE]
+====
+. Or “design.”
+====
+
+'''
+
+xref:002-exodus/002-exodus-024.adoc#v2-24-0[&#60; Capítulo Anterior] | <<v2-25-0,Topo>> | xref:002-exodus/002-exodus-026.adoc#v2-26-0[Próximo Capítulo &#62;]

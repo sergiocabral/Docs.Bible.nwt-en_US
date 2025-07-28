@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-61-0]]
+=== Psalm, 61
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; to be accompanied with stringed instruments. Of David._
+
+[[v19-61-1]]
+
+^<<v19-61-1,1>>^ Hear, O God, my cry for help.
+Do pay attention to my prayer.
+
+[[v19-61-2]]
+
+^<<v19-61-2,2>>^ From the ends of the earth I will cry out to you
+When my heart is in despair.^&#42;1^
+Lead me onto a rock that is higher than I am.
+
+[NOTE]
+====
+. Or “grows feeble.”
+====
+
+[[v19-61-3]]
+
+^<<v19-61-3,3>>^ For you are my refuge,
+A strong tower that protects me from the enemy.
+
+[[v19-61-4]]
+
+^<<v19-61-4,4>>^ I will be a guest in your tent forever;
+I will take refuge in the shelter of your wings. (Selah)
+
+[[v19-61-5]]
+
+^<<v19-61-5,5>>^ For you, O God, have heard my vows.
+You have given me the inheritance belonging to those who fear your name.
+
+[[v19-61-6]]
+
+^<<v19-61-6,6>>^ You will add days to the life^&#42;1^ of the king,
+And his years will be from generation to generation.
+
+[NOTE]
+====
+. Lit., “days.”
+====
+
+[[v19-61-7]]
+
+^<<v19-61-7,7>>^ He will sit enthroned^&#42;1^ forever before God;
+Grant him^&#42;2^ loyal love and faithfulness, so that these may safeguard him.
+
+[NOTE]
+====
+. Or “will dwell.”
+. Or “Assign.”
+====
+
+[[v19-61-8]]
+
+^<<v19-61-8,8>>^ Then I will sing praises^&#42;1^ to your name forever
+As I pay my vows day after day.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-060.adoc#v19-60-0[&#60; Capítulo Anterior] | <<v19-61-0,Topo>> | xref:019-psalm/019-psalm-062.adoc#v19-62-0[Próximo Capítulo &#62;]

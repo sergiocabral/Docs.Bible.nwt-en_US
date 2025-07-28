@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-138-0]]
+=== Psalm, 138
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David._
+
+[[v19-138-1]]
+
+^<<v19-138-1,1>>^ I will praise you with all my heart.
+In the face of other gods,
+I will sing praises.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “In defiance of other gods, I will make music to you.”
+====
+
+[[v19-138-2]]
+
+^<<v19-138-2,2>>^ I will bow down toward your holy temple,^&#42;1^
+And I will praise your name
+Because of your loyal love and your faithfulness.
+For you have magnified your saying and your name above everything else.^&#42;2^
+
+[NOTE]
+====
+. Or “sanctuary.”
+. Or possibly, “you have magnified your saying above all your name.”
+====
+
+[[v19-138-3]]
+
+^<<v19-138-3,3>>^ On the day I called, you answered me;
+You made me bold^&#42;1^ and strong.
+
+[NOTE]
+====
+. Or “bold in my soul.”
+====
+
+[[v19-138-4]]
+
+^<<v19-138-4,4>>^ All the kings of the earth will praise you, O Jehovah,
+For they will have heard the promises you have spoken.
+
+[[v19-138-5]]
+
+^<<v19-138-5,5>>^ They will sing about the ways of Jehovah,
+For the glory of Jehovah is great.
+
+[[v19-138-6]]
+
+^<<v19-138-6,6>>^ Though Jehovah is high, he takes note of the humble,
+But the haughty he knows only from a distance.
+
+[[v19-138-7]]
+
+^<<v19-138-7,7>>^ Even when I walk in the midst of danger, you will preserve me alive.
+You stretch out your hand against the anger of my enemies;
+Your right hand will save me.
+
+[[v19-138-8]]
+
+^<<v19-138-8,8>>^ Jehovah will accomplish all things in my behalf.
+O Jehovah, your loyal love endures forever;
+Do not forsake the works of your hands.
+
+'''
+
+xref:019-psalm/019-psalm-137.adoc#v19-137-0[&#60; Capítulo Anterior] | <<v19-138-0,Topo>> | xref:019-psalm/019-psalm-139.adoc#v19-139-0[Próximo Capítulo &#62;]

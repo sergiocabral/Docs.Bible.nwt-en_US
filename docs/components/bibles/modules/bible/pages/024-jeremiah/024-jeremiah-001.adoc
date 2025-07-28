@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v24-1-0]]
+=== Jeremiah, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v24-1-1]]
+
+^<<v24-1-1,1>>^ These are the words of Jeremiah^&#42;1^ the son of Hil·kiʹah, one of the priests in Anʹa·thoth in the land of Benjamin.
+
+[NOTE]
+====
+. Possibly meaning “Jehovah Exalts.”
+====
+
+[[v24-1-2]]
+
+^<<v24-1-2,2>>^ The word of Jehovah came to him in the days of Jo·siʹah the son of Aʹmon, the king of Judah, in the 13th year of his reign.
+
+[[v24-1-3]]
+
+^<<v24-1-3,3>>^ It came also in the days of Je·hoiʹa·kim the son of Jo·siʹah, the king of Judah, until the completion of the 11th year of Zed·e·kiʹah the son of Jo·siʹah, the king of Judah, until Jerusalem went into exile in the fifth month.
+
+[[v24-1-4]]
+
+^<<v24-1-4,4>>^ The word of Jehovah came to me, saying:
+
+[[v24-1-5]]
+
+^<<v24-1-5,5>>^ “Before I formed you in the womb I knew^&#42;1^ you,
+And before you were born^&#42;2^ I sanctified you.^&#42;3^
+I made you a prophet to the nations.”
+
+[NOTE]
+====
+. Or “chose.”
+. Lit., “before you came out of the womb.”
+. Or “set you apart.”
+====
+
+[[v24-1-6]]
+
+^<<v24-1-6,6>>^ But I said: “Alas, O Sovereign Lord Jehovah!
+I do not know how to speak, for I am just a boy.”^&#42;1^
+
+[NOTE]
+====
+. Or “young person.”
+====
+
+[[v24-1-7]]
+
+^<<v24-1-7,7>>^ Jehovah then said to me:
+“Do not say, ‘I am just a boy.’
+For you must go to all those to whom I send you,
+And you should say everything that I command you.
+
+[[v24-1-8]]
+
+^<<v24-1-8,8>>^ Do not be afraid because of their appearance,
+For ‘I am with you to save you,’ declares Jehovah.”
+
+[[v24-1-9]]
+
+^<<v24-1-9,9>>^ Then Jehovah stretched out his hand and touched my mouth. And Jehovah said to me: “I have put my words in your mouth.
+
+[[v24-1-10]]
+
+^<<v24-1-10,10>>^ See, I have commissioned you this day to be over the nations and over the kingdoms, to uproot and to pull down, to destroy and to tear down, to build and to plant.”
+
+[[v24-1-11]]
+
+^<<v24-1-11,11>>^ The word of Jehovah again came to me, saying: “What do you see, Jeremiah?” So I said: “I see the branch of an almond tree.”^&#42;1^
+
+[NOTE]
+====
+. Lit., “an awakening one.”
+====
+
+[[v24-1-12]]
+
+^<<v24-1-12,12>>^ Jehovah said to me: “You have seen correctly, for I am wide awake concerning my word to carry it out.”
+
+[[v24-1-13]]
+
+^<<v24-1-13,13>>^ The word of Jehovah came to me a second time, saying: “What do you see?” So I said: “I see a boiling^&#42;1^ pot,^&#42;2^ and its mouth is tilted away from the north.”
+
+[NOTE]
+====
+. Lit., “blown upon,” indicating a fanned fire underneath.
+. Or “wide-mouthed cooking pot.”
+====
+
+[[v24-1-14]]
+
+^<<v24-1-14,14>>^ Then Jehovah said to me:
+“Out of the north the calamity will break loose
+Against all the inhabitants of the land.
+
+[[v24-1-15]]
+
+^<<v24-1-15,15>>^ For ‘I am summoning all the families of the kingdoms of the north,’ declares Jehovah,
+‘And they will come; each one will set up his throne
+At the entrance of the gates of Jerusalem,
+Against her walls all around
+And against all the cities of Judah.
+
+[[v24-1-16]]
+
+^<<v24-1-16,16>>^ And I will declare my judgments against them over all their wickedness,
+Because they have abandoned me,
+And they are making sacrificial smoke to other gods
+And bowing down to the works of their own hands.’
+
+[[v24-1-17]]
+
+^<<v24-1-17,17>>^ But you should prepare for action,^&#42;1^
+And you must stand up and tell them everything that I command you.
+Do not be terrified of them,
+So that I do not terrify you before them.
+
+[NOTE]
+====
+. Lit., “gird up your hips.”
+====
+
+[[v24-1-18]]
+
+^<<v24-1-18,18>>^ For today I have made you a fortified city,
+An iron pillar, and copper walls against all the land,
+Toward the kings of Judah and her princes,
+Toward her priests and the people of the land.
+
+[[v24-1-19]]
+
+^<<v24-1-19,19>>^ And they will certainly fight against you,
+But they will not prevail against you,^&#42;1^
+For ‘I am with you,’ declares Jehovah, ‘to save you.’”
+
+[NOTE]
+====
+. Or “defeat you.”
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-066.adoc#v23-66-0[&#60; Capítulo Anterior] | <<v24-1-0,Topo>> | xref:024-jeremiah/024-jeremiah-002.adoc#v24-2-0[Próximo Capítulo &#62;]

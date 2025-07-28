@@ -1,0 +1,237 @@
+include::./index.adoc[]
+
+[[v18-30-0]]
+=== Job, 30
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-30-1]]
+
+^<<v18-30-1,1>>^ “Now they laugh at me
+—Men younger than I am,
+Whose fathers I would have refused
+To put with the dogs that guarded my flock.
+
+[[v18-30-2]]
+
+^<<v18-30-2,2>>^ Of what use was the power of their hands to me?
+Their vigor has perished.
+
+[[v18-30-3]]
+
+^<<v18-30-3,3>>^ They are worn out from want and hunger;
+They gnaw at the parched ground
+That was already ruined and desolated.
+
+[[v18-30-4]]
+
+^<<v18-30-4,4>>^ They gather the salt herb from the bushes;
+Their food is the root of broom trees.
+
+[[v18-30-5]]
+
+^<<v18-30-5,5>>^ They are driven out of the community;
+People shout at them as they would at a thief.
+
+[[v18-30-6]]
+
+^<<v18-30-6,6>>^ They live on the slopes of ravines,^&#42;1^
+In holes in the ground and in the rocks.
+
+[NOTE]
+====
+. Or “wadis.”
+====
+
+[[v18-30-7]]
+
+^<<v18-30-7,7>>^ From the bushes they cry out
+And huddle together among the nettles.
+
+[[v18-30-8]]
+
+^<<v18-30-8,8>>^ As sons of the senseless and the nameless ones,
+They have been driven^&#42;1^ out of the land.
+
+[NOTE]
+====
+. Lit., “scourged.”
+====
+
+[[v18-30-9]]
+
+^<<v18-30-9,9>>^ But now they mock me even in their songs;
+I have become an object of scorn^&#42;1^ to them.
+
+[NOTE]
+====
+. Lit., “a proverb; a byword.”
+====
+
+[[v18-30-10]]
+
+^<<v18-30-10,10>>^ They detest me and keep their distance from me;
+They do not hesitate to spit in my face.
+
+[[v18-30-11]]
+
+^<<v18-30-11,11>>^ Because God has disarmed me^&#42;1^ and humbled me,
+They throw off all restraint^&#42;2^ in my presence.
+
+[NOTE]
+====
+. Lit., “loosened my bowstring.”
+. Or “They cast off the bridle.”
+====
+
+[[v18-30-12]]
+
+^<<v18-30-12,12>>^ On my right they rise up like a mob;
+They put me to flight
+And put up barriers of destruction in my path.
+
+[[v18-30-13]]
+
+^<<v18-30-13,13>>^ They tear up my roadways
+And make my calamity worse,
+Without anyone to stop them.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “Without anyone helping them.”
+====
+
+[[v18-30-14]]
+
+^<<v18-30-14,14>>^ They come as if through a wide breach in the wall;
+They roll in amid the devastation.
+
+[[v18-30-15]]
+
+^<<v18-30-15,15>>^ Terror overwhelms me;
+My dignity is driven away like the wind,
+And my salvation vanishes like a cloud.
+
+[[v18-30-16]]
+
+^<<v18-30-16,16>>^ Now my life^&#42;1^ ebbs from me;
+Days of affliction take hold of me.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v18-30-17]]
+
+^<<v18-30-17,17>>^ Aching pierces my bones^&#42;1^ at night;
+The gnawing pain never stops.
+
+[NOTE]
+====
+. Lit., “My bones are bored through.”
+====
+
+[[v18-30-18]]
+
+^<<v18-30-18,18>>^ With great force my garment is disfigured;^&#42;1^
+Like the collar of my garment, it chokes me.
+
+[NOTE]
+====
+. Or possibly, “The severity of my affliction disfigures me.”
+====
+
+[[v18-30-19]]
+
+^<<v18-30-19,19>>^ God has thrown me down into the mud;
+I am reduced to dust and ashes.
+
+[[v18-30-20]]
+
+^<<v18-30-20,20>>^ I cry to you for help, but you do not answer me;
+I stand up, but you just look at me.
+
+[[v18-30-21]]
+
+^<<v18-30-21,21>>^ You have cruelly turned against me;
+With the full might of your hand, you assault me.
+
+[[v18-30-22]]
+
+^<<v18-30-22,22>>^ You pick me up and carry me off with the wind;
+Then you toss me about in the storm.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “dissolve me with a crash.”
+====
+
+[[v18-30-23]]
+
+^<<v18-30-23,23>>^ For I know that you will bring me down to death,
+To the house where everyone living will meet.
+
+[[v18-30-24]]
+
+^<<v18-30-24,24>>^ But no one would strike at a broken man^&#42;1^
+As he cries for help during his time of disaster.
+
+[NOTE]
+====
+. Lit., “a heap of ruins.”
+====
+
+[[v18-30-25]]
+
+^<<v18-30-25,25>>^ Have I not wept for those who have fallen on hard times?^&#42;1^
+Have I^&#42;2^ not grieved for the poor?
+
+[NOTE]
+====
+. Or “who are having a hard day?”
+. Or “Has my soul.”
+====
+
+[[v18-30-26]]
+
+^<<v18-30-26,26>>^ Although I hoped for good, bad came;
+I expected the light, but darkness came.
+
+[[v18-30-27]]
+
+^<<v18-30-27,27>>^ The churning inside me did not stop;
+Days of affliction confronted me.
+
+[[v18-30-28]]
+
+^<<v18-30-28,28>>^ I walk about gloomy; there is no sunlight.
+In the assembly, I rise and cry for help.
+
+[[v18-30-29]]
+
+^<<v18-30-29,29>>^ I have become a brother to jackals
+And a companion to the daughters of the ostrich.
+
+[[v18-30-30]]
+
+^<<v18-30-30,30>>^ My skin has blackened and fallen off;
+My bones burn from the heat.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “fever.”
+====
+
+[[v18-30-31]]
+
+^<<v18-30-31,31>>^ My harp is used only for mourning,
+And my flute^&#42;1^ for the sound of weeping.
+
+[NOTE]
+====
+. Or “pipe.”
+====
+
+'''
+
+xref:018-job/018-job-029.adoc#v18-29-0[&#60; Capítulo Anterior] | <<v18-30-0,Topo>> | xref:018-job/018-job-031.adoc#v18-31-0[Próximo Capítulo &#62;]

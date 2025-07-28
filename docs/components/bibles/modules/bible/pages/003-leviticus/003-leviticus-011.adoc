@@ -1,0 +1,228 @@
+include::./index.adoc[]
+
+[[v3-11-0]]
+=== Leviticus, 11
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v3-11-1]]
+
+^<<v3-11-1,1>>^ Then Jehovah said to Moses and Aaron:
+
+[[v3-11-2]]
+
+^<<v3-11-2,2>>^ “Tell the Israelites, ‘These are the living creatures of the earth^&#42;1^ that you may eat:
+
+[NOTE]
+====
+. Or “the land animals.”
+====
+
+[[v3-11-3]]
+
+^<<v3-11-3,3>>^ Every animal that has a split hoof and a cleft in its hooves and that chews the cud may be eaten.
+
+[[v3-11-4]]
+
+^<<v3-11-4,4>>^ “‘But you must not eat these animals that chew the cud or have a split hoof: the camel, which chews the cud but does not have a split hoof. It is unclean for you.
+
+[[v3-11-5]]
+
+^<<v3-11-5,5>>^ Also the rock badger, because it chews the cud but does not have a split hoof. It is unclean for you.
+
+[[v3-11-6]]
+
+^<<v3-11-6,6>>^ Also the hare, because it chews the cud but does not have a split hoof. It is unclean for you.
+
+[[v3-11-7]]
+
+^<<v3-11-7,7>>^ Also the pig, because it has a split hoof and a cleft in the hoof but does not chew the cud. It is unclean for you.
+
+[[v3-11-8]]
+
+^<<v3-11-8,8>>^ You must not eat any of their flesh or touch their dead body. They are unclean for you.
+
+[[v3-11-9]]
+
+^<<v3-11-9,9>>^ “‘This is what you may eat of everything in the waters: Anything in the waters that has fins and scales, whether in the seas or in the rivers, it you may eat.
+
+[[v3-11-10]]
+
+^<<v3-11-10,10>>^ But anything in the seas and in the rivers that has no fins and scales, among all the swarming creatures and of every other living creature^&#42;1^ that is in the waters, it is a loathsome thing for you.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v3-11-11]]
+
+^<<v3-11-11,11>>^ Yes, they should be loathsome to you, and you must not eat any of their flesh and you must loathe their carcasses.
+
+[[v3-11-12]]
+
+^<<v3-11-12,12>>^ Everything in the waters that has no fins and scales is a loathsome thing to you.
+
+[[v3-11-13]]
+
+^<<v3-11-13,13>>^ “‘These are the flying creatures that you are to loathe; they should not be eaten, for they are loathsome: the eagle, the osprey, the black vulture,
+
+[[v3-11-14]]
+
+^<<v3-11-14,14>>^ the red kite and every kind of black kite,
+
+[[v3-11-15]]
+
+^<<v3-11-15,15>>^ every kind of raven,
+
+[[v3-11-16]]
+
+^<<v3-11-16,16>>^ the ostrich, the owl, the gull, every kind of falcon,
+
+[[v3-11-17]]
+
+^<<v3-11-17,17>>^ the little owl, the cormorant, the long-eared owl,
+
+[[v3-11-18]]
+
+^<<v3-11-18,18>>^ the swan, the pelican, the vulture,
+
+[[v3-11-19]]
+
+^<<v3-11-19,19>>^ the stork, every kind of heron, the hoopoe, and the bat.
+
+[[v3-11-20]]
+
+^<<v3-11-20,20>>^ Every winged swarming creature^&#42;1^ that goes on all fours is something loathsome to you.
+
+[NOTE]
+====
+. Or “Every insect.”
+====
+
+[[v3-11-21]]
+
+^<<v3-11-21,21>>^ “‘Of the winged swarming creatures that move on all fours, you may eat only those that have jointed legs above their feet for leaping on the ground.
+
+[[v3-11-22]]
+
+^<<v3-11-22,22>>^ Of these you may eat: various kinds of migratory locusts, other edible locusts, crickets, and grasshoppers.
+
+[[v3-11-23]]
+
+^<<v3-11-23,23>>^ All other winged swarming creatures with four legs are something loathsome to you.
+
+[[v3-11-24]]
+
+^<<v3-11-24,24>>^ By these you would make yourselves unclean. Everyone touching their dead bodies will be unclean until the evening.
+
+[[v3-11-25]]
+
+^<<v3-11-25,25>>^ Anyone carrying any of their dead bodies should wash his garments; he will be unclean until the evening.
+
+[[v3-11-26]]
+
+^<<v3-11-26,26>>^ “‘Any animal that has a split hoof but does not have a cleft and does not chew its cud is unclean to you. Everyone touching them will be unclean.
+
+[[v3-11-27]]
+
+^<<v3-11-27,27>>^ Every living creature that walks on paws among the creatures that walk on all fours is unclean to you. Everyone touching their dead bodies will be unclean until the evening.
+
+[[v3-11-28]]
+
+^<<v3-11-28,28>>^ The one who carries their dead bodies should wash his garments, and he will be unclean until the evening. They are unclean to you.
+
+[[v3-11-29]]
+
+^<<v3-11-29,29>>^ “‘These are the swarming creatures of the earth that are unclean to you: the mole rat, the mouse, every kind of lizard,
+
+[[v3-11-30]]
+
+^<<v3-11-30,30>>^ the gecko, the large lizard, the newt, the sand lizard, and the chameleon.
+
+[[v3-11-31]]
+
+^<<v3-11-31,31>>^ These swarming creatures are unclean to you. Everyone touching their dead bodies will be unclean until the evening.
+
+[[v3-11-32]]
+
+^<<v3-11-32,32>>^ “‘Now anything they fall on when they die will be unclean, whether a wooden utensil, a garment, a skin, or a piece of sackcloth. Any utensil that is used should be immersed in water, and it will be unclean until the evening; then it will be clean.
+
+[[v3-11-33]]
+
+^<<v3-11-33,33>>^ If they fall into an earthenware vessel, you are to smash it, and anything that was in it will be unclean.
+
+[[v3-11-34]]
+
+^<<v3-11-34,34>>^ Any kind of food that comes in contact with water from such a vessel will be unclean, and any drinkable liquid in such a vessel will be unclean.
+
+[[v3-11-35]]
+
+^<<v3-11-35,35>>^ Anything their dead bodies fall on will be unclean. Whether oven or small stove, it should be broken into pieces. They are unclean, and they will remain unclean to you.
+
+[[v3-11-36]]
+
+^<<v3-11-36,36>>^ Only a spring and a cistern for storing water will continue clean, but anyone touching their dead bodies will be unclean.
+
+[[v3-11-37]]
+
+^<<v3-11-37,37>>^ If their dead bodies fall on a plant seed that is to be sown, it is clean.
+
+[[v3-11-38]]
+
+^<<v3-11-38,38>>^ But if water is put on a seed and part of their dead body falls on it, the seed is unclean to you.
+
+[[v3-11-39]]
+
+^<<v3-11-39,39>>^ “‘Now if an animal that you use for food dies, whoever touches its dead body will be unclean until the evening.
+
+[[v3-11-40]]
+
+^<<v3-11-40,40>>^ Whoever eats any of its dead body should wash his garments, and he will be unclean until the evening. Whoever carries off its dead body should wash his garments, and he will be unclean until the evening.
+
+[[v3-11-41]]
+
+^<<v3-11-41,41>>^ Every swarming creature of the earth is something loathsome. It must not be eaten.
+
+[[v3-11-42]]
+
+^<<v3-11-42,42>>^ You must not eat any creature that crawls on its belly, any creature that goes on all fours, or any of earth’s swarming creatures with a great number of legs, for they are something loathsome.
+
+[[v3-11-43]]
+
+^<<v3-11-43,43>>^ Do not make yourselves^&#42;1^ loathsome by means of any swarming creature, and do not defile yourselves and become unclean by them.
+
+[NOTE]
+====
+. Or “your souls.”
+====
+
+[[v3-11-44]]
+
+^<<v3-11-44,44>>^ For I am Jehovah your God, and you must sanctify yourselves and become holy, because I am holy. So you must not make yourselves^&#42;1^ unclean by any swarming creature that moves on the earth.
+
+[NOTE]
+====
+. Or “your souls.”
+====
+
+[[v3-11-45]]
+
+^<<v3-11-45,45>>^ For I am Jehovah, who is leading you up out of the land of Egypt to prove myself God to you, and you must be holy, because I am holy.
+
+[[v3-11-46]]
+
+^<<v3-11-46,46>>^ “‘This is the law about the animals, the flying creatures, every living creature^&#42;1^ that moves through the waters, and concerning every creature^&#42;2^ that swarms on the earth,
+
+[NOTE]
+====
+. Or “soul.”
+. Or “soul.”
+====
+
+[[v3-11-47]]
+
+^<<v3-11-47,47>>^ in order to make a distinction between the unclean and the clean and between the living creatures that may be eaten and those that may not be eaten.’”
+
+'''
+
+xref:003-leviticus/003-leviticus-010.adoc#v3-10-0[&#60; Capítulo Anterior] | <<v3-11-0,Topo>> | xref:003-leviticus/003-leviticus-012.adoc#v3-12-0[Próximo Capítulo &#62;]

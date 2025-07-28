@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v5-19-0]]
+=== Deuteronomy, 19
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v5-19-1]]
+
+^<<v5-19-1,1>>^ “When Jehovah your God destroys the nations whose land Jehovah your God is giving you and you have dispossessed them and have settled in their cities and their houses,
+
+[[v5-19-2]]
+
+^<<v5-19-2,2>>^ you should set apart three cities in the midst of your land that Jehovah your God is giving you to possess.
+
+[[v5-19-3]]
+
+^<<v5-19-3,3>>^ You should divide the territory of the land that Jehovah your God has given you to possess into three parts, and prepare the roads so that any manslayer can flee to one of those cities.
+
+[[v5-19-4]]
+
+^<<v5-19-4,4>>^ “Now this is what should take place regarding the manslayer who may flee there in order to live: When he strikes his fellow man unintentionally and he did not previously hate him;
+
+[[v5-19-5]]
+
+^<<v5-19-5,5>>^ as when he goes with his fellow man into the forest to gather wood and he raises his hand to cut the tree with the ax, but the axhead flies off the handle and hits his fellow man and he dies, the manslayer should flee to one of these cities to live.
+
+[[v5-19-6]]
+
+^<<v5-19-6,6>>^ Otherwise, in the heat of anger,^&#42;1^ the avenger of blood may chase after the manslayer, overtake him, and kill him, because the distance to the city was too far. However, he did not deserve to die, since he did not previously hate his fellow man.
+
+[NOTE]
+====
+. Lit., “because his heart is hot.”
+====
+
+[[v5-19-7]]
+
+^<<v5-19-7,7>>^ That is why I am commanding you: ‘Set three cities apart.’
+
+[[v5-19-8]]
+
+^<<v5-19-8,8>>^ “If Jehovah your God enlarges your territory as he swore to your forefathers and he has given you all the land that he promised to give to your forefathers
+
+[[v5-19-9]]
+
+^<<v5-19-9,9>>^ —provided you faithfully observe all this commandment that I am giving you today, to love Jehovah your God and always to walk in his ways—then you are to add three other cities to these three.
+
+[[v5-19-10]]
+
+^<<v5-19-10,10>>^ In this way no innocent blood will be spilled in your land that Jehovah your God is giving you as an inheritance, and no bloodguilt will come upon you.
+
+[[v5-19-11]]
+
+^<<v5-19-11,11>>^ “But if a man hated his fellow man and he was waiting to attack him and he fatally wounded him^&#42;1^ and he died, and the man has fled to one of these cities,
+
+[NOTE]
+====
+. Or “his soul.”
+====
+
+[[v5-19-12]]
+
+^<<v5-19-12,12>>^ the elders of his city should then summon him from there and deliver him into the hand of the avenger of blood, and he must die.
+
+[[v5-19-13]]
+
+^<<v5-19-13,13>>^ You^&#42;1^ should not feel sorry for him, and you must remove the guilt of innocent blood out of Israel, so that it may go well for you.
+
+[NOTE]
+====
+. Lit., “Your eye.”
+====
+
+[[v5-19-14]]
+
+^<<v5-19-14,14>>^ “When you receive your inheritance in the land that Jehovah your God is giving you to possess, you must not move your neighbor’s boundary marker from the place where the ancestors set the boundaries.
+
+[[v5-19-15]]
+
+^<<v5-19-15,15>>^ “No single witness may convict^&#42;1^ another for any error or any sin that he may commit. On the testimony^&#42;2^ of two witnesses or on the testimony of three witnesses the matter should be established.
+
+[NOTE]
+====
+. Lit., “rise up against.”
+. Lit., “mouth.”
+====
+
+[[v5-19-16]]
+
+^<<v5-19-16,16>>^ If a malicious witness testifies against a man and charges him with some transgression,
+
+[[v5-19-17]]
+
+^<<v5-19-17,17>>^ the two men who have the dispute will stand before Jehovah, before the priests and the judges who will be serving in those days.
+
+[[v5-19-18]]
+
+^<<v5-19-18,18>>^ The judges will thoroughly investigate, and if the man who testified is a false witness and has brought a false charge against his brother,
+
+[[v5-19-19]]
+
+^<<v5-19-19,19>>^ you should do to him just as he had schemed to do to his brother, and you must remove what is bad from your midst.
+
+[[v5-19-20]]
+
+^<<v5-19-20,20>>^ Those who remain will hear and be afraid, and they will never again do anything bad like this among you.
+
+[[v5-19-21]]
+
+^<<v5-19-21,21>>^ You^&#42;1^ should not feel sorry: Life^&#42;2^ will be for life,^&#42;3^ eye for eye, tooth for tooth, hand for hand, foot for foot.
+
+[NOTE]
+====
+. Lit., “Your eye.”
+. Or “Soul.”
+. Or “soul.”
+====
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-018.adoc#v5-18-0[&#60; Capítulo Anterior] | <<v5-19-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-020.adoc#v5-20-0[Próximo Capítulo &#62;]

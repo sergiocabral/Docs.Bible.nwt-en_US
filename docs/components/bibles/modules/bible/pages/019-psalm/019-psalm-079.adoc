@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-79-0]]
+=== Psalm, 79
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of Aʹsaph._
+
+[[v19-79-1]]
+
+^<<v19-79-1,1>>^ O God, the nations have invaded your inheritance;
+They have defiled your holy temple;
+They have turned Jerusalem into a heap of ruins.
+
+[[v19-79-2]]
+
+^<<v19-79-2,2>>^ They have given the dead bodies of your servants as food to the birds of the heavens
+And the flesh of your loyal ones to the wild beasts of the earth.
+
+[[v19-79-3]]
+
+^<<v19-79-3,3>>^ They have poured out their blood like water around Jerusalem,
+And no one is left to bury them.
+
+[[v19-79-4]]
+
+^<<v19-79-4,4>>^ We have become an object of reproach to our neighbors;
+Those around us ridicule and jeer us.
+
+[[v19-79-5]]
+
+^<<v19-79-5,5>>^ How long, O Jehovah, will you be furious? Forever?
+How long will your indignation burn just like fire?
+
+[[v19-79-6]]
+
+^<<v19-79-6,6>>^ Pour out your wrath on the nations that do not know you
+And on the kingdoms that do not call on your name.
+
+[[v19-79-7]]
+
+^<<v19-79-7,7>>^ For they have devoured Jacob
+And have desolated his homeland.
+
+[[v19-79-8]]
+
+^<<v19-79-8,8>>^ Do not hold us accountable for the errors of our ancestors.
+Quickly show us your mercy,
+For we have been brought very low.
+
+[[v19-79-9]]
+
+^<<v19-79-9,9>>^ Help us, O God of our salvation,
+For the sake of your glorious name;
+Rescue us and forgive^&#42;1^ our sins for the sake of your name.
+
+[NOTE]
+====
+. Lit., “cover.”
+====
+
+[[v19-79-10]]
+
+^<<v19-79-10,10>>^ Why should the nations say: “Where is their God?”
+Before our eyes may it become known among the nations
+That the shed blood of your servants has been avenged.
+
+[[v19-79-11]]
+
+^<<v19-79-11,11>>^ May you hear the sighing of the prisoner.
+Use your great power^&#42;1^ to preserve^&#42;2^ those sentenced to death.^&#42;3^
+
+[NOTE]
+====
+. Lit., “arm.”
+. Or possibly, “set free.”
+. Lit., “the sons of death.”
+====
+
+[[v19-79-12]]
+
+^<<v19-79-12,12>>^ Repay our neighbors sevenfold
+For the taunts they have leveled at you, O Jehovah.
+
+[[v19-79-13]]
+
+^<<v19-79-13,13>>^ Then we, your people and the flock of your pasture,
+Will give thanks to you forever;
+And we will declare your praise from generation to generation.
+
+'''
+
+xref:019-psalm/019-psalm-078.adoc#v19-78-0[&#60; Capítulo Anterior] | <<v19-79-0,Topo>> | xref:019-psalm/019-psalm-080.adoc#v19-80-0[Próximo Capítulo &#62;]

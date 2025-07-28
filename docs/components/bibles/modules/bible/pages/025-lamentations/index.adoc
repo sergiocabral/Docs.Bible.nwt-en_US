@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v25-0-0]]
+== Lamentations
+
+[cols="8*^"]
+|===
+| xref:025-lamentations/025-lamentations-001.adoc#v25-1-0[1]
+| xref:025-lamentations/025-lamentations-002.adoc#v25-2-0[2]
+| xref:025-lamentations/025-lamentations-003.adoc#v25-3-0[3]
+| xref:025-lamentations/025-lamentations-004.adoc#v25-4-0[4]
+| xref:025-lamentations/025-lamentations-005.adoc#v25-5-0[5]
+|
+|
+|
+|===

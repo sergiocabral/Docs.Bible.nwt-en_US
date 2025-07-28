@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v19-111-0]]
+=== Psalm, 111
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-111-1]]
+
+^<<v19-111-1,1>>^ Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+_א &#91;Aleph&#93;_
+
+I will praise Jehovah with all my heart
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+_ב &#91;Beth&#93;_
+
+In the assembled group of upright ones and in the congregation.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+_ג &#91;Gimel&#93;_
+
+[[v19-111-2]]
+
+^<<v19-111-2,2>>^ The works of Jehovah are great;
+
+_ד &#91;Daleth&#93;_
+
+They are studied by all those finding pleasure in them.
+
+_ה &#91;He&#93;_
+
+[[v19-111-3]]
+
+^<<v19-111-3,3>>^ His activity is glorious and splendid,
+
+_ו &#91;Waw&#93;_
+
+And his righteousness endures forever.
+
+_ז &#91;Zayin&#93;_
+
+[[v19-111-4]]
+
+^<<v19-111-4,4>>^ He causes his wonderful works to be remembered.
+
+[NOTE]
+====
+. Or “gracious.”
+====
+
+_ח &#91;Heth&#93;_
+
+Jehovah is compassionate^&#42;1^ and merciful.
+
+[NOTE]
+====
+. Or “gracious.”
+====
+
+_ט &#91;Teth&#93;_
+
+[[v19-111-5]]
+
+^<<v19-111-5,5>>^ Food he gives to those fearing him.
+
+_י &#91;Yod&#93;_
+
+He remembers his covenant forever.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-111-6]]
+
+^<<v19-111-6,6>>^ He has revealed to his people his powerful works
+
+_ל &#91;Lamed&#93;_
+
+By giving them the inheritance of the nations.
+
+_מ &#91;Mem&#93;_
+
+[[v19-111-7]]
+
+^<<v19-111-7,7>>^ The works of his hands are truth and justice;
+
+_נ &#91;Nun&#93;_
+
+Trustworthy are all his orders.
+
+_ס &#91;Samekh&#93;_
+
+[[v19-111-8]]
+
+^<<v19-111-8,8>>^ They are always reliable,^&#42;1^ now and forever;
+
+[NOTE]
+====
+. Or “well-founded.”
+====
+
+_ע &#91;Ayin&#93;_
+
+They are made in truth and righteousness.
+
+[NOTE]
+====
+. Or “well-founded.”
+====
+
+_פ &#91;Pe&#93;_
+
+[[v19-111-9]]
+
+^<<v19-111-9,9>>^ He has given redemption to his people.
+
+_צ &#91;Tsade&#93;_
+
+He commanded that his covenant should last forever.
+
+_ק &#91;Qoph&#93;_
+
+His name is holy and awe-inspiring.
+
+_ר &#91;Resh&#93;_
+
+[[v19-111-10]]
+
+^<<v19-111-10,10>>^ The fear of Jehovah is the beginning of wisdom.
+
+[NOTE]
+====
+. Lit., “them.”
+====
+
+_ש &#91;Sin&#93;_
+
+All those observing his orders^&#42;1^ show good insight.
+
+[NOTE]
+====
+. Lit., “them.”
+====
+
+_ת &#91;Taw&#93;_
+
+His praise endures forever.
+
+[NOTE]
+====
+. Lit., “them.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-110.adoc#v19-110-0[&#60; Capítulo Anterior] | <<v19-111-0,Topo>> | xref:019-psalm/019-psalm-112.adoc#v19-112-0[Próximo Capítulo &#62;]

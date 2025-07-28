@@ -1,0 +1,90 @@
+include::./index.adoc[]
+
+[[v37-1-0]]
+=== Haggai, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v37-1-1]]
+
+^<<v37-1-1,1>>^ In the second year of King Da·riʹus, in the sixth month, on the first day of the month, the word of Jehovah came through Hagʹgai^&#42;1^ the prophet to Ze·rubʹba·bel son of She·alʹti·el, the governor of Judah, and to Joshua son of Je·hozʹa·dak, the high priest, saying:
+
+[NOTE]
+====
+. Meaning “Born on a Festival.”
+====
+
+[[v37-1-2]]
+
+^<<v37-1-2,2>>^ “This is what Jehovah of armies says, ‘These people say, “The time has not yet come for the house^&#42;1^ of Jehovah to be built.”’”^&#42;2^
+
+[NOTE]
+====
+. Or “temple.”
+. Or “rebuilt.”
+====
+
+[[v37-1-3]]
+
+^<<v37-1-3,3>>^ And the word of Jehovah again came through Hagʹgai the prophet, saying:
+
+[[v37-1-4]]
+
+^<<v37-1-4,4>>^ “Is it the time for you to dwell in your paneled houses, while this house lies in ruins?
+
+[[v37-1-5]]
+
+^<<v37-1-5,5>>^ Now this is what Jehovah of armies says, ‘Set your heart on^&#42;1^ your ways.
+
+[NOTE]
+====
+. Or “Give careful thought to.”
+====
+
+[[v37-1-6]]
+
+^<<v37-1-6,6>>^ You have sown much seed, but you harvest little. You eat, but it is not to satisfaction. You drink, but you do not drink your fill. You put on clothing, but no one gets warm. The one who hires himself out puts his wages in a bag full of holes.’”
+
+[[v37-1-7]]
+
+^<<v37-1-7,7>>^ “This is what Jehovah of armies says, ‘Set your heart on^&#42;1^ your ways.’
+
+[NOTE]
+====
+. Or “Give careful thought to.”
+====
+
+[[v37-1-8]]
+
+^<<v37-1-8,8>>^ “‘Go up to the mountain and bring in lumber. And build the house, so that I may take pleasure in it and I may be glorified,’ Jehovah says.”
+
+[[v37-1-9]]
+
+^<<v37-1-9,9>>^ “‘You were expecting much and receiving little; and when you brought it into the house, I blew it away. For what reason?’ declares Jehovah of armies. ‘Because my house is in ruins, while each of you runs around taking care of his own house.
+
+[[v37-1-10]]
+
+^<<v37-1-10,10>>^ So the heavens above you withheld their dew, and the earth withheld its produce.
+
+[[v37-1-11]]
+
+^<<v37-1-11,11>>^ And I kept calling for a drought on the earth, on the mountains, on the grain, on the new wine, on the oil, on what grows from the ground, on humans and livestock, and on all the labor of your hands.’”
+
+[[v37-1-12]]
+
+^<<v37-1-12,12>>^ Ze·rubʹba·bel son of She·alʹti·el and Joshua son of Je·hozʹa·dak, the high priest, and all the rest of the people listened to the voice of Jehovah their God and to the words of Hagʹgai the prophet, because Jehovah their God had sent him; and the people began to show fear because of Jehovah.
+
+[[v37-1-13]]
+
+^<<v37-1-13,13>>^ Then Hagʹgai, the messenger of Jehovah, gave this message to the people in harmony with his commission from Jehovah: “‘I am with you people,’ declares Jehovah.”
+
+[[v37-1-14]]
+
+^<<v37-1-14,14>>^ So Jehovah stirred up the spirit of Ze·rubʹba·bel the son of She·alʹti·el, the governor of Judah, and the spirit of Joshua the son of Je·hozʹa·dak, the high priest, and the spirit of all the rest of the people; and they came and began to work on the house of Jehovah of armies, their God.
+
+[[v37-1-15]]
+
+^<<v37-1-15,15>>^ This was on the 24th day of the sixth month in the second year of King Da·riʹus.
+
+'''
+
+xref:036-zephaniah/036-zephaniah-003.adoc#v36-3-0[&#60; Capítulo Anterior] | <<v37-1-0,Topo>> | xref:037-haggai/037-haggai-002.adoc#v37-2-0[Próximo Capítulo &#62;]

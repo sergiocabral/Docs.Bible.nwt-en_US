@@ -1,0 +1,48 @@
+include::./index.adoc[]
+
+[[v18-25-0]]
+=== Job, 25
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-25-1]]
+
+^<<v18-25-1,1>>^ Bilʹdad the Shuʹhite said in reply:
+
+[[v18-25-2]]
+
+^<<v18-25-2,2>>^ “Rulership and fearsome might are his;
+He establishes peace in heaven.^&#42;1^
+
+[NOTE]
+====
+. Lit., “in his heights.”
+====
+
+[[v18-25-3]]
+
+^<<v18-25-3,3>>^ Can his troops be numbered?
+Upon whom does his light not rise?
+
+[[v18-25-4]]
+
+^<<v18-25-4,4>>^ So how can mortal man be righteous before God,
+Or how can one born of a woman be innocent?^&#42;1^
+
+[NOTE]
+====
+. Or “pure.”
+====
+
+[[v18-25-5]]
+
+^<<v18-25-5,5>>^ Even the moon is not bright
+And the stars are not pure in his eyes,
+
+[[v18-25-6]]
+
+^<<v18-25-6,6>>^ How much less so mortal man, who is a maggot,
+And a son of man, who is a worm!”
+
+'''
+
+xref:018-job/018-job-024.adoc#v18-24-0[&#60; Capítulo Anterior] | <<v18-25-0,Topo>> | xref:018-job/018-job-026.adoc#v18-26-0[Próximo Capítulo &#62;]

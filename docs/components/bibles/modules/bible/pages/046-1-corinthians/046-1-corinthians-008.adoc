@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v46-8-0]]
+=== The First to the Corinthians, 8
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v46-8-1]]
+
+^<<v46-8-1,1>>^ Now concerning food offered to idols: We know we all have knowledge. Knowledge puffs up, but love builds up.
+
+[[v46-8-2]]
+
+^<<v46-8-2,2>>^ If anyone thinks he knows something, he does not yet know it as he should know it.
+
+[[v46-8-3]]
+
+^<<v46-8-3,3>>^ But if anyone loves God, this one is known by him.
+
+[[v46-8-4]]
+
+^<<v46-8-4,4>>^ Now concerning the eating of food offered to idols, we know that an idol is nothing in the world and that there is no God but one.
+
+[[v46-8-5]]
+
+^<<v46-8-5,5>>^ For even though there are so-called gods, whether in heaven or on earth, just as there are many “gods” and many “lords,”
+
+[[v46-8-6]]
+
+^<<v46-8-6,6>>^ there is actually to us one God, the Father, from whom all things are and we for him; and there is one Lord, Jesus Christ, through whom all things are and we through him.
+
+[[v46-8-7]]
+
+^<<v46-8-7,7>>^ However, not all have this knowledge. But some, because of their former association with the idol, eat food as something sacrificed to an idol, and their conscience, being weak, is defiled.
+
+[[v46-8-8]]
+
+^<<v46-8-8,8>>^ But food will not bring us nearer to God; we are no worse off if we do not eat, nor better off if we eat.
+
+[[v46-8-9]]
+
+^<<v46-8-9,9>>^ But keep watching that your right to choose does not somehow become a stumbling block to those who are weak.
+
+[[v46-8-10]]
+
+^<<v46-8-10,10>>^ For if anyone should see you who have knowledge having a meal in an idol temple, will not the conscience of that one who is weak be emboldened to the point of eating food offered to idols?
+
+[[v46-8-11]]
+
+^<<v46-8-11,11>>^ So by your knowledge the man who is weak is being ruined, your brother for whose sake Christ died.
+
+[[v46-8-12]]
+
+^<<v46-8-12,12>>^ When you sin against your brothers in this way and wound their weak conscience, you are sinning against Christ.
+
+[[v46-8-13]]
+
+^<<v46-8-13,13>>^ That is why if food makes my brother stumble, I will never again eat meat at all, so that I will not make my brother stumble.
+
+'''
+
+xref:046-1-corinthians/046-1-corinthians-007.adoc#v46-7-0[&#60; Capítulo Anterior] | <<v46-8-0,Topo>> | xref:046-1-corinthians/046-1-corinthians-009.adoc#v46-9-0[Próximo Capítulo &#62;]

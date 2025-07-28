@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v8-0-0]]
+== Ruth
+
+[cols="8*^"]
+|===
+| xref:008-ruth/008-ruth-001.adoc#v8-1-0[1]
+| xref:008-ruth/008-ruth-002.adoc#v8-2-0[2]
+| xref:008-ruth/008-ruth-003.adoc#v8-3-0[3]
+| xref:008-ruth/008-ruth-004.adoc#v8-4-0[4]
+|
+|
+|
+|
+|===

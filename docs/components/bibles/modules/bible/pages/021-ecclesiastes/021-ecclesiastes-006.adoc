@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Ecclesiastes, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ There is another tragedy^&#42;1^ that I have seen under the sun, and it is common among men:
+
+[NOTE]
+====
+. Or “calamity.”
+====
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ The true God gives a man riches and material possessions and glory, so that he lacks nothing that he desires;^&#42;1^ yet the true God does not enable him to enjoy them, although a stranger may enjoy them. This is futility and a severe affliction.
+
+[NOTE]
+====
+. Or “lacks nothing for his soul.”
+====
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ If a man should become a father a hundred times and live for many years and reach old age, yet he^&#42;1^ does not enjoy his good things before he reaches the grave,^&#42;2^ I must say that a stillborn child is better off than he is.
+
+[NOTE]
+====
+. Or “his soul.”
+. Or “and even the grave has not become his.”
+====
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ For this one came in vain and went away in darkness, and his name is shrouded in darkness.
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ Even though he never saw the sun or knew anything, he is still better off^&#42;1^ than the former one.
+
+[NOTE]
+====
+. Lit., “has more rest.”
+====
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ What is the benefit of living a thousand years twice over but not experiencing enjoyment? Do not all go to the same place?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ All the hard work of a man is to fill his mouth; yet his appetite^&#42;1^ is never satisfied.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ For what advantage does the wise one have over the stupid one, or of what benefit is it that the poor man knows how to survive?^&#42;1^
+
+[NOTE]
+====
+. Lit., “to walk in front of the living.”
+====
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Better to enjoy what the eyes see than to wander after one’s desires.^&#42;1^ This too is futility, a chasing after the wind.
+
+[NOTE]
+====
+. Or “than the walking about of the soul.”
+====
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ Whatever has come to be has already been named, and it is known what man is; and he is not able to dispute^&#42;1^ with the one more powerful than he.
+
+[NOTE]
+====
+. Or “plead his cause.”
+====
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ The more words,^&#42;1^ the more futility; and what advantage do they bring to man?
+
+[NOTE]
+====
+. Or possibly, “things.”
+====
+
+[[v21-6-12]]
+
+^<<v21-6-12,12>>^ Who knows what is best for a man to do in life during the few days of his futile life, which he spends like a shadow? For who can tell man what will happen under the sun after he is gone?
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-007.adoc#v21-7-0[Próximo Capítulo &#62;]

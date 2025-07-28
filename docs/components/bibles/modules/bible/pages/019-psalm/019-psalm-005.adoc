@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v19-5-0]]
+=== Psalm, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director for Neʹhi·loth.^&#42;1^ A melody of David._
+
+[[v19-5-1]]
+
+^<<v19-5-1,1>>^ Listen to my words, O Jehovah;
+Be attentive to my sighing.
+
+[[v19-5-2]]
+
+^<<v19-5-2,2>>^ Pay attention to my cry for help,
+O my King and my God, because to you I pray.
+
+[[v19-5-3]]
+
+^<<v19-5-3,3>>^ O Jehovah, you will hear my voice in the morning;
+In the morning I will express my concern to you and wait expectantly.
+
+[[v19-5-4]]
+
+^<<v19-5-4,4>>^ For you are not a God who takes pleasure in wickedness;
+No one bad may remain with you.
+
+[[v19-5-5]]
+
+^<<v19-5-5,5>>^ No arrogant person may stand in your presence.
+You hate all those who behave wickedly;
+
+[[v19-5-6]]
+
+^<<v19-5-6,6>>^ You will destroy those who speak lies.
+Jehovah detests violent and deceptive people.^&#42;1^
+
+[NOTE]
+====
+. Or “a man of bloodshed and deception.”
+====
+
+[[v19-5-7]]
+
+^<<v19-5-7,7>>^ But I will come into your house because of your great loyal love;
+I will bow down toward your holy temple^&#42;1^ in reverential fear of you.
+
+[NOTE]
+====
+. Or “sanctuary.”
+====
+
+[[v19-5-8]]
+
+^<<v19-5-8,8>>^ Lead me, O Jehovah, in your righteousness because of my foes;
+Make your way clear for me.
+
+[[v19-5-9]]
+
+^<<v19-5-9,9>>^ For nothing they say can be trusted;
+Within them is nothing but malice;
+Their throat is an open grave;
+They flatter with their tongue.^&#42;1^
+
+[NOTE]
+====
+. Or “They use a smooth tongue.”
+====
+
+[[v19-5-10]]
+
+^<<v19-5-10,10>>^ But God will declare them guilty;
+Their own schemes will cause their downfall.
+May they be driven away because of their many transgressions,
+For they have rebelled against you.
+
+[[v19-5-11]]
+
+^<<v19-5-11,11>>^ But all those who take refuge in you will rejoice;
+They will always shout joyfully.
+You will block approach to them,
+And those loving your name will rejoice in you.
+
+[[v19-5-12]]
+
+^<<v19-5-12,12>>^ For you will bless anyone righteous, O Jehovah;
+You will surround them with approval as with a large shield.
+
+'''
+
+xref:019-psalm/019-psalm-004.adoc#v19-4-0[&#60; Capítulo Anterior] | <<v19-5-0,Topo>> | xref:019-psalm/019-psalm-006.adoc#v19-6-0[Próximo Capítulo &#62;]

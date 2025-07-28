@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v19-9-0]]
+=== Psalm, 9
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; upon Muth-labʹben.^&#42;1^ A melody of David._
+
+_א &#91;Aleph&#93;_
+
+[[v19-9-1]]
+
+^<<v19-9-1,1>>^ I will praise you, O Jehovah, with all my heart;
+I will tell about all your wonderful works.
+
+[[v19-9-2]]
+
+^<<v19-9-2,2>>^ I will rejoice and exult in you;
+I will sing praises^&#42;1^ to your name, O Most High.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+_ב &#91;Beth&#93;_
+
+[[v19-9-3]]
+
+^<<v19-9-3,3>>^ When my enemies retreat,
+They will stumble and perish from before you.
+
+[[v19-9-4]]
+
+^<<v19-9-4,4>>^ For you defend my just cause;
+You sit on your throne judging with righteousness.
+
+_ג &#91;Gimel&#93;_
+
+[[v19-9-5]]
+
+^<<v19-9-5,5>>^ You have rebuked nations and destroyed the wicked,
+Blotting out their name forever and ever.
+
+[[v19-9-6]]
+
+^<<v19-9-6,6>>^ The enemy has been ruined forever;
+You uprooted their cities,
+And all memory of them will perish.
+
+_ה &#91;He&#93;_
+
+[[v19-9-7]]
+
+^<<v19-9-7,7>>^ But Jehovah is enthroned forever;
+He has firmly established his throne for justice.
+
+[[v19-9-8]]
+
+^<<v19-9-8,8>>^ He will judge the inhabited earth^&#42;1^ in righteousness;
+He will render righteous legal decisions for the nations.
+
+[NOTE]
+====
+. Or “the productive land.”
+====
+
+_ו &#91;Waw&#93;_
+
+[[v19-9-9]]
+
+^<<v19-9-9,9>>^ Jehovah will become a secure refuge^&#42;1^ for the oppressed,
+A secure refuge in times of distress.
+
+[NOTE]
+====
+. Or “secure height.”
+====
+
+[[v19-9-10]]
+
+^<<v19-9-10,10>>^ Those knowing your name will trust in you;
+You will never abandon those seeking you, O Jehovah.
+
+_ז &#91;Zayin&#93;_
+
+[[v19-9-11]]
+
+^<<v19-9-11,11>>^ Sing praises to Jehovah, who is dwelling in Zion;
+Make his deeds known among the peoples.
+
+[[v19-9-12]]
+
+^<<v19-9-12,12>>^ For the One who avenges their blood remembers them;
+He will not forget the cry of the afflicted.
+
+_ח &#91;Heth&#93;_
+
+[[v19-9-13]]
+
+^<<v19-9-13,13>>^ Show me favor, O Jehovah; see my affliction by those hating me,
+You who raise me from the gates of death,
+
+[[v19-9-14]]
+
+^<<v19-9-14,14>>^ So that I may declare your praiseworthy deeds in the gates of the daughter of Zion,
+And rejoice in your acts of salvation.
+
+_ט &#91;Teth&#93;_
+
+[[v19-9-15]]
+
+^<<v19-9-15,15>>^ The nations have sunk down into the pit they made;
+Their own foot has been caught in the net they hid.
+
+[[v19-9-16]]
+
+^<<v19-9-16,16>>^ Jehovah is known by the judgment he executes.
+The wicked one has been ensnared in the work of his own hands.
+Hig·gaʹion.^&#42;1^ (Selah)
+
+[NOTE]
+====
+. See Glossary.
+====
+
+_י &#91;Yod&#93;_
+
+[[v19-9-17]]
+
+^<<v19-9-17,17>>^ The wicked will retreat toward the Grave,^&#42;1^
+All the nations who forget God.
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v19-9-18]]
+
+^<<v19-9-18,18>>^ But the poor will not always be forgotten;
+Nor will the hope of the meek ever perish.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-9-19]]
+
+^<<v19-9-19,19>>^ Rise up, O Jehovah! Do not let mortal man prevail.
+May the nations be judged in your presence.
+
+[[v19-9-20]]
+
+^<<v19-9-20,20>>^ Strike them with fear, O Jehovah,
+Let the nations know that they are only mortal men. (Selah)
+
+'''
+
+xref:019-psalm/019-psalm-008.adoc#v19-8-0[&#60; Capítulo Anterior] | <<v19-9-0,Topo>> | xref:019-psalm/019-psalm-010.adoc#v19-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v6-1-0]]
+=== Joshua, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v6-1-1]]
+
+^<<v6-1-1,1>>^ After the death of Moses the servant of Jehovah, Jehovah said to Joshua^&#42;1^ the son of Nun, the minister of Moses:
+
+[NOTE]
+====
+. Or “Jehoshua,” meaning “Jehovah Is Salvation.”
+====
+
+[[v6-1-2]]
+
+^<<v6-1-2,2>>^ “Moses my servant is dead. Now get up, cross the Jordan, you and all this people, and go into the land that I am giving to them, to the people of Israel.
+
+[[v6-1-3]]
+
+^<<v6-1-3,3>>^ I will give you every place on which you set your foot, just as I promised Moses.
+
+[[v6-1-4]]
+
+^<<v6-1-4,4>>^ Your territory will extend from the wilderness up to Lebʹa·non and to the great river, the Eu·phraʹtes—all the land of the Hitʹtites—and to the Great Sea^&#42;1^ on the west.^&#42;2^
+
+[NOTE]
+====
+. That is, the Mediterranean.
+. Or “toward the sunset.”
+====
+
+[[v6-1-5]]
+
+^<<v6-1-5,5>>^ No one will be able to take a stand against you as long as you live. Just as I was with Moses, so I will be with you. I will neither desert you nor abandon you.
+
+[[v6-1-6]]
+
+^<<v6-1-6,6>>^ Be courageous and strong, for you are the one who will cause this people to inherit the land that I swore to their forefathers I would give to them.
+
+[[v6-1-7]]
+
+^<<v6-1-7,7>>^ “Only be courageous and very strong, and observe carefully the entire Law that Moses my servant commanded you. Do not deviate from it either to the right or to the left, so that you may act wisely wherever you go.
+
+[[v6-1-8]]
+
+^<<v6-1-8,8>>^ This book of the Law should not depart from your mouth, and you must read it in an undertone^&#42;1^ day and night, in order to observe carefully all that is written in it; for then your way will be successful and then you will act wisely.
+
+[NOTE]
+====
+. Or “meditate on it.”
+====
+
+[[v6-1-9]]
+
+^<<v6-1-9,9>>^ Have I not commanded you? Be courageous and strong. Do not be struck with terror or fear, for Jehovah your God is with you wherever you go.”
+
+[[v6-1-10]]
+
+^<<v6-1-10,10>>^ Then Joshua commanded the officers of the people:
+
+[[v6-1-11]]
+
+^<<v6-1-11,11>>^ “Pass throughout the camp and give this command to the people, ‘Get provisions ready, because in three days you will cross the Jordan to go in and take possession of the land that Jehovah your God is giving you to possess.’”
+
+[[v6-1-12]]
+
+^<<v6-1-12,12>>^ And to the Reuʹben·ites, the Gadʹites, and the half tribe of Ma·nasʹseh, Joshua said:
+
+[[v6-1-13]]
+
+^<<v6-1-13,13>>^ “Remember what Moses the servant of Jehovah commanded you: ‘Jehovah your God is giving you rest and has given you this land.
+
+[[v6-1-14]]
+
+^<<v6-1-14,14>>^ Your wives, your children, and your livestock will dwell in the land that Moses has given you on this side^&#42;1^ of the Jordan, but all you mighty warriors should cross over in battle formation ahead of your brothers. You must help them
+
+[NOTE]
+====
+. That is, the east side.
+====
+
+[[v6-1-15]]
+
+^<<v6-1-15,15>>^ until Jehovah gives your brothers rest, just as he has given you, and they also take possession of the land that Jehovah your God is giving them. Then return to the land you were given to occupy and take possession of it, the land that Moses the servant of Jehovah gave you on the east side of the Jordan.’”
+
+[[v6-1-16]]
+
+^<<v6-1-16,16>>^ They answered Joshua: “We will do all that you have commanded, and we will go wherever you send us.
+
+[[v6-1-17]]
+
+^<<v6-1-17,17>>^ Just as we listened to everything Moses said, so we will listen to you. Only may Jehovah your God be with you just as he was with Moses.
+
+[[v6-1-18]]
+
+^<<v6-1-18,18>>^ Any man who rebels against your order and does not obey every command you give him will be put to death. Only be courageous and strong.”
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-034.adoc#v5-34-0[&#60; Capítulo Anterior] | <<v6-1-0,Topo>> | xref:006-joshua/006-joshua-002.adoc#v6-2-0[Próximo Capítulo &#62;]

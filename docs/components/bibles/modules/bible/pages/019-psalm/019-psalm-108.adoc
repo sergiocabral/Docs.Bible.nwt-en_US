@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-108-0]]
+=== Psalm, 108
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A song. A melody of David._
+
+[[v19-108-1]]
+
+^<<v19-108-1,1>>^ My heart is steadfast, O God.
+I will sing and make music with my whole being.^&#42;1^
+
+[NOTE]
+====
+. Lit., “even my glory.”
+====
+
+[[v19-108-2]]
+
+^<<v19-108-2,2>>^ Do awake, O stringed instrument; you too, O harp.
+I will awaken the dawn.
+
+[[v19-108-3]]
+
+^<<v19-108-3,3>>^ I will praise you among the peoples, O Jehovah,
+And I will sing praises^&#42;1^ to you among the nations.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-108-4]]
+
+^<<v19-108-4,4>>^ For your loyal love is great, as high as the heavens,
+And your faithfulness, up to the skies.
+
+[[v19-108-5]]
+
+^<<v19-108-5,5>>^ Be exalted above the heavens, O God;
+May your glory be over all the earth.
+
+[[v19-108-6]]
+
+^<<v19-108-6,6>>^ So that your loved ones may be rescued,
+Save us with your right hand and answer me.
+
+[[v19-108-7]]
+
+^<<v19-108-7,7>>^ God has spoken in his holiness:^&#42;1^
+“I will exult, I will give out Sheʹchem as an inheritance,
+And I will measure off the Valley^&#42;2^ of Sucʹcoth.
+
+[NOTE]
+====
+. Or possibly, “in his holy place.”
+. Or “Low Plain.”
+====
+
+[[v19-108-8]]
+
+^<<v19-108-8,8>>^ Gilʹe·ad belongs to me, as does Ma·nasʹseh,
+And Eʹphra·im is the helmet^&#42;1^ for my head;
+Judah is my commander’s staff.
+
+[NOTE]
+====
+. Lit., “stronghold.”
+====
+
+[[v19-108-9]]
+
+^<<v19-108-9,9>>^ Moʹab is my washbasin.
+Over Eʹdom I will throw my sandal.
+Over Phi·lisʹti·a I will shout in triumph.”
+
+[[v19-108-10]]
+
+^<<v19-108-10,10>>^ Who will bring me to the fortified city?
+Who will lead me as far as Eʹdom?
+
+[[v19-108-11]]
+
+^<<v19-108-11,11>>^ Is it not you, O God, who have rejected us,
+Our God, who no longer goes out with our armies?
+
+[[v19-108-12]]
+
+^<<v19-108-12,12>>^ Help us in our distress,
+For salvation by humans is worthless.
+
+[[v19-108-13]]
+
+^<<v19-108-13,13>>^ By God we will gain power,
+And he will trample on our adversaries.
+
+'''
+
+xref:019-psalm/019-psalm-107.adoc#v19-107-0[&#60; Capítulo Anterior] | <<v19-108-0,Topo>> | xref:019-psalm/019-psalm-109.adoc#v19-109-0[Próximo Capítulo &#62;]

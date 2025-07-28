@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v20-22-0]]
+=== Proverbs, 22
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-22-1]]
+
+^<<v20-22-1,1>>^ A good name^&#42;1^ is to be chosen rather than great wealth;
+To be respected^&#42;2^ is better than silver and gold.
+
+[NOTE]
+====
+. Or “A good reputation.” Lit., “A name.”
+. Lit., “Favor.”
+====
+
+[[v20-22-2]]
+
+^<<v20-22-2,2>>^ The rich and the poor have this in common:^&#42;1^
+Jehovah made them both.
+
+[NOTE]
+====
+. Lit., “meet together.”
+====
+
+[[v20-22-3]]
+
+^<<v20-22-3,3>>^ The shrewd one sees the danger and conceals himself,
+But the inexperienced keep right on going and suffer the consequences.^&#42;1^
+
+[NOTE]
+====
+. Or “penalty.”
+====
+
+[[v20-22-4]]
+
+^<<v20-22-4,4>>^ The result of humility and the fear of Jehovah
+Is riches and glory and life.
+
+[[v20-22-5]]
+
+^<<v20-22-5,5>>^ Thorns and traps are in the crooked man’s path,
+But whoever values his life^&#42;1^ keeps far away from them.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v20-22-6]]
+
+^<<v20-22-6,6>>^ Train a boy^&#42;1^ in the way he should go;
+Even when he grows old he will not depart from it.
+
+[NOTE]
+====
+. Or “child; youth.”
+====
+
+[[v20-22-7]]
+
+^<<v20-22-7,7>>^ The rich one rules the poor,
+And the borrower is a slave to the lender.
+
+[[v20-22-8]]
+
+^<<v20-22-8,8>>^ Whoever sows unrighteousness will reap disaster,
+And the rod of his fury will come to its end.
+
+[[v20-22-9]]
+
+^<<v20-22-9,9>>^ The generous person^&#42;1^ will be blessed,
+For he shares his food with the poor.
+
+[NOTE]
+====
+. Lit., “He with a good eye.”
+====
+
+[[v20-22-10]]
+
+^<<v20-22-10,10>>^ Drive away the scornful man,
+And contention will disappear;
+Disputes^&#42;1^ and insults will cease.
+
+[NOTE]
+====
+. Or “Lawsuits.”
+====
+
+[[v20-22-11]]
+
+^<<v20-22-11,11>>^ The one who loves a pure heart and whose speech is gracious
+Will have the king as his friend.
+
+[[v20-22-12]]
+
+^<<v20-22-12,12>>^ The eyes of Jehovah safeguard knowledge,
+But He overturns the words of the treacherous.
+
+[[v20-22-13]]
+
+^<<v20-22-13,13>>^ The lazy one says: “There is a lion outside!
+I will be killed in the middle of the public square!”
+
+[[v20-22-14]]
+
+^<<v20-22-14,14>>^ The mouth of wayward^&#42;1^ women is a deep pit.
+The one condemned by Jehovah will fall into it.
+
+[NOTE]
+====
+. Lit., “strange.” See Pr 2:16.
+====
+
+[[v20-22-15]]
+
+^<<v20-22-15,15>>^ Foolishness is bound up in the heart of a boy,^&#42;1^
+But the rod of discipline will remove it far from him.
+
+[NOTE]
+====
+. Or “child; youth.”
+====
+
+[[v20-22-16]]
+
+^<<v20-22-16,16>>^ The one defrauding the poor to increase his wealth
+And the one giving gifts to the rich
+Will end up in poverty.
+
+[[v20-22-17]]
+
+^<<v20-22-17,17>>^ Incline your ear and listen to the words of the wise,
+In order to apply your heart to my knowledge,
+
+[[v20-22-18]]
+
+^<<v20-22-18,18>>^ For it is pleasant to keep them deep within you,
+So that all of them may constantly be on your lips.
+
+[[v20-22-19]]
+
+^<<v20-22-19,19>>^ For your confidence to be in Jehovah,
+I am giving you knowledge today.
+
+[[v20-22-20]]
+
+^<<v20-22-20,20>>^ Have I not already written you,
+Imparting advice and knowledge,
+
+[[v20-22-21]]
+
+^<<v20-22-21,21>>^ To teach you true and reliable words,
+So that you can return with an accurate report to the one who sent you?
+
+[[v20-22-22]]
+
+^<<v20-22-22,22>>^ Do not rob the poor man because he is poor,
+And do not crush the lowly man in the city gate,
+
+[[v20-22-23]]
+
+^<<v20-22-23,23>>^ For Jehovah himself will plead their cause
+And he will take the life^&#42;1^ of those who defraud them.
+
+[NOTE]
+====
+. Or “rob the soul.”
+====
+
+[[v20-22-24]]
+
+^<<v20-22-24,24>>^ Do not keep company with a hot-tempered man
+Or get involved with one disposed to rage,
+
+[[v20-22-25]]
+
+^<<v20-22-25,25>>^ So that you never learn his ways
+And ensnare yourself.^&#42;1^
+
+[NOTE]
+====
+. Or “your soul.”
+====
+
+[[v20-22-26]]
+
+^<<v20-22-26,26>>^ Do not be among those who shake hands in a pledge,
+Who put up security for loans.
+
+[[v20-22-27]]
+
+^<<v20-22-27,27>>^ If you have nothing to pay,
+Your bed will be taken right out from under you!
+
+[[v20-22-28]]
+
+^<<v20-22-28,28>>^ Do not move an ancient boundary marker
+That your forefathers put in place.
+
+[[v20-22-29]]
+
+^<<v20-22-29,29>>^ Have you seen a man skillful at his work?
+He will stand before kings;
+He will not stand before common men.
+
+'''
+
+xref:020-proverbs/020-proverbs-021.adoc#v20-21-0[&#60; Capítulo Anterior] | <<v20-22-0,Topo>> | xref:020-proverbs/020-proverbs-023.adoc#v20-23-0[Próximo Capítulo &#62;]

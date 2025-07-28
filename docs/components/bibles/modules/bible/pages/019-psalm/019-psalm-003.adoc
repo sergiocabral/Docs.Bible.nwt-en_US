@@ -1,0 +1,59 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Psalm, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of David when he was fleeing from his son Abʹsa·lom._
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ O Jehovah, why have my adversaries become so numerous?
+Why are so many rising up against me?
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ Many are saying about me:^&#42;1^
+“God will not save him.” (Selah)^&#42;2^
+
+[NOTE]
+====
+. Or “my soul.”
+. See Glossary.
+====
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ But you, O Jehovah, are a shield around me,
+My glory and the One who lifts up my head.
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ I will call aloud to Jehovah,
+And he will answer me from his holy mountain. (Selah)
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ I will lie down and sleep;
+And I will wake up in safety,
+For Jehovah continues to support me.
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ I am not afraid of the tens of thousands
+Lined up against me on every side.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ Rise up, O Jehovah! Save me, O my God!
+For you will strike all my enemies on the jaw;
+You will break the teeth of the wicked.
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ Salvation belongs to Jehovah.
+Your blessing is upon your people. (Selah)
+
+'''
+
+xref:019-psalm/019-psalm-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-psalm/019-psalm-004.adoc#v19-4-0[Próximo Capítulo &#62;]

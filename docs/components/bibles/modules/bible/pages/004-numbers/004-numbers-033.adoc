@@ -1,0 +1,248 @@
+include::./index.adoc[]
+
+[[v4-33-0]]
+=== Numbers, 33
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-33-1]]
+
+^<<v4-33-1,1>>^ These were the stages of the journey of the people of Israel when they went out of the land of Egypt by their companies^&#42;1^ under the direction of Moses and Aaron.
+
+[NOTE]
+====
+. Lit., “according to their armies.”
+====
+
+[[v4-33-2]]
+
+^<<v4-33-2,2>>^ Moses kept recording the departure places by the stages of their journey at the order of Jehovah, and these were their stages from one departure place to another:
+
+[[v4-33-3]]
+
+^<<v4-33-3,3>>^ They departed from Ramʹe·ses in the first month, on the 15th day of the month. On the very day after the Passover, the Israelites went out with confidence^&#42;1^ before the eyes of all the Egyptians.
+
+[NOTE]
+====
+. Lit., “with uplifted hand.”
+====
+
+[[v4-33-4]]
+
+^<<v4-33-4,4>>^ Meanwhile, the Egyptians were burying all the firstborn whom Jehovah had struck down among them, for Jehovah had executed judgments on their gods.
+
+[[v4-33-5]]
+
+^<<v4-33-5,5>>^ So the Israelites departed from Ramʹe·ses and camped at Sucʹcoth.
+
+[[v4-33-6]]
+
+^<<v4-33-6,6>>^ Then they departed from Sucʹcoth and camped at Eʹtham, which is on the edge of the wilderness.
+
+[[v4-33-7]]
+
+^<<v4-33-7,7>>^ Next they departed from Eʹtham and turned back toward Pi·ha·hiʹroth, which is in view of Baʹal-zeʹphon, and they camped before Migʹdol.
+
+[[v4-33-8]]
+
+^<<v4-33-8,8>>^ After that they departed from Pi·ha·hiʹroth and passed through the midst of the sea to the wilderness and kept marching a three-day journey in the wilderness of Eʹtham and camped at Maʹrah.
+
+[[v4-33-9]]
+
+^<<v4-33-9,9>>^ Then they departed from Maʹrah and came to Eʹlim. Now in Eʹlim there were 12 springs of water and 70 palm trees, so they camped there.
+
+[[v4-33-10]]
+
+^<<v4-33-10,10>>^ Next they departed from Eʹlim and camped by the Red Sea.
+
+[[v4-33-11]]
+
+^<<v4-33-11,11>>^ After that they departed from the Red Sea and camped in the wilderness of Sin.
+
+[[v4-33-12]]
+
+^<<v4-33-12,12>>^ Then they departed from the wilderness of Sin and camped at Dophʹkah.
+
+[[v4-33-13]]
+
+^<<v4-33-13,13>>^ Later they departed from Dophʹkah and camped at Aʹlush.
+
+[[v4-33-14]]
+
+^<<v4-33-14,14>>^ They next departed from Aʹlush and camped at Rephʹi·dim, where there was no water for the people to drink.
+
+[[v4-33-15]]
+
+^<<v4-33-15,15>>^ After that they departed from Rephʹi·dim and camped in the wilderness of Siʹnai.
+
+[[v4-33-16]]
+
+^<<v4-33-16,16>>^ They departed from the wilderness of Siʹnai and camped at Kibʹroth-hat·taʹa·vah.
+
+[[v4-33-17]]
+
+^<<v4-33-17,17>>^ Then they departed from Kibʹroth-hat·taʹa·vah and camped at Ha·zeʹroth.
+
+[[v4-33-18]]
+
+^<<v4-33-18,18>>^ After that they departed from Ha·zeʹroth and camped at Rithʹmah.
+
+[[v4-33-19]]
+
+^<<v4-33-19,19>>^ Next they departed from Rithʹmah and camped at Rimʹmon-peʹrez.
+
+[[v4-33-20]]
+
+^<<v4-33-20,20>>^ Then they departed from Rimʹmon-peʹrez and camped at Libʹnah.
+
+[[v4-33-21]]
+
+^<<v4-33-21,21>>^ They departed from Libʹnah and camped at Risʹsah.
+
+[[v4-33-22]]
+
+^<<v4-33-22,22>>^ Next they departed from Risʹsah and camped at Ke·he·laʹthah.
+
+[[v4-33-23]]
+
+^<<v4-33-23,23>>^ Then they departed from Ke·he·laʹthah and camped at Mount Sheʹpher.
+
+[[v4-33-24]]
+
+^<<v4-33-24,24>>^ After that they departed from Mount Sheʹpher and camped at Har·aʹdah.
+
+[[v4-33-25]]
+
+^<<v4-33-25,25>>^ Then they departed from Har·aʹdah and camped at Mak·heʹloth.
+
+[[v4-33-26]]
+
+^<<v4-33-26,26>>^ Next they departed from Mak·heʹloth and camped at Taʹhath.
+
+[[v4-33-27]]
+
+^<<v4-33-27,27>>^ After that they departed from Taʹhath and camped at Teʹrah.
+
+[[v4-33-28]]
+
+^<<v4-33-28,28>>^ Then they departed from Teʹrah and camped at Mithʹkah.
+
+[[v4-33-29]]
+
+^<<v4-33-29,29>>^ Later they departed from Mithʹkah and camped at Hash·moʹnah.
+
+[[v4-33-30]]
+
+^<<v4-33-30,30>>^ Next they departed from Hash·moʹnah and camped at Mo·seʹroth.
+
+[[v4-33-31]]
+
+^<<v4-33-31,31>>^ Then they departed from Mo·seʹroth and camped at Benʹe-jaʹa·kan.
+
+[[v4-33-32]]
+
+^<<v4-33-32,32>>^ And they departed from Benʹe-jaʹa·kan and camped at Hor-hag·gidʹgad.
+
+[[v4-33-33]]
+
+^<<v4-33-33,33>>^ Next they departed from Hor-hag·gidʹgad and camped at Jotʹba·thah.
+
+[[v4-33-34]]
+
+^<<v4-33-34,34>>^ Later they departed from Jotʹba·thah and camped at A·broʹnah.
+
+[[v4-33-35]]
+
+^<<v4-33-35,35>>^ Then they departed from A·broʹnah and camped at Eʹzi·on-geʹber.
+
+[[v4-33-36]]
+
+^<<v4-33-36,36>>^ After that they departed from Eʹzi·on-geʹber and camped in the wilderness of Zin, that is, Kaʹdesh.
+
+[[v4-33-37]]
+
+^<<v4-33-37,37>>^ Later they departed from Kaʹdesh and camped at Mount Hor, on the frontier of the land of Eʹdom.
+
+[[v4-33-38]]
+
+^<<v4-33-38,38>>^ And Aaron the priest went up into Mount Hor at the order of Jehovah and died there in the 40th year after the Israelites left the land of Egypt, in the fifth month, on the first of the month.
+
+[[v4-33-39]]
+
+^<<v4-33-39,39>>^ Aaron was 123 years old at his death on Mount Hor.
+
+[[v4-33-40]]
+
+^<<v4-33-40,40>>^ Now the king of Aʹrad, the Caʹnaan·ite who was dwelling in the Negʹeb in the land of Caʹnaan, heard about the coming of the Israelites.
+
+[[v4-33-41]]
+
+^<<v4-33-41,41>>^ In time they departed from Mount Hor and camped at Zal·moʹnah.
+
+[[v4-33-42]]
+
+^<<v4-33-42,42>>^ After that they departed from Zal·moʹnah and camped at Puʹnon.
+
+[[v4-33-43]]
+
+^<<v4-33-43,43>>^ Next they departed from Puʹnon and camped at Oʹboth.
+
+[[v4-33-44]]
+
+^<<v4-33-44,44>>^ Then they departed from Oʹboth and camped at Iʹye-abʹa·rim, on the border of Moʹab.
+
+[[v4-33-45]]
+
+^<<v4-33-45,45>>^ Later they departed from Iʹyim and camped at Diʹbon-gad.
+
+[[v4-33-46]]
+
+^<<v4-33-46,46>>^ After that they departed from Diʹbon-gad and camped at Alʹmon-dib·la·thaʹim.
+
+[[v4-33-47]]
+
+^<<v4-33-47,47>>^ Then they departed from Alʹmon-dib·la·thaʹim and camped in the mountains of Abʹa·rim before Neʹbo.
+
+[[v4-33-48]]
+
+^<<v4-33-48,48>>^ Finally they departed from the mountains of Abʹa·rim and camped on the desert plains of Moʹab by the Jordan at Jerʹi·cho.
+
+[[v4-33-49]]
+
+^<<v4-33-49,49>>^ They continued camping along the Jordan, from Beth-jeshʹi·moth as far as Aʹbel-shitʹtim, on the desert plains of Moʹab.
+
+[[v4-33-50]]
+
+^<<v4-33-50,50>>^ Jehovah spoke to Moses on the desert plains of Moʹab by the Jordan at Jerʹi·cho, saying:
+
+[[v4-33-51]]
+
+^<<v4-33-51,51>>^ “Speak to the Israelites and tell them, ‘You are crossing the Jordan into the land of Caʹnaan.
+
+[[v4-33-52]]
+
+^<<v4-33-52,52>>^ You must drive away all the inhabitants of the land from before you and destroy all their carvings of stone and all their metal statues,^&#42;1^ and you should demolish all their sacred high places.
+
+[NOTE]
+====
+. Or “molten statues.”
+====
+
+[[v4-33-53]]
+
+^<<v4-33-53,53>>^ And you will take possession of the land and dwell in it, because I will certainly give you the land as a possession.
+
+[[v4-33-54]]
+
+^<<v4-33-54,54>>^ You must apportion the land by lot as a possession among your families. To the larger group you should increase his inheritance, and to the smaller group you should reduce his inheritance. Everyone’s inheritance will be where his lot falls. You will receive your property as an inheritance by the tribes of your fathers.
+
+[[v4-33-55]]
+
+^<<v4-33-55,55>>^ “‘If, though, you do not drive the inhabitants of the land away from before you, those whom you allow to remain will be as irritants in your eyes and thorns in your sides, and they will harass you in the land where you will dwell.
+
+[[v4-33-56]]
+
+^<<v4-33-56,56>>^ And I will do to you what I intended to do to them.’”
+
+'''
+
+xref:004-numbers/004-numbers-032.adoc#v4-32-0[&#60; Capítulo Anterior] | <<v4-33-0,Topo>> | xref:004-numbers/004-numbers-034.adoc#v4-34-0[Próximo Capítulo &#62;]

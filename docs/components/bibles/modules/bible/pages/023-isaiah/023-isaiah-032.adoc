@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v23-32-0]]
+=== Isaiah, 32
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-32-1]]
+
+^<<v23-32-1,1>>^ Look! A king will reign for righteousness,
+And princes will rule for justice.
+
+[[v23-32-2]]
+
+^<<v23-32-2,2>>^ And each one will be like a hiding place^&#42;1^ from the wind,
+A place of concealment^&#42;2^ from the rainstorm,
+Like streams of water in a waterless land,
+Like the shadow of a massive crag in a parched land.
+
+[NOTE]
+====
+. Or “a shelter.”
+. Or “A refuge.”
+====
+
+[[v23-32-3]]
+
+^<<v23-32-3,3>>^ Then the eyes of those seeing will no longer be pasted shut,
+And the ears of those hearing will pay attention.
+
+[[v23-32-4]]
+
+^<<v23-32-4,4>>^ The heart of those who are impetuous will ponder over knowledge,
+And the stammering tongue will speak fluently and clearly.
+
+[[v23-32-5]]
+
+^<<v23-32-5,5>>^ The senseless one will no longer be called generous,
+And the unprincipled man will not be called noble;
+
+[[v23-32-6]]
+
+^<<v23-32-6,6>>^ For the senseless one will speak nonsense,
+And his heart will devise harmful things,
+To promote apostasy^&#42;1^ and to speak what is wayward against Jehovah,
+To cause the hungry one^&#42;2^ to go unfed
+And to deprive the thirsty one of something to drink.
+
+[NOTE]
+====
+. Or “act in an irreverent way.”
+. Or “the soul of the hungry one.”
+====
+
+[[v23-32-7]]
+
+^<<v23-32-7,7>>^ The devices of the unprincipled man are bad;
+He promotes shameful conduct
+To ruin the afflicted one with lies,
+Even when the poor speaks what is right.
+
+[[v23-32-8]]
+
+^<<v23-32-8,8>>^ But the generous one has generous intentions,
+And in generous^&#42;1^ endeavors he perseveres.
+
+[NOTE]
+====
+. Or “noble.”
+====
+
+[[v23-32-9]]
+
+^<<v23-32-9,9>>^ “You complacent women, get up and listen to my voice!
+You carefree daughters, pay attention to what I say!
+
+[[v23-32-10]]
+
+^<<v23-32-10,10>>^ In a little over a year, you who are carefree will shudder,
+Because no fruit will have been gathered when the grape harvest ends.
+
+[[v23-32-11]]
+
+^<<v23-32-11,11>>^ Tremble, you complacent women!
+Shudder, you who are carefree!
+Strip yourselves bare,
+And put sackcloth around your hips.
+
+[[v23-32-12]]
+
+^<<v23-32-12,12>>^ Beat your breasts in lamentation
+Over the desirable fields and the fruitful vine.
+
+[[v23-32-13]]
+
+^<<v23-32-13,13>>^ For the ground of my people will be covered with thorns and briars;
+They will cover all the houses of rejoicing,
+Yes, the city of exultation.
+
+[[v23-32-14]]
+
+^<<v23-32-14,14>>^ For the fortified tower has been forsaken;
+The noisy city has been abandoned.
+Oʹphel and the watchtower have become a permanent wasteland,
+A delight for wild donkeys,
+A pasture for the flocks,
+
+[[v23-32-15]]
+
+^<<v23-32-15,15>>^ Until the spirit is poured out on us from above,
+And the wilderness becomes an orchard,
+And the orchard is regarded as a forest.
+
+[[v23-32-16]]
+
+^<<v23-32-16,16>>^ Then justice will reside in the wilderness,
+And righteousness will dwell in the orchard.
+
+[[v23-32-17]]
+
+^<<v23-32-17,17>>^ The result of true righteousness will be peace,
+And the fruitage of true righteousness will be lasting tranquility and security.
+
+[[v23-32-18]]
+
+^<<v23-32-18,18>>^ My people will dwell in a peaceful abiding place,
+In secure dwellings and in tranquil resting-places.
+
+[[v23-32-19]]
+
+^<<v23-32-19,19>>^ But the hail will flatten the forest,
+And the city will be completely leveled.
+
+[[v23-32-20]]
+
+^<<v23-32-20,20>>^ Happy are you who sow seed alongside all waters,
+Who send out^&#42;1^ the bull and the donkey.”
+
+[NOTE]
+====
+. Or “let loose.”
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-031.adoc#v23-31-0[&#60; Capítulo Anterior] | <<v23-32-0,Topo>> | xref:023-isaiah/023-isaiah-033.adoc#v23-33-0[Próximo Capítulo &#62;]

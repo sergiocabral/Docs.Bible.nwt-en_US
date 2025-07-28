@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v20-13-0]]
+=== Proverbs, 13
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-13-1]]
+
+^<<v20-13-1,1>>^ A wise son accepts his father’s discipline,
+But the scoffer does not listen to a rebuke.^&#42;1^
+
+[NOTE]
+====
+. Or “correction.”
+====
+
+[[v20-13-2]]
+
+^<<v20-13-2,2>>^ From the fruitage of his speech^&#42;1^ a man will eat what is good,
+But the very desire^&#42;2^ of the treacherous is for violence.
+
+[NOTE]
+====
+. Lit., “mouth.”
+. Or “soul.”
+====
+
+[[v20-13-3]]
+
+^<<v20-13-3,3>>^ The one guarding his mouth^&#42;1^ protects his life,^&#42;2^
+But the one opening his lips wide will come to ruin.
+
+[NOTE]
+====
+. Or “what he says.”
+. Or “soul.”
+====
+
+[[v20-13-4]]
+
+^<<v20-13-4,4>>^ The lazy person has his cravings, yet he^&#42;1^ has nothing,
+But the diligent one^&#42;2^ will be fully satisfied.^&#42;3^
+
+[NOTE]
+====
+. Or “his soul.”
+. Or “soul.”
+. Lit., “will be made fat.”
+====
+
+[[v20-13-5]]
+
+^<<v20-13-5,5>>^ The righteous one hates lies,
+But the actions of the wicked bring shame and disgrace.
+
+[[v20-13-6]]
+
+^<<v20-13-6,6>>^ Righteousness protects the one whose way is innocent,
+But wickedness brings down the sinner.
+
+[[v20-13-7]]
+
+^<<v20-13-7,7>>^ There is one who pretends to be rich, yet has nothing;
+There is another who pretends to be poor, yet has great wealth.
+
+[[v20-13-8]]
+
+^<<v20-13-8,8>>^ Riches are the ransom for a man’s life,^&#42;1^
+But the poor are not even threatened.^&#42;2^
+
+[NOTE]
+====
+. Or “soul.”
+. Lit., “hear no rebuke.”
+====
+
+[[v20-13-9]]
+
+^<<v20-13-9,9>>^ The light of the righteous shines brightly,^&#42;1^
+But the lamp of the wicked will be extinguished.
+
+[NOTE]
+====
+. Lit., “rejoices.”
+====
+
+[[v20-13-10]]
+
+^<<v20-13-10,10>>^ Presumptuousness leads only to strife,
+But wisdom belongs to those who seek advice.^&#42;1^
+
+[NOTE]
+====
+. Or “those consulting together.”
+====
+
+[[v20-13-11]]
+
+^<<v20-13-11,11>>^ Wealth quickly gained^&#42;1^ will dwindle,
+But the wealth of the one who gathers it little by little^&#42;2^ will increase.
+
+[NOTE]
+====
+. Or “Wealth from vanity.”
+. Lit., “gathers by hand.”
+====
+
+[[v20-13-12]]
+
+^<<v20-13-12,12>>^ Expectation^&#42;1^ postponed makes the heart sick,
+But a desire realized is a tree of life.
+
+[NOTE]
+====
+. Or “Hope.”
+====
+
+[[v20-13-13]]
+
+^<<v20-13-13,13>>^ Whoever despises instruction^&#42;1^ will pay the penalty,
+But the one who respects the commandment will be rewarded.
+
+[NOTE]
+====
+. Or “the word.”
+====
+
+[[v20-13-14]]
+
+^<<v20-13-14,14>>^ The teaching^&#42;1^ of the wise one is a source of life
+To turn one away from the snares of death.
+
+[NOTE]
+====
+. Or “law.”
+====
+
+[[v20-13-15]]
+
+^<<v20-13-15,15>>^ Keen insight wins favor,
+But the way of the treacherous is harsh.
+
+[[v20-13-16]]
+
+^<<v20-13-16,16>>^ The shrewd person acts with knowledge,
+But the fool exposes his own foolishness.
+
+[[v20-13-17]]
+
+^<<v20-13-17,17>>^ A wicked messenger falls into trouble,
+But a faithful envoy brings healing.
+
+[[v20-13-18]]
+
+^<<v20-13-18,18>>^ Whoever neglects discipline comes to poverty and disgrace,
+But the one accepting correction^&#42;1^ will be glorified.
+
+[NOTE]
+====
+. Or “reproof.”
+====
+
+[[v20-13-19]]
+
+^<<v20-13-19,19>>^ Desire when realized is sweet to a person,^&#42;1^
+But the stupid hate to turn away from bad.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v20-13-20]]
+
+^<<v20-13-20,20>>^ The one walking with the wise will become wise,
+But the one who has dealings with the stupid will fare badly.
+
+[[v20-13-21]]
+
+^<<v20-13-21,21>>^ Calamity pursues sinners,
+But prosperity rewards the righteous.
+
+[[v20-13-22]]
+
+^<<v20-13-22,22>>^ The good person leaves an inheritance to his grandchildren,
+But the sinner’s wealth will be stored up for the righteous one.
+
+[[v20-13-23]]
+
+^<<v20-13-23,23>>^ The plowed field of the poor yields much food,
+But it^&#42;1^ may be swept away by injustice.
+
+[NOTE]
+====
+. Or “he.”
+====
+
+[[v20-13-24]]
+
+^<<v20-13-24,24>>^ Whoever holds back his rod^&#42;1^ hates his son,
+But the one who loves him disciplines him diligently.^&#42;2^
+
+[NOTE]
+====
+. Or “discipline; punishment.”
+. Or possibly, “promptly.”
+====
+
+[[v20-13-25]]
+
+^<<v20-13-25,25>>^ The righteous one eats and satisfies his appetite,^&#42;1^
+But the stomach of the wicked is empty.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-012.adoc#v20-12-0[&#60; Capítulo Anterior] | <<v20-13-0,Topo>> | xref:020-proverbs/020-proverbs-014.adoc#v20-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v19-149-0]]
+=== Psalm, 149
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-149-1]]
+
+^<<v19-149-1,1>>^ Praise Jah!^&#42;1^
+Sing to Jehovah a new song;
+Praise him in the congregation of the loyal ones.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-149-2]]
+
+^<<v19-149-2,2>>^ Let Israel rejoice in its Grand Maker;
+Let the sons of Zion be joyful in their King.
+
+[[v19-149-3]]
+
+^<<v19-149-3,3>>^ Let them praise his name with dancing
+And sing praises^&#42;1^ to him, accompanied by the tambourine and the harp.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-149-4]]
+
+^<<v19-149-4,4>>^ For Jehovah takes pleasure in his people.
+He adorns the meek with salvation.
+
+[[v19-149-5]]
+
+^<<v19-149-5,5>>^ Let the loyal ones exult in glory;
+Let them shout for joy upon their beds.
+
+[[v19-149-6]]
+
+^<<v19-149-6,6>>^ Let the songs praising God be in their throat,
+And a two-edged sword be in their hand,
+
+[[v19-149-7]]
+
+^<<v19-149-7,7>>^ To execute vengeance on the nations
+And punishment on the peoples,
+
+[[v19-149-8]]
+
+^<<v19-149-8,8>>^ To bind their kings with shackles
+And their nobles with iron fetters,
+
+[[v19-149-9]]
+
+^<<v19-149-9,9>>^ To execute the judgment written against them.
+This honor belongs to all his loyal ones.
+Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-148.adoc#v19-148-0[&#60; Capítulo Anterior] | <<v19-149-0,Topo>> | xref:019-psalm/019-psalm-150.adoc#v19-150-0[Próximo Capítulo &#62;]

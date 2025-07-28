@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v55-3-0]]
+=== The Second to Timothy, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v55-3-1]]
+
+^<<v55-3-1,1>>^ But know this, that in the last days critical times hard to deal with will be here.
+
+[[v55-3-2]]
+
+^<<v55-3-2,2>>^ For men will be lovers of themselves, lovers of money, boastful, haughty, blasphemers, disobedient to parents, unthankful, disloyal,
+
+[[v55-3-3]]
+
+^<<v55-3-3,3>>^ having no natural affection, not open to any agreement, slanderers, without self-control, fierce, without love of goodness,
+
+[[v55-3-4]]
+
+^<<v55-3-4,4>>^ betrayers, headstrong, puffed up with pride, lovers of pleasures rather than lovers of God,
+
+[[v55-3-5]]
+
+^<<v55-3-5,5>>^ having an appearance of godliness but proving false to its power; and from these turn away.
+
+[[v55-3-6]]
+
+^<<v55-3-6,6>>^ From among these arise men who slyly work their way into households and captivate weak women loaded down with sins, led by various desires,
+
+[[v55-3-7]]
+
+^<<v55-3-7,7>>^ always learning and yet never able to come to an accurate knowledge of truth.
+
+[[v55-3-8]]
+
+^<<v55-3-8,8>>^ Now in the way that Janʹnes and Jamʹbres opposed Moses, so these also go on opposing the truth. Such men are completely corrupted in mind, disapproved as regards the faith.
+
+[[v55-3-9]]
+
+^<<v55-3-9,9>>^ Nevertheless, they will make no further progress, for their folly^&#42;1^ will be very plain to all, as it was with those two men.
+
+[NOTE]
+====
+. Or “foolishness.”
+====
+
+[[v55-3-10]]
+
+^<<v55-3-10,10>>^ But you have closely followed my teaching, my course of life, my purpose, my faith, my patience, my love, my endurance,
+
+[[v55-3-11]]
+
+^<<v55-3-11,11>>^ the persecutions and sufferings such as I experienced in Antioch, in I·coʹni·um, in Lysʹtra. I endured these persecutions, and the Lord rescued me from them all.
+
+[[v55-3-12]]
+
+^<<v55-3-12,12>>^ In fact, all those desiring to live with godly devotion in association with Christ Jesus will also be persecuted.
+
+[[v55-3-13]]
+
+^<<v55-3-13,13>>^ But wicked men and impostors will advance from bad to worse, misleading and being misled.
+
+[[v55-3-14]]
+
+^<<v55-3-14,14>>^ You, however, continue in the things that you learned and were persuaded to believe, knowing from whom you learned them
+
+[[v55-3-15]]
+
+^<<v55-3-15,15>>^ and that from infancy you have known the holy writings, which are able to make you wise for salvation through faith in Christ Jesus.
+
+[[v55-3-16]]
+
+^<<v55-3-16,16>>^ All Scripture is inspired of God and beneficial for teaching, for reproving, for setting things straight,^&#42;1^ for disciplining in righteousness,
+
+[NOTE]
+====
+. Or “correcting.”
+====
+
+[[v55-3-17]]
+
+^<<v55-3-17,17>>^ so that the man of God may be fully competent, completely equipped for every good work.
+
+'''
+
+xref:055-2-timothy/055-2-timothy-002.adoc#v55-2-0[&#60; Capítulo Anterior] | <<v55-3-0,Topo>> | xref:055-2-timothy/055-2-timothy-004.adoc#v55-4-0[Próximo Capítulo &#62;]

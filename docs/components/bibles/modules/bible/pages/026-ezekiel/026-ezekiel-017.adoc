@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v26-17-0]]
+=== Ezekiel, 17
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v26-17-1]]
+
+^<<v26-17-1,1>>^ The word of Jehovah again came to me, saying:
+
+[[v26-17-2]]
+
+^<<v26-17-2,2>>^ “Son of man, tell a riddle and relate a proverb about the house of Israel.
+
+[[v26-17-3]]
+
+^<<v26-17-3,3>>^ You must say, ‘This is what the Sovereign Lord Jehovah says: “The great eagle, with great wings, long pinions, and full, colorful plumage, came to Lebʹa·non and took the top of the cedar.
+
+[[v26-17-4]]
+
+^<<v26-17-4,4>>^ He plucked off its topmost shoot and brought it to the land of traders^&#42;1^ and set it down in a city of traders.
+
+[NOTE]
+====
+. Lit., “land of Canaan.”
+====
+
+[[v26-17-5]]
+
+^<<v26-17-5,5>>^ He then took some of the seed of the land and put it in a fertile field. He planted it like a willow by abundant waters.
+
+[[v26-17-6]]
+
+^<<v26-17-6,6>>^ So it sprouted and became a low, sprawling vine with its foliage facing inward and its roots growing under it. Thus it became a vine and produced shoots and sent out branches.
+
+[[v26-17-7]]
+
+^<<v26-17-7,7>>^ “‘“And there came another great eagle, with great wings and large pinions. This vine then stretched its roots eagerly toward him, away from the garden beds where it was planted, and it sent out its foliage toward him so that he would irrigate it.
+
+[[v26-17-8]]
+
+^<<v26-17-8,8>>^ It had already been planted in a good field near abundant waters, in order to produce branches, to bear fruit, and to become a majestic vine.”’
+
+[[v26-17-9]]
+
+^<<v26-17-9,9>>^ “Say, ‘This is what the Sovereign Lord Jehovah says: “Will it prosper? Will someone not tear out its roots and make its fruit rot and cause its sprouts to wither? It will become so dry that neither a strong arm nor many people will be needed to pull it up by the roots.
+
+[[v26-17-10]]
+
+^<<v26-17-10,10>>^ Although it is transplanted, will it prosper? Will it not dry up completely when the east wind blows on it? It will dry up in the garden bed where it sprouted.”’”
+
+[[v26-17-11]]
+
+^<<v26-17-11,11>>^ And the word of Jehovah again came to me, saying:
+
+[[v26-17-12]]
+
+^<<v26-17-12,12>>^ “Please tell the rebellious house, ‘Do you not realize what these things mean?’ Say, ‘Look! The king of Babylon came to Jerusalem and took its king and its princes and brought them back with him to Babylon.
+
+[[v26-17-13]]
+
+^<<v26-17-13,13>>^ Furthermore, he took one of the royal offspring^&#42;1^ and made a covenant with him and put him under an oath. Then he took away the prominent men of the land,
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v26-17-14]]
+
+^<<v26-17-14,14>>^ so that the kingdom would be brought low, unable to rise up, so that only by keeping his covenant might it continue to exist.
+
+[[v26-17-15]]
+
+^<<v26-17-15,15>>^ But the king finally rebelled against him by sending his messengers to Egypt to obtain horses and a large army from them. Will he succeed? Will the one doing these things escape punishment? Can he break the covenant and still escape?’
+
+[[v26-17-16]]
+
+^<<v26-17-16,16>>^ “‘“As surely as I am alive,” declares the Sovereign Lord Jehovah, “he will die in Babylon, in the place where the king^&#42;1^ who made him^&#42;2^ king lives, the one whose oath he despised and whose covenant he broke.
+
+[NOTE]
+====
+. That is, Nebuchadnezzar.
+. That is, Zedekiah.
+====
+
+[[v26-17-17]]
+
+^<<v26-17-17,17>>^ And the great army and numerous troops of Pharʹaoh will be of no help in the war, when siege ramparts are raised and siege walls are built to destroy many lives.^&#42;1^
+
+[NOTE]
+====
+. Or “souls.”
+====
+
+[[v26-17-18]]
+
+^<<v26-17-18,18>>^ He has despised an oath and broken a covenant. Even though he gave his promise,^&#42;1^ he has done all these things, and he will not escape.”’
+
+[NOTE]
+====
+. Lit., “gave his hand.”
+====
+
+[[v26-17-19]]
+
+^<<v26-17-19,19>>^ “‘Therefore this is what the Sovereign Lord Jehovah says: “As surely as I am alive, I will bring upon his head the consequences of despising my oath and breaking my covenant.
+
+[[v26-17-20]]
+
+^<<v26-17-20,20>>^ I will cast my net over him, and he will be caught in my hunting net. I will bring him to Babylon and enter into judgment with him there because of the unfaithfulness he committed against me.
+
+[[v26-17-21]]
+
+^<<v26-17-21,21>>^ All the fugitives of his troops will fall by the sword, and those remaining will be scattered in every direction.^&#42;1^ Then you will have to know that I myself, Jehovah, have spoken.”’
+
+[NOTE]
+====
+. Lit., “to every wind.”
+====
+
+[[v26-17-22]]
+
+^<<v26-17-22,22>>^ “‘This is what the Sovereign Lord Jehovah says: “I will take a shoot from the top of the lofty cedar and plant it, from the top of its twigs I will pluck a tender shoot, and I myself will plant it on a high and lofty mountain.
+
+[[v26-17-23]]
+
+^<<v26-17-23,23>>^ On a high mountain of Israel I will plant it; and its branches will grow, and it will produce fruit and become a majestic cedar. And every kind of bird will live beneath it and reside in the shadow of its foliage.
+
+[[v26-17-24]]
+
+^<<v26-17-24,24>>^ And all the trees of the field will have to know that I myself, Jehovah, have brought down the high tree and exalted the low tree; I have dried up the green tree and made the dry tree blossom. I myself, Jehovah, have spoken and have done it.”’”
+
+'''
+
+xref:026-ezekiel/026-ezekiel-016.adoc#v26-16-0[&#60; Capítulo Anterior] | <<v26-17-0,Topo>> | xref:026-ezekiel/026-ezekiel-018.adoc#v26-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,311 @@
+include::./index.adoc[]
+
+[[v44-2-0]]
+=== Acts of Apostles, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v44-2-1]]
+
+^<<v44-2-1,1>>^ Now while the day of the Festival of Pentecost was in progress, they were all together at the same place.
+
+[[v44-2-2]]
+
+^<<v44-2-2,2>>^ Suddenly there was a noise from heaven, just like that of a rushing, stiff breeze, and it filled the whole house where they were sitting.
+
+[[v44-2-3]]
+
+^<<v44-2-3,3>>^ And tongues as if of fire became visible to them and were distributed, and one came to rest on each one of them,
+
+[[v44-2-4]]
+
+^<<v44-2-4,4>>^ and they all became filled with holy spirit and started to speak in different languages,^&#42;1^ just as the spirit enabled them to speak.
+
+[NOTE]
+====
+. Or “tongues.”
+====
+
+[[v44-2-5]]
+
+^<<v44-2-5,5>>^ At that time devout Jews from every nation under heaven were staying in Jerusalem.
+
+[[v44-2-6]]
+
+^<<v44-2-6,6>>^ So when this sound occurred, a crowd gathered and was bewildered, because each one heard them speaking in his own language.
+
+[[v44-2-7]]
+
+^<<v44-2-7,7>>^ Indeed, they were utterly amazed and said: “See here, all these who are speaking are Gal·i·leʹans, are they not?
+
+[[v44-2-8]]
+
+^<<v44-2-8,8>>^ How is it, then, that each one of us is hearing his own native language?^&#42;1^
+
+[NOTE]
+====
+. Or “the language of his birth?”
+====
+
+[[v44-2-9]]
+
+^<<v44-2-9,9>>^ Parʹthi·ans, Medes, and Eʹlam·ites, the inhabitants of Mes·o·po·taʹmi·a, Ju·deʹa and Cap·pa·doʹci·a, Ponʹtus and the province of Asia,
+
+[[v44-2-10]]
+
+^<<v44-2-10,10>>^ Phrygʹi·a and Pam·phylʹi·a, Egypt and the regions of Libʹy·a near Cy·reʹne, sojourners from Rome, both Jews and proselytes,
+
+[[v44-2-11]]
+
+^<<v44-2-11,11>>^ Creʹtans, and Arabians—we hear them speaking in our languages about the magnificent things of God.”
+
+[[v44-2-12]]
+
+^<<v44-2-12,12>>^ Yes, they were all astonished and perplexed, saying to one another: “What does this mean?”
+
+[[v44-2-13]]
+
+^<<v44-2-13,13>>^ However, others mocked them and said: “They are full of sweet wine.”^&#42;1^
+
+[NOTE]
+====
+. Or “new wine.”
+====
+
+[[v44-2-14]]
+
+^<<v44-2-14,14>>^ But Peter stood up with the Eleven and spoke to them in a loud voice: “Men of Ju·deʹa and all you inhabitants of Jerusalem, let this be known to you and listen carefully to my words.
+
+[[v44-2-15]]
+
+^<<v44-2-15,15>>^ These people are, in fact, not drunk, as you suppose, for it is the third hour of the day.^&#42;1^
+
+[NOTE]
+====
+. That is, about 9:00 a.m.
+====
+
+[[v44-2-16]]
+
+^<<v44-2-16,16>>^ On the contrary, this is what was said through the prophet Joel:
+
+[[v44-2-17]]
+
+^<<v44-2-17,17>>^ ‘“And in the last days,” God says, “I will pour out some of my spirit on every sort of flesh, and your sons and your daughters will prophesy and your young men will see visions and your old men will dream dreams,
+
+[[v44-2-18]]
+
+^<<v44-2-18,18>>^ and even on my male slaves and on my female slaves I will pour out some of my spirit in those days, and they will prophesy.
+
+[[v44-2-19]]
+
+^<<v44-2-19,19>>^ And I will give wonders^&#42;1^ in heaven above and signs on earth below—blood and fire and clouds of smoke.
+
+[NOTE]
+====
+. Or “portents.”
+====
+
+[[v44-2-20]]
+
+^<<v44-2-20,20>>^ The sun will be turned into darkness and the moon into blood before the great and illustrious day of Jehovah^&#42;1^ comes.
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v44-2-21]]
+
+^<<v44-2-21,21>>^ And everyone who calls on the name of Jehovah^&#42;1^ will be saved.”’
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v44-2-22]]
+
+^<<v44-2-22,22>>^ “Men of Israel, hear these words: Jesus the Naz·a·reneʹ was a man publicly shown to you by God through powerful works and wonders^&#42;1^ and signs that God did through him in your midst, just as you yourselves know.
+
+[NOTE]
+====
+. Or “portents.”
+====
+
+[[v44-2-23]]
+
+^<<v44-2-23,23>>^ This man, who was handed over by the determined will^&#42;1^ and foreknowledge of God, you fastened to a stake by the hand of lawless men, and you did away with him.
+
+[NOTE]
+====
+. Or “counsel.”
+====
+
+[[v44-2-24]]
+
+^<<v44-2-24,24>>^ But God resurrected him by releasing him from the pangs^&#42;1^ of death, because it was not possible for him to be held fast by it.
+
+[NOTE]
+====
+. Or possibly, “cords.”
+====
+
+[[v44-2-25]]
+
+^<<v44-2-25,25>>^ For David says about him: ‘I keep Jehovah^&#42;1^ constantly in front of me,^&#42;2^ for he is at my right hand that I may never be shaken.
+
+[NOTE]
+====
+. See App. A5.
+. Or “before my eyes.”
+====
+
+[[v44-2-26]]
+
+^<<v44-2-26,26>>^ On this account my heart became cheerful and my tongue rejoiced greatly. And I^&#42;1^ will reside in hope;
+
+[NOTE]
+====
+. Lit., “my flesh.”
+====
+
+[[v44-2-27]]
+
+^<<v44-2-27,27>>^ because you will not leave me^&#42;1^ in the Grave,^&#42;2^ nor will you allow your loyal one to see corruption.
+
+[NOTE]
+====
+. Or “my soul.”
+. Or “Hades,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v44-2-28]]
+
+^<<v44-2-28,28>>^ You have made life’s ways known to me; you will fill me with great joy in your presence.’^&#42;1^
+
+[NOTE]
+====
+. Or “before your face.”
+====
+
+[[v44-2-29]]
+
+^<<v44-2-29,29>>^ “Men, brothers, it is permissible to speak with freeness of speech to you about the family head David, that he died and was buried, and his tomb is with us to this day.
+
+[[v44-2-30]]
+
+^<<v44-2-30,30>>^ Because he was a prophet and knew that God had sworn to him with an oath that he would seat one of his offspring^&#42;1^ on his throne,
+
+[NOTE]
+====
+. Lit., “one from the fruitage of his loins.”
+====
+
+[[v44-2-31]]
+
+^<<v44-2-31,31>>^ he foresaw and spoke about the resurrection of the Christ, that neither was he forsaken in the Grave^&#42;1^ nor did his flesh see corruption.^&#42;2^
+
+[NOTE]
+====
+. Or “Hades,” that is, the common grave of mankind. See Glossary.
+. Or “decay.”
+====
+
+[[v44-2-32]]
+
+^<<v44-2-32,32>>^ God resurrected this Jesus, and of this we are all witnesses.
+
+[[v44-2-33]]
+
+^<<v44-2-33,33>>^ Therefore, because he was exalted to the right hand of God and received the promised holy spirit from the Father, he has poured out what you see and hear.
+
+[[v44-2-34]]
+
+^<<v44-2-34,34>>^ For David did not ascend to the heavens, but he himself says, ‘Jehovah^&#42;1^ said to my Lord: “Sit at my right hand
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v44-2-35]]
+
+^<<v44-2-35,35>>^ until I place your enemies as a stool for your feet.”’
+
+[[v44-2-36]]
+
+^<<v44-2-36,36>>^ Therefore, let all the house of Israel know for a certainty that God made him both Lord and Christ, this Jesus whom you executed on a stake.”
+
+[[v44-2-37]]
+
+^<<v44-2-37,37>>^ Now when they heard this, they were stabbed to the heart, and they said to Peter and the rest of the apostles: “Men, brothers, what should we do?”
+
+[[v44-2-38]]
+
+^<<v44-2-38,38>>^ Peter said to them: “Repent, and let each one of you be baptized in the name of Jesus Christ for forgiveness of your sins, and you will receive the free gift of the holy spirit.
+
+[[v44-2-39]]
+
+^<<v44-2-39,39>>^ For the promise is to you and your children, and to all those who are far away, to all those whom Jehovah^&#42;1^ our God may call to himself.”
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v44-2-40]]
+
+^<<v44-2-40,40>>^ And with many other words he gave a thorough witness and kept exhorting them, saying: “Get saved from this crooked generation.”
+
+[[v44-2-41]]
+
+^<<v44-2-41,41>>^ So those who gladly accepted his word were baptized, and on that day about 3,000 people^&#42;1^ were added.
+
+[NOTE]
+====
+. Or “souls.”
+====
+
+[[v44-2-42]]
+
+^<<v44-2-42,42>>^ And they continued devoting themselves to the teaching of the apostles, to associating together,^&#42;1^ to the taking of meals, and to prayers.
+
+[NOTE]
+====
+. Or “to sharing with one another.”
+====
+
+[[v44-2-43]]
+
+^<<v44-2-43,43>>^ Indeed, fear began to fall upon everyone,^&#42;1^ and many wonders^&#42;2^ and signs began to occur through the apostles.
+
+[NOTE]
+====
+. Or “every soul.”
+. Or “portents.”
+====
+
+[[v44-2-44]]
+
+^<<v44-2-44,44>>^ All those who became believers were together and had everything in common,
+
+[[v44-2-45]]
+
+^<<v44-2-45,45>>^ and they were selling their possessions and properties and distributing the proceeds to all, according to what each one needed.
+
+[[v44-2-46]]
+
+^<<v44-2-46,46>>^ And day after day they were in constant attendance in the temple with a united purpose, and they took their meals in different homes and shared their food with great rejoicing and sincerity of heart,
+
+[[v44-2-47]]
+
+^<<v44-2-47,47>>^ praising God and finding favor with all the people. At the same time Jehovah^&#42;1^ continued to add to them daily those being saved.
+
+[NOTE]
+====
+. See App. A5.
+====
+
+'''
+
+xref:044-acts/044-acts-001.adoc#v44-1-0[&#60; Capítulo Anterior] | <<v44-2-0,Topo>> | xref:044-acts/044-acts-003.adoc#v44-3-0[Próximo Capítulo &#62;]

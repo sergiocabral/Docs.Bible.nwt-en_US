@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v23-20-0]]
+=== Isaiah, 20
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-20-1]]
+
+^<<v23-20-1,1>>^ In the year that King Sarʹgon of As·syrʹi·a sent the Tarʹtan^&#42;1^ to Ashʹdod, he fought against Ashʹdod and captured it.
+
+[NOTE]
+====
+. Or “the commander.”
+====
+
+[[v23-20-2]]
+
+^<<v23-20-2,2>>^ At that time Jehovah spoke through Isaiah the son of Aʹmoz, saying: “Go, remove the sackcloth from your hips, and take your sandals off your feet.” And he did so, walking about naked^&#42;1^ and barefoot.
+
+[NOTE]
+====
+. Or “lightly clad.”
+====
+
+[[v23-20-3]]
+
+^<<v23-20-3,3>>^ Jehovah then said: “Just as my servant Isaiah has walked about naked and barefoot for three years as a sign and a portent against Egypt and E·thi·oʹpi·a,
+
+[[v23-20-4]]
+
+^<<v23-20-4,4>>^ so the king of As·syrʹi·a will lead the captives of Egypt and the exiles of E·thi·oʹpi·a, boys and old men, naked and barefoot and with exposed buttocks, the nakedness^&#42;1^ of Egypt.
+
+[NOTE]
+====
+. Or “to the shame.”
+====
+
+[[v23-20-5]]
+
+^<<v23-20-5,5>>^ And they will be terrified and will be ashamed of E·thi·oʹpi·a their hope and of Egypt their pride.^&#42;1^
+
+[NOTE]
+====
+. Or “whose beauty they admired.”
+====
+
+[[v23-20-6]]
+
+^<<v23-20-6,6>>^ The inhabitants of this coastland will say in that day, ‘Look at what happened to our hope, to which we fled for help and rescue from the king of As·syrʹi·a! How will we escape now?’”
+
+'''
+
+xref:023-isaiah/023-isaiah-019.adoc#v23-19-0[&#60; Capítulo Anterior] | <<v23-20-0,Topo>> | xref:023-isaiah/023-isaiah-021.adoc#v23-21-0[Próximo Capítulo &#62;]

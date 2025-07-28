@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v19-73-0]]
+=== Psalm, 73
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_BOOK THREE_
+
+_(Psalms 73-89)_
+
+_A melody of Aʹsaph._
+
+[[v19-73-1]]
+
+^<<v19-73-1,1>>^ God is truly good to Israel, to those pure in heart.
+
+[[v19-73-2]]
+
+^<<v19-73-2,2>>^ As for me, my feet had almost strayed;
+My steps had nearly slipped.
+
+[[v19-73-3]]
+
+^<<v19-73-3,3>>^ For I became envious of the arrogant^&#42;1^
+When I would see the peace of the wicked.
+
+[NOTE]
+====
+. Or “boasters.”
+====
+
+[[v19-73-4]]
+
+^<<v19-73-4,4>>^ For they have no pain in their death;
+Their bodies are healthy.^&#42;1^
+
+[NOTE]
+====
+. Or “Their paunch is fat.”
+====
+
+[[v19-73-5]]
+
+^<<v19-73-5,5>>^ They are not troubled like other humans,
+Nor do they suffer like other men.
+
+[[v19-73-6]]
+
+^<<v19-73-6,6>>^ Therefore, haughtiness is their necklace;
+Violence clothes them as a garment.
+
+[[v19-73-7]]
+
+^<<v19-73-7,7>>^ Their prosperity^&#42;1^ makes their eyes bulge;
+They have exceeded the imaginations of the heart.
+
+[NOTE]
+====
+. Lit., “fat.”
+====
+
+[[v19-73-8]]
+
+^<<v19-73-8,8>>^ They scoff and say evil things.
+They arrogantly threaten oppression.
+
+[[v19-73-9]]
+
+^<<v19-73-9,9>>^ They speak as if they were as high as heaven,
+And their tongues swagger about in the earth.
+
+[[v19-73-10]]
+
+^<<v19-73-10,10>>^ So his people turn aside to them,
+And they drink from their abundant water.
+
+[[v19-73-11]]
+
+^<<v19-73-11,11>>^ They say: “How does God know?
+Does the Most High really have knowledge?”
+
+[[v19-73-12]]
+
+^<<v19-73-12,12>>^ Yes, these are the wicked, who always have it easy.
+They keep increasing their wealth.
+
+[[v19-73-13]]
+
+^<<v19-73-13,13>>^ Surely in vain I have kept my heart pure
+And washed my hands in innocence.
+
+[[v19-73-14]]
+
+^<<v19-73-14,14>>^ And I was troubled all day long;
+Every morning I was chastised.
+
+[[v19-73-15]]
+
+^<<v19-73-15,15>>^ But if I had said these things,
+I would have betrayed your people.^&#42;1^
+
+[NOTE]
+====
+. Lit., “the generation of your sons.”
+====
+
+[[v19-73-16]]
+
+^<<v19-73-16,16>>^ When I tried to understand it,
+It was troubling to me
+
+[[v19-73-17]]
+
+^<<v19-73-17,17>>^ Until I entered the grand sanctuary of God,
+And I discerned their future.
+
+[[v19-73-18]]
+
+^<<v19-73-18,18>>^ Surely you place them on slippery ground.
+You make them fall to their ruin.
+
+[[v19-73-19]]
+
+^<<v19-73-19,19>>^ How suddenly they are devastated!
+How sudden is their finish as they come to a terrible end!
+
+[[v19-73-20]]
+
+^<<v19-73-20,20>>^ Like a dream when one wakes up, O Jehovah,
+When you rouse yourself, you will dismiss^&#42;1^ their image.
+
+[NOTE]
+====
+. Lit., “despise.”
+====
+
+[[v19-73-21]]
+
+^<<v19-73-21,21>>^ But my heart was sour,
+And deep inside^&#42;1^ I felt sharp pain.
+
+[NOTE]
+====
+. Lit., “in my kidneys.”
+====
+
+[[v19-73-22]]
+
+^<<v19-73-22,22>>^ I was unreasoning and lacked understanding;
+I was like a senseless beast before you.
+
+[[v19-73-23]]
+
+^<<v19-73-23,23>>^ But now I am continually with you;
+You have taken hold of my right hand.
+
+[[v19-73-24]]
+
+^<<v19-73-24,24>>^ You guide me with your advice,
+And afterward you will lead me to glory.
+
+[[v19-73-25]]
+
+^<<v19-73-25,25>>^ Whom do I have in the heavens?
+And besides you I desire nothing on earth.
+
+[[v19-73-26]]
+
+^<<v19-73-26,26>>^ My body and my heart may fail,
+But God is the rock of my heart and my portion forever.
+
+[[v19-73-27]]
+
+^<<v19-73-27,27>>^ Truly, those keeping far from you will perish.
+You will put an end to^&#42;1^ everyone who immorally^&#42;2^ leaves you.
+
+[NOTE]
+====
+. Lit., “silence.”
+. Or “unfaithfully.”
+====
+
+[[v19-73-28]]
+
+^<<v19-73-28,28>>^ But as for me, drawing near to God is good for me.
+I have made the Sovereign Lord Jehovah my refuge,
+To declare all your works.
+
+'''
+
+xref:019-psalm/019-psalm-072.adoc#v19-72-0[&#60; Capítulo Anterior] | <<v19-73-0,Topo>> | xref:019-psalm/019-psalm-074.adoc#v19-74-0[Próximo Capítulo &#62;]

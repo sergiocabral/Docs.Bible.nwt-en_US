@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v19-24-0]]
+=== Psalm, 24
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David. A melody._
+
+[[v19-24-1]]
+
+^<<v19-24-1,1>>^ To Jehovah belong the earth and everything in it,
+The productive land and those dwelling on it.
+
+[[v19-24-2]]
+
+^<<v19-24-2,2>>^ For he has solidly fixed it on the seas
+And firmly established it on the rivers.
+
+[[v19-24-3]]
+
+^<<v19-24-3,3>>^ Who may ascend to the mountain of Jehovah,
+And who may stand up in his holy place?
+
+[[v19-24-4]]
+
+^<<v19-24-4,4>>^ Anyone with innocent hands and a pure heart,
+Who has not sworn a false oath by My life,^&#42;1^
+Nor taken an oath deceitfully.
+
+[NOTE]
+====
+. Or “My soul,” referring to Jehovah’s life by which an individual swears.
+====
+
+[[v19-24-5]]
+
+^<<v19-24-5,5>>^ He will receive blessings from Jehovah
+And righteousness^&#42;1^ from his God of salvation.
+
+[NOTE]
+====
+. Or “justice.”
+====
+
+[[v19-24-6]]
+
+^<<v19-24-6,6>>^ This is the generation of those seeking him,
+Of those seeking your face, O God of Jacob. (Selah)
+
+[[v19-24-7]]
+
+^<<v19-24-7,7>>^ Lift up your heads, you gates;
+Open up,^&#42;1^ you ancient doorways,
+That the glorious King may enter!
+
+[NOTE]
+====
+. Or “Rise up.”
+====
+
+[[v19-24-8]]
+
+^<<v19-24-8,8>>^ Who is this glorious King?
+Jehovah, strong and mighty,
+Jehovah, mighty in battle.
+
+[[v19-24-9]]
+
+^<<v19-24-9,9>>^ Lift up your heads, you gates;
+Open up, you ancient doorways,
+That the glorious King may enter!
+
+[[v19-24-10]]
+
+^<<v19-24-10,10>>^ Who is he, this glorious King?
+Jehovah of armies—he is the glorious King. (Selah)
+
+'''
+
+xref:019-psalm/019-psalm-023.adoc#v19-23-0[&#60; Capítulo Anterior] | <<v19-24-0,Topo>> | xref:019-psalm/019-psalm-025.adoc#v19-25-0[Próximo Capítulo &#62;]

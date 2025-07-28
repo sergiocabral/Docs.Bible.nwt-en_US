@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v19-91-0]]
+=== Psalm, 91
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-91-1]]
+
+^<<v19-91-1,1>>^ Anyone dwelling in the secret place of the Most High
+Will lodge under the shadow of the Almighty.
+
+[[v19-91-2]]
+
+^<<v19-91-2,2>>^ I will say to Jehovah: “You are my refuge and my stronghold,
+My God in whom I trust.”
+
+[[v19-91-3]]
+
+^<<v19-91-3,3>>^ For he will rescue you from the trap of the birdcatcher,
+From the destructive pestilence.
+
+[[v19-91-4]]
+
+^<<v19-91-4,4>>^ With his pinions he will cover^&#42;1^ you,
+And under his wings you will take refuge.
+His faithfulness will be a large shield and a protective wall.^&#42;2^
+
+[NOTE]
+====
+. Or “block approach to.”
+. Or “a bulwark.”
+====
+
+[[v19-91-5]]
+
+^<<v19-91-5,5>>^ You will not fear the terrors of the night,
+Nor the arrow that flies by day,
+
+[[v19-91-6]]
+
+^<<v19-91-6,6>>^ Nor the pestilence that stalks in the gloom,
+Nor the destruction that ravages at midday.
+
+[[v19-91-7]]
+
+^<<v19-91-7,7>>^ A thousand will fall at your side
+And ten thousand at your right hand,
+But to you it will not come near.
+
+[[v19-91-8]]
+
+^<<v19-91-8,8>>^ You will only see it with your eyes
+As you witness the punishment^&#42;1^ of the wicked.
+
+[NOTE]
+====
+. Lit., “retribution.”
+====
+
+[[v19-91-9]]
+
+^<<v19-91-9,9>>^ Because you said: “Jehovah is my refuge,”
+You have made the Most High your dwelling;^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “fortress; refuge.”
+====
+
+[[v19-91-10]]
+
+^<<v19-91-10,10>>^ No disaster will befall you,
+And no plague will come near your tent.
+
+[[v19-91-11]]
+
+^<<v19-91-11,11>>^ For he will give his angels a command concerning you,
+To guard you in all your ways.
+
+[[v19-91-12]]
+
+^<<v19-91-12,12>>^ They will carry you on their hands,
+So that you may not strike your foot against a stone.
+
+[[v19-91-13]]
+
+^<<v19-91-13,13>>^ On the young lion and the cobra you will tread;
+You will trample underfoot the maned lion and the big snake.
+
+[[v19-91-14]]
+
+^<<v19-91-14,14>>^ God said: “Because he has affection for me,^&#42;1^ I will rescue him.
+I will protect him because he knows^&#42;2^ my name.
+
+[NOTE]
+====
+. Lit., “he has joined himself to me.”
+. Or “acknowledges.”
+====
+
+[[v19-91-15]]
+
+^<<v19-91-15,15>>^ He will call on me, and I will answer him.
+I will be with him in distress.
+I will rescue him and glorify him.
+
+[[v19-91-16]]
+
+^<<v19-91-16,16>>^ I will satisfy him with long life,
+And I will cause him to see my acts of salvation.”^&#42;1^
+
+[NOTE]
+====
+. Or “see salvation from me.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-090.adoc#v19-90-0[&#60; Capítulo Anterior] | <<v19-91-0,Topo>> | xref:019-psalm/019-psalm-092.adoc#v19-92-0[Próximo Capítulo &#62;]

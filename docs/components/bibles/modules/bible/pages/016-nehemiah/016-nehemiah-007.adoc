@@ -1,0 +1,344 @@
+include::./index.adoc[]
+
+[[v16-7-0]]
+=== Nehemiah, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v16-7-1]]
+
+^<<v16-7-1,1>>^ As soon as the wall had been rebuilt I set up the doors; then the gatekeepers, the singers, and the Levites were appointed.
+
+[[v16-7-2]]
+
+^<<v16-7-2,2>>^ I then put my brother Ha·naʹni in charge of Jerusalem, along with Han·a·niʹah the chief of the Fortress, for he was a most trustworthy man and feared the true God more than many others.
+
+[[v16-7-3]]
+
+^<<v16-7-3,3>>^ So I said to them: “The gates of Jerusalem should not be opened until the heat of the day, and while they are standing guard, they should shut the doors and bolt them. And assign the inhabitants of Jerusalem as guards, each to his assigned guardpost and each in front of his own house.”
+
+[[v16-7-4]]
+
+^<<v16-7-4,4>>^ Now the city was spacious and large, and there were few people inside it, and the houses had not been rebuilt.
+
+[[v16-7-5]]
+
+^<<v16-7-5,5>>^ But my God put it into my heart to gather together the nobles and the deputy rulers and the people to be enrolled genealogically. Then I found the book of genealogical enrollment of those who first came up, and I found written in it:
+
+[[v16-7-6]]
+
+^<<v16-7-6,6>>^ And these were the people of the province^&#42;1^ who came up out of the captivity of the exiles, those whom King Neb·u·chad·nezʹzar of Babylon had exiled and who later returned to Jerusalem and Judah, each to his own city,
+
+[NOTE]
+====
+. Or “jurisdictional district.”
+====
+
+[[v16-7-7]]
+
+^<<v16-7-7,7>>^ those who came with Ze·rubʹba·bel, Jeshʹu·a, Ne·he·miʹah, Az·a·riʹah, Ra·a·miʹah, Na·hamʹa·ni, Morʹde·cai, Bilʹshan, Misʹpe·reth, Bigʹvai, Neʹhum, and Baʹa·nah.
+The number of the Israelite men included:
+
+[[v16-7-8]]
+
+^<<v16-7-8,8>>^ the sons of Paʹrosh, 2,172;
+
+[[v16-7-9]]
+
+^<<v16-7-9,9>>^ the sons of Sheph·a·tiʹah, 372;
+
+[[v16-7-10]]
+
+^<<v16-7-10,10>>^ the sons of Aʹrah, 652;
+
+[[v16-7-11]]
+
+^<<v16-7-11,11>>^ the sons of Paʹhath-moʹab, of the sons of Jeshʹu·a and Joʹab, 2,818;
+
+[[v16-7-12]]
+
+^<<v16-7-12,12>>^ the sons of Eʹlam, 1,254;
+
+[[v16-7-13]]
+
+^<<v16-7-13,13>>^ the sons of Zatʹtu, 845;
+
+[[v16-7-14]]
+
+^<<v16-7-14,14>>^ the sons of Zacʹcai, 760;
+
+[[v16-7-15]]
+
+^<<v16-7-15,15>>^ the sons of Binʹnu·i, 648;
+
+[[v16-7-16]]
+
+^<<v16-7-16,16>>^ the sons of Beʹbai, 628;
+
+[[v16-7-17]]
+
+^<<v16-7-17,17>>^ the sons of Azʹgad, 2,322;
+
+[[v16-7-18]]
+
+^<<v16-7-18,18>>^ the sons of Ad·o·niʹkam, 667;
+
+[[v16-7-19]]
+
+^<<v16-7-19,19>>^ the sons of Bigʹvai, 2,067;
+
+[[v16-7-20]]
+
+^<<v16-7-20,20>>^ the sons of Aʹdin, 655;
+
+[[v16-7-21]]
+
+^<<v16-7-21,21>>^ the sons of Aʹter, of Hez·e·kiʹah, 98;
+
+[[v16-7-22]]
+
+^<<v16-7-22,22>>^ the sons of Haʹshum, 328;
+
+[[v16-7-23]]
+
+^<<v16-7-23,23>>^ the sons of Beʹzai, 324;
+
+[[v16-7-24]]
+
+^<<v16-7-24,24>>^ the sons of Haʹriph, 112;
+
+[[v16-7-25]]
+
+^<<v16-7-25,25>>^ the sons of Gibʹe·on, 95;
+
+[[v16-7-26]]
+
+^<<v16-7-26,26>>^ the men of Bethʹle·hem and Ne·toʹphah, 188;
+
+[[v16-7-27]]
+
+^<<v16-7-27,27>>^ the men of Anʹa·thoth, 128;
+
+[[v16-7-28]]
+
+^<<v16-7-28,28>>^ the men of Beth-azʹma·veth, 42;
+
+[[v16-7-29]]
+
+^<<v16-7-29,29>>^ the men of Kirʹi·ath-jeʹa·rim, Che·phiʹrah, and Be·erʹoth, 743;
+
+[[v16-7-30]]
+
+^<<v16-7-30,30>>^ the men of Raʹmah and Geʹba, 621;
+
+[[v16-7-31]]
+
+^<<v16-7-31,31>>^ the men of Michʹmas, 122;
+
+[[v16-7-32]]
+
+^<<v16-7-32,32>>^ the men of Bethʹel and Aʹi, 123;
+
+[[v16-7-33]]
+
+^<<v16-7-33,33>>^ the men of the other Neʹbo, 52;
+
+[[v16-7-34]]
+
+^<<v16-7-34,34>>^ the sons of the other Eʹlam, 1,254;
+
+[[v16-7-35]]
+
+^<<v16-7-35,35>>^ the sons of Haʹrim, 320;
+
+[[v16-7-36]]
+
+^<<v16-7-36,36>>^ the sons of Jerʹi·cho, 345;
+
+[[v16-7-37]]
+
+^<<v16-7-37,37>>^ the sons of Lod, Haʹdid, and Oʹno, 721;
+
+[[v16-7-38]]
+
+^<<v16-7-38,38>>^ the sons of Se·naʹah, 3,930.
+
+[[v16-7-39]]
+
+^<<v16-7-39,39>>^ The priests: the sons of Je·daʹiah of the house of Jeshʹu·a, 973;
+
+[[v16-7-40]]
+
+^<<v16-7-40,40>>^ the sons of Imʹmer, 1,052;
+
+[[v16-7-41]]
+
+^<<v16-7-41,41>>^ the sons of Pashʹhur, 1,247;
+
+[[v16-7-42]]
+
+^<<v16-7-42,42>>^ the sons of Haʹrim, 1,017.
+
+[[v16-7-43]]
+
+^<<v16-7-43,43>>^ The Levites: the sons of Jeshʹu·a, of Kadʹmi·el, of the sons of Hoʹde·vah, 74.
+
+[[v16-7-44]]
+
+^<<v16-7-44,44>>^ The singers: the sons of Aʹsaph, 148.
+
+[[v16-7-45]]
+
+^<<v16-7-45,45>>^ The gatekeepers: the sons of Shalʹlum, the sons of Aʹter, the sons of Talʹmon, the sons of Akʹkub, the sons of Ha·tiʹta, the sons of Shoʹbai, 138.
+
+[[v16-7-46]]
+
+^<<v16-7-46,46>>^ The temple servants:^&#42;1^ the sons of Ziʹha, the sons of Ha·suʹpha, the sons of Tab·baʹoth,
+
+[NOTE]
+====
+. Or “The Nethinim.” Lit., “The given ones.”
+====
+
+[[v16-7-47]]
+
+^<<v16-7-47,47>>^ the sons of Keʹros, the sons of Siʹa, the sons of Paʹdon,
+
+[[v16-7-48]]
+
+^<<v16-7-48,48>>^ the sons of Le·baʹnah, the sons of Hagʹa·bah, the sons of Salʹmai,
+
+[[v16-7-49]]
+
+^<<v16-7-49,49>>^ the sons of Haʹnan, the sons of Gidʹdel, the sons of Gaʹhar,
+
+[[v16-7-50]]
+
+^<<v16-7-50,50>>^ the sons of Re·aʹiah, the sons of Reʹzin, the sons of Ne·koʹda,
+
+[[v16-7-51]]
+
+^<<v16-7-51,51>>^ the sons of Gazʹzam, the sons of Uzʹza, the sons of Pa·seʹah,
+
+[[v16-7-52]]
+
+^<<v16-7-52,52>>^ the sons of Beʹsai, the sons of Me·uʹnim, the sons of Ne·phushʹe·sim,
+
+[[v16-7-53]]
+
+^<<v16-7-53,53>>^ the sons of Bakʹbuk, the sons of Ha·kuʹpha, the sons of Harʹhur,
+
+[[v16-7-54]]
+
+^<<v16-7-54,54>>^ the sons of Bazʹlith, the sons of Me·hiʹda, the sons of Harʹsha,
+
+[[v16-7-55]]
+
+^<<v16-7-55,55>>^ the sons of Barʹkos, the sons of Sisʹe·ra, the sons of Teʹmah,
+
+[[v16-7-56]]
+
+^<<v16-7-56,56>>^ the sons of Ne·ziʹah, the sons of Ha·tiʹpha.
+
+[[v16-7-57]]
+
+^<<v16-7-57,57>>^ The sons of the servants of Solʹo·mon: the sons of Soʹtai, the sons of So·pheʹreth, the sons of Pe·riʹda,
+
+[[v16-7-58]]
+
+^<<v16-7-58,58>>^ the sons of Jaʹa·la, the sons of Darʹkon, the sons of Gidʹdel,
+
+[[v16-7-59]]
+
+^<<v16-7-59,59>>^ the sons of Sheph·a·tiʹah, the sons of Hatʹtil, the sons of Poʹche·reth-haz·ze·baʹim, the sons of Aʹmon.
+
+[[v16-7-60]]
+
+^<<v16-7-60,60>>^ All the temple servants^&#42;1^ and the sons of the servants of Solʹo·mon were 392.
+
+[NOTE]
+====
+. Or “the Nethinim.” Lit., “the given ones.”
+====
+
+[[v16-7-61]]
+
+^<<v16-7-61,61>>^ And these went up from Tel-meʹlah, Tel-harʹsha, Cheʹrub, Adʹdon, and Imʹmer, but they were unable to verify their paternal house and their origin, as to whether they were Israelites:
+
+[[v16-7-62]]
+
+^<<v16-7-62,62>>^ the sons of De·laʹiah, the sons of To·biʹah, the sons of Ne·koʹda, 642.
+
+[[v16-7-63]]
+
+^<<v16-7-63,63>>^ And of the priests: the sons of Ha·baiʹah, the sons of Hakʹkoz, the sons of Bar·zilʹlai, who took a wife from the daughters of Bar·zilʹlai the Gilʹe·ad·ite and was called by their name.
+
+[[v16-7-64]]
+
+^<<v16-7-64,64>>^ These looked for their records to establish their genealogy, but they could not be found, so they were disqualified from the priesthood.^&#42;1^
+
+[NOTE]
+====
+. Or “were excluded from the priesthood as unclean.”
+====
+
+[[v16-7-65]]
+
+^<<v16-7-65,65>>^ The governor^&#42;1^ told them that they should not eat from the most holy things until there was a priest who could consult the Uʹrim and Thumʹmim.
+
+[NOTE]
+====
+. Or “The Tirshatha,” a Persian title for a governor of a province.
+====
+
+[[v16-7-66]]
+
+^<<v16-7-66,66>>^ The total number of the entire congregation was 42,360,
+
+[[v16-7-67]]
+
+^<<v16-7-67,67>>^ apart from their male and female slaves, who were 7,337; they also had 245 male and female singers.
+
+[[v16-7-68]]
+
+^<<v16-7-68,68>>^ Their horses were 736, their mules 245,
+
+[[v16-7-69]]
+
+^<<v16-7-69,69>>^ their camels 435, their donkeys 6,720.
+
+[[v16-7-70]]
+
+^<<v16-7-70,70>>^ Some of the heads of the paternal houses contributed to the work. The governor^&#42;1^ gave to the treasury 1,000 gold drachmas,^&#42;2^ 50 bowls, and 530 priests’ robes.
+
+[NOTE]
+====
+. Or “The Tirshatha,” a Persian title for a governor of a province.
+. Generally equated with the Persian gold daric that weighed 8.4 g (0.27 oz t). Not the drachma of the Greek Scriptures. See App. B14.
+====
+
+[[v16-7-71]]
+
+^<<v16-7-71,71>>^ And some of the heads of the paternal houses gave to the project treasury 20,000 gold drachmas and 2,200 silver miʹnas.^&#42;1^
+
+[NOTE]
+====
+. A mina in the Hebrew Scriptures equaled 570 g (18.35 oz t). See App. B14.
+====
+
+[[v16-7-72]]
+
+^<<v16-7-72,72>>^ And the rest of the people gave 20,000 gold drachmas, 2,000 silver miʹnas, and 67 priests’ robes.
+
+[[v16-7-73]]
+
+^<<v16-7-73,73>>^ And the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants,^&#42;1^ and all the rest of Israel^&#42;2^ settled in their cities. When the seventh month arrived, the Israelites had settled in their cities.
+
+[NOTE]
+====
+. Or “the Nethinim.” Lit., “the given ones.”
+. Lit., “all Israel.”
+====
+
+'''
+
+xref:016-nehemiah/016-nehemiah-006.adoc#v16-6-0[&#60; Capítulo Anterior] | <<v16-7-0,Topo>> | xref:016-nehemiah/016-nehemiah-008.adoc#v16-8-0[Próximo Capítulo &#62;]

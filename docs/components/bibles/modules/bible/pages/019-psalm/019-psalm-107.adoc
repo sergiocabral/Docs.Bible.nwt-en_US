@@ -1,0 +1,272 @@
+include::./index.adoc[]
+
+[[v19-107-0]]
+=== Psalm, 107
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_BOOK FIVE_
+
+_(Psalms 107-150)_
+
+[[v19-107-1]]
+
+^<<v19-107-1,1>>^ Give thanks to Jehovah, for he is good;
+His loyal love endures forever.
+
+[[v19-107-2]]
+
+^<<v19-107-2,2>>^ Let those reclaimed^&#42;1^ by Jehovah say this,
+Those whom he reclaimed from the hand^&#42;2^ of the adversary,
+
+[NOTE]
+====
+. Or “repurchased.”
+. Or “power.”
+====
+
+[[v19-107-3]]
+
+^<<v19-107-3,3>>^ Whom he gathered together from the lands,
+From the east and from the west,^&#42;1^
+From the north and from the south.
+
+[NOTE]
+====
+. Or “From sunrise and from sunset.”
+====
+
+[[v19-107-4]]
+
+^<<v19-107-4,4>>^ They wandered about in the wilderness, in the desert;
+They did not find a way to a city where they could live.
+
+[[v19-107-5]]
+
+^<<v19-107-5,5>>^ They were hungry and thirsty;
+They were^&#42;1^ faint from exhaustion.
+
+[NOTE]
+====
+. Or “Their soul was.”
+====
+
+[[v19-107-6]]
+
+^<<v19-107-6,6>>^ They kept crying out to Jehovah in their distress;
+He rescued them from their plight.
+
+[[v19-107-7]]
+
+^<<v19-107-7,7>>^ He had them walk in the right way
+To come to a city where they could live.
+
+[[v19-107-8]]
+
+^<<v19-107-8,8>>^ Let people give thanks to Jehovah for his loyal love
+And for his wonderful works in behalf of the sons of men.
+
+[[v19-107-9]]
+
+^<<v19-107-9,9>>^ For he has satisfied the thirsty^&#42;1^
+And filled the hungry^&#42;2^ with good things.
+
+[NOTE]
+====
+. Or “the parched soul.”
+. Or “the hungry soul.”
+====
+
+[[v19-107-10]]
+
+^<<v19-107-10,10>>^ Some were living in deepest darkness,
+Prisoners in affliction and in irons.
+
+[[v19-107-11]]
+
+^<<v19-107-11,11>>^ For they had rebelled against the word of God;
+They disrespected the counsel of the Most High.
+
+[[v19-107-12]]
+
+^<<v19-107-12,12>>^ So he humbled their hearts through hardship;
+They stumbled, and there was no one to help them.
+
+[[v19-107-13]]
+
+^<<v19-107-13,13>>^ They called to Jehovah for help in their distress;
+He saved them from their plight.
+
+[[v19-107-14]]
+
+^<<v19-107-14,14>>^ He brought them out of deepest darkness,
+And he tore off their shackles.
+
+[[v19-107-15]]
+
+^<<v19-107-15,15>>^ Let people give thanks to Jehovah for his loyal love
+And for his wonderful works in behalf of the sons of men.
+
+[[v19-107-16]]
+
+^<<v19-107-16,16>>^ For he has broken down the doors of copper
+And cut through the bars of iron.
+
+[[v19-107-17]]
+
+^<<v19-107-17,17>>^ They were foolish and suffered affliction
+On account of their transgressions and their errors.
+
+[[v19-107-18]]
+
+^<<v19-107-18,18>>^ They lost their appetite for^&#42;1^ all food;
+They drew near the gates of death.
+
+[NOTE]
+====
+. Or “Their soul detested.”
+====
+
+[[v19-107-19]]
+
+^<<v19-107-19,19>>^ They would call to Jehovah for help in their distress;
+He would save them from their plight.
+
+[[v19-107-20]]
+
+^<<v19-107-20,20>>^ He would send his word and heal them
+And rescue them from the pits they were trapped in.
+
+[[v19-107-21]]
+
+^<<v19-107-21,21>>^ Let people give thanks to Jehovah for his loyal love
+And for his wonderful works in behalf of the sons of men.
+
+[[v19-107-22]]
+
+^<<v19-107-22,22>>^ Let them offer the sacrifices of thanksgiving
+And declare his works with a joyful cry.
+
+[[v19-107-23]]
+
+^<<v19-107-23,23>>^ Those who travel on the sea in ships,
+Who ply their trade over the vast waters,
+
+[[v19-107-24]]
+
+^<<v19-107-24,24>>^ They have seen the works of Jehovah
+And his wonderful works in the deep;
+
+[[v19-107-25]]
+
+^<<v19-107-25,25>>^ How by his word a windstorm arises,
+Lifting up the waves of the sea.
+
+[[v19-107-26]]
+
+^<<v19-107-26,26>>^ They rise up to the sky;
+They plunge down to the depths.
+Their courage^&#42;1^ melts away because of the impending calamity.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v19-107-27]]
+
+^<<v19-107-27,27>>^ They reel and stagger like a drunken man,
+And all their skill proves useless.
+
+[[v19-107-28]]
+
+^<<v19-107-28,28>>^ Then they cry out to Jehovah in their distress,
+And he rescues them from their plight.
+
+[[v19-107-29]]
+
+^<<v19-107-29,29>>^ He calms the windstorm;
+The waves of the sea grow quiet.
+
+[[v19-107-30]]
+
+^<<v19-107-30,30>>^ They rejoice when these grow still,
+And he leads them to their desired harbor.
+
+[[v19-107-31]]
+
+^<<v19-107-31,31>>^ Let people give thanks to Jehovah for his loyal love
+And for his wonderful works in behalf of the sons of men.
+
+[[v19-107-32]]
+
+^<<v19-107-32,32>>^ Let them exalt him in the congregation of the people,
+And let them praise him in the council^&#42;1^ of the elders.
+
+[NOTE]
+====
+. Lit., “seat.”
+====
+
+[[v19-107-33]]
+
+^<<v19-107-33,33>>^ He turns rivers into a desert
+And springs of water into parched ground,
+
+[[v19-107-34]]
+
+^<<v19-107-34,34>>^ Fruitful land into salty wasteland,
+Because of the wickedness of those dwelling in it.
+
+[[v19-107-35]]
+
+^<<v19-107-35,35>>^ He turns the desert into reedy pools of water,
+And dry land into springs of water.
+
+[[v19-107-36]]
+
+^<<v19-107-36,36>>^ He causes the hungry to dwell there,
+So that they may establish a city where they can live.
+
+[[v19-107-37]]
+
+^<<v19-107-37,37>>^ They sow fields and plant vineyards
+That yield fruitful crops.
+
+[[v19-107-38]]
+
+^<<v19-107-38,38>>^ He blesses them and they increase greatly;
+He does not let their cattle diminish.
+
+[[v19-107-39]]
+
+^<<v19-107-39,39>>^ But again they become few and are humiliated
+Because of oppression, calamity, and grief.
+
+[[v19-107-40]]
+
+^<<v19-107-40,40>>^ He pours out contempt upon nobles
+And makes them wander in trackless wastelands.
+
+[[v19-107-41]]
+
+^<<v19-107-41,41>>^ But he protects^&#42;1^ the poor from oppression
+And makes their families as numerous as a flock.
+
+[NOTE]
+====
+. Or “puts on high,” that is, out of reach.
+====
+
+[[v19-107-42]]
+
+^<<v19-107-42,42>>^ The upright see this and rejoice;
+But all the unrighteous shut their mouths.
+
+[[v19-107-43]]
+
+^<<v19-107-43,43>>^ Whoever is wise will observe these things
+And will carefully consider Jehovah’s acts of loyal love.
+
+'''
+
+xref:019-psalm/019-psalm-106.adoc#v19-106-0[&#60; Capítulo Anterior] | <<v19-107-0,Topo>> | xref:019-psalm/019-psalm-108.adoc#v19-108-0[Próximo Capítulo &#62;]

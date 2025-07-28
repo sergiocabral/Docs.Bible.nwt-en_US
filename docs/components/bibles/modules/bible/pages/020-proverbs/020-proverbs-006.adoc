@@ -1,0 +1,227 @@
+include::./index.adoc[]
+
+[[v20-6-0]]
+=== Proverbs, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-6-1]]
+
+^<<v20-6-1,1>>^ My son, if you have put up security^&#42;1^ for your neighbor,
+If you have given your handshake^&#42;2^ to a stranger,
+
+[NOTE]
+====
+. Lit., “gone surety.”
+. That is, in a pledge.
+====
+
+[[v20-6-2]]
+
+^<<v20-6-2,2>>^ If you have been ensnared by your promise,
+Caught by the words of your mouth,
+
+[[v20-6-3]]
+
+^<<v20-6-3,3>>^ Do this, my son, and free yourself,
+For you have fallen into the hand of your neighbor:
+Go and humble yourself and urgently plead with your neighbor.
+
+[[v20-6-4]]
+
+^<<v20-6-4,4>>^ Do not allow your eyes to sleep,
+Nor your eyelids to slumber.
+
+[[v20-6-5]]
+
+^<<v20-6-5,5>>^ Free yourself like a gazelle from the hunter’s hand,
+Like a bird from the hand of the birdcatcher.
+
+[[v20-6-6]]
+
+^<<v20-6-6,6>>^ Go to the ant, you lazy one;
+Observe its ways and become wise.
+
+[[v20-6-7]]
+
+^<<v20-6-7,7>>^ Although it has no commander, officer, or ruler,
+
+[[v20-6-8]]
+
+^<<v20-6-8,8>>^ It prepares its food in the summer,
+And it gathers its food supplies in the harvest.
+
+[[v20-6-9]]
+
+^<<v20-6-9,9>>^ How long, you lazy one, will you lie there?
+When will you rise up from your sleep?
+
+[[v20-6-10]]
+
+^<<v20-6-10,10>>^ A little sleep, a little slumbering,
+A little folding of the hands to rest,
+
+[[v20-6-11]]
+
+^<<v20-6-11,11>>^ And your poverty will come like a bandit,
+And your want like an armed man.
+
+[[v20-6-12]]
+
+^<<v20-6-12,12>>^ A useless and wicked man walks about with crooked speech;
+
+[[v20-6-13]]
+
+^<<v20-6-13,13>>^ He winks with his eye, signals with his foot, and motions with his fingers.
+
+[[v20-6-14]]
+
+^<<v20-6-14,14>>^ With a perverted heart,
+He is always scheming evil and spreading contentions.
+
+[[v20-6-15]]
+
+^<<v20-6-15,15>>^ Therefore, his disaster will come suddenly;
+In a moment he will be broken beyond healing.
+
+[[v20-6-16]]
+
+^<<v20-6-16,16>>^ There are six things that Jehovah hates;
+Yes, seven things that he^&#42;1^ detests:
+
+[NOTE]
+====
+. Or “his soul.”
+====
+
+[[v20-6-17]]
+
+^<<v20-6-17,17>>^ Haughty eyes, a lying tongue, and hands that shed innocent blood,
+
+[[v20-6-18]]
+
+^<<v20-6-18,18>>^ A heart plotting wicked schemes, and feet that run quickly to evil,
+
+[[v20-6-19]]
+
+^<<v20-6-19,19>>^ A false witness who lies with every breath,
+And anyone sowing contentions among brothers.
+
+[[v20-6-20]]
+
+^<<v20-6-20,20>>^ Observe, my son, the commandment of your father,
+And do not forsake the instruction^&#42;1^ of your mother.
+
+[NOTE]
+====
+. Or “law.”
+====
+
+[[v20-6-21]]
+
+^<<v20-6-21,21>>^ Always bind them around your heart;
+Tie them about your neck.
+
+[[v20-6-22]]
+
+^<<v20-6-22,22>>^ When you walk about, it will lead you;
+When you lie down, it will stand guard over you;
+And when you awaken, it will speak to you.^&#42;1^
+
+[NOTE]
+====
+. Or “instruct you.”
+====
+
+[[v20-6-23]]
+
+^<<v20-6-23,23>>^ For the commandment is a lamp,
+And the law is a light,
+And the reproofs of discipline are the way to life.
+
+[[v20-6-24]]
+
+^<<v20-6-24,24>>^ They will guard you against the bad woman,
+Against the seductive tongue of the immoral^&#42;1^ woman.
+
+[NOTE]
+====
+. Lit., “foreign.” See Pr 2:16.
+====
+
+[[v20-6-25]]
+
+^<<v20-6-25,25>>^ Do not desire her beauty in your heart
+Or allow her to captivate you with her alluring eyes,
+
+[[v20-6-26]]
+
+^<<v20-6-26,26>>^ For because of a prostitute, a man is reduced to a loaf of bread,
+But the wife of another man preys on a precious life.^&#42;1^
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v20-6-27]]
+
+^<<v20-6-27,27>>^ Can a man rake fire to his chest and not burn his garments?
+
+[[v20-6-28]]
+
+^<<v20-6-28,28>>^ Or can a man walk on hot coals without scorching his feet?
+
+[[v20-6-29]]
+
+^<<v20-6-29,29>>^ It is the same with anyone having relations with his neighbor’s wife;
+No one who touches her will go unpunished.
+
+[[v20-6-30]]
+
+^<<v20-6-30,30>>^ People do not despise a thief
+If he steals to satisfy himself^&#42;1^ when he is hungry.
+
+[NOTE]
+====
+. Or “fill his soul.”
+====
+
+[[v20-6-31]]
+
+^<<v20-6-31,31>>^ Yet, when found, he will repay sevenfold;
+He will give up all the valuables of his house.
+
+[[v20-6-32]]
+
+^<<v20-6-32,32>>^ Anyone committing adultery with a woman is lacking good sense;^&#42;1^
+The one who does so brings ruin on himself.^&#42;2^
+
+[NOTE]
+====
+. Lit., “in want of heart.”
+. Or “his soul.”
+====
+
+[[v20-6-33]]
+
+^<<v20-6-33,33>>^ He will get only wounds and dishonor,
+And his disgrace will not be wiped away.
+
+[[v20-6-34]]
+
+^<<v20-6-34,34>>^ For jealousy makes a husband furious;
+He will show no compassion when he takes revenge.
+
+[[v20-6-35]]
+
+^<<v20-6-35,35>>^ He will accept no compensation;^&#42;1^
+He will not be appeased, no matter how large you make the gift.
+
+[NOTE]
+====
+. Or “ransom.”
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-005.adoc#v20-5-0[&#60; Capítulo Anterior] | <<v20-6-0,Topo>> | xref:020-proverbs/020-proverbs-007.adoc#v20-7-0[Próximo Capítulo &#62;]

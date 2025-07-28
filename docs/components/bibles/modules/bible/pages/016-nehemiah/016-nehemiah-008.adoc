@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v16-8-0]]
+=== Nehemiah, 8
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v16-8-1]]
+
+^<<v16-8-1,1>>^ All the people then gathered with one accord at the public square in front of the Water Gate, and they told Ezʹra the copyist^&#42;1^ to bring the book of the Law of Moses, which Jehovah had commanded Israel.
+
+[NOTE]
+====
+. Or “scribe.”
+====
+
+[[v16-8-2]]
+
+^<<v16-8-2,2>>^ So Ezʹra the priest brought the Law before the congregation of men, women, and all who could listen with understanding, on the first day of the seventh month.
+
+[[v16-8-3]]
+
+^<<v16-8-3,3>>^ And he read aloud from it before the public square in front of the Water Gate, from daybreak until midday, to the men, the women, and all who could understand; and the people listened attentively to the book of the Law.
+
+[[v16-8-4]]
+
+^<<v16-8-4,4>>^ And Ezʹra the copyist^&#42;1^ was standing on a wooden podium made for the occasion; and standing alongside him on his right were Mat·ti·thiʹah, Sheʹma, A·naiʹah, U·riʹah, Hil·kiʹah, and Ma·a·seiʹah; and on his left were Pe·daiʹah, Mishʹa·el, Mal·chiʹjah, Haʹshum, Hash-badʹda·nah, Zech·a·riʹah, and Me·shulʹlam.
+
+[NOTE]
+====
+. Or “scribe.”
+====
+
+[[v16-8-5]]
+
+^<<v16-8-5,5>>^ Ezʹra opened the book in the sight of all the people, for he was above all the people. As he opened it, all the people stood up.
+
+[[v16-8-6]]
+
+^<<v16-8-6,6>>^ Then Ezʹra praised Jehovah the true God, the great One, at which all the people answered, “Amen!^&#42;1^ Amen!” and lifted up their hands. They then bowed low and prostrated themselves to Jehovah with their faces to the ground.
+
+[NOTE]
+====
+. Or “So be it!”
+====
+
+[[v16-8-7]]
+
+^<<v16-8-7,7>>^ And Jeshʹu·a, Baʹni, She·re·biʹah, Jaʹmin, Akʹkub, Shabʹbe·thai, Ho·diʹah, Ma·a·seiʹah, Ke·liʹta, Az·a·riʹah, Joʹza·bad, Haʹnan, and Pe·laʹiah, who were Levites, were explaining the Law to the people, while the people remained standing.
+
+[[v16-8-8]]
+
+^<<v16-8-8,8>>^ And they continued reading aloud from the book, from the Law of the true God, clearly explaining it and putting meaning into it; so they helped the people to understand what was being read.^&#42;1^
+
+[NOTE]
+====
+. Or “they gave understanding in the reading.”
+====
+
+[[v16-8-9]]
+
+^<<v16-8-9,9>>^ And Ne·he·miʹah, who was then the governor,^&#42;1^ Ezʹra the priest and copyist,^&#42;2^ and the Levites who were instructing the people said to all the people: “This day is holy to Jehovah your God. Do not mourn or weep.” For all the people were weeping as they heard the words of the Law.
+
+[NOTE]
+====
+. Or “the Tirshatha,” a Persian title for a governor of a province.
+. Or “scribe.”
+====
+
+[[v16-8-10]]
+
+^<<v16-8-10,10>>^ He said to them: “Go, eat the choice things^&#42;1^ and drink what is sweet, and send portions of food to those who have nothing prepared; for this day is holy to our Lord, and do not feel sad, for the joy of Jehovah is your stronghold.”^&#42;2^
+
+[NOTE]
+====
+. Lit., “fatty things.”
+. Or “strength.”
+====
+
+[[v16-8-11]]
+
+^<<v16-8-11,11>>^ And the Levites were calming all the people, saying: “Be quiet! for this day is holy, and do not feel sad.”
+
+[[v16-8-12]]
+
+^<<v16-8-12,12>>^ So all the people went away to eat and to drink and to send out portions of food and to carry on a great rejoicing, for they understood the words that had been made known to them.
+
+[[v16-8-13]]
+
+^<<v16-8-13,13>>^ And on the second day, the heads of the paternal houses of all the people, the priests, and the Levites gathered around Ezʹra the copyist^&#42;1^ to gain further insight into the words of the Law.
+
+[NOTE]
+====
+. Or “scribe.”
+====
+
+[[v16-8-14]]
+
+^<<v16-8-14,14>>^ Then they found written in the Law that Jehovah had commanded through Moses that the Israelites should dwell in booths^&#42;1^ during the festival in the seventh month,
+
+[NOTE]
+====
+. Or “temporary shelters.”
+====
+
+[[v16-8-15]]
+
+^<<v16-8-15,15>>^ and that they should make proclamation and announce throughout all their cities and throughout Jerusalem, saying: “Go out to the mountainous region and bring in leafy branches from olive trees, pine trees, myrtle and palm trees, and the leafy branches of other trees to make booths, according to what is written.”
+
+[[v16-8-16]]
+
+^<<v16-8-16,16>>^ So the people went out and brought them in to make booths for themselves, each one on his roof, as well as in their courtyards, in the courtyards of the house of the true God, in the public square of the Water Gate, and in the public square of the Gate of Eʹphra·im.
+
+[[v16-8-17]]
+
+^<<v16-8-17,17>>^ Thus all those of the congregation who had come back from the captivity made booths and were dwelling in the booths, for the Israelites had not done it this way from the days of Joshua the son of Nun until that day, so that there was very great rejoicing.
+
+[[v16-8-18]]
+
+^<<v16-8-18,18>>^ And day by day there was a reading from the book of the Law of the true God, from the first day until the last day. And they held the festival for seven days, and there was a solemn assembly on the eighth day, as was required.
+
+'''
+
+xref:016-nehemiah/016-nehemiah-007.adoc#v16-7-0[&#60; Capítulo Anterior] | <<v16-8-0,Topo>> | xref:016-nehemiah/016-nehemiah-009.adoc#v16-9-0[Próximo Capítulo &#62;]

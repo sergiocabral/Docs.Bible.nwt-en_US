@@ -1,0 +1,38 @@
+include::./index.adoc[]
+
+[[v24-45-0]]
+=== Jeremiah, 45
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v24-45-1]]
+
+^<<v24-45-1,1>>^ This is the word that Jeremiah the prophet spoke to Barʹuch the son of Ne·riʹah when he wrote in a book these words dictated by Jeremiah in the fourth year of Je·hoiʹa·kim son of Jo·siʹah, the king of Judah:
+
+[[v24-45-2]]
+
+^<<v24-45-2,2>>^ “This is what Jehovah the God of Israel says concerning you, Barʹuch,
+
+[[v24-45-3]]
+
+^<<v24-45-3,3>>^ ‘You have said: “Woe to me, for Jehovah has added grief to my pain! I am weary from my groaning, and I have found no resting-place.”’
+
+[[v24-45-4]]
+
+^<<v24-45-4,4>>^ “You should say to him, ‘This is what Jehovah says: “Look! What I have built up I am tearing down, and what I have planted I am uprooting—the entire land.
+
+[[v24-45-5]]
+
+^<<v24-45-5,5>>^ But you are seeking^&#42;1^ great things for yourself. Stop seeking such things.”’
+“‘For I am about to bring a calamity on all flesh,’^&#42;2^ declares Jehovah, ‘and wherever you may go, I will grant you your life^&#42;3^ as a spoil.’”^&#42;4^
+
+[NOTE]
+====
+. Or “expecting.”
+. Or “people.”
+. Or “soul.”
+. Or “will let you escape with your life.”
+====
+
+'''
+
+xref:024-jeremiah/024-jeremiah-044.adoc#v24-44-0[&#60; Capítulo Anterior] | <<v24-45-0,Topo>> | xref:024-jeremiah/024-jeremiah-046.adoc#v24-46-0[Próximo Capítulo &#62;]

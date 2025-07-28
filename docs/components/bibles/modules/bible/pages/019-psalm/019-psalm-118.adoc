@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v19-118-0]]
+=== Psalm, 118
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-118-1]]
+
+^<<v19-118-1,1>>^ Give thanks to Jehovah, for he is good;
+His loyal love endures forever.
+
+[[v19-118-2]]
+
+^<<v19-118-2,2>>^ Let Israel now say:
+“His loyal love endures forever.”
+
+[[v19-118-3]]
+
+^<<v19-118-3,3>>^ Let those of the house of Aaron now say:
+“His loyal love endures forever.”
+
+[[v19-118-4]]
+
+^<<v19-118-4,4>>^ Let those fearing Jehovah now say:
+“His loyal love endures forever.”
+
+[[v19-118-5]]
+
+^<<v19-118-5,5>>^ I called on Jah^&#42;1^ in my distress;
+Jah answered and brought me into a place of safety.^&#42;2^
+
+[NOTE]
+====
+. “Jah” is a shortened form of the name Jehovah.
+. Or “a roomy place.”
+====
+
+[[v19-118-6]]
+
+^<<v19-118-6,6>>^ Jehovah is on my side; I will not be afraid.
+What can man do to me?
+
+[[v19-118-7]]
+
+^<<v19-118-7,7>>^ Jehovah is on my side as my helper;^&#42;1^
+I will look in triumph on those who hate me.
+
+[NOTE]
+====
+. Or possibly, “along with those helping me.”
+====
+
+[[v19-118-8]]
+
+^<<v19-118-8,8>>^ It is better to take refuge in Jehovah
+Than to trust in humans.
+
+[[v19-118-9]]
+
+^<<v19-118-9,9>>^ It is better to take refuge in Jehovah
+Than to trust in princes.
+
+[[v19-118-10]]
+
+^<<v19-118-10,10>>^ All the nations surrounded me,
+But in the name of Jehovah,
+I warded them off.
+
+[[v19-118-11]]
+
+^<<v19-118-11,11>>^ They surrounded me, yes, I was completely surrounded,
+But in the name of Jehovah,
+I warded them off.
+
+[[v19-118-12]]
+
+^<<v19-118-12,12>>^ They surrounded me like bees,
+But they were extinguished as quickly as a fire among thorns.
+In the name of Jehovah,
+I warded them off.
+
+[[v19-118-13]]
+
+^<<v19-118-13,13>>^ I was pushed hard^&#42;1^ to make me fall,
+But Jehovah helped me.
+
+[NOTE]
+====
+. Or possibly, “You pushed me hard.”
+====
+
+[[v19-118-14]]
+
+^<<v19-118-14,14>>^ Jah is my shelter and my strength,
+And he has become my salvation.
+
+[[v19-118-15]]
+
+^<<v19-118-15,15>>^ The sound of rejoicing and salvation^&#42;1^
+Is in the tents of the righteous.
+The right hand of Jehovah is demonstrating its power.
+
+[NOTE]
+====
+. Or “victory.”
+====
+
+[[v19-118-16]]
+
+^<<v19-118-16,16>>^ The right hand of Jehovah is exalting itself;
+The right hand of Jehovah is demonstrating its power.
+
+[[v19-118-17]]
+
+^<<v19-118-17,17>>^ I will not die, no, I will live,
+In order to declare the works of Jah.
+
+[[v19-118-18]]
+
+^<<v19-118-18,18>>^ Jah disciplined me severely,
+But he did not hand me over to death.
+
+[[v19-118-19]]
+
+^<<v19-118-19,19>>^ Open to me the gates of righteousness;
+I will enter them and praise Jah.
+
+[[v19-118-20]]
+
+^<<v19-118-20,20>>^ This is the gate of Jehovah.
+The righteous will enter through it.
+
+[[v19-118-21]]
+
+^<<v19-118-21,21>>^ I will praise you, for you answered me
+And you became my salvation.
+
+[[v19-118-22]]
+
+^<<v19-118-22,22>>^ The stone that the builders rejected
+Has become the chief cornerstone.^&#42;1^
+
+[NOTE]
+====
+. Lit., “the head of the corner.”
+====
+
+[[v19-118-23]]
+
+^<<v19-118-23,23>>^ This has come from Jehovah;
+It is wonderful in our eyes.
+
+[[v19-118-24]]
+
+^<<v19-118-24,24>>^ This is the day that Jehovah has made;
+We will be joyful and rejoice in it.
+
+[[v19-118-25]]
+
+^<<v19-118-25,25>>^ Jehovah, save us, please, we beg!
+Jehovah, grant us victory, please!
+
+[[v19-118-26]]
+
+^<<v19-118-26,26>>^ Blessed is the one who comes in the name of Jehovah;
+We bless you from the house of Jehovah.
+
+[[v19-118-27]]
+
+^<<v19-118-27,27>>^ Jehovah is God;
+He gives us light.
+Join in the festival procession with branches in hand,
+Up to the horns of the altar.
+
+[[v19-118-28]]
+
+^<<v19-118-28,28>>^ You are my God, and I will praise you;
+My God, I will exalt you.
+
+[[v19-118-29]]
+
+^<<v19-118-29,29>>^ Give thanks to Jehovah, for he is good;
+His loyal love endures forever.
+
+'''
+
+xref:019-psalm/019-psalm-117.adoc#v19-117-0[&#60; Capítulo Anterior] | <<v19-118-0,Topo>> | xref:019-psalm/019-psalm-119.adoc#v19-119-0[Próximo Capítulo &#62;]

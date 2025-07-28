@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-58-0]]
+=== Psalm, 58
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; set to “Do Not Bring to Ruin.” Of David. Mikʹtam.^&#42;1^_
+
+[[v19-58-1]]
+
+^<<v19-58-1,1>>^ Can you speak about righteousness when you are silent?
+Can you judge in uprightness, you sons of men?
+
+[[v19-58-2]]
+
+^<<v19-58-2,2>>^ Instead, you devise unrighteousness in your heart,
+And your hands dispense violence in the land.
+
+[[v19-58-3]]
+
+^<<v19-58-3,3>>^ The wicked go astray^&#42;1^ from birth;^&#42;2^
+They are wayward, liars from the time they are born.
+
+[NOTE]
+====
+. Or “are corrupt.”
+. Lit., “from the womb.”
+====
+
+[[v19-58-4]]
+
+^<<v19-58-4,4>>^ Their venom is like the venom of serpents;
+They are deaf like the cobra that stops up its ear.
+
+[[v19-58-5]]
+
+^<<v19-58-5,5>>^ It will not listen to the voice of charmers,
+No matter how skillful their spells.
+
+[[v19-58-6]]
+
+^<<v19-58-6,6>>^ O God, knock the teeth out of their mouth!
+Break the jaws of these lions,^&#42;1^ O Jehovah!
+
+[NOTE]
+====
+. Or “maned young lions.”
+====
+
+[[v19-58-7]]
+
+^<<v19-58-7,7>>^ May they disappear like waters that drain away.
+May He bend his bow and make them fall by his arrows.
+
+[[v19-58-8]]
+
+^<<v19-58-8,8>>^ May they be like a snail that melts away as it moves along;
+Like a woman’s stillborn child who never sees the sun.
+
+[[v19-58-9]]
+
+^<<v19-58-9,9>>^ Before your cooking pots feel the heat of the bramble,
+He will sweep away both the moist and the burning twig, as in a storm wind.
+
+[[v19-58-10]]
+
+^<<v19-58-10,10>>^ The righteous one will rejoice because he has seen the vengeance;
+His feet will be drenched with the blood of the wicked.
+
+[[v19-58-11]]
+
+^<<v19-58-11,11>>^ Then men will say: “Surely there is a reward for the righteous.
+There is indeed a God who judges in the earth.”
+
+'''
+
+xref:019-psalm/019-psalm-057.adoc#v19-57-0[&#60; Capítulo Anterior] | <<v19-58-0,Topo>> | xref:019-psalm/019-psalm-059.adoc#v19-59-0[Próximo Capítulo &#62;]

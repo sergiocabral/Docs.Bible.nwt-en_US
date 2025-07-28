@@ -1,0 +1,122 @@
+include::./index.adoc[]
+
+[[v2-5-0]]
+=== Exodus, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-5-1]]
+
+^<<v2-5-1,1>>^ Afterward, Moses and Aaron went in and said to Pharʹaoh: “This is what Jehovah the God of Israel says, ‘Send my people away so that they may celebrate a festival to me in the wilderness.’”
+
+[[v2-5-2]]
+
+^<<v2-5-2,2>>^ But Pharʹaoh said: “Who is Jehovah, that I should obey his voice to send Israel away? I do not know Jehovah at all, and what is more, I will not send Israel away.”
+
+[[v2-5-3]]
+
+^<<v2-5-3,3>>^ But they said: “The God of the Hebrews has communicated with us. Please, we want to make a three-day journey into the wilderness and sacrifice to Jehovah our God; otherwise, he will strike us with disease or with the sword.”
+
+[[v2-5-4]]
+
+^<<v2-5-4,4>>^ The king of Egypt replied to them: “Why is it, Moses and Aaron, that you are taking the people away from their work? Return to your labor!”^&#42;1^
+
+[NOTE]
+====
+. Or “burdens.”
+====
+
+[[v2-5-5]]
+
+^<<v2-5-5,5>>^ And Pharʹaoh continued: “Look at how many people of the land there are, and you would have them rest from their labor.”
+
+[[v2-5-6]]
+
+^<<v2-5-6,6>>^ That same day, Pharʹaoh commanded the taskmasters and their foremen:
+
+[[v2-5-7]]
+
+^<<v2-5-7,7>>^ “You must no longer give straw to the people to make bricks. Let them go and gather straw for themselves.
+
+[[v2-5-8]]
+
+^<<v2-5-8,8>>^ But you must still impose on them the same quota of bricks as they made in the past. Do not reduce it for them, for they are relaxing.^&#42;1^ That is why they are crying out, ‘We want to go, we want to sacrifice to our God!’
+
+[NOTE]
+====
+. Or “are lazy.”
+====
+
+[[v2-5-9]]
+
+^<<v2-5-9,9>>^ Make them work harder, and keep them busy so that they will not pay attention to lies.”
+
+[[v2-5-10]]
+
+^<<v2-5-10,10>>^ So the taskmasters and their foremen went out and said to the people: “Here is what Pharʹaoh has said, ‘I am giving you no more straw.
+
+[[v2-5-11]]
+
+^<<v2-5-11,11>>^ Go and get your own straw for yourselves wherever you can find it, but your work will not be reduced at all.’”
+
+[[v2-5-12]]
+
+^<<v2-5-12,12>>^ Then the people scattered throughout all the land of Egypt to gather stubble for straw.
+
+[[v2-5-13]]
+
+^<<v2-5-13,13>>^ And the taskmasters kept urging them: “You must each finish your work every day, just as when straw was provided.”
+
+[[v2-5-14]]
+
+^<<v2-5-14,14>>^ Also the foremen of the Israelites, whom Pharʹaoh’s taskmasters had appointed over them, were beaten. They asked them: “Why did you not reach the quota of bricks that you used to make? It happened both yesterday and today.”
+
+[[v2-5-15]]
+
+^<<v2-5-15,15>>^ So the foremen of the Israelites went in and complained to Pharʹaoh: “Why are you treating your servants this way?
+
+[[v2-5-16]]
+
+^<<v2-5-16,16>>^ No straw is given to your servants, yet they are saying to us, ‘Make bricks!’ Your servants are beaten, but your own people are at fault.”
+
+[[v2-5-17]]
+
+^<<v2-5-17,17>>^ But he said: “You are relaxing,^&#42;1^ you are relaxing!^&#42;2^ That is why you are saying, ‘We want to go, we want to sacrifice to Jehovah.’
+
+[NOTE]
+====
+. Or “are lazy.”
+. Or “are lazy.”
+====
+
+[[v2-5-18]]
+
+^<<v2-5-18,18>>^ So now go, get back to work! No straw will be given to you, but you must still produce your quota of bricks.”
+
+[[v2-5-19]]
+
+^<<v2-5-19,19>>^ Then the foremen of the Israelites saw that they were in serious trouble because of the order: “You must not reduce your daily quota of bricks at all.”
+
+[[v2-5-20]]
+
+^<<v2-5-20,20>>^ After that they met up with Moses and Aaron, who were standing there to meet them as they came out from Pharʹaoh.
+
+[[v2-5-21]]
+
+^<<v2-5-21,21>>^ At once they said to them: “May Jehovah look upon you and judge, since you have made Pharʹaoh and his servants despise us^&#42;1^ and you have put a sword in their hand to kill us.”
+
+[NOTE]
+====
+. Or “have made us smell offensive to Pharaoh and to his servants.”
+====
+
+[[v2-5-22]]
+
+^<<v2-5-22,22>>^ Then Moses turned to Jehovah and said: “Jehovah, why have you afflicted this people? Why have you sent me?
+
+[[v2-5-23]]
+
+^<<v2-5-23,23>>^ From the time that I went in before Pharʹaoh to speak in your name, he has dealt worse with this people, and you have certainly not rescued your people.”
+
+'''
+
+xref:002-exodus/002-exodus-004.adoc#v2-4-0[&#60; Capítulo Anterior] | <<v2-5-0,Topo>> | xref:002-exodus/002-exodus-006.adoc#v2-6-0[Próximo Capítulo &#62;]

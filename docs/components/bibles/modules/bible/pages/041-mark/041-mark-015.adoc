@@ -1,0 +1,258 @@
+include::./index.adoc[]
+
+[[v41-15-0]]
+=== According to Mark, 15
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v41-15-1]]
+
+^<<v41-15-1,1>>^ Immediately at dawn, the chief priests with the elders and the scribes, indeed, the whole Sanʹhe·drin, consulted together, and they bound Jesus and led him off and handed him over to Pilate.
+
+[[v41-15-2]]
+
+^<<v41-15-2,2>>^ So Pilate put the question to him: “Are you the King of the Jews?” In answer he said: “You yourself say it.”
+
+[[v41-15-3]]
+
+^<<v41-15-3,3>>^ But the chief priests were accusing him of many things.
+
+[[v41-15-4]]
+
+^<<v41-15-4,4>>^ Now Pilate began questioning him again, saying: “Have you no reply to make? See how many charges they are bringing against you.”
+
+[[v41-15-5]]
+
+^<<v41-15-5,5>>^ But Jesus made no further answer, so that Pilate was amazed.
+
+[[v41-15-6]]
+
+^<<v41-15-6,6>>^ Well, from festival to festival, he used to release to them one prisoner whom they requested.
+
+[[v41-15-7]]
+
+^<<v41-15-7,7>>^ At the time the man named Bar·abʹbas was in prison with the seditionists, who in their sedition had committed murder.
+
+[[v41-15-8]]
+
+^<<v41-15-8,8>>^ So the crowd came up and began to make their request according to what Pilate used to do for them.
+
+[[v41-15-9]]
+
+^<<v41-15-9,9>>^ He responded to them, saying: “Do you want me to release to you the King of the Jews?”
+
+[[v41-15-10]]
+
+^<<v41-15-10,10>>^ For Pilate was aware that out of envy the chief priests had handed him over.
+
+[[v41-15-11]]
+
+^<<v41-15-11,11>>^ But the chief priests stirred up the crowd to have him release Bar·abʹbas to them instead.
+
+[[v41-15-12]]
+
+^<<v41-15-12,12>>^ Again in reply Pilate said to them: “What, then, should I do with the one you call the King of the Jews?”
+
+[[v41-15-13]]
+
+^<<v41-15-13,13>>^ Once more they cried out: “To the stake with him!”^&#42;1^
+
+[NOTE]
+====
+. Or “Execute him on the stake!”
+====
+
+[[v41-15-14]]
+
+^<<v41-15-14,14>>^ But Pilate went on to say to them: “Why? What bad thing did he do?” Still they cried out all the more: “To the stake with him!”^&#42;1^
+
+[NOTE]
+====
+. Or “Execute him on the stake!”
+====
+
+[[v41-15-15]]
+
+^<<v41-15-15,15>>^ At that Pilate, wishing to satisfy the crowd, released Bar·abʹbas to them; and after having Jesus whipped, he handed him over to be executed on the stake.
+
+[[v41-15-16]]
+
+^<<v41-15-16,16>>^ The soldiers now led him off into the courtyard, that is, into the governor’s residence, and they called the whole body of troops together.
+
+[[v41-15-17]]
+
+^<<v41-15-17,17>>^ And they dressed him in purple and braided a crown of thorns and put it on him;
+
+[[v41-15-18]]
+
+^<<v41-15-18,18>>^ and they began to call out to him: “Greetings,^&#42;1^ you King of the Jews!”
+
+[NOTE]
+====
+. Or “Hail.”
+====
+
+[[v41-15-19]]
+
+^<<v41-15-19,19>>^ Also, they were hitting him on the head with a reed and spitting on him, and they got on their knees and bowed down^&#42;1^ to him.
+
+[NOTE]
+====
+. Or “did obeisance.”
+====
+
+[[v41-15-20]]
+
+^<<v41-15-20,20>>^ Finally, after they had mocked him, they stripped him of the purple and put his outer garments on him. And they led him out to nail him to the stake.
+
+[[v41-15-21]]
+
+^<<v41-15-21,21>>^ Also, they compelled into service a passerby, a certain Simon of Cy·reʹne, coming from the countryside, the father of Alexander and Ruʹfus, to carry his torture stake.^&#42;1^
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v41-15-22]]
+
+^<<v41-15-22,22>>^ So they brought him to the place called Golʹgo·tha, which means, when translated, “Skull Place.”
+
+[[v41-15-23]]
+
+^<<v41-15-23,23>>^ Here they tried to give him wine drugged with myrrh, but he would not take it.
+
+[[v41-15-24]]
+
+^<<v41-15-24,24>>^ And they nailed him to the stake and distributed his outer garments by casting lots over them to decide who would take what.
+
+[[v41-15-25]]
+
+^<<v41-15-25,25>>^ It was now the third hour,^&#42;1^ and they nailed him to the stake.
+
+[NOTE]
+====
+. That is, about 9:00 a.m.
+====
+
+[[v41-15-26]]
+
+^<<v41-15-26,26>>^ And the inscription of the charge against him was written: “The King of the Jews.”
+
+[[v41-15-27]]
+
+^<<v41-15-27,27>>^ Moreover, they put two robbers on stakes alongside him, one on his right and one on his left.
+
+[[v41-15-28]]
+
+^<<v41-15-28,28>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. See App. A3.
+====
+
+[[v41-15-29]]
+
+^<<v41-15-29,29>>^ And those passing by spoke abusively to him, shaking their heads and saying: “Ha! You who would throw down the temple and build it in three days,
+
+[[v41-15-30]]
+
+^<<v41-15-30,30>>^ save yourself by coming down off the torture stake.”^&#42;1^
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v41-15-31]]
+
+^<<v41-15-31,31>>^ In the same way also, the chief priests with the scribes were mocking him among themselves, saying: “Others he saved; himself he cannot save!
+
+[[v41-15-32]]
+
+^<<v41-15-32,32>>^ Let the Christ, the King of Israel, now come down off the torture stake,^&#42;1^ so that we may see and believe.” Even those who were on stakes alongside him were reproaching him.
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v41-15-33]]
+
+^<<v41-15-33,33>>^ When it became the sixth hour,^&#42;1^ a darkness fell over all the land until the ninth hour.^&#42;2^
+
+[NOTE]
+====
+. That is, about 12:00 noon.
+. That is, about 3:00 p.m.
+====
+
+[[v41-15-34]]
+
+^<<v41-15-34,34>>^ And at the ninth hour, Jesus called out with a loud voice: “Eʹli, Eʹli, laʹma sa·bach·thaʹni?” which means, when translated: “My God, my God, why have you forsaken me?”
+
+[[v41-15-35]]
+
+^<<v41-15-35,35>>^ And some of those standing near, on hearing it, began to say: “See! He is calling E·liʹjah.”
+
+[[v41-15-36]]
+
+^<<v41-15-36,36>>^ Then someone ran, soaked a sponge in sour wine, put it on a reed, and gave it to him to drink, saying: “Let him be! Let us see whether E·liʹjah comes to take him down.”
+
+[[v41-15-37]]
+
+^<<v41-15-37,37>>^ But Jesus let out a loud cry and expired.^&#42;1^
+
+[NOTE]
+====
+. Or “breathed his last.”
+====
+
+[[v41-15-38]]
+
+^<<v41-15-38,38>>^ And the curtain of the sanctuary was torn in two from top to bottom.
+
+[[v41-15-39]]
+
+^<<v41-15-39,39>>^ Now when the army officer who was standing by with him in view saw that he had expired under these circumstances, he said: “Certainly this man was God’s Son.”
+
+[[v41-15-40]]
+
+^<<v41-15-40,40>>^ There were also women watching from a distance, among them Mary Magʹda·lene as well as Mary the mother of James the Less and of Joʹses, and Sa·loʹme,
+
+[[v41-15-41]]
+
+^<<v41-15-41,41>>^ who used to accompany him and minister to him when he was in Galʹi·lee, and many other women who had come up together with him to Jerusalem.
+
+[[v41-15-42]]
+
+^<<v41-15-42,42>>^ Now as it was already late in the afternoon, and since it was Preparation, that is, the day before the Sabbath,
+
+[[v41-15-43]]
+
+^<<v41-15-43,43>>^ there came Joseph of Ar·i·ma·theʹa, a reputable member of the Council, who also himself was waiting for the Kingdom of God. He took courage and went in before Pilate and asked for the body of Jesus.
+
+[[v41-15-44]]
+
+^<<v41-15-44,44>>^ But Pilate wondered whether he could already be dead, and summoning the army officer, he asked him whether Jesus had already died.
+
+[[v41-15-45]]
+
+^<<v41-15-45,45>>^ So after making certain from the army officer, he granted the body to Joseph.
+
+[[v41-15-46]]
+
+^<<v41-15-46,46>>^ After he bought fine linen and took him down, he wrapped him in the fine linen and laid him in a tomb^&#42;1^ that was quarried out of rock; then he rolled a stone up to the entrance of the tomb.
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v41-15-47]]
+
+^<<v41-15-47,47>>^ But Mary Magʹda·lene and Mary the mother of Joʹses continued looking at where he had been laid.
+
+'''
+
+xref:041-mark/041-mark-014.adoc#v41-14-0[&#60; Capítulo Anterior] | <<v41-15-0,Topo>> | xref:041-mark/041-mark-016.adoc#v41-16-0[Próximo Capítulo &#62;]

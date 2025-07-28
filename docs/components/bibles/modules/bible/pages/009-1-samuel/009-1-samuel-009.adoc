@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v9-9-0]]
+=== The First of Samuel, 9
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v9-9-1]]
+
+^<<v9-9-1,1>>^ There was a man of Benjamin named Kish, the son of A·biʹel, the son of Zeʹror son of Be·coʹrath son of A·phiʹah, a Benʹja·min·ite and a very wealthy man.
+
+[[v9-9-2]]
+
+^<<v9-9-2,2>>^ He had a son named Saul, who was young and handsome—there was no man among the Israelites more handsome than he—and he stood head and shoulders taller than all the people.
+
+[[v9-9-3]]
+
+^<<v9-9-3,3>>^ When the donkeys^&#42;1^ belonging to Saul’s father Kish got lost, Kish said to his son Saul: “Please take with you one of the attendants and go look for the donkeys.”
+
+[NOTE]
+====
+. Lit., “female donkeys.”
+====
+
+[[v9-9-4]]
+
+^<<v9-9-4,4>>^ They passed through the mountainous region of Eʹphra·im and through the land of Shalʹi·shah, and they did not find them. They traveled through the land of Shaʹa·lim, but the donkeys were not there. They passed through the entire land of the Benʹja·min·ites, and they did not find them.
+
+[[v9-9-5]]
+
+^<<v9-9-5,5>>^ They came into the land of Zuph, and Saul said to his attendant who was with him: “Come, let us return, so that my father does not start worrying about us rather than the donkeys.”
+
+[[v9-9-6]]
+
+^<<v9-9-6,6>>^ But the attendant replied: “Look, there is a man of God in this city, a man who is held in honor. All that he says is sure to come true. Let us go there now. Perhaps he can tell us which way to go.”
+
+[[v9-9-7]]
+
+^<<v9-9-7,7>>^ At this Saul said to his attendant: “If we go, what can we take to the man? There is no bread in our bags; there is nothing to take as a gift to the man of the true God. What do we have?”
+
+[[v9-9-8]]
+
+^<<v9-9-8,8>>^ So the attendant answered Saul again: “Look! There is a quarter of a shekel^&#42;1^ of silver in my hand. I will give it to the man of the true God, and he will tell us which way to go.”
+
+[NOTE]
+====
+. A shekel equaled 11.4 g (0.367 oz t). See App. B14.
+====
+
+[[v9-9-9]]
+
+^<<v9-9-9,9>>^ (In former times in Israel, this was what a man would say when going to seek God: “Come, and let us go to the seer.” For the prophet of today used to be called a seer in former times.)
+
+[[v9-9-10]]
+
+^<<v9-9-10,10>>^ Then Saul said to his attendant: “What you said is good. Let us go.” So they went to the city where the man of the true God was.
+
+[[v9-9-11]]
+
+^<<v9-9-11,11>>^ While they were going up the ascent to the city, they met girls going out to draw water. So they said to them: “Is the seer in this place?”
+
+[[v9-9-12]]
+
+^<<v9-9-12,12>>^ They answered: “He is. Look, he is just ahead of you. Hurry now, for today he has come to the city, because the people are making a sacrifice today on the high place.
+
+[[v9-9-13]]
+
+^<<v9-9-13,13>>^ As soon as you come into the city, you will find him before he goes up to the high place to eat. The people will not eat until he comes, for he is the one who blesses the sacrifice. Once that is done, those who are invited may eat. So now go up right away, and you will find him.”
+
+[[v9-9-14]]
+
+^<<v9-9-14,14>>^ So they went up to the city. As they were coming into the middle of the city, there was Samuel coming out to meet them to go up to the high place.
+
+[[v9-9-15]]
+
+^<<v9-9-15,15>>^ The day before Saul came, Jehovah had told^&#42;1^ Samuel:
+
+[NOTE]
+====
+. Lit., “uncovered the ear of.”
+====
+
+[[v9-9-16]]
+
+^<<v9-9-16,16>>^ “Tomorrow about this time, I will send to you a man from the land of Benjamin. You must anoint him as leader over my people Israel, and he will save my people from the hand of the Phi·lisʹtines. For I have seen the affliction of my people, and their outcry has reached me.”
+
+[[v9-9-17]]
+
+^<<v9-9-17,17>>^ When Samuel saw Saul, Jehovah told him: “Here is the man of whom I said to you, ‘This is the one who will govern my people.’”^&#42;1^
+
+[NOTE]
+====
+. Or “keep my people within bounds.”
+====
+
+[[v9-9-18]]
+
+^<<v9-9-18,18>>^ Then Saul approached Samuel in the middle of the gate and said: “Tell me, please, where is the house of the seer?”
+
+[[v9-9-19]]
+
+^<<v9-9-19,19>>^ Samuel answered Saul: “I am the seer. Go up ahead of me to the high place, and you will eat with me today. I will send you away in the morning, and I will tell you all that you want to know.^&#42;1^
+
+[NOTE]
+====
+. Lit., “all that is in your heart.”
+====
+
+[[v9-9-20]]
+
+^<<v9-9-20,20>>^ As for the donkeys that were lost three days ago, do not worry about them, for they have been found. And to whom does all that is desirable of Israel belong? Is it not to you and to the whole house of your father?”
+
+[[v9-9-21]]
+
+^<<v9-9-21,21>>^ At this Saul answered: “Am I not a Benʹja·min·ite of the smallest of the tribes of Israel, and my family the most insignificant of all the families of the tribe of Benjamin? So why have you spoken to me in this way?”
+
+[[v9-9-22]]
+
+^<<v9-9-22,22>>^ Then Samuel took Saul and his attendant and brought them to the dining hall and gave them a place at the head of those invited; there were about 30 men.
+
+[[v9-9-23]]
+
+^<<v9-9-23,23>>^ Samuel said to the cook: “Bring the portion that I gave you and told you, ‘Set it aside.’”
+
+[[v9-9-24]]
+
+^<<v9-9-24,24>>^ At that the cook lifted up the leg and what was on it, and set it before Saul. And Samuel said: “What has been reserved has been set before you. Eat, because they have reserved it for you for this occasion. For I told them, ‘I invited guests.’” So Saul ate with Samuel on that day.
+
+[[v9-9-25]]
+
+^<<v9-9-25,25>>^ Then they went down from the high place to the city, and he continued to speak with Saul on the housetop.
+
+[[v9-9-26]]
+
+^<<v9-9-26,26>>^ They rose early, and at daybreak Samuel called to Saul on the housetop, saying: “Get ready, so that I may send you away.” So Saul got ready and both he and Samuel went outside.
+
+[[v9-9-27]]
+
+^<<v9-9-27,27>>^ While they were descending toward the outskirts of the city, Samuel said to Saul: “Tell the attendant to go on ahead of us,” so he went on ahead. “But you, stand still now, so that I may let you hear the word of God.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-008.adoc#v9-8-0[&#60; Capítulo Anterior] | <<v9-9-0,Topo>> | xref:009-1-samuel/009-1-samuel-010.adoc#v9-10-0[Próximo Capítulo &#62;]

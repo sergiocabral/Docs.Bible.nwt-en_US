@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Proverbs, 28
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ The wicked flee when no one pursues them,
+But the righteous are as confident as a lion.^&#42;1^
+
+[NOTE]
+====
+. Or “a young lion.”
+====
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ When there is transgression^&#42;1^ in the land, it will have one prince after another,
+But with the help of a man of discernment and knowledge, a prince^&#42;2^ will long endure.
+
+[NOTE]
+====
+. Or “revolt.”
+. Lit., “he.”
+====
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ A poor man who defrauds the lowly
+Is like a rain that sweeps away all the food.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Those who abandon the law praise the wicked one,
+But those who observe the law are indignant with them.
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Evil men cannot understand justice,
+But those who seek Jehovah can understand everything.
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ Better is a poor man who walks in his integrity
+Than a rich man whose ways are corrupt.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ An understanding son observes the law,
+But a companion of gluttons disgraces his father.
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ The one who increases his wealth by interest and usury
+Amasses it for the one who shows favor to the poor.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ The one refusing to listen to the law
+—Even his prayer is detestable.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ The one misleading the upright into an evil course will fall into his own pit,
+But the blameless will inherit what is good.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ A rich man is wise in his own eyes,
+But a poor man with discernment can see through him.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ When the righteous triumph, there is great glory,
+But when the wicked rise to power, people go into hiding.
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ The one covering over his transgressions will not succeed,
+But whoever confesses and abandons them will be shown mercy.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ Happy is the man who is always on guard,^&#42;1^
+But whoever hardens his heart will fall into calamity.
+
+[NOTE]
+====
+. Or “who is never without fear.”
+====
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ Like a growling lion and a charging bear
+Is a wicked ruler over a helpless people.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ A leader without discernment abuses his power,
+But the one hating dishonest profit will prolong his life.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ A man burdened with bloodguilt for taking someone’s life^&#42;1^ will keep fleeing until the grave.^&#42;2^
+Let no one support him.
+
+[NOTE]
+====
+. Or “with the blood of a soul.”
+. Or “pit.”
+====
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ The one walking faultlessly will be saved,
+But the one whose ways are crooked will suddenly fall.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ The one cultivating his ground will have plenty of bread,
+But the one taking up worthless pursuits will have his fill of poverty.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ A faithful man will receive many blessings,
+But the one hastening to get rich will not remain innocent.
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ It is not good to show partiality;
+But a man might do wrong for a piece of bread.
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ An envious^&#42;1^ man is eager for wealth,
+Not knowing that poverty will overtake him.
+
+[NOTE]
+====
+. Or “greedy.”
+====
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ Whoever reproves a man will afterward find more favor
+Than someone who flatters with his tongue.
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ Whoever robs his father and mother and says, “It is not wrong,”
+Is a partner of the man who causes ruin.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ The greedy person^&#42;1^ stirs up dissension,
+But whoever relies on Jehovah will prosper.^&#42;2^
+
+[NOTE]
+====
+. Or possibly, “The arrogant soul.”
+. Lit., “will be made fat.”
+====
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ Whoever trusts in his own heart is stupid,
+But the one who walks in wisdom will escape.
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ Whoever gives to the poor will lack nothing,
+But the one who closes his eyes to them will receive many curses.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ When the wicked rise to power, a man hides himself,
+But when they perish, the righteous increase.
+
+'''
+
+xref:020-proverbs/020-proverbs-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-proverbs/020-proverbs-029.adoc#v20-29-0[Próximo Capítulo &#62;]

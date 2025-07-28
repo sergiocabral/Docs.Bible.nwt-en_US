@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Numbers, 12
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ Now Mirʹi·am and Aaron began to speak against Moses because of the Cushʹite wife he had married, for he had taken a Cushʹite wife.
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ They were saying: “Is it only by Moses that Jehovah has spoken? Has he not also spoken through us?” And Jehovah was listening.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ Now the man Moses was by far the meekest of all the men^&#42;1^ on the face of the earth.
+
+[NOTE]
+====
+. Or “was very humble (mild-tempered), more so than any other man.”
+====
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ Jehovah suddenly said to Moses and Aaron and Mirʹi·am: “Go out, the three of you, to the tent of meeting.” So the three of them went out.
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ And Jehovah came down in the pillar of cloud and stood at the entrance of the tent and called Aaron and Mirʹi·am. Both of them went forward.
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ He then said: “Hear my words, please. If there was a prophet of Jehovah among you, I would make myself known to him in a vision, and I would speak to him in a dream.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ But it is not that way with my servant Moses! He is being entrusted with all my house.^&#42;1^
+
+[NOTE]
+====
+. Lit., “In all my house, he is proving himself faithful.”
+====
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ Face-to-face^&#42;1^ I speak to him, openly, not by riddles; and the appearance of Jehovah is what he sees. Why, then, did you not fear to speak against my servant, against Moses?”
+
+[NOTE]
+====
+. Lit., “Mouth to mouth.”
+====
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ So Jehovah’s anger burned against them, and he departed from them.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ The cloud moved away from over the tent, and look! Mirʹi·am was struck with leprosy as white as snow. Then Aaron turned toward Mirʹi·am, and he saw that she was struck with leprosy.
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ Immediately Aaron said to Moses: “I beg you, my lord! Please do not hold this sin against us! We have acted foolishly in what we have done.
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Please, do not let her continue like someone dead, whose flesh is half eaten away at birth!”
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ And Moses began to cry out to Jehovah, saying: “O God, please heal her! Please!”
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ Jehovah replied to Moses: “If her father would spit directly in her face, would she not be humiliated for seven days? Let her be quarantined for seven days outside the camp, and afterward she may be brought back in.”
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ So Mirʹi·am was quarantined outside the camp for seven days, and the people did not break camp until Mirʹi·am was brought back in.
+
+[[v4-12-16]]
+
+^<<v4-12-16,16>>^ Then the people departed from Ha·zeʹroth and began camping in the wilderness of Paʹran.
+
+'''
+
+xref:004-numbers/004-numbers-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numbers/004-numbers-013.adoc#v4-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,246 @@
+include::./index.adoc[]
+
+[[v18-33-0]]
+=== Job, 33
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-33-1]]
+
+^<<v18-33-1,1>>^ “But now, Job, please hear my words;
+Listen to everything I say.
+
+[[v18-33-2]]
+
+^<<v18-33-2,2>>^ Look, please! I must open my mouth;
+My tongue^&#42;1^ must speak.
+
+[NOTE]
+====
+. Lit., “My tongue with my palate.”
+====
+
+[[v18-33-3]]
+
+^<<v18-33-3,3>>^ My words declare the uprightness of my heart,
+And my lips sincerely tell what I know.
+
+[[v18-33-4]]
+
+^<<v18-33-4,4>>^ God’s own spirit made me,
+And the Almighty’s own breath brought me to life.
+
+[[v18-33-5]]
+
+^<<v18-33-5,5>>^ Reply to me if you are able;
+Present your arguments before me; take your position.
+
+[[v18-33-6]]
+
+^<<v18-33-6,6>>^ Look! I am just like you before the true God;
+From the clay I too was shaped.
+
+[[v18-33-7]]
+
+^<<v18-33-7,7>>^ So no fear of me should terrify you,
+And no pressure from me should overwhelm you.
+
+[[v18-33-8]]
+
+^<<v18-33-8,8>>^ But you said in my hearing,
+Yes, I kept hearing these words,
+
+[[v18-33-9]]
+
+^<<v18-33-9,9>>^ ‘I am pure, without transgression;
+I am clean, without error.
+
+[[v18-33-10]]
+
+^<<v18-33-10,10>>^ But God finds reasons to oppose me;
+He considers me his enemy.
+
+[[v18-33-11]]
+
+^<<v18-33-11,11>>^ He puts my feet in stocks;
+He scrutinizes all my paths.’
+
+[[v18-33-12]]
+
+^<<v18-33-12,12>>^ But you are not right in saying this, so I will answer you:
+God is far greater than mortal man.
+
+[[v18-33-13]]
+
+^<<v18-33-13,13>>^ Why do you complain against Him?
+Is it because he did not answer all your words?
+
+[[v18-33-14]]
+
+^<<v18-33-14,14>>^ For God speaks once and a second time,
+But no one pays attention,
+
+[[v18-33-15]]
+
+^<<v18-33-15,15>>^ In a dream, a vision of the night,
+When deep sleep falls upon people
+While they sleep in their beds.
+
+[[v18-33-16]]
+
+^<<v18-33-16,16>>^ Then he uncovers their ears
+And impresses^&#42;1^ his instruction upon them,
+
+[NOTE]
+====
+. Lit., “puts a seal on.”
+====
+
+[[v18-33-17]]
+
+^<<v18-33-17,17>>^ To turn a person away from wrongdoing
+And to protect a man from pride.
+
+[[v18-33-18]]
+
+^<<v18-33-18,18>>^ God spares his soul^&#42;1^ from the pit,^&#42;2^
+His life from perishing by the sword.^&#42;3^
+
+[NOTE]
+====
+. Or “life.”
+. Or “grave.”
+. Or “by a weapon (missile).”
+====
+
+[[v18-33-19]]
+
+^<<v18-33-19,19>>^ A person is also reproved by pain on his bed
+And by the constant distress of his bones,
+
+[[v18-33-20]]
+
+^<<v18-33-20,20>>^ So that his very being^&#42;1^ loathes bread,
+And he^&#42;2^ rejects even fine food.
+
+[NOTE]
+====
+. Lit., “his life.”
+. Or “his soul.”
+====
+
+[[v18-33-21]]
+
+^<<v18-33-21,21>>^ His flesh wastes away from sight,
+And his bones that were hidden now protrude.^&#42;1^
+
+[NOTE]
+====
+. Or “are laid bare.”
+====
+
+[[v18-33-22]]
+
+^<<v18-33-22,22>>^ His soul^&#42;1^ draws near to the pit;^&#42;2^
+His life to those who bring death.
+
+[NOTE]
+====
+. Or “life.”
+. Or “grave.”
+====
+
+[[v18-33-23]]
+
+^<<v18-33-23,23>>^ If there is a messenger^&#42;1^ for him,
+One advocate out of a thousand,
+To tell to man what is upright,
+
+[NOTE]
+====
+. Or “an angel.”
+====
+
+[[v18-33-24]]
+
+^<<v18-33-24,24>>^ Then God shows him favor and says,
+‘Spare him from going down into the pit!^&#42;1^
+I have found a ransom!
+
+[NOTE]
+====
+. Or “grave.”
+====
+
+[[v18-33-25]]
+
+^<<v18-33-25,25>>^ Let his flesh become fresher^&#42;1^ than in youth;
+Let him return to the days of his youthful vigor.’
+
+[NOTE]
+====
+. Or “healthier.”
+====
+
+[[v18-33-26]]
+
+^<<v18-33-26,26>>^ He will entreat God, who will accept him,
+And he will see His face with shouts of joy,
+And He will restore His righteousness to mortal man.
+
+[[v18-33-27]]
+
+^<<v18-33-27,27>>^ That person will declare^&#42;1^ to men,
+‘I have sinned and distorted what is right,
+But I did not receive what I deserved.^&#42;2^
+
+[NOTE]
+====
+. Lit., “sing.”
+. Or possibly, “And it did not profit me.”
+====
+
+[[v18-33-28]]
+
+^<<v18-33-28,28>>^ He has redeemed my soul^&#42;1^ from going into the pit,^&#42;2^
+And my life will see the light.’
+
+[NOTE]
+====
+. Or “life.”
+. Or “grave.”
+====
+
+[[v18-33-29]]
+
+^<<v18-33-29,29>>^ Indeed, God does all these things
+Twice, three times, for a man,
+
+[[v18-33-30]]
+
+^<<v18-33-30,30>>^ To bring him^&#42;1^ back from the pit,^&#42;2^
+So that he may be enlightened with the light of life.
+
+[NOTE]
+====
+. Or “his soul.”
+. Or “grave.”
+====
+
+[[v18-33-31]]
+
+^<<v18-33-31,31>>^ Pay attention, Job! Listen to me!
+Keep silent, and I will continue speaking.
+
+[[v18-33-32]]
+
+^<<v18-33-32,32>>^ If you have something to say, reply to me.
+Speak, for I want to prove you right.
+
+[[v18-33-33]]
+
+^<<v18-33-33,33>>^ If you have nothing to say, you should listen to me;
+Keep silent, and I will teach you wisdom.”
+
+'''
+
+xref:018-job/018-job-032.adoc#v18-32-0[&#60; Capítulo Anterior] | <<v18-33-0,Topo>> | xref:018-job/018-job-034.adoc#v18-34-0[Próximo Capítulo &#62;]

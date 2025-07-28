@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v19-115-0]]
+=== Psalm, 115
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-115-1]]
+
+^<<v19-115-1,1>>^ Not to us, O Jehovah, not to us,^&#42;1^
+But to your name give glory
+Because of your loyal love and your faithfulness.
+
+[NOTE]
+====
+. Or “To us belongs nothing, O ­Jehovah, to us belongs nothing.”
+====
+
+[[v19-115-2]]
+
+^<<v19-115-2,2>>^ Why should the nations say:
+“Where is their God?”
+
+[[v19-115-3]]
+
+^<<v19-115-3,3>>^ Our God is in the heavens;
+He does whatever he pleases.
+
+[[v19-115-4]]
+
+^<<v19-115-4,4>>^ Their idols are silver and gold,
+The work of human hands.
+
+[[v19-115-5]]
+
+^<<v19-115-5,5>>^ A mouth they have, but they cannot speak;
+Eyes, but they cannot see;
+
+[[v19-115-6]]
+
+^<<v19-115-6,6>>^ Ears they have, but they cannot hear;
+A nose, but they cannot smell;
+
+[[v19-115-7]]
+
+^<<v19-115-7,7>>^ Hands they have, but they cannot feel;
+Feet, but they cannot walk;
+They make no sound with their throat.
+
+[[v19-115-8]]
+
+^<<v19-115-8,8>>^ The people who make them will become just like them,
+As will all those who trust in them.
+
+[[v19-115-9]]
+
+^<<v19-115-9,9>>^ O Israel, trust in Jehovah
+—He is their help and their shield.
+
+[[v19-115-10]]
+
+^<<v19-115-10,10>>^ O house of Aaron, trust in Jehovah
+—He is their help and their shield.
+
+[[v19-115-11]]
+
+^<<v19-115-11,11>>^ You who fear Jehovah, trust in Jehovah
+—He is their help and their shield.
+
+[[v19-115-12]]
+
+^<<v19-115-12,12>>^ Jehovah remembers us and will bless;
+He will bless the house of Israel;
+He will bless the house of Aaron.
+
+[[v19-115-13]]
+
+^<<v19-115-13,13>>^ He will bless those who fear Jehovah,
+The small as well as the great.
+
+[[v19-115-14]]
+
+^<<v19-115-14,14>>^ Jehovah will give you an increase,
+To you and your children.^&#42;1^
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v19-115-15]]
+
+^<<v19-115-15,15>>^ May you be blessed by Jehovah,
+The Maker of heaven and earth.
+
+[[v19-115-16]]
+
+^<<v19-115-16,16>>^ As for the heavens, they belong to Jehovah,
+But the earth he has given to the sons of men.
+
+[[v19-115-17]]
+
+^<<v19-115-17,17>>^ The dead do not praise Jah;
+Nor do any who go down into the silence of death.^&#42;1^
+
+[NOTE]
+====
+. Lit., “into silence.”
+====
+
+[[v19-115-18]]
+
+^<<v19-115-18,18>>^ But we will praise Jah
+From now on and forever.
+Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-114.adoc#v19-114-0[&#60; Capítulo Anterior] | <<v19-115-0,Topo>> | xref:019-psalm/019-psalm-116.adoc#v19-116-0[Próximo Capítulo &#62;]

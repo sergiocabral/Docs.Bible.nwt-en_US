@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v20-12-0]]
+=== Proverbs, 12
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-12-1]]
+
+^<<v20-12-1,1>>^ The one who loves discipline loves knowledge,
+But the one who hates reproof is unreasoning.^&#42;1^
+
+[NOTE]
+====
+. Or “has no sense.”
+====
+
+[[v20-12-2]]
+
+^<<v20-12-2,2>>^ The good person obtains Jehovah’s approval,
+But He condemns the man of wicked schemes.
+
+[[v20-12-3]]
+
+^<<v20-12-3,3>>^ No man is made secure by wickedness,
+But the righteous will never be uprooted.
+
+[[v20-12-4]]
+
+^<<v20-12-4,4>>^ A capable wife is a crown to her husband,
+But the wife who acts shamefully is like rottenness in his bones.
+
+[[v20-12-5]]
+
+^<<v20-12-5,5>>^ The thoughts of the righteous are just,
+But the guidance of the wicked is deceptive.
+
+[[v20-12-6]]
+
+^<<v20-12-6,6>>^ The words of the wicked are a deadly ambush,^&#42;1^
+But the mouth of the upright saves them.
+
+[NOTE]
+====
+. Lit., “lie in wait for blood.”
+====
+
+[[v20-12-7]]
+
+^<<v20-12-7,7>>^ When the wicked are overthrown, they are no more,
+But the house of the righteous will keep standing.
+
+[[v20-12-8]]
+
+^<<v20-12-8,8>>^ A man is praised for the discretion of his mouth,
+But one with a twisted heart will be treated with contempt.
+
+[[v20-12-9]]
+
+^<<v20-12-9,9>>^ Better to be lightly esteemed and have a servant
+Than to glorify oneself and have no food.^&#42;1^
+
+[NOTE]
+====
+. Lit., “bread.”
+====
+
+[[v20-12-10]]
+
+^<<v20-12-10,10>>^ The righteous one takes care of his domestic animals,^&#42;1^
+But even the mercy of the wicked is cruel.
+
+[NOTE]
+====
+. Or “the soul of his domestic animal.”
+====
+
+[[v20-12-11]]
+
+^<<v20-12-11,11>>^ The one who cultivates his land will be satisfied with food,
+But the one pursuing worthless things is lacking good sense.^&#42;1^
+
+[NOTE]
+====
+. Lit., “in want of heart.”
+====
+
+[[v20-12-12]]
+
+^<<v20-12-12,12>>^ The wicked man envies what other evil men have caught,
+But the root of the righteous bears fruit.
+
+[[v20-12-13]]
+
+^<<v20-12-13,13>>^ The evil man is ensnared by his own sinful speech,
+But the righteous one escapes from distress.
+
+[[v20-12-14]]
+
+^<<v20-12-14,14>>^ From the fruitage of his speech^&#42;1^ a man is satisfied with good,
+And the work of his hands will reward him.
+
+[NOTE]
+====
+. Lit., “mouth.”
+====
+
+[[v20-12-15]]
+
+^<<v20-12-15,15>>^ The way of the fool is right in his own eyes,
+But the wise one accepts advice.^&#42;1^
+
+[NOTE]
+====
+. Or “counsel.”
+====
+
+[[v20-12-16]]
+
+^<<v20-12-16,16>>^ A fool immediately^&#42;1^ shows his annoyance,
+But the shrewd man overlooks^&#42;2^ an insult.
+
+[NOTE]
+====
+. Or “in the same day.”
+. Lit., “covers over.”
+====
+
+[[v20-12-17]]
+
+^<<v20-12-17,17>>^ The one who testifies faithfully will tell the truth,^&#42;1^
+But a false witness speaks deceit.
+
+[NOTE]
+====
+. Lit., “what is righteous.”
+====
+
+[[v20-12-18]]
+
+^<<v20-12-18,18>>^ Thoughtless speech is like the stabs of a sword,
+But the tongue of the wise is a healing.
+
+[[v20-12-19]]
+
+^<<v20-12-19,19>>^ Truthful lips will endure forever,
+But a lying tongue will last for only a moment.
+
+[[v20-12-20]]
+
+^<<v20-12-20,20>>^ Deceit is in the heart of those who plot mischief,
+But those who promote^&#42;1^ peace have joy.
+
+[NOTE]
+====
+. Lit., “those who are counselors of.”
+====
+
+[[v20-12-21]]
+
+^<<v20-12-21,21>>^ No harm will befall the righteous one,
+But the wicked will have their fill of calamity.
+
+[[v20-12-22]]
+
+^<<v20-12-22,22>>^ Lying lips are detestable to Jehovah,
+But those acting faithfully bring pleasure to him.
+
+[[v20-12-23]]
+
+^<<v20-12-23,23>>^ A shrewd man conceals what he knows,
+But the heart of the fool blurts out his foolishness.
+
+[[v20-12-24]]
+
+^<<v20-12-24,24>>^ The hand of the diligent ones will rule,
+But idle hands will be put to forced labor.
+
+[[v20-12-25]]
+
+^<<v20-12-25,25>>^ Anxiety in a man’s heart weighs it down,^&#42;1^
+But a good word cheers it up.
+
+[NOTE]
+====
+. Or “depresses him.”
+====
+
+[[v20-12-26]]
+
+^<<v20-12-26,26>>^ The righteous one searches out his pastures,
+But the course of the wicked leads them astray.
+
+[[v20-12-27]]
+
+^<<v20-12-27,27>>^ The lazy do not chase after the prey,
+But diligence is a man’s precious treasure.
+
+[[v20-12-28]]
+
+^<<v20-12-28,28>>^ The path of righteousness leads to life;
+Along its pathway there is no death.
+
+'''
+
+xref:020-proverbs/020-proverbs-011.adoc#v20-11-0[&#60; Capítulo Anterior] | <<v20-12-0,Topo>> | xref:020-proverbs/020-proverbs-013.adoc#v20-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,381 @@
+include::./index.adoc[]
+
+[[v25-3-0]]
+=== Lamentations, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_א &#91;Aleph&#93;_
+
+[[v25-3-1]]
+
+^<<v25-3-1,1>>^ I am the man who has seen affliction because of the rod of his fury.
+
+[[v25-3-2]]
+
+^<<v25-3-2,2>>^ He has driven me out and makes me walk in darkness, not in light.
+
+[[v25-3-3]]
+
+^<<v25-3-3,3>>^ Indeed, he repeatedly brings his hand against me all day long.
+
+_ב &#91;Beth&#93;_
+
+[[v25-3-4]]
+
+^<<v25-3-4,4>>^ He has worn away my flesh and my skin;
+He has broken my bones.
+
+[[v25-3-5]]
+
+^<<v25-3-5,5>>^ He has besieged me; he has surrounded me with bitter poison and hardship.
+
+[[v25-3-6]]
+
+^<<v25-3-6,6>>^ He has forced me to sit in dark places, like men who died long ago.
+
+_ג &#91;Gimel&#93;_
+
+[[v25-3-7]]
+
+^<<v25-3-7,7>>^ He has walled me in, so that I cannot escape;
+He has bound me with heavy copper fetters.
+
+[[v25-3-8]]
+
+^<<v25-3-8,8>>^ And when I cry out desperately for help, he rejects^&#42;1^ my prayer.
+
+[NOTE]
+====
+. Or “hinders; shuts out.”
+====
+
+[[v25-3-9]]
+
+^<<v25-3-9,9>>^ He has blocked up my paths with hewn stones;
+He has made my roadways crooked.
+
+_ד &#91;Daleth&#93;_
+
+[[v25-3-10]]
+
+^<<v25-3-10,10>>^ He waits to ambush me like a bear, like a lion in hiding.
+
+[[v25-3-11]]
+
+^<<v25-3-11,11>>^ He has forced me off the paths and torn me to pieces;^&#42;1^
+He has made me desolate.
+
+[NOTE]
+====
+. Or possibly, “makes me lie fallow.”
+====
+
+[[v25-3-12]]
+
+^<<v25-3-12,12>>^ He has bent^&#42;1^ his bow, and he sets me up as the target for the arrow.
+
+[NOTE]
+====
+. Lit., “trodden.”
+====
+
+_ה &#91;He&#93;_
+
+[[v25-3-13]]
+
+^<<v25-3-13,13>>^ He has pierced my kidneys with the arrows^&#42;1^ of his quiver.
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v25-3-14]]
+
+^<<v25-3-14,14>>^ I have become a laughingstock to all the peoples, the theme of their song all day long.
+
+[[v25-3-15]]
+
+^<<v25-3-15,15>>^ He has filled me with bitter things and saturated me with wormwood.
+
+_ו &#91;Waw&#93;_
+
+[[v25-3-16]]
+
+^<<v25-3-16,16>>^ He breaks my teeth with gravel;
+He makes me cower in the ashes.
+
+[[v25-3-17]]
+
+^<<v25-3-17,17>>^ You deprive me^&#42;1^ of peace; I have forgotten what is good.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v25-3-18]]
+
+^<<v25-3-18,18>>^ So I say: “My splendor has perished, as well as my expectation in Jehovah.”
+
+_ז &#91;Zayin&#93;_
+
+[[v25-3-19]]
+
+^<<v25-3-19,19>>^ Remember my affliction and my homeless state, the wormwood and the bitter poison.
+
+[[v25-3-20]]
+
+^<<v25-3-20,20>>^ You^&#42;1^ will surely remember and bow low over me.
+
+[NOTE]
+====
+. Or “Your soul.”
+====
+
+[[v25-3-21]]
+
+^<<v25-3-21,21>>^ I recall this in my heart; that is why I will show a waiting attitude.
+
+_ח &#91;Heth&#93;_
+
+[[v25-3-22]]
+
+^<<v25-3-22,22>>^ It is because of Jehovah’s loyal love that we have not come to our finish,
+For his mercies never end.
+
+[[v25-3-23]]
+
+^<<v25-3-23,23>>^ They are new each morning; your faithfulness is abundant.
+
+[[v25-3-24]]
+
+^<<v25-3-24,24>>^ “Jehovah is my share,” I have said,^&#42;1^ “that is why I will show a waiting attitude for him.”
+
+[NOTE]
+====
+. Or “my soul says.”
+====
+
+_ט &#91;Teth&#93;_
+
+[[v25-3-25]]
+
+^<<v25-3-25,25>>^ Good is Jehovah to the one hoping in him, to the person^&#42;1^ who keeps seeking him.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v25-3-26]]
+
+^<<v25-3-26,26>>^ Good it is to wait in silence^&#42;1^ for the salvation of Jehovah.
+
+[NOTE]
+====
+. Or “to wait patiently.”
+====
+
+[[v25-3-27]]
+
+^<<v25-3-27,27>>^ Good it is for a man to carry the yoke during his youth.
+
+_י &#91;Yod&#93;_
+
+[[v25-3-28]]
+
+^<<v25-3-28,28>>^ Let him sit alone and keep silent when He lays it upon him.
+
+[[v25-3-29]]
+
+^<<v25-3-29,29>>^ Let him put his mouth in the very dust; there may yet be hope.
+
+[[v25-3-30]]
+
+^<<v25-3-30,30>>^ Let him give his cheek to the one striking him; let him have his fill of insults.
+
+_כ &#91;Kaph&#93;_
+
+[[v25-3-31]]
+
+^<<v25-3-31,31>>^ For Jehovah will not cast us off forever.
+
+[[v25-3-32]]
+
+^<<v25-3-32,32>>^ Although he has caused grief, he will also show mercy according to his abundant loyal love.
+
+[[v25-3-33]]
+
+^<<v25-3-33,33>>^ For it is not in his heart to afflict or grieve the sons of men.
+
+_ל &#91;Lamed&#93;_
+
+[[v25-3-34]]
+
+^<<v25-3-34,34>>^ To crush beneath one’s feet all the prisoners of the earth,
+
+[[v25-3-35]]
+
+^<<v25-3-35,35>>^ To deprive a man of justice in the presence of the Most High,
+
+[[v25-3-36]]
+
+^<<v25-3-36,36>>^ To defraud a man in his legal case
+—Jehovah does not tolerate such things.
+
+_מ &#91;Mem&#93;_
+
+[[v25-3-37]]
+
+^<<v25-3-37,37>>^ Who, then, can speak and have it happen unless Jehovah commands it?
+
+[[v25-3-38]]
+
+^<<v25-3-38,38>>^ From the mouth of the Most High,
+Bad things and good things do not go out together.
+
+[[v25-3-39]]
+
+^<<v25-3-39,39>>^ Why should a living person complain about the consequences of his sin?
+
+_נ &#91;Nun&#93;_
+
+[[v25-3-40]]
+
+^<<v25-3-40,40>>^ Let us examine and scrutinize our ways, and let us return to Jehovah.
+
+[[v25-3-41]]
+
+^<<v25-3-41,41>>^ Let us lift up our hearts along with our hands to God in the heavens:
+
+[[v25-3-42]]
+
+^<<v25-3-42,42>>^ “We have transgressed and rebelled, and you have not forgiven.
+
+_ס &#91;Samekh&#93;_
+
+[[v25-3-43]]
+
+^<<v25-3-43,43>>^ With anger you have blocked our approach;
+You have pursued and killed us without compassion.
+
+[[v25-3-44]]
+
+^<<v25-3-44,44>>^ You have blocked approach to yourself with a cloud, so that our prayer may not pass through.
+
+[[v25-3-45]]
+
+^<<v25-3-45,45>>^ You make us offscouring and refuse among the peoples.”
+
+_פ &#91;Pe&#93;_
+
+[[v25-3-46]]
+
+^<<v25-3-46,46>>^ All our enemies open their mouths against us.
+
+[[v25-3-47]]
+
+^<<v25-3-47,47>>^ Dread and pitfalls have become our lot, desolation and breakdown.
+
+[[v25-3-48]]
+
+^<<v25-3-48,48>>^ Streams of water flow from my eyes over the breakdown of the daughter of my people.
+
+_ע &#91;Ayin&#93;_
+
+[[v25-3-49]]
+
+^<<v25-3-49,49>>^ My eyes weep without ceasing, without pausing,
+
+[[v25-3-50]]
+
+^<<v25-3-50,50>>^ Until Jehovah looks down and sees from heaven.
+
+[[v25-3-51]]
+
+^<<v25-3-51,51>>^ My eyes have brought me^&#42;1^ grief because of all the daughters of my city.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+_צ &#91;Tsade&#93;_
+
+[[v25-3-52]]
+
+^<<v25-3-52,52>>^ Without cause my enemies have hunted me down like a bird.
+
+[[v25-3-53]]
+
+^<<v25-3-53,53>>^ They have silenced my life in the pit; they kept hurling stones at me.
+
+[[v25-3-54]]
+
+^<<v25-3-54,54>>^ Waters flowed over my head, and I said: “I am finished!”
+
+_ק &#91;Qoph&#93;_
+
+[[v25-3-55]]
+
+^<<v25-3-55,55>>^ I called out your name, O Jehovah, from the depths of the pit.
+
+[[v25-3-56]]
+
+^<<v25-3-56,56>>^ Hear my voice; do not shut your ear to my cry for help, for relief.
+
+[[v25-3-57]]
+
+^<<v25-3-57,57>>^ You drew near in the day that I called you. You said: “Do not be afraid.”
+
+_ר &#91;Resh&#93;_
+
+[[v25-3-58]]
+
+^<<v25-3-58,58>>^ You have defended my cause,^&#42;1^ O Jehovah, you have redeemed my life.
+
+[NOTE]
+====
+. Or “the legal cases of my soul.”
+====
+
+[[v25-3-59]]
+
+^<<v25-3-59,59>>^ You have seen, O Jehovah, the wrong done to me; please grant me justice.
+
+[[v25-3-60]]
+
+^<<v25-3-60,60>>^ You have seen all their vengeance, all their schemes against me.
+
+_ש &#91;Sin&#93; or &#91;Shin&#93;_
+
+[[v25-3-61]]
+
+^<<v25-3-61,61>>^ You have heard their taunts, O Jehovah, all their schemes against me,
+
+[[v25-3-62]]
+
+^<<v25-3-62,62>>^ The lips of my opposers and their whispering against me all day long.
+
+[[v25-3-63]]
+
+^<<v25-3-63,63>>^ Look at them; whether they sit or stand, they mock me in their songs!
+
+_ת &#91;Taw&#93;_
+
+[[v25-3-64]]
+
+^<<v25-3-64,64>>^ You will repay them, O Jehovah, according to their deeds.
+
+[[v25-3-65]]
+
+^<<v25-3-65,65>>^ You will make them hardhearted, as your curse to them.
+
+[[v25-3-66]]
+
+^<<v25-3-66,66>>^ You will pursue them in your anger and annihilate them from under the heavens of Jehovah.
+
+'''
+
+xref:025-lamentations/025-lamentations-002.adoc#v25-2-0[&#60; Capítulo Anterior] | <<v25-3-0,Topo>> | xref:025-lamentations/025-lamentations-004.adoc#v25-4-0[Próximo Capítulo &#62;]

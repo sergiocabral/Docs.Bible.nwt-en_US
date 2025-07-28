@@ -1,0 +1,163 @@
+include::./index.adoc[]
+
+[[v19-10-0]]
+=== Psalm, 10
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_ל &#91;Lamed&#93;_
+
+[[v19-10-1]]
+
+^<<v19-10-1,1>>^ Why, O Jehovah, do you stand at a distance?
+Why do you hide yourself in times of distress?
+
+[[v19-10-2]]
+
+^<<v19-10-2,2>>^ The wicked one arrogantly pursues the helpless one,
+But he will be caught in the schemes he devises.
+
+[[v19-10-3]]
+
+^<<v19-10-3,3>>^ For the wicked one boasts about his selfish desires^&#42;1^
+And blesses the greedy one;^&#42;2^
+
+[NOTE]
+====
+. Or “the desire of his soul.”
+. Or possibly, “The greedy one blesses himself.”
+====
+
+_נ &#91;Nun&#93;_
+
+He disrespects Jehovah.
+
+[NOTE]
+====
+. Or “the desire of his soul.”
+. Or possibly, “The greedy one blesses himself.”
+====
+
+[[v19-10-4]]
+
+^<<v19-10-4,4>>^ In his haughtiness, the wicked man makes no investigation;
+All his thoughts are: “There is no God.”
+
+[[v19-10-5]]
+
+^<<v19-10-5,5>>^ His ways keep prospering,
+But your judgments are beyond his understanding;
+He scoffs^&#42;1^ at all his adversaries.
+
+[NOTE]
+====
+. Or “puffs.”
+====
+
+[[v19-10-6]]
+
+^<<v19-10-6,6>>^ He says in his heart: “I will never be shaken;^&#42;1^
+For generation after generation
+I will never see calamity.”
+
+[NOTE]
+====
+. Or “will never stagger (totter).”
+====
+
+_פ &#91;Pe&#93;_
+
+[[v19-10-7]]
+
+^<<v19-10-7,7>>^ His mouth is full of curses, lies, and threats;
+Under his tongue are trouble and injury.
+
+[[v19-10-8]]
+
+^<<v19-10-8,8>>^ He waits in ambush near the settlements;
+From his hiding place he kills an innocent one.
+
+_ע &#91;Ayin&#93;_
+
+His eyes are watching for an unfortunate victim.
+
+[[v19-10-9]]
+
+^<<v19-10-9,9>>^ He waits in his hiding place like a lion in its lair.^&#42;1^
+He waits to seize the helpless one.
+He seizes the helpless one when he pulls his net shut.
+
+[NOTE]
+====
+. Or “thicket.”
+====
+
+[[v19-10-10]]
+
+^<<v19-10-10,10>>^ The victim is crushed and brought down;
+The unfortunate ones fall into his clutches.^&#42;1^
+
+[NOTE]
+====
+. Or “strong claws.”
+====
+
+[[v19-10-11]]
+
+^<<v19-10-11,11>>^ He says in his heart: “God has forgotten.
+He has turned away his face.
+He never notices.”
+
+_ק &#91;Qoph&#93;_
+
+[[v19-10-12]]
+
+^<<v19-10-12,12>>^ Rise up, O Jehovah. O God, lift up your hand.
+Do not forget the helpless ones.
+
+[[v19-10-13]]
+
+^<<v19-10-13,13>>^ Why has the wicked one disrespected God?
+He says in his heart: “You will not hold me accountable.”
+
+_ר &#91;Resh&#93;_
+
+[[v19-10-14]]
+
+^<<v19-10-14,14>>^ But you do see trouble and distress.
+You look on and take matters in hand.
+To you the unfortunate victim turns;
+You are the helper for the fatherless child.^&#42;1^
+
+[NOTE]
+====
+. Or “the orphan.”
+====
+
+_ש &#91;Shin&#93;_
+
+[[v19-10-15]]
+
+^<<v19-10-15,15>>^ Break the arm of the wicked and evil man,
+So that when you search for his wickedness,
+You will find it no more.
+
+[[v19-10-16]]
+
+^<<v19-10-16,16>>^ Jehovah is King forever and ever.
+The nations have perished from the earth.
+
+_ת &#91;Taw&#93;_
+
+[[v19-10-17]]
+
+^<<v19-10-17,17>>^ But you will hear the request of the meek, O Jehovah.
+You will make their hearts firm and pay close attention to them.
+
+[[v19-10-18]]
+
+^<<v19-10-18,18>>^ You will render justice to the fatherless and to those who are crushed,
+So that mortal man of the earth may no longer make them afraid.
+
+'''
+
+xref:019-psalm/019-psalm-009.adoc#v19-9-0[&#60; Capítulo Anterior] | <<v19-10-0,Topo>> | xref:019-psalm/019-psalm-011.adoc#v19-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v59-2-0]]
+=== The Letter of James, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v59-2-1]]
+
+^<<v59-2-1,1>>^ My brothers, you are not holding to the faith of our glorious Lord Jesus Christ while showing favoritism, are you?
+
+[[v59-2-2]]
+
+^<<v59-2-2,2>>^ For if a man with gold rings on his fingers and in splendid clothing comes into your meeting, but a poor man in filthy clothing also enters,
+
+[[v59-2-3]]
+
+^<<v59-2-3,3>>^ do you look with favor on the one wearing the splendid clothing and say, “You take this seat here in a fine place,” and do you say to the poor one, “You keep standing” or, “Take that seat there under my footstool”?
+
+[[v59-2-4]]
+
+^<<v59-2-4,4>>^ If so, do you not have class distinctions among yourselves, and have you not become judges rendering wicked decisions?
+
+[[v59-2-5]]
+
+^<<v59-2-5,5>>^ Listen, my beloved brothers. Did not God choose those who are poor from the world’s standpoint to be rich in faith and heirs of the Kingdom, which he promised to those who love him?
+
+[[v59-2-6]]
+
+^<<v59-2-6,6>>^ But you have dishonored the poor. Is it not the rich who oppress you and drag you before law courts?
+
+[[v59-2-7]]
+
+^<<v59-2-7,7>>^ Do they not blaspheme the fine name by which you were called?
+
+[[v59-2-8]]
+
+^<<v59-2-8,8>>^ If, now, you carry out the royal^&#42;1^ law according to the scripture, “You must love your neighbor as yourself,” you are doing quite well.
+
+[NOTE]
+====
+. Or “kingly.”
+====
+
+[[v59-2-9]]
+
+^<<v59-2-9,9>>^ But if you continue showing favoritism, you are committing sin, and you are convicted^&#42;1^ by the law as transgressors.
+
+[NOTE]
+====
+. Or “reproved.”
+====
+
+[[v59-2-10]]
+
+^<<v59-2-10,10>>^ For if anyone obeys all the Law but makes a false step in one point, he has become an offender against all of it.
+
+[[v59-2-11]]
+
+^<<v59-2-11,11>>^ For the one who said, “You must not commit adultery,” also said, “You must not murder.” If, now, you do not commit adultery but you do murder, you have become a transgressor of law.
+
+[[v59-2-12]]
+
+^<<v59-2-12,12>>^ Keep on speaking and behaving in such a way as those do who are going to be judged by the law of a free people.^&#42;1^
+
+[NOTE]
+====
+. Lit., “law of freedom.”
+====
+
+[[v59-2-13]]
+
+^<<v59-2-13,13>>^ For the one who does not practice mercy will have his judgment without mercy. Mercy triumphs over judgment.
+
+[[v59-2-14]]
+
+^<<v59-2-14,14>>^ Of what benefit is it, my brothers, if someone says he has faith but he does not have works? That faith cannot save him, can it?
+
+[[v59-2-15]]
+
+^<<v59-2-15,15>>^ If any brothers or sisters are lacking clothing^&#42;1^ and enough food for the day,
+
+[NOTE]
+====
+. Lit., “are naked.”
+====
+
+[[v59-2-16]]
+
+^<<v59-2-16,16>>^ yet one of you says to them, “Go in peace; keep warm and well fed,” but you do not give them what they need for their body, of what benefit is it?
+
+[[v59-2-17]]
+
+^<<v59-2-17,17>>^ So, too, faith by itself, without works, is dead.
+
+[[v59-2-18]]
+
+^<<v59-2-18,18>>^ Nevertheless, someone will say: “You have faith, and I have works. Show me your faith without the works, and I will show you my faith by my works.”
+
+[[v59-2-19]]
+
+^<<v59-2-19,19>>^ You believe that there is one God, do you? You are doing quite well. And yet the demons believe and shudder.
+
+[[v59-2-20]]
+
+^<<v59-2-20,20>>^ But do you care to know, O empty man, that faith without works is useless?
+
+[[v59-2-21]]
+
+^<<v59-2-21,21>>^ Was not Abraham our father declared righteous by works after he offered up Isaac his son on the altar?
+
+[[v59-2-22]]
+
+^<<v59-2-22,22>>^ You see that his faith was active along with his works and his faith was perfected by his works,
+
+[[v59-2-23]]
+
+^<<v59-2-23,23>>^ and the scripture was fulfilled that says: “Abraham put faith in Jehovah,^&#42;1^ and it was counted to him as righteousness,” and he came to be called Jehovah’s^&#42;2^ friend.
+
+[NOTE]
+====
+. See App. A5.
+. See App. A5.
+====
+
+[[v59-2-24]]
+
+^<<v59-2-24,24>>^ You see that a man is to be declared righteous by works and not by faith alone.
+
+[[v59-2-25]]
+
+^<<v59-2-25,25>>^ In the same manner, was not Raʹhab the prostitute also declared righteous by works after she received the messengers hospitably and sent them out by another way?
+
+[[v59-2-26]]
+
+^<<v59-2-26,26>>^ Indeed, just as the body without spirit^&#42;1^ is dead, so also faith without works is dead.
+
+[NOTE]
+====
+. Or “breath.”
+====
+
+'''
+
+xref:059-james/059-james-001.adoc#v59-1-0[&#60; Capítulo Anterior] | <<v59-2-0,Topo>> | xref:059-james/059-james-003.adoc#v59-3-0[Próximo Capítulo &#62;]

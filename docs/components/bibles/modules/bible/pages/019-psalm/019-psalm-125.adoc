@@ -1,0 +1,44 @@
+include::./index.adoc[]
+
+[[v19-125-0]]
+=== Psalm, 125
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-125-1]]
+
+^<<v19-125-1,1>>^ Those who trust in Jehovah
+Are like Mount Zion, which cannot be shaken
+But endures forever.
+
+[[v19-125-2]]
+
+^<<v19-125-2,2>>^ Just as mountains surround Jerusalem,
+So Jehovah surrounds his people
+From now on and forever.
+
+[[v19-125-3]]
+
+^<<v19-125-3,3>>^ The scepter of wickedness will not remain upon the land allotted to the righteous,
+So that the righteous do not turn to doing^&#42;1^ what is wrong.
+
+[NOTE]
+====
+. Or “turn their hands to.”
+====
+
+[[v19-125-4]]
+
+^<<v19-125-4,4>>^ Do good, O Jehovah, to those who are good,
+To those who are upright in heart.
+
+[[v19-125-5]]
+
+^<<v19-125-5,5>>^ As for those who turn aside to their crooked ways,
+Jehovah will remove them along with the wrongdoers.
+May there be peace upon Israel.
+
+'''
+
+xref:019-psalm/019-psalm-124.adoc#v19-124-0[&#60; Capítulo Anterior] | <<v19-125-0,Topo>> | xref:019-psalm/019-psalm-126.adoc#v19-126-0[Próximo Capítulo &#62;]

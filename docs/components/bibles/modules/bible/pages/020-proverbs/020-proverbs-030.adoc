@@ -1,0 +1,245 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Proverbs, 30
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ The weighty message contained in the words of Aʹgur son of Jaʹkeh, which he spoke to Ithʹi·el, to Ithʹi·el and Uʹcal.
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ I am more ignorant than anyone else,
+And I lack the understanding a man should have.
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ I have not learned wisdom,
+And I do not possess the knowledge of the Most Holy One.
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Who has ascended to heaven and then descended?
+Who has gathered the wind in the palms of both hands?
+Who has wrapped up the waters in his garment?
+Who has established^&#42;1^ all the ends of the earth?
+What is his name and the name of his son—if you know?
+
+[NOTE]
+====
+. Lit., “raised.”
+====
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Every saying of God is refined.
+He is a shield to those taking refuge in him.
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Add nothing to his words,
+Or he will reprove you,
+And you will be proved a liar.
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ Two things I ask of you.
+Do not withhold them from me before I die.
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ Remove untruth and lies far from me.
+Give me neither poverty nor riches.
+Just let me consume my portion of food,
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ So that I do not become satisfied and deny you and say, “Who is Jehovah?”
+Nor let me become poor and steal and dishonor^&#42;1^ the name of my God.
+
+[NOTE]
+====
+. Or “assail.”
+====
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Do not slander a servant to his master,
+Or he may curse you and you will be found guilty.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ There is a generation that curses its father
+And does not bless its mother.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ There is a generation that is pure in its own eyes
+But has not been cleansed from its filth.^&#42;1^
+
+[NOTE]
+====
+. Lit., “excrement.”
+====
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ There is a generation whose eyes are so haughty
+And whose eyes look so arrogantly!
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ There is a generation whose teeth are swords
+And whose jaws are slaughtering knives;
+They devour the lowly ones of the earth
+And the poor from among mankind.
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ The leeches have two daughters that cry, “Give! Give!”
+There are three things that do not get satisfied,
+Four that never say, “Enough!”
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ —The Grave^&#42;1^ and a barren womb,
+A land that is deprived of water,
+And fire that never says, “Enough!”
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ The eye that mocks a father and despises obedience to a mother
+—The ravens of the valley^&#42;1^ will peck it out,
+And the young eagles will eat it up.
+
+[NOTE]
+====
+. Or “wadi.”
+====
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ There are three things that are beyond my comprehension,^&#42;1^
+And four that I do not understand:
+
+[NOTE]
+====
+. Or “are too wonderful for me.”
+====
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ The way of an eagle in the heavens,
+The way of a serpent on a rock,
+The way of a ship in the open sea,
+And the way of a man with a young woman.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ This is the way of an adulterous woman:
+She eats, she wipes her mouth;
+Then she says, “I have done nothing wrong.”
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ There are three things that make the earth shudder
+And four things it cannot endure:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ When a slave rules as king,
+When a fool is glutted with food,
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ When a hated^&#42;1^ woman is taken as a wife,
+And when a servant girl takes the place of^&#42;2^ her mistress.
+
+[NOTE]
+====
+. Or “an unloved.”
+. Or “supplants.”
+====
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ Four things on earth are among the smallest,
+But they are instinctively wise:^&#42;1^
+
+[NOTE]
+====
+. Or “exceedingly wise.”
+====
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ The ants are not strong creatures,^&#42;1^
+Yet they prepare their food in the summer.
+
+[NOTE]
+====
+. Lit., “a people not strong.”
+====
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ The rock badgers^&#42;1^ are not mighty creatures,^&#42;2^
+Yet they make their house in the crags.
+
+[NOTE]
+====
+. Or “The hyraxes.”
+. Lit., “a people not mighty.”
+====
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ The locusts have no king,
+Yet they all go forward in formation.^&#42;1^
+
+[NOTE]
+====
+. Or “divided in groups.”
+====
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ The gecko lizard clings with its feet,
+And it goes into the palace of a king.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ There are three things that have an impressive stride,
+Four that are impressive as they move:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ The lion, the mightiest among beasts,
+Which does not retreat from anyone;
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ The greyhound; the male goat;
+And a king whose army is with him.
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ If you have foolishly exalted yourself
+Or if you have schemed to do so,
+Put your hand over your mouth.
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ For as the churning of milk produces butter
+And the squeezing of the nose produces blood,
+So the stirring up of anger produces quarrels.
+
+'''
+
+xref:020-proverbs/020-proverbs-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbs/020-proverbs-031.adoc#v20-31-0[Próximo Capítulo &#62;]

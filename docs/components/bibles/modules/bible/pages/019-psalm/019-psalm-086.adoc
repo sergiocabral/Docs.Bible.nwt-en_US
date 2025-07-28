@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v19-86-0]]
+=== Psalm, 86
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A prayer of David._
+
+[[v19-86-1]]
+
+^<<v19-86-1,1>>^ Incline your ear,^&#42;1^ O Jehovah, and answer me,
+For I am afflicted and poor.
+
+[NOTE]
+====
+. Or “Bend down and listen.”
+====
+
+[[v19-86-2]]
+
+^<<v19-86-2,2>>^ Guard my life,^&#42;1^ for I am loyal.
+Save your servant who is trusting in you,
+For you are my God.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v19-86-3]]
+
+^<<v19-86-3,3>>^ Show me favor, O Jehovah,
+For I call to you all day long.
+
+[[v19-86-4]]
+
+^<<v19-86-4,4>>^ Make your servant^&#42;1^ rejoice,
+For to you, O Jehovah, I turn.^&#42;2^
+
+[NOTE]
+====
+. Or “the soul of your servant.”
+. Or “I raise my soul.”
+====
+
+[[v19-86-5]]
+
+^<<v19-86-5,5>>^ For you, O Jehovah, are good and ready to forgive;
+You abound in loyal love for all those who call on you.
+
+[[v19-86-6]]
+
+^<<v19-86-6,6>>^ Listen, O Jehovah, to my prayer;
+And pay attention to my pleas for help.
+
+[[v19-86-7]]
+
+^<<v19-86-7,7>>^ I call on you in the day of my distress,
+For you will answer me.
+
+[[v19-86-8]]
+
+^<<v19-86-8,8>>^ There is none like you among the gods, O Jehovah,
+There are no works like yours.
+
+[[v19-86-9]]
+
+^<<v19-86-9,9>>^ All the nations that you made
+Will come and bow down before you, O Jehovah,
+And they will give glory to your name.
+
+[[v19-86-10]]
+
+^<<v19-86-10,10>>^ For you are great and do wondrous things;
+You are God, you alone.
+
+[[v19-86-11]]
+
+^<<v19-86-11,11>>^ Instruct me, O Jehovah, about your way.
+I will walk in your truth.
+Unify my heart^&#42;1^ to fear your name.
+
+[NOTE]
+====
+. Or “Give me an undivided heart.”
+====
+
+[[v19-86-12]]
+
+^<<v19-86-12,12>>^ I praise you, O Jehovah my God, with all my heart,
+And I will glorify your name forever,
+
+[[v19-86-13]]
+
+^<<v19-86-13,13>>^ For your loyal love toward me is great,
+And you have saved my life^&#42;1^ from the depths of the Grave.^&#42;2^
+
+[NOTE]
+====
+. Or “soul.”
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v19-86-14]]
+
+^<<v19-86-14,14>>^ O God, presumptuous men rise up against me;
+A band of ruthless men seek to take my life,^&#42;1^
+And they have no regard for you.^&#42;2^
+
+[NOTE]
+====
+. Or “seek my soul.”
+. Or “have not set you in front of themselves.”
+====
+
+[[v19-86-15]]
+
+^<<v19-86-15,15>>^ But you, O Jehovah, are a God merciful and compassionate,^&#42;1^
+Slow to anger and abundant in loyal love and faithfulness.^&#42;2^
+
+[NOTE]
+====
+. Or “gracious.”
+. Or “and truth.”
+====
+
+[[v19-86-16]]
+
+^<<v19-86-16,16>>^ Turn to me and show me favor.
+Give your strength to your servant,
+And save the son of your slave girl.
+
+[[v19-86-17]]
+
+^<<v19-86-17,17>>^ Show me a sign^&#42;1^ of your goodness,
+So that those who hate me may see it and be put to shame.
+For you, O Jehovah, are my helper and comforter.
+
+[NOTE]
+====
+. Or “evidence.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-085.adoc#v19-85-0[&#60; Capítulo Anterior] | <<v19-86-0,Topo>> | xref:019-psalm/019-psalm-087.adoc#v19-87-0[Próximo Capítulo &#62;]

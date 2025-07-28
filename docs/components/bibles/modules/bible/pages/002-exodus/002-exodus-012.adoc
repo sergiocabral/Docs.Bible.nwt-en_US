@@ -1,0 +1,287 @@
+include::./index.adoc[]
+
+[[v2-12-0]]
+=== Exodus, 12
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-12-1]]
+
+^<<v2-12-1,1>>^ Jehovah now said to Moses and Aaron in the land of Egypt:
+
+[[v2-12-2]]
+
+^<<v2-12-2,2>>^ “This month will be the beginning of the months for you. It will be the first of the months of the year for you.
+
+[[v2-12-3]]
+
+^<<v2-12-3,3>>^ Speak to the entire assembly of Israel, saying, ‘On the tenth day of this month, they should each take for themselves a sheep for their father’s house, a sheep to a house.
+
+[[v2-12-4]]
+
+^<<v2-12-4,4>>^ But if the household is too small for the sheep, they and their^&#42;1^ nearest neighbor should share it between themselves in their house according to the number of people.^&#42;2^ When making the calculation, determine how much of the sheep each one will eat.
+
+[NOTE]
+====
+. Lit., “he and his.”
+. Or “souls.”
+====
+
+[[v2-12-5]]
+
+^<<v2-12-5,5>>^ Your sheep should be a sound, one-year-old male. You may choose from the young rams or from the goats.
+
+[[v2-12-6]]
+
+^<<v2-12-6,6>>^ You must care for it until the 14th day of this month, and the whole congregation of the assembly of Israel must slaughter it at twilight.^&#42;1^
+
+[NOTE]
+====
+. Lit., “between the two evenings.”
+====
+
+[[v2-12-7]]
+
+^<<v2-12-7,7>>^ They must take some of the blood and splash it on the two doorposts and the upper part of the doorway of the houses in which they eat it.
+
+[[v2-12-8]]
+
+^<<v2-12-8,8>>^ “‘They must eat the meat on this night. They should roast it over the fire and eat it along with unleavened bread and bitter greens.
+
+[[v2-12-9]]
+
+^<<v2-12-9,9>>^ Do not eat any of it raw or boiled, cooked in water, but roast it over the fire, its head together with its shanks and its inner parts.
+
+[[v2-12-10]]
+
+^<<v2-12-10,10>>^ You must not save any of it until morning, but any of it left over until morning you should burn with fire.
+
+[[v2-12-11]]
+
+^<<v2-12-11,11>>^ And this is how you should eat it, with your belt fastened,^&#42;1^ sandals on your feet, and your staff in your hand; and you should eat it in a hurry. It is Jehovah’s Passover.
+
+[NOTE]
+====
+. Lit., “with your hips girded.”
+====
+
+[[v2-12-12]]
+
+^<<v2-12-12,12>>^ For I will pass through the land of Egypt on this night and strike every firstborn in the land of Egypt, from man to beast; and I will execute judgment on all the gods of Egypt. I am Jehovah.
+
+[[v2-12-13]]
+
+^<<v2-12-13,13>>^ The blood will serve as your sign on the houses where you are; and I will see the blood and pass over you, and the plague will not come on you to destroy you when I strike the land of Egypt.
+
+[[v2-12-14]]
+
+^<<v2-12-14,14>>^ “‘This day will serve as a memorial for you, and you must celebrate it as a festival to Jehovah throughout your generations. As a lasting statute, you should celebrate it.
+
+[[v2-12-15]]
+
+^<<v2-12-15,15>>^ Seven days you are to eat unleavened bread. Yes, on the first day you are to remove the sourdough from your houses, because anyone eating what is leavened from the first day down to the seventh, that person^&#42;1^ must be cut off^&#42;2^ from Israel.
+
+[NOTE]
+====
+. Or “soul.”
+. Or “put to death.”
+====
+
+[[v2-12-16]]
+
+^<<v2-12-16,16>>^ On the first day you will hold a holy convention, and on the seventh day, another holy convention. No work is to be done on these days. Only what every person^&#42;1^ needs to eat, that alone may be prepared for you.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v2-12-17]]
+
+^<<v2-12-17,17>>^ “‘You must keep the Festival of Unleavened Bread, for on this very day, I will bring your multitudes^&#42;1^ out of the land of Egypt. And you must keep this day throughout your generations as a lasting statute.
+
+[NOTE]
+====
+. Lit., “armies.”
+====
+
+[[v2-12-18]]
+
+^<<v2-12-18,18>>^ In the first month, on the 14th day of the month, in the evening, you are to eat unleavened bread until the 21st day of the month, in the evening.
+
+[[v2-12-19]]
+
+^<<v2-12-19,19>>^ No sourdough is to be found in your houses for seven days, because if anyone eats what is leavened, whether he is a foreigner or a native of the land, that person^&#42;1^ must be cut off^&#42;2^ from the assembly of Israel.
+
+[NOTE]
+====
+. Or “soul.”
+. Or “put to death.”
+====
+
+[[v2-12-20]]
+
+^<<v2-12-20,20>>^ You should not eat anything leavened. In all your homes, you are to eat unleavened bread.’”
+
+[[v2-12-21]]
+
+^<<v2-12-21,21>>^ Moses promptly called all the elders of Israel and said to them: “Go and select young animals^&#42;1^ for each of your families, and slaughter the Passover sacrifice.
+
+[NOTE]
+====
+. That is, young sheep or goats.
+====
+
+[[v2-12-22]]
+
+^<<v2-12-22,22>>^ Then you must dip a bunch of hyssop into the blood that is in a basin and strike the upper part of the doorway and the two doorposts with the blood; and none of you should go out of the entrance of his house until morning.
+
+[[v2-12-23]]
+
+^<<v2-12-23,23>>^ Then when Jehovah passes through to plague the Egyptians and sees the blood on the upper part of the doorway and on the two doorposts, Jehovah will certainly pass over the entrance, and he will not allow the plague of death^&#42;1^ to enter into your houses.
+
+[NOTE]
+====
+. Lit., “the ruination.”
+====
+
+[[v2-12-24]]
+
+^<<v2-12-24,24>>^ “You must observe this event as a lasting regulation for you and your sons.
+
+[[v2-12-25]]
+
+^<<v2-12-25,25>>^ And when you come into the land that Jehovah will give you just as he has stated, you must keep this observance.
+
+[[v2-12-26]]
+
+^<<v2-12-26,26>>^ And when your sons ask you, ‘What does this observance mean to you?’
+
+[[v2-12-27]]
+
+^<<v2-12-27,27>>^ you must say, ‘It is the sacrifice of the Passover to Jehovah, who passed over the houses of the Israelites in Egypt when he plagued the Egyptians, but he spared our houses.’”
+Then the people bowed low and prostrated themselves.
+
+[[v2-12-28]]
+
+^<<v2-12-28,28>>^ So the Israelites went and did just as Jehovah had commanded Moses and Aaron. They did just so.
+
+[[v2-12-29]]
+
+^<<v2-12-29,29>>^ Then at midnight, Jehovah struck down every firstborn in the land of Egypt, from the firstborn of Pharʹaoh who was sitting on his throne to the firstborn of the captive who was in the prison,^&#42;1^ and every firstborn of the animals.
+
+[NOTE]
+====
+. Lit., “the house of the cistern.”
+====
+
+[[v2-12-30]]
+
+^<<v2-12-30,30>>^ Pharʹaoh got up that night along with all his servants and all the other Egyptians, and there was a great outcry among the Egyptians, because there was not a house where someone was not dead.
+
+[[v2-12-31]]
+
+^<<v2-12-31,31>>^ At once he called Moses and Aaron by night and said: “Get up, get out from among my people, both you and the other Israelites. Go and serve Jehovah, just as you have said.
+
+[[v2-12-32]]
+
+^<<v2-12-32,32>>^ Take also your flocks and your herds and go, just as you have said. But you must also bless me.”
+
+[[v2-12-33]]
+
+^<<v2-12-33,33>>^ And the Egyptians began to urge the people to depart quickly out of the land “because,” as they said, “we are all as good as dead!”
+
+[[v2-12-34]]
+
+^<<v2-12-34,34>>^ So the people carried their flour dough before it was leavened, with their kneading troughs^&#42;1^ wrapped up in their clothing on their shoulder.
+
+[NOTE]
+====
+. Or “bowls.”
+====
+
+[[v2-12-35]]
+
+^<<v2-12-35,35>>^ The Israelites did what Moses had told them and asked the Egyptians for articles of silver and of gold as well as clothing.
+
+[[v2-12-36]]
+
+^<<v2-12-36,36>>^ Jehovah gave the people favor in the eyes of the Egyptians, so that they gave them what they asked for, and they plundered the Egyptians.
+
+[[v2-12-37]]
+
+^<<v2-12-37,37>>^ Then the Israelites departed from Ramʹe·ses for Sucʹcoth, about 600,000 men on foot, besides children.
+
+[[v2-12-38]]
+
+^<<v2-12-38,38>>^ And a vast mixed company^&#42;1^ also went with them, as well as flocks and herds, a great number of livestock.
+
+[NOTE]
+====
+. That is, a mixed company of non-Israelites, including Egyptians.
+====
+
+[[v2-12-39]]
+
+^<<v2-12-39,39>>^ They began to bake the dough that they brought from Egypt into round loaves of unleavened bread. It was not leavened, because they had been driven out of Egypt so suddenly that they had not prepared any provisions for themselves.
+
+[[v2-12-40]]
+
+^<<v2-12-40,40>>^ The dwelling of the Israelites, who had dwelled in Egypt, was 430 years.
+
+[[v2-12-41]]
+
+^<<v2-12-41,41>>^ At the end of the 430 years, on this very day, all the multitudes^&#42;1^ of Jehovah went out of the land of Egypt.
+
+[NOTE]
+====
+. Lit., “armies.”
+====
+
+[[v2-12-42]]
+
+^<<v2-12-42,42>>^ It is a night on which they will celebrate Jehovah’s bringing them out of the land of Egypt. This night is to be observed to Jehovah by all the people of Israel throughout their generations.
+
+[[v2-12-43]]
+
+^<<v2-12-43,43>>^ Then Jehovah said to Moses and Aaron, “This is the statute of the Passover: No foreigner may eat of it.
+
+[[v2-12-44]]
+
+^<<v2-12-44,44>>^ But if someone has a slave man who was purchased with money, you should circumcise him. Only then may he share in eating it.
+
+[[v2-12-45]]
+
+^<<v2-12-45,45>>^ A settler and a hired worker may not eat of it.
+
+[[v2-12-46]]
+
+^<<v2-12-46,46>>^ In one house it is to be eaten. You must not take any of the meat outside of the house, and you must not break any of its bones.
+
+[[v2-12-47]]
+
+^<<v2-12-47,47>>^ All the assembly of Israel are to celebrate it.
+
+[[v2-12-48]]
+
+^<<v2-12-48,48>>^ If a foreigner resides with you and he wants to celebrate the Passover to Jehovah, every male of his must be circumcised. Then he may come near to celebrate it, and he will become like a native of the land. But no uncircumcised man may eat of it.
+
+[[v2-12-49]]
+
+^<<v2-12-49,49>>^ One law will apply for the native and for the foreigner who is residing among you.”
+
+[[v2-12-50]]
+
+^<<v2-12-50,50>>^ So all the Israelites did just as Jehovah had commanded Moses and Aaron. They did just so.
+
+[[v2-12-51]]
+
+^<<v2-12-51,51>>^ On this very day, Jehovah brought the Israelites along with their multitudes^&#42;1^ out of the land of Egypt.
+
+[NOTE]
+====
+. Lit., “armies.”
+====
+
+'''
+
+xref:002-exodus/002-exodus-011.adoc#v2-11-0[&#60; Capítulo Anterior] | <<v2-12-0,Topo>> | xref:002-exodus/002-exodus-013.adoc#v2-13-0[Próximo Capítulo &#62;]

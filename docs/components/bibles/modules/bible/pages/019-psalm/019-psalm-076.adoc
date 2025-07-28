@@ -1,0 +1,82 @@
+include::./index.adoc[]
+
+[[v19-76-0]]
+=== Psalm, 76
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; to be accompanied with stringed instruments. A melody of Aʹsaph. A song._
+
+[[v19-76-1]]
+
+^<<v19-76-1,1>>^ God is known in Judah;
+In Israel his name is great.
+
+[[v19-76-2]]
+
+^<<v19-76-2,2>>^ His shelter is in Saʹlem,
+And his dwelling is in Zion.
+
+[[v19-76-3]]
+
+^<<v19-76-3,3>>^ There he broke the flaming arrows of the bow,
+The shield and the sword and the weapons of war. (Selah)
+
+[[v19-76-4]]
+
+^<<v19-76-4,4>>^ You shine brightly;^&#42;1^
+You are more majestic than the mountains of prey.
+
+[NOTE]
+====
+. Or “You are enveloped with light.”
+====
+
+[[v19-76-5]]
+
+^<<v19-76-5,5>>^ The courageous of heart have been plundered.
+They have fallen asleep;
+The warriors were all helpless.
+
+[[v19-76-6]]
+
+^<<v19-76-6,6>>^ From your rebuke, O God of Jacob,
+Both the charioteer and the horse have fallen fast asleep.
+
+[[v19-76-7]]
+
+^<<v19-76-7,7>>^ You alone are awe-inspiring.
+Who can withstand your intense anger?
+
+[[v19-76-8]]
+
+^<<v19-76-8,8>>^ From heaven you pronounced judgment;
+The earth was afraid and was silent
+
+[[v19-76-9]]
+
+^<<v19-76-9,9>>^ When God rose up to execute judgment,
+To save all the meek of the earth. (Selah)
+
+[[v19-76-10]]
+
+^<<v19-76-10,10>>^ For the rage of man will serve to your praise;
+With the remnants of their rage you will adorn yourself.
+
+[[v19-76-11]]
+
+^<<v19-76-11,11>>^ Make your vows to Jehovah your God and pay them,
+Let all who are around him bring their gift in fear.
+
+[[v19-76-12]]
+
+^<<v19-76-12,12>>^ He will humble the pride^&#42;1^ of leaders;
+He inspires fear in the kings of the earth.
+
+[NOTE]
+====
+. Lit., “spirit.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-075.adoc#v19-75-0[&#60; Capítulo Anterior] | <<v19-76-0,Topo>> | xref:019-psalm/019-psalm-077.adoc#v19-77-0[Próximo Capítulo &#62;]

@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v19-34-0]]
+=== Psalm, 34
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David, when he disguised his sanity before A·bimʹe·lech, who drove him away, and he left._
+
+_א &#91;Aleph&#93;_
+
+[[v19-34-1]]
+
+^<<v19-34-1,1>>^ I will praise Jehovah at all times;
+His praise will be on my lips constantly.
+
+_ב &#91;Beth&#93;_
+
+[[v19-34-2]]
+
+^<<v19-34-2,2>>^ I^&#42;1^ will boast in Jehovah;
+The meek will hear and rejoice.
+
+[NOTE]
+====
+. Or “My soul.”
+====
+
+_ג &#91;Gimel&#93;_
+
+[[v19-34-3]]
+
+^<<v19-34-3,3>>^ Magnify Jehovah along with me;
+Let us exalt his name together.
+
+_ד &#91;Daleth&#93;_
+
+[[v19-34-4]]
+
+^<<v19-34-4,4>>^ I inquired of Jehovah, and he answered me.
+He rescued me from all my fears.
+
+_ה &#91;He&#93;_
+
+[[v19-34-5]]
+
+^<<v19-34-5,5>>^ Those who looked to him became radiant;
+Their faces could not be put to shame.
+
+_ז &#91;Zayin&#93;_
+
+[[v19-34-6]]
+
+^<<v19-34-6,6>>^ This lowly one called, and Jehovah heard.
+He saved him from all his distresses.
+
+_ח &#91;Heth&#93;_
+
+[[v19-34-7]]
+
+^<<v19-34-7,7>>^ The angel of Jehovah camps all around those fearing Him,
+And he rescues them.
+
+_ט &#91;Teth&#93;_
+
+[[v19-34-8]]
+
+^<<v19-34-8,8>>^ Taste and see that Jehovah is good;
+Happy is the man who takes refuge in him.
+
+_י &#91;Yod&#93;_
+
+[[v19-34-9]]
+
+^<<v19-34-9,9>>^ Fear Jehovah, all you his holy ones,
+For those who fear him lack nothing.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-34-10]]
+
+^<<v19-34-10,10>>^ Even strong young lions^&#42;1^ have been reduced to hunger,
+But those seeking Jehovah will lack nothing good.
+
+[NOTE]
+====
+. Or “maned young lions.”
+====
+
+_ל &#91;Lamed&#93;_
+
+[[v19-34-11]]
+
+^<<v19-34-11,11>>^ Come, my sons, listen to me;
+I will teach you the fear of Jehovah.
+
+_מ &#91;Mem&#93;_
+
+[[v19-34-12]]
+
+^<<v19-34-12,12>>^ Who among you takes pleasure in life
+And would love to see many good days?
+
+_נ &#91;Nun&#93;_
+
+[[v19-34-13]]
+
+^<<v19-34-13,13>>^ Then guard your tongue from what is bad,
+Your lips from speaking deception.
+
+_ס &#91;Samekh&#93;_
+
+[[v19-34-14]]
+
+^<<v19-34-14,14>>^ Turn away from what is bad and do what is good;
+Seek peace and pursue it.
+
+_ע &#91;Ayin&#93;_
+
+[[v19-34-15]]
+
+^<<v19-34-15,15>>^ The eyes of Jehovah are on the righteous,
+And his ears listen to their cry for help.
+
+_פ &#91;Pe&#93;_
+
+[[v19-34-16]]
+
+^<<v19-34-16,16>>^ But the face of Jehovah is against those doing what is bad,
+To erase all memory of them from the earth.
+
+_צ &#91;Tsade&#93;_
+
+[[v19-34-17]]
+
+^<<v19-34-17,17>>^ They cried out, and Jehovah heard;
+He rescued them from all their distresses.
+
+_ק &#91;Qoph&#93;_
+
+[[v19-34-18]]
+
+^<<v19-34-18,18>>^ Jehovah is close to the brokenhearted;
+He saves those who are crushed in spirit.^&#42;1^
+
+[NOTE]
+====
+. Or “are discouraged.”
+====
+
+_ר &#91;Resh&#93;_
+
+[[v19-34-19]]
+
+^<<v19-34-19,19>>^ Many are the hardships^&#42;1^ of the righteous one,
+But Jehovah rescues him from them all.
+
+[NOTE]
+====
+. Or “calamities.”
+====
+
+_ש &#91;Shin&#93;_
+
+[[v19-34-20]]
+
+^<<v19-34-20,20>>^ He is guarding all his bones;
+Not one of them has been broken.
+
+_ת &#91;Taw&#93;_
+
+[[v19-34-21]]
+
+^<<v19-34-21,21>>^ Disaster will put the wicked to death;
+Those hating the righteous will be found guilty.
+
+[[v19-34-22]]
+
+^<<v19-34-22,22>>^ Jehovah is redeeming the life^&#42;1^ of his servants;
+None of those taking refuge in him will be found guilty.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-033.adoc#v19-33-0[&#60; Capítulo Anterior] | <<v19-34-0,Topo>> | xref:019-psalm/019-psalm-035.adoc#v19-35-0[Próximo Capítulo &#62;]

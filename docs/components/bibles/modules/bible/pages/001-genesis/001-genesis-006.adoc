@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v1-6-0]]
+=== Genesis, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v1-6-1]]
+
+^<<v1-6-1,1>>^ Now when men started to grow in number on the surface of the ground and daughters were born to them,
+
+[[v1-6-2]]
+
+^<<v1-6-2,2>>^ the sons of the true God^&#42;1^ began to notice that the daughters of men were beautiful. So they began taking as wives all whom they chose.
+
+[NOTE]
+====
+. A Hebrew idiom that refers to angelic sons of God.
+====
+
+[[v1-6-3]]
+
+^<<v1-6-3,3>>^ Then Jehovah said: “My spirit will not tolerate man indefinitely, because he is only flesh.^&#42;1^ Accordingly, his days will amount to 120 years.”
+
+[NOTE]
+====
+. Or “because he acts according to the flesh.”
+====
+
+[[v1-6-4]]
+
+^<<v1-6-4,4>>^ The Nephʹi·lim^&#42;1^ were on the earth in those days and afterward. During that time the sons of the true God continued to have relations with the daughters of men, and these bore sons to them. They were the mighty ones of old times, the men of fame.
+
+[NOTE]
+====
+. Possibly meaning “The Fellers,” that is, those who cause others to fall down. See Glossary.
+====
+
+[[v1-6-5]]
+
+^<<v1-6-5,5>>^ Consequently, Jehovah saw that man’s wickedness was great on the earth and that every inclination of the thoughts of his heart was only bad all the time.
+
+[[v1-6-6]]
+
+^<<v1-6-6,6>>^ Jehovah regretted^&#42;1^ that he had made men on the earth, and his heart was saddened.^&#42;2^
+
+[NOTE]
+====
+. Or “was grieved.”
+. Or “and he felt hurt at his heart.”
+====
+
+[[v1-6-7]]
+
+^<<v1-6-7,7>>^ So Jehovah said: “I am going to wipe men whom I have created off the surface of the ground, man together with domestic animals, creeping animals, and flying creatures of the heavens, for I regret that I have made them.”
+
+[[v1-6-8]]
+
+^<<v1-6-8,8>>^ But Noah found favor in the eyes of Jehovah.
+
+[[v1-6-9]]
+
+^<<v1-6-9,9>>^ This is the history of Noah.
+Noah was a righteous man. He proved himself faultless^&#42;1^ among his contemporaries.^&#42;2^ Noah walked with the true God.
+
+[NOTE]
+====
+. Or “blameless.”
+. Lit., “his generations.”
+====
+
+[[v1-6-10]]
+
+^<<v1-6-10,10>>^ In time Noah became father to three sons, Shem, Ham, and Jaʹpheth.
+
+[[v1-6-11]]
+
+^<<v1-6-11,11>>^ But the earth had become ruined in the sight of the true God, and the earth was filled with violence.
+
+[[v1-6-12]]
+
+^<<v1-6-12,12>>^ Yes, God looked upon the earth, and it was ruined; all flesh^&#42;1^ had ruined its way on the earth.
+
+[NOTE]
+====
+. Or “people.”
+====
+
+[[v1-6-13]]
+
+^<<v1-6-13,13>>^ After that God said to Noah: “I have decided to put an end to all flesh, because the earth is full of violence on account of them, so I am bringing them to ruin together with the earth.
+
+[[v1-6-14]]
+
+^<<v1-6-14,14>>^ Make for yourself an ark^&#42;1^ from resinous wood. You will make compartments in the ark and cover it with tar^&#42;2^ inside and outside.
+
+[NOTE]
+====
+. Lit., “a chest”; a large vessel.
+. Or “pitch.”
+====
+
+[[v1-6-15]]
+
+^<<v1-6-15,15>>^ This is how you will make it: The ark should be 300 cubits^&#42;1^ long, 50 cubits wide, and 30 cubits high.
+
+[NOTE]
+====
+. A cubit equaled 44.5 cm (17.5 in.). See App. B14.
+====
+
+[[v1-6-16]]
+
+^<<v1-6-16,16>>^ You will make a window for light^&#42;1^ for the ark, one cubit from the top. You should put the entrance of the ark in its side and make it with a lower deck, a second deck, and a third deck.
+
+[NOTE]
+====
+. Hebrew, tsoʹhar. Another view is that the tsoʹhar refers to a roof with a one-cubit pitch, or incline, rather than an opening for light or a window.
+====
+
+[[v1-6-17]]
+
+^<<v1-6-17,17>>^ “As for me, I am going to bring floodwaters upon the earth to destroy from under the heavens all flesh that has the breath of life.^&#42;1^ Everything on the earth will perish.
+
+[NOTE]
+====
+. Or “the spirit of life.”
+====
+
+[[v1-6-18]]
+
+^<<v1-6-18,18>>^ And I am establishing my covenant with you, and you must go into the ark, you, your sons, your wife, and your sons’ wives with you.
+
+[[v1-6-19]]
+
+^<<v1-6-19,19>>^ And bring into the ark two of every sort of living creature in order to preserve them alive with you, a male and a female;
+
+[[v1-6-20]]
+
+^<<v1-6-20,20>>^ of the flying creatures according to their kinds, the domestic animals according to their kinds, and all creeping animals of the ground according to their kinds, two of each will go in there to you to preserve them alive.
+
+[[v1-6-21]]
+
+^<<v1-6-21,21>>^ For your part, you are to collect and take with you every kind of food to eat, to serve as food for you and for the animals.”
+
+[[v1-6-22]]
+
+^<<v1-6-22,22>>^ And Noah did according to all that God had commanded him. He did just so.
+
+'''
+
+xref:001-genesis/001-genesis-005.adoc#v1-5-0[&#60; Capítulo Anterior] | <<v1-6-0,Topo>> | xref:001-genesis/001-genesis-007.adoc#v1-7-0[Próximo Capítulo &#62;]

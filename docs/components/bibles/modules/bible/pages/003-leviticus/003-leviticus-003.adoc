@@ -1,0 +1,98 @@
+include::./index.adoc[]
+
+[[v3-3-0]]
+=== Leviticus, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v3-3-1]]
+
+^<<v3-3-1,1>>^ “‘If his offering is a communion sacrifice^&#42;1^ and if he is presenting it from the herd, whether a male or a female, he should present a sound animal before Jehovah.
+
+[NOTE]
+====
+. Or “a sacrifice of peace offerings.”
+====
+
+[[v3-3-2]]
+
+^<<v3-3-2,2>>^ He is to lay his hand on the head of his offering, and it will be slaughtered at the entrance of the tent of meeting; and Aaron’s sons, the priests, will sprinkle the blood on all sides of the altar.
+
+[[v3-3-3]]
+
+^<<v3-3-3,3>>^ He will present part of the communion sacrifice as an offering made by fire to Jehovah: the fat that covers the intestines, all the fat that surrounds the intestines,
+
+[[v3-3-4]]
+
+^<<v3-3-4,4>>^ and the two kidneys with the fat on them that is near the loins. He will also remove the appendage of the liver along with the kidneys.
+
+[[v3-3-5]]
+
+^<<v3-3-5,5>>^ Aaron’s sons will make it smoke on the altar on top of the burnt offering that is placed on the wood that is over the fire; it is an offering made by fire as a pleasing^&#42;1^ aroma to Jehovah.
+
+[NOTE]
+====
+. Or “appeasing; soothing.” Lit., “restful.”
+====
+
+[[v3-3-6]]
+
+^<<v3-3-6,6>>^ “‘If his offering is from the flock for a communion sacrifice to Jehovah, he will present a sound male or a female animal.
+
+[[v3-3-7]]
+
+^<<v3-3-7,7>>^ If he is presenting a young ram as his offering, then he will present it before Jehovah.
+
+[[v3-3-8]]
+
+^<<v3-3-8,8>>^ He will lay his hand on the head of his offering, and it will be slaughtered in front of the tent of meeting. Aaron’s sons will sprinkle its blood on all sides of the altar.
+
+[[v3-3-9]]
+
+^<<v3-3-9,9>>^ He will present the fat from the communion sacrifice as an offering made by fire to Jehovah. He will remove the entire fat tail near the backbone, the fat that covers the intestines, all the fat that surrounds the intestines,
+
+[[v3-3-10]]
+
+^<<v3-3-10,10>>^ and the two kidneys with the fat on them that is near the loins. He will also remove the appendage of the liver along with the kidneys.
+
+[[v3-3-11]]
+
+^<<v3-3-11,11>>^ And the priest will make it smoke on the altar as food,^&#42;1^ an offering made by fire to Jehovah.
+
+[NOTE]
+====
+. Lit., “bread,” that is, as God’s share of the communion sacrifice.
+====
+
+[[v3-3-12]]
+
+^<<v3-3-12,12>>^ “‘If his offering is a goat, then he will present it before Jehovah.
+
+[[v3-3-13]]
+
+^<<v3-3-13,13>>^ He will lay his hand on its head, and it will be slaughtered before the tent of meeting, and Aaron’s sons must sprinkle its blood on all sides of the altar.
+
+[[v3-3-14]]
+
+^<<v3-3-14,14>>^ The part he will present as his offering made by fire to Jehovah is the fat that covers the intestines, all the fat that surrounds the intestines,
+
+[[v3-3-15]]
+
+^<<v3-3-15,15>>^ and the two kidneys with the fat on them that is near the loins. He will also remove the appendage of the liver along with the kidneys.
+
+[[v3-3-16]]
+
+^<<v3-3-16,16>>^ The priest will make them smoke on the altar as food,^&#42;1^ an offering made by fire for a pleasing^&#42;2^ aroma. All the fat belongs to Jehovah.
+
+[NOTE]
+====
+. Lit., “bread,” that is, as God’s share of the communion sacrifice.
+. Or “appeasing; soothing.” Lit., “restful.”
+====
+
+[[v3-3-17]]
+
+^<<v3-3-17,17>>^ “‘It is a lasting statute for your generations, in all your dwelling places: You must not eat any fat or any blood at all.’”
+
+'''
+
+xref:003-leviticus/003-leviticus-002.adoc#v3-2-0[&#60; Capítulo Anterior] | <<v3-3-0,Topo>> | xref:003-leviticus/003-leviticus-004.adoc#v3-4-0[Próximo Capítulo &#62;]

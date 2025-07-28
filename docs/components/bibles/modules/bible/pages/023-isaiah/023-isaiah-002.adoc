@@ -1,0 +1,180 @@
+include::./index.adoc[]
+
+[[v23-2-0]]
+=== Isaiah, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-2-1]]
+
+^<<v23-2-1,1>>^ This is what Isaiah the son of Aʹmoz saw concerning Judah and Jerusalem:
+
+[[v23-2-2]]
+
+^<<v23-2-2,2>>^ In the final part of the days,^&#42;1^
+The mountain of the house of Jehovah
+Will become firmly established above the top of the mountains,
+And it will be raised up above the hills,
+And to it all the nations will stream.
+
+[NOTE]
+====
+. Or “In the last days.”
+====
+
+[[v23-2-3]]
+
+^<<v23-2-3,3>>^ And many peoples will go and say:
+“Come, let us go up to the mountain of Jehovah,
+To the house of the God of Jacob.
+He will instruct us about his ways,
+And we will walk in his paths.”
+For law^&#42;1^ will go out of Zion,
+And the word of Jehovah out of Jerusalem.
+
+[NOTE]
+====
+. Or “instruction.”
+====
+
+[[v23-2-4]]
+
+^<<v23-2-4,4>>^ He will render judgment among the nations
+And set matters straight^&#42;1^ respecting many peoples.
+They will beat their swords into plowshares
+And their spears into pruning shears.
+Nation will not lift up sword against nation,
+Nor will they learn war anymore.
+
+[NOTE]
+====
+. Or “correct matters.”
+====
+
+[[v23-2-5]]
+
+^<<v23-2-5,5>>^ O house of Jacob, come,
+Let us walk in the light of Jehovah.
+
+[[v23-2-6]]
+
+^<<v23-2-6,6>>^ For you have forsaken your people, the house of Jacob,
+Because they have become full of things from the East;
+They practice magic like the Phi·lisʹtines,
+And they abound with the children of foreigners.
+
+[[v23-2-7]]
+
+^<<v23-2-7,7>>^ Their land is filled with silver and gold,
+And there is no limit to their treasures.
+Their land is filled with horses,
+And there is no limit to their chariots.
+
+[[v23-2-8]]
+
+^<<v23-2-8,8>>^ Their land is filled with worthless gods.
+They bow down to the work of their own hands,
+To what their own fingers have made.
+
+[[v23-2-9]]
+
+^<<v23-2-9,9>>^ So man bows down, he becomes low,
+And you cannot possibly pardon them.
+
+[[v23-2-10]]
+
+^<<v23-2-10,10>>^ Enter into the rock and hide yourself in the dust
+Because of the terrifying presence of Jehovah
+And his majestic splendor.
+
+[[v23-2-11]]
+
+^<<v23-2-11,11>>^ The haughty eyes of man will be brought low,
+And the arrogance of men will bow down.^&#42;1^
+Jehovah alone will be exalted in that day.
+
+[NOTE]
+====
+. Or “be humbled.”
+====
+
+[[v23-2-12]]
+
+^<<v23-2-12,12>>^ For it is the day belonging to Jehovah of armies.
+It is coming upon everyone who is haughty and lofty,
+Upon everyone, whether exalted or lowly,
+
+[[v23-2-13]]
+
+^<<v23-2-13,13>>^ Upon all the cedars of Lebʹa·non that are lofty and exalted
+And upon all the oaks of Baʹshan,
+
+[[v23-2-14]]
+
+^<<v23-2-14,14>>^ Upon all the lofty mountains
+And upon all the high hills,
+
+[[v23-2-15]]
+
+^<<v23-2-15,15>>^ Upon every high tower and every fortified wall,
+
+[[v23-2-16]]
+
+^<<v23-2-16,16>>^ Upon all the ships of Tarʹshish
+And upon all desirable boats.
+
+[[v23-2-17]]
+
+^<<v23-2-17,17>>^ Man’s haughtiness will be brought down,
+And the arrogance of men will bow low.^&#42;1^
+Jehovah alone will be exalted in that day.
+
+[NOTE]
+====
+. Or “be humbled.”
+====
+
+[[v23-2-18]]
+
+^<<v23-2-18,18>>^ The worthless gods will completely disappear.
+
+[[v23-2-19]]
+
+^<<v23-2-19,19>>^ And people will enter into the caves of the rocks
+And into the holes in the ground,
+Because of the terrifying presence of Jehovah
+And his majestic splendor,
+When he arises to make the earth tremble in terror.
+
+[[v23-2-20]]
+
+^<<v23-2-20,20>>^ In that day men will take their worthless gods of silver and of gold
+That they had made for themselves to bow down to
+And throw them away to the shrewmice^&#42;1^ and to the bats,
+
+[NOTE]
+====
+. Voracious small mammals.
+====
+
+[[v23-2-21]]
+
+^<<v23-2-21,21>>^ In order to enter into the holes in the rocks
+And into the clefts of the crags,
+Because of the terrifying presence of Jehovah
+And his majestic splendor,
+When he arises to make the earth tremble in terror.
+
+[[v23-2-22]]
+
+^<<v23-2-22,22>>^ For your own sakes, quit trusting in mere man,
+Who is only the breath in his nostrils.^&#42;1^
+Why should he be taken into account?
+
+[NOTE]
+====
+. Or “Whose breath is in his nostrils.”
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-001.adoc#v23-1-0[&#60; Capítulo Anterior] | <<v23-2-0,Topo>> | xref:023-isaiah/023-isaiah-003.adoc#v23-3-0[Próximo Capítulo &#62;]

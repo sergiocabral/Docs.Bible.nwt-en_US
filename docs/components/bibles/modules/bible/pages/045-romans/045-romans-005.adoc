@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v45-5-0]]
+=== To the Romans, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v45-5-1]]
+
+^<<v45-5-1,1>>^ Therefore, now that we have been declared righteous as a result of faith, let us enjoy peace^&#42;1^ with God through our Lord Jesus Christ,
+
+[NOTE]
+====
+. Or possibly, “we have peace.”
+====
+
+[[v45-5-2]]
+
+^<<v45-5-2,2>>^ through whom we also have obtained access by faith into this undeserved kindness in which we now stand; and let us rejoice,^&#42;1^ based on hope of the glory of God.
+
+[NOTE]
+====
+. Or possibly, “we rejoice.”
+====
+
+[[v45-5-3]]
+
+^<<v45-5-3,3>>^ Not only that, but let us rejoice^&#42;1^ while in tribulations, since we know that tribulation produces endurance;
+
+[NOTE]
+====
+. Or possibly, “we rejoice.”
+====
+
+[[v45-5-4]]
+
+^<<v45-5-4,4>>^ endurance, in turn, an approved condition; the approved condition, in turn, hope,
+
+[[v45-5-5]]
+
+^<<v45-5-5,5>>^ and the hope does not lead to disappointment; because the love of God has been poured out into our hearts through the holy spirit, which was given to us.
+
+[[v45-5-6]]
+
+^<<v45-5-6,6>>^ For, indeed, while we were still weak, Christ died for ungodly men at the appointed time.
+
+[[v45-5-7]]
+
+^<<v45-5-7,7>>^ For hardly would anyone die for a righteous man; though perhaps for a good man someone may dare to die.
+
+[[v45-5-8]]
+
+^<<v45-5-8,8>>^ But God recommends his own love to us in that, while we were yet sinners, Christ died for us.
+
+[[v45-5-9]]
+
+^<<v45-5-9,9>>^ Much more, then, since we have now been declared righteous by his blood, will we be saved through him from wrath.
+
+[[v45-5-10]]
+
+^<<v45-5-10,10>>^ For if when we were enemies we became reconciled to God through the death of his Son, how much more we will be saved by his life, now that we have become reconciled.
+
+[[v45-5-11]]
+
+^<<v45-5-11,11>>^ Not only that, but we are also rejoicing in God through our Lord Jesus Christ, through whom we have now received the reconciliation.
+
+[[v45-5-12]]
+
+^<<v45-5-12,12>>^ That is why, just as through one man sin entered into the world and death through sin, and so death spread to all men because they had all sinned—.
+
+[[v45-5-13]]
+
+^<<v45-5-13,13>>^ For sin was in the world before the Law, but sin is not charged against anyone when there is no law.
+
+[[v45-5-14]]
+
+^<<v45-5-14,14>>^ Nevertheless, death ruled as king from Adam down to Moses, even over those who had not sinned in the same way that Adam transgressed, who bears a resemblance to the one who was to come.
+
+[[v45-5-15]]
+
+^<<v45-5-15,15>>^ But the gift is not like the trespass. For if by one man’s trespass many died, how much more did the undeserved kindness of God and his free gift by the undeserved kindness of the one man, Jesus Christ, abound^&#42;1^ to many!
+
+[NOTE]
+====
+. Or “overflow.”
+====
+
+[[v45-5-16]]
+
+^<<v45-5-16,16>>^ Also, it is not the same with the free gift as with the way things worked through the one man who sinned. For the judgment after one trespass was condemnation, but the gift after many trespasses was a declaration of righteousness.
+
+[[v45-5-17]]
+
+^<<v45-5-17,17>>^ For if by the trespass of the one man death ruled as king through that one, how much more will those who receive the abundance of the undeserved kindness and of the free gift of righteousness rule as kings in life through the one person, Jesus Christ!
+
+[[v45-5-18]]
+
+^<<v45-5-18,18>>^ So, then, as through one trespass the result to men of all sorts was condemnation, so too through one act of justification the result to men of all sorts is their being declared righteous for life.
+
+[[v45-5-19]]
+
+^<<v45-5-19,19>>^ For just as through the disobedience of the one man many were made sinners, so also through the obedience of the one person many will be made righteous.
+
+[[v45-5-20]]
+
+^<<v45-5-20,20>>^ Now the Law came on the scene so that trespassing might increase. But where sin abounded, undeserved kindness abounded still more.
+
+[[v45-5-21]]
+
+^<<v45-5-21,21>>^ To what end? So that just as sin ruled as king with death, so also undeserved kindness might rule as king through righteousness leading to everlasting life through Jesus Christ our Lord.
+
+'''
+
+xref:045-romans/045-romans-004.adoc#v45-4-0[&#60; Capítulo Anterior] | <<v45-5-0,Topo>> | xref:045-romans/045-romans-006.adoc#v45-6-0[Próximo Capítulo &#62;]

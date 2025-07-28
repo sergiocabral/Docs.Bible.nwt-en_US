@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-20-0]]
+=== Psalm, 20
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. A melody of David._
+
+[[v19-20-1]]
+
+^<<v19-20-1,1>>^ May Jehovah answer you in the day of distress.
+May the name of the God of Jacob protect you.
+
+[[v19-20-2]]
+
+^<<v19-20-2,2>>^ May he send you help from the holy place
+And sustain you from Zion.
+
+[[v19-20-3]]
+
+^<<v19-20-3,3>>^ May he remember all your gift offerings;
+May he accept with favor^&#42;1^ your burnt offering. (Selah)
+
+[NOTE]
+====
+. Lit., “consider as being fat.”
+====
+
+[[v19-20-4]]
+
+^<<v19-20-4,4>>^ May he grant you the desires of your heart
+And give success to all your plans.^&#42;1^
+
+[NOTE]
+====
+. Or “counsel.”
+====
+
+[[v19-20-5]]
+
+^<<v19-20-5,5>>^ We will shout joyfully over your acts of salvation;
+We will lift our banners in the name of our God.
+May Jehovah fulfill all your requests.
+
+[[v19-20-6]]
+
+^<<v19-20-6,6>>^ Now I do know that Jehovah saves his anointed one.
+He answers him from his holy heavens
+With great salvation^&#42;1^ by his right hand.
+
+[NOTE]
+====
+. Or “victories.”
+====
+
+[[v19-20-7]]
+
+^<<v19-20-7,7>>^ Some rely on chariots and others on horses,
+But we call on the name of Jehovah our God.
+
+[[v19-20-8]]
+
+^<<v19-20-8,8>>^ They have collapsed and fallen,
+But we have risen up and been restored.
+
+[[v19-20-9]]
+
+^<<v19-20-9,9>>^ O Jehovah, save the king!
+He will answer us in the day we call for help.
+
+'''
+
+xref:019-psalm/019-psalm-019.adoc#v19-19-0[&#60; Capítulo Anterior] | <<v19-20-0,Topo>> | xref:019-psalm/019-psalm-021.adoc#v19-21-0[Próximo Capítulo &#62;]

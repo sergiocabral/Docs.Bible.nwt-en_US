@@ -1,0 +1,184 @@
+include::./index.adoc[]
+
+[[v19-102-0]]
+=== Psalm, 102
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A prayer of the oppressed one when he is in despair^&#42;1^ and pours out his concern before Jehovah._
+
+[[v19-102-1]]
+
+^<<v19-102-1,1>>^ O Jehovah, hear my prayer;
+Let my cry for help reach you.
+
+[[v19-102-2]]
+
+^<<v19-102-2,2>>^ Do not hide your face from me in my time of distress.
+Incline your ear^&#42;1^ to me;
+Do answer me quickly when I call.
+
+[NOTE]
+====
+. Or “Bend down and listen.”
+====
+
+[[v19-102-3]]
+
+^<<v19-102-3,3>>^ For my days are vanishing like smoke,
+And my bones are charred like a fireplace.
+
+[[v19-102-4]]
+
+^<<v19-102-4,4>>^ My heart has been struck down like grass and has withered,
+For I forget to eat my food.
+
+[[v19-102-5]]
+
+^<<v19-102-5,5>>^ Because of my loud groaning,
+My bones cling to my flesh.
+
+[[v19-102-6]]
+
+^<<v19-102-6,6>>^ I resemble the pelican of the wilderness;
+I am like a little owl among the ruins.
+
+[[v19-102-7]]
+
+^<<v19-102-7,7>>^ I lie awake;^&#42;1^
+I am like a solitary bird on a roof.
+
+[NOTE]
+====
+. Or possibly, “I am emaciated.”
+====
+
+[[v19-102-8]]
+
+^<<v19-102-8,8>>^ All day long my enemies taunt me.
+Those who mock me^&#42;1^ use my name as a curse.
+
+[NOTE]
+====
+. Or “make a fool of me.”
+====
+
+[[v19-102-9]]
+
+^<<v19-102-9,9>>^ For I eat ashes as my bread,
+And my drink is mingled with tears,
+
+[[v19-102-10]]
+
+^<<v19-102-10,10>>^ Because of your anger and your indignation,
+For you lifted me up only to cast me aside.
+
+[[v19-102-11]]
+
+^<<v19-102-11,11>>^ My days are like a fading shadow,^&#42;1^
+And I am withering like grass.
+
+[NOTE]
+====
+. Or “a lengthening shadow.”
+====
+
+[[v19-102-12]]
+
+^<<v19-102-12,12>>^ But you remain forever, O Jehovah,
+And your fame^&#42;1^ will endure for all generations.
+
+[NOTE]
+====
+. Or “name.” Lit., “memorial.”
+====
+
+[[v19-102-13]]
+
+^<<v19-102-13,13>>^ Surely you will rise up and show mercy on Zion,
+For it is time to show her your favor;
+The appointed time has come.
+
+[[v19-102-14]]
+
+^<<v19-102-14,14>>^ For your servants find pleasure in her stones
+And have affection even for her dust.
+
+[[v19-102-15]]
+
+^<<v19-102-15,15>>^ The nations will fear the name of Jehovah,
+And all the kings of the earth your glory.
+
+[[v19-102-16]]
+
+^<<v19-102-16,16>>^ For Jehovah will rebuild Zion;
+He will appear in his glory.
+
+[[v19-102-17]]
+
+^<<v19-102-17,17>>^ He will pay attention to the prayer of the destitute;
+He will not despise their prayer.
+
+[[v19-102-18]]
+
+^<<v19-102-18,18>>^ This is written for the future generation,
+So that a people yet to be brought forth^&#42;1^ will praise Jah.
+
+[NOTE]
+====
+. Lit., “be created.”
+====
+
+[[v19-102-19]]
+
+^<<v19-102-19,19>>^ For he looks down from his holy height,
+From the heavens Jehovah views the earth,
+
+[[v19-102-20]]
+
+^<<v19-102-20,20>>^ To hear the sighing of the prisoner,
+To release those sentenced to death,
+
+[[v19-102-21]]
+
+^<<v19-102-21,21>>^ So that the name of Jehovah will be declared in Zion
+And his praise in Jerusalem,
+
+[[v19-102-22]]
+
+^<<v19-102-22,22>>^ When the peoples and kingdoms
+Gather together to serve Jehovah.
+
+[[v19-102-23]]
+
+^<<v19-102-23,23>>^ He prematurely robbed me of my strength;
+He cut short my days.
+
+[[v19-102-24]]
+
+^<<v19-102-24,24>>^ I said: “O my God,
+Do not do away with me in the middle of my life,
+You whose years span all generations.
+
+[[v19-102-25]]
+
+^<<v19-102-25,25>>^ Long ago you laid the foundations of the earth,
+And the heavens are the work of your hands.
+
+[[v19-102-26]]
+
+^<<v19-102-26,26>>^ They will perish, but you will remain;
+Just like a garment they will all wear out.
+Just like clothing you will replace them, and they will pass away.
+
+[[v19-102-27]]
+
+^<<v19-102-27,27>>^ But you are the same, and your years will never end.
+
+[[v19-102-28]]
+
+^<<v19-102-28,28>>^ The children of your servants will dwell securely,
+And their offspring will be firmly established before you.”
+
+'''
+
+xref:019-psalm/019-psalm-101.adoc#v19-101-0[&#60; Capítulo Anterior] | <<v19-102-0,Topo>> | xref:019-psalm/019-psalm-103.adoc#v19-103-0[Próximo Capítulo &#62;]

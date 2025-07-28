@@ -1,0 +1,229 @@
+include::./index.adoc[]
+
+[[v19-109-0]]
+=== Psalm, 109
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of David. A melody._
+
+[[v19-109-1]]
+
+^<<v19-109-1,1>>^ O God whom I praise, do not remain silent.
+
+[[v19-109-2]]
+
+^<<v19-109-2,2>>^ For the wicked and the deceitful open their mouths against me.
+They speak about me with lying tongues;
+
+[[v19-109-3]]
+
+^<<v19-109-3,3>>^ They surround me with hateful words,
+And they attack me without cause.
+
+[[v19-109-4]]
+
+^<<v19-109-4,4>>^ They resist me in response to my love;
+But I continue to pray.
+
+[[v19-109-5]]
+
+^<<v19-109-5,5>>^ They repay me with bad for good
+And hatred for my love.
+
+[[v19-109-6]]
+
+^<<v19-109-6,6>>^ Appoint a wicked man over him;
+May a resister^&#42;1^ stand at his right hand.
+
+[NOTE]
+====
+. Or “an accuser.”
+====
+
+[[v19-109-7]]
+
+^<<v19-109-7,7>>^ When he is judged, may he be found guilty;^&#42;1^
+May even his prayer be counted as a sin.
+
+[NOTE]
+====
+. Or “wicked.”
+====
+
+[[v19-109-8]]
+
+^<<v19-109-8,8>>^ Let his days be few;
+His office of oversight let someone else take.
+
+[[v19-109-9]]
+
+^<<v19-109-9,9>>^ Let his children^&#42;1^ become fatherless,
+And his wife, a widow.
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v19-109-10]]
+
+^<<v19-109-10,10>>^ May his children^&#42;1^ become wandering beggars,
+Foraging for food from their ruined homes.
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v19-109-11]]
+
+^<<v19-109-11,11>>^ May his creditor seize^&#42;1^ all that he has,
+And may strangers plunder his possessions.
+
+[NOTE]
+====
+. Or “May usurers lay out traps for.”
+====
+
+[[v19-109-12]]
+
+^<<v19-109-12,12>>^ May no one extend kindness^&#42;1^ to him,
+And may no one show favor to his fatherless children.
+
+[NOTE]
+====
+. Or “loyal love.”
+====
+
+[[v19-109-13]]
+
+^<<v19-109-13,13>>^ Let his descendants^&#42;1^ be cut off;
+May their name be erased within a generation.
+
+[NOTE]
+====
+. Or “posterity.”
+====
+
+[[v19-109-14]]
+
+^<<v19-109-14,14>>^ Let the error of his forefathers be remembered by Jehovah,
+And may the sin of his mother not be erased.
+
+[[v19-109-15]]
+
+^<<v19-109-15,15>>^ May Jehovah always be mindful of what they have done;
+And may he cut off the memory of them from the earth.
+
+[[v19-109-16]]
+
+^<<v19-109-16,16>>^ For he did not remember to show kindness,^&#42;1^
+But he kept pursuing the oppressed, poor, and brokenhearted man
+To put him to death.
+
+[NOTE]
+====
+. Or “loyal love.”
+====
+
+[[v19-109-17]]
+
+^<<v19-109-17,17>>^ He loved to pronounce a curse, so that is what came upon him;
+He had no desire to bless, so he received no blessing.
+
+[[v19-109-18]]
+
+^<<v19-109-18,18>>^ He was clothed with curses as his garment.
+And they were poured into his body like water,
+Into his bones like oil.
+
+[[v19-109-19]]
+
+^<<v19-109-19,19>>^ May his curses be like the clothing in which he wraps himself
+And like a belt he always wears.
+
+[[v19-109-20]]
+
+^<<v19-109-20,20>>^ This is the payment from Jehovah for the one who resists me
+And for those who speak evil things against me.^&#42;1^
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-109-21]]
+
+^<<v19-109-21,21>>^ But you, Jehovah the Sovereign Lord,
+Act in my behalf for the sake of your name.
+Rescue me, because your loyal love is good.
+
+[[v19-109-22]]
+
+^<<v19-109-22,22>>^ For I am helpless and poor,
+And my heart has been pierced within me.
+
+[[v19-109-23]]
+
+^<<v19-109-23,23>>^ I am passing away like a fading shadow;
+I have been shaken off like a locust.
+
+[[v19-109-24]]
+
+^<<v19-109-24,24>>^ My knees give way from fasting;
+My body is thin, and I am wasting away.^&#42;1^
+
+[NOTE]
+====
+. Lit., “My flesh has grown lean, without fatness (oil).”
+====
+
+[[v19-109-25]]
+
+^<<v19-109-25,25>>^ I have become the object of their taunts.
+When they see me, they shake their heads.
+
+[[v19-109-26]]
+
+^<<v19-109-26,26>>^ Help me, O Jehovah my God;
+Save me by your loyal love.
+
+[[v19-109-27]]
+
+^<<v19-109-27,27>>^ May they know that this is by your hand;
+That you, O Jehovah, have done it.
+
+[[v19-109-28]]
+
+^<<v19-109-28,28>>^ Let them pronounce a curse, but may you give a blessing.
+When they rise up against me, may they be put to shame,
+But let your servant rejoice.
+
+[[v19-109-29]]
+
+^<<v19-109-29,29>>^ Let those who resist me be clothed with humiliation;
+May they be wrapped in their shame as in a robe.^&#42;1^
+
+[NOTE]
+====
+. Or “sleeveless coat.”
+====
+
+[[v19-109-30]]
+
+^<<v19-109-30,30>>^ My mouth will fervently praise Jehovah;
+I will praise him in front of many people.
+
+[[v19-109-31]]
+
+^<<v19-109-31,31>>^ For he will stand at the right hand of the poor
+To save him from those who condemn him.^&#42;1^
+
+[NOTE]
+====
+. Or “his soul.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-108.adoc#v19-108-0[&#60; Capítulo Anterior] | <<v19-109-0,Topo>> | xref:019-psalm/019-psalm-110.adoc#v19-110-0[Próximo Capítulo &#62;]

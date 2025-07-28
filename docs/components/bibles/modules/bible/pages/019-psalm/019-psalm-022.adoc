@@ -1,0 +1,224 @@
+include::./index.adoc[]
+
+[[v19-22-0]]
+=== Psalm, 22
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; set to “The Doe of the Dawn.”^&#42;1^ A melody of David._
+
+[[v19-22-1]]
+
+^<<v19-22-1,1>>^ My God, my God, why have you forsaken me?
+Why are you far from saving me,
+Far from my cries of anguish?
+
+[[v19-22-2]]
+
+^<<v19-22-2,2>>^ My God, I keep calling by day, and you do not answer;
+And by night there is no silence on my part.
+
+[[v19-22-3]]
+
+^<<v19-22-3,3>>^ But you are holy,
+Surrounded by^&#42;1^ the praises of Israel.
+
+[NOTE]
+====
+. Or “Enthroned among (upon).”
+====
+
+[[v19-22-4]]
+
+^<<v19-22-4,4>>^ In you our fathers put their trust;
+They trusted, and you kept rescuing them.
+
+[[v19-22-5]]
+
+^<<v19-22-5,5>>^ To you they cried out, and they were saved;
+They trusted in you, and they were not disappointed.^&#42;1^
+
+[NOTE]
+====
+. Or “were not put to shame.”
+====
+
+[[v19-22-6]]
+
+^<<v19-22-6,6>>^ But I am a worm and not a man,
+Scorned by^&#42;1^ men and despised by the people.
+
+[NOTE]
+====
+. Or “A reproach to.”
+====
+
+[[v19-22-7]]
+
+^<<v19-22-7,7>>^ All those seeing me mock me;
+They sneer and shake their heads in derision:
+
+[[v19-22-8]]
+
+^<<v19-22-8,8>>^ “He entrusted himself to Jehovah. Let Him rescue him!
+Let Him save him, for he is so dear to Him!”
+
+[[v19-22-9]]
+
+^<<v19-22-9,9>>^ You were the One who brought me out of the womb,
+The One who made me feel secure on my mother’s breasts.
+
+[[v19-22-10]]
+
+^<<v19-22-10,10>>^ I have been entrusted to your care^&#42;1^ from birth;
+From my mother’s womb, you have been my God.
+
+[NOTE]
+====
+. Lit., “thrown upon you.”
+====
+
+[[v19-22-11]]
+
+^<<v19-22-11,11>>^ Do not stay far off from me, for trouble is near
+And I have no other helper.
+
+[[v19-22-12]]
+
+^<<v19-22-12,12>>^ Many young bulls surround me;
+Powerful bulls of Baʹshan encircle me.
+
+[[v19-22-13]]
+
+^<<v19-22-13,13>>^ They open their mouth wide against me,
+Like a roaring lion that tears its prey to pieces.
+
+[[v19-22-14]]
+
+^<<v19-22-14,14>>^ I am poured out like water;
+All my bones are out of joint.
+My heart has become like wax;
+It melts deep within me.
+
+[[v19-22-15]]
+
+^<<v19-22-15,15>>^ My strength has dried up like a piece of pottery;
+My tongue sticks to my gums;
+You are bringing me down to the dust of death.
+
+[[v19-22-16]]
+
+^<<v19-22-16,16>>^ For dogs surround me;
+They close in on me like a pack of evildoers,
+Like a lion they are at my hands and feet.
+
+[[v19-22-17]]
+
+^<<v19-22-17,17>>^ I can count all my bones.
+They look on and stare at me.
+
+[[v19-22-18]]
+
+^<<v19-22-18,18>>^ They divide my garments among themselves,
+And they cast lots for my clothing.
+
+[[v19-22-19]]
+
+^<<v19-22-19,19>>^ But you, O Jehovah, do not remain far away.
+You are my strength; hurry to help me.
+
+[[v19-22-20]]
+
+^<<v19-22-20,20>>^ Save me^&#42;1^ from the sword,
+My precious life^&#42;2^ from the paws^&#42;3^ of dogs;
+
+[NOTE]
+====
+. Or “my soul.”
+. Lit., “My only one,” referring to his soul, or life.
+. Lit., “hand.”
+====
+
+[[v19-22-21]]
+
+^<<v19-22-21,21>>^ Save me from the mouth of the lion and the horns of wild bulls;
+Answer and save me.
+
+[[v19-22-22]]
+
+^<<v19-22-22,22>>^ I will declare your name to my brothers;
+In the midst of the congregation I will praise you.
+
+[[v19-22-23]]
+
+^<<v19-22-23,23>>^ You who fear Jehovah, praise him!
+All you offspring^&#42;1^ of Jacob, glorify him!
+Stand in awe of him, all you offspring^&#42;2^ of Israel.
+
+[NOTE]
+====
+. Lit., “seed.”
+. Lit., “seed.”
+====
+
+[[v19-22-24]]
+
+^<<v19-22-24,24>>^ For he has not despised nor loathed the suffering of the oppressed one;
+He has not hidden his face from him.
+When he cried to him for help, he heard.
+
+[[v19-22-25]]
+
+^<<v19-22-25,25>>^ I will praise you in the large congregation;
+I will pay my vows before those who fear him.
+
+[[v19-22-26]]
+
+^<<v19-22-26,26>>^ The meek will eat and be satisfied;
+Those seeking Jehovah will praise him.
+May you enjoy life^&#42;1^ forever.
+
+[NOTE]
+====
+. Lit., “May your heart live.”
+====
+
+[[v19-22-27]]
+
+^<<v19-22-27,27>>^ All the ends of the earth will remember and turn to Jehovah.
+All the families of the nations will bow down before you.
+
+[[v19-22-28]]
+
+^<<v19-22-28,28>>^ For the kingship belongs to Jehovah;
+He rules over the nations.
+
+[[v19-22-29]]
+
+^<<v19-22-29,29>>^ All the prosperous ones^&#42;1^ of the earth will eat and will bow down;
+All those going down to the dust will kneel before him;
+None of them can preserve their lives.^&#42;2^
+
+[NOTE]
+====
+. Lit., “fat ones.”
+. Or “souls.”
+====
+
+[[v19-22-30]]
+
+^<<v19-22-30,30>>^ Their descendants^&#42;1^ will serve him;
+The generation to come will be told about Jehovah.
+
+[NOTE]
+====
+. Lit., “A seed.”
+====
+
+[[v19-22-31]]
+
+^<<v19-22-31,31>>^ They will come and tell of his righteousness.
+They will tell the people yet to be born what he has done.
+
+'''
+
+xref:019-psalm/019-psalm-021.adoc#v19-21-0[&#60; Capítulo Anterior] | <<v19-22-0,Topo>> | xref:019-psalm/019-psalm-023.adoc#v19-23-0[Próximo Capítulo &#62;]

@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Job, 12
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ Then Job said in reply:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ “Surely you are the people who know,^&#42;1^
+And wisdom will die out with you!
+
+[NOTE]
+====
+. Lit., “you are the people.”
+====
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ But I too have understanding.^&#42;1^
+I am not inferior to you.
+Who does not know these things?
+
+[NOTE]
+====
+. Lit., “a heart.”
+====
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ I have become a laughingstock to my companions,
+One calling to God for an answer.
+A righteous and blameless man is a laughingstock.
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ The carefree person has contempt for calamity,
+Thinking it is only for those whose feet are unsteady.^&#42;1^
+
+[NOTE]
+====
+. Or “slipping.”
+====
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ The tents of robbers are at peace,
+And those who provoke God are secure,
+Those who have their god in their hands.
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ However, ask, please, the animals, and they will instruct you;
+Also the birds of the heavens, and they will tell you.
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Or give consideration^&#42;1^ to the earth, and it will instruct you;
+And the fish of the sea will declare it to you.
+
+[NOTE]
+====
+. Or possibly, “speak.”
+====
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Who among all these does not know
+That the hand of Jehovah has done this?
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ In his hand is the life of every living thing^&#42;1^
+And the spirit^&#42;2^ of every human.^&#42;3^
+
+[NOTE]
+====
+. Or “the soul of everyone alive.”
+. Or “breath.”
+. Lit., “of all flesh of man.”
+====
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Does not the ear test out words
+As the tongue^&#42;1^ tastes food?
+
+[NOTE]
+====
+. Lit., “palate.”
+====
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ Is not wisdom found among the aged,
+And does not understanding come with a long life?
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ With him there are wisdom and mightiness;
+He has counsel and understanding.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ When he tears something down, it cannot be rebuilt;
+What he has shut, no man can open.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ When he withholds the waters, everything dries up;
+When he sends them out, they overwhelm the earth.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ With him there are strength and practical wisdom;
+To him belong the one going astray and the one leading astray;
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ He makes counselors go barefoot,^&#42;1^
+And he makes fools of judges.
+
+[NOTE]
+====
+. Or “stripped of everything.”
+====
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ He loosens the bonds imposed by kings,
+And he binds a belt around their waist.
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ He makes priests walk barefoot,
+And he overthrows those who are firmly established in power;
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ He deprives trusted advisers of speech
+And takes away the sensibleness of old men;^&#42;1^
+
+[NOTE]
+====
+. Or “of elders.”
+====
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ He pours out contempt upon nobles,
+And he makes powerful ones weak;^&#42;1^
+
+[NOTE]
+====
+. Lit., “loosens the belt of powerful ones.”
+====
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ He reveals deep things from the darkness,
+And he brings deep darkness into the light;
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ He makes nations grow great in order to destroy them;
+He enlarges nations, that he may lead them into exile.
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ He takes away the understanding^&#42;1^ of the leaders of the people
+And makes them wander in trackless wastelands.
+
+[NOTE]
+====
+. Lit., “heart.”
+====
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ They grope in darkness, where there is no light;
+He makes them wander about like drunken men.
+
+'''
+
+xref:018-job/018-job-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-job/018-job-013.adoc#v18-13-0[Próximo Capítulo &#62;]

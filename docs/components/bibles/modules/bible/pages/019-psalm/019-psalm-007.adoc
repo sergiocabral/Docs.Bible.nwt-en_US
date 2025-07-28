@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Psalm, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A dirge^&#42;1^ of David that he sang to Jehovah regarding the words of Cush the Benʹja·min·ite._
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ O Jehovah my God, in you I have taken refuge.
+Save me from all those persecuting me and rescue me.
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ Otherwise they will tear me^&#42;1^ to pieces as a lion does,
+Carrying me off with no one to rescue me.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ O Jehovah my God, if I am at fault in this,
+If I have acted unjustly,
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ If I have wronged the one doing good to me,
+Or if I have plundered my enemy without cause,^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “While I spared the one opposing me without cause.”
+====
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ Then let an enemy pursue and overtake me;^&#42;1^
+Let him trample my life down to the earth
+And cause my glory to perish in the dust. (Selah)
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ Rise up in your anger, O Jehovah;
+Stand up against the fury of my enemies;
+Awake for me, and demand that justice be done.
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ Let the nations surround you;
+And you will act against them from on high.
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ Jehovah will pass sentence on the peoples.
+Judge me, O Jehovah, according to my righteousness
+And according to my integrity.
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Please put an end to the evil deeds of the wicked.
+But establish the righteous,
+Since you are the righteous God who examines the hearts and the deepest emotions.^&#42;1^
+
+[NOTE]
+====
+. Or “tests the hearts and the kidneys.”
+====
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ God is my shield, the Savior of those upright in heart.
+
+[[v19-7-11]]
+
+^<<v19-7-11,11>>^ God is a righteous Judge,
+And God proclaims his judgments^&#42;1^ every day.
+
+[NOTE]
+====
+. Or “hurls denunciations.”
+====
+
+[[v19-7-12]]
+
+^<<v19-7-12,12>>^ If anyone will not repent, He sharpens his sword;
+He bends his bow and makes it ready.
+
+[[v19-7-13]]
+
+^<<v19-7-13,13>>^ He prepares his deadly weapons;
+He makes ready his flaming arrows.
+
+[[v19-7-14]]
+
+^<<v19-7-14,14>>^ Look at the one who is pregnant with wickedness;
+He conceives trouble and gives birth to lies.
+
+[[v19-7-15]]
+
+^<<v19-7-15,15>>^ He excavates a pit and digs it deep,
+But he falls into the very hole he made.
+
+[[v19-7-16]]
+
+^<<v19-7-16,16>>^ The trouble he causes will return on his own head;
+His violence will fall on the crown of his head.
+
+[[v19-7-17]]
+
+^<<v19-7-17,17>>^ I will praise Jehovah for his justice;
+I will sing praises^&#42;1^ to the name of Jehovah the Most High.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-psalm/019-psalm-008.adoc#v19-8-0[Próximo Capítulo &#62;]

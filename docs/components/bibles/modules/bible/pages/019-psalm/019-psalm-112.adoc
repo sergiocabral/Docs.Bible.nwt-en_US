@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v19-112-0]]
+=== Psalm, 112
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-112-1]]
+
+^<<v19-112-1,1>>^ Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+_א &#91;Aleph&#93;_
+
+Happy is the man who fears Jehovah,
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+_ב &#91;Beth&#93;_
+
+Who takes great pleasure in his commandments.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+_ג &#91;Gimel&#93;_
+
+[[v19-112-2]]
+
+^<<v19-112-2,2>>^ His descendants will be mighty in the earth,
+
+_ד &#91;Daleth&#93;_
+
+And the generation of the upright will be blessed.
+
+_ה &#91;He&#93;_
+
+[[v19-112-3]]
+
+^<<v19-112-3,3>>^ Wealth and riches are in his house,
+
+_ו &#91;Waw&#93;_
+
+And his righteousness continues forever.
+
+_ז &#91;Zayin&#93;_
+
+[[v19-112-4]]
+
+^<<v19-112-4,4>>^ To the upright he shines like a light in the darkness.
+
+[NOTE]
+====
+. Or “gracious.”
+====
+
+_ח &#91;Heth&#93;_
+
+He is compassionate^&#42;1^ and merciful and righteous.
+
+[NOTE]
+====
+. Or “gracious.”
+====
+
+_ט &#91;Teth&#93;_
+
+[[v19-112-5]]
+
+^<<v19-112-5,5>>^ It goes well for the man who generously^&#42;1^ lends.
+
+[NOTE]
+====
+. Or “graciously.”
+====
+
+_י &#91;Yod&#93;_
+
+He conducts his affairs with justice.
+
+[NOTE]
+====
+. Or “graciously.”
+====
+
+_כ &#91;Kaph&#93;_
+
+[[v19-112-6]]
+
+^<<v19-112-6,6>>^ He will never be shaken.
+
+_ל &#91;Lamed&#93;_
+
+The righteous will be remembered forever.
+
+_מ &#91;Mem&#93;_
+
+[[v19-112-7]]
+
+^<<v19-112-7,7>>^ He will not fear bad news.
+
+_נ &#91;Nun&#93;_
+
+His heart is steadfast, trusting in Jehovah.
+
+_ס &#91;Samekh&#93;_
+
+[[v19-112-8]]
+
+^<<v19-112-8,8>>^ His heart is unshakable;^&#42;1^ he is not afraid;
+
+[NOTE]
+====
+. Or “resolute; steady.”
+====
+
+_ע &#91;Ayin&#93;_
+
+In the end he will look in triumph on his adversaries.
+
+[NOTE]
+====
+. Or “resolute; steady.”
+====
+
+_פ &#91;Pe&#93;_
+
+[[v19-112-9]]
+
+^<<v19-112-9,9>>^ He has distributed widely;^&#42;1^ he has given to the poor.
+
+[NOTE]
+====
+. Or “generously.”
+. Lit., “horn.”
+====
+
+_צ &#91;Tsade&#93;_
+
+His righteousness continues forever.
+
+[NOTE]
+====
+. Or “generously.”
+. Lit., “horn.”
+====
+
+_ק &#91;Qoph&#93;_
+
+His own strength^&#42;1^ will be exalted with glory.
+
+[NOTE]
+====
+. Or “generously.”
+. Lit., “horn.”
+====
+
+_ר &#91;Resh&#93;_
+
+[[v19-112-10]]
+
+^<<v19-112-10,10>>^ The wicked one will see and be upset.
+
+_ש &#91;Shin&#93;_
+
+He will grind his teeth and melt away.
+
+_ת &#91;Taw&#93;_
+
+The desires of the wicked will perish.
+
+'''
+
+xref:019-psalm/019-psalm-111.adoc#v19-111-0[&#60; Capítulo Anterior] | <<v19-112-0,Topo>> | xref:019-psalm/019-psalm-113.adoc#v19-113-0[Próximo Capítulo &#62;]

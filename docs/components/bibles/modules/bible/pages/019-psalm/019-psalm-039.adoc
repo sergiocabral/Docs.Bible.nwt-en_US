@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v19-39-0]]
+=== Psalm, 39
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; of Je·duʹthun.^&#42;1^ A melody of David._
+
+[[v19-39-1]]
+
+^<<v19-39-1,1>>^ I said: “I will guard my step
+To avoid sinning with my tongue.
+I will guard my mouth with a muzzle
+As long as anyone wicked is in my presence.”
+
+[[v19-39-2]]
+
+^<<v19-39-2,2>>^ I was speechless and silent;
+I kept quiet even about what is good,
+But my pain was intense.^&#42;1^
+
+[NOTE]
+====
+. Or “stirred up.”
+====
+
+[[v19-39-3]]
+
+^<<v19-39-3,3>>^ My heart smoldered^&#42;1^ inside me.
+As I pondered,^&#42;2^ the fire kept burning.
+Then my tongue spoke:
+
+[NOTE]
+====
+. Lit., “grew hot.”
+. Or “sighed.”
+====
+
+[[v19-39-4]]
+
+^<<v19-39-4,4>>^ “O Jehovah, help me to know what my end will be,
+And the measure of my days,
+So that I may know how short my life is.^&#42;1^
+
+[NOTE]
+====
+. Or “how transient I am.”
+====
+
+[[v19-39-5]]
+
+^<<v19-39-5,5>>^ Indeed, you have made my days just a few;^&#42;1^
+And my life span is as nothing before you.
+Surely every man, though he seems secure, is nothing but a mere breath. (Selah)
+
+[NOTE]
+====
+. Lit., “handbreadths.”
+====
+
+[[v19-39-6]]
+
+^<<v19-39-6,6>>^ Surely every man walks about like a shadow.
+He rushes around^&#42;1^ for nothing.
+He piles up wealth, not knowing who will enjoy it.
+
+[NOTE]
+====
+. Lit., “makes noise.”
+====
+
+[[v19-39-7]]
+
+^<<v19-39-7,7>>^ What, then, can I hope for, O Jehovah?
+You are my only hope.
+
+[[v19-39-8]]
+
+^<<v19-39-8,8>>^ Save me from all my transgressions.
+Do not let the foolish one make me an object of contempt.
+
+[[v19-39-9]]
+
+^<<v19-39-9,9>>^ I remained speechless;
+I could not open my mouth,
+Because this was your doing.
+
+[[v19-39-10]]
+
+^<<v19-39-10,10>>^ Remove your plague from me.
+I am worn down because your hand strikes me.
+
+[[v19-39-11]]
+
+^<<v19-39-11,11>>^ You correct man with punishment for his error;
+You consume the things he treasures just as a moth does.
+Surely every man is but a mere breath. (Selah)
+
+[[v19-39-12]]
+
+^<<v19-39-12,12>>^ Hear my prayer, O Jehovah,
+Listen to my cry for help.
+Do not ignore my tears.
+For I am but a foreign resident to you,
+A traveler passing through,^&#42;1^ just like all my forefathers.
+
+[NOTE]
+====
+. Or “A settler.”
+====
+
+[[v19-39-13]]
+
+^<<v19-39-13,13>>^ Turn your harsh gaze away from me so that I may cheer up
+Before I pass away and I am gone.”
+
+'''
+
+xref:019-psalm/019-psalm-038.adoc#v19-38-0[&#60; Capítulo Anterior] | <<v19-39-0,Topo>> | xref:019-psalm/019-psalm-040.adoc#v19-40-0[Próximo Capítulo &#62;]

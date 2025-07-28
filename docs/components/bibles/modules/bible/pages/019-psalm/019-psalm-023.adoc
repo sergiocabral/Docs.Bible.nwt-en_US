@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-23-0]]
+=== Psalm, 23
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of David._
+
+[[v19-23-1]]
+
+^<<v19-23-1,1>>^ Jehovah is my Shepherd.
+I will lack nothing.
+
+[[v19-23-2]]
+
+^<<v19-23-2,2>>^ In grassy pastures he makes me lie down;
+He leads me to well-watered resting-places.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “to tranquil waters.”
+====
+
+[[v19-23-3]]
+
+^<<v19-23-3,3>>^ He refreshes me.^&#42;1^
+He leads me in the paths^&#42;2^ of righteousness for the sake of his name.
+
+[NOTE]
+====
+. Or “my soul.”
+. Lit., “tracks.”
+====
+
+[[v19-23-4]]
+
+^<<v19-23-4,4>>^ Though I walk in the valley of deep shadow,
+I fear no harm,
+For you are with me;
+Your rod and your staff reassure me.^&#42;1^
+
+[NOTE]
+====
+. Or “comfort me.”
+====
+
+[[v19-23-5]]
+
+^<<v19-23-5,5>>^ You prepare a table for me before my enemies.
+You refresh^&#42;1^ my head with oil;
+My cup is well-filled.
+
+[NOTE]
+====
+. Or “grease.”
+====
+
+[[v19-23-6]]
+
+^<<v19-23-6,6>>^ Surely goodness and loyal love will pursue me all the days of my life,
+And I will dwell in the house of Jehovah for all my days.
+
+'''
+
+xref:019-psalm/019-psalm-022.adoc#v19-22-0[&#60; Capítulo Anterior] | <<v19-23-0,Topo>> | xref:019-psalm/019-psalm-024.adoc#v19-24-0[Próximo Capítulo &#62;]

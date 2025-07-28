@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v18-3-0]]
+=== Job, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-3-1]]
+
+^<<v18-3-1,1>>^ It was after this that Job began to speak and to curse the day of his birth.^&#42;1^
+
+[NOTE]
+====
+. Lit., “curse his day.”
+====
+
+[[v18-3-2]]
+
+^<<v18-3-2,2>>^ Job said:
+
+[[v18-3-3]]
+
+^<<v18-3-3,3>>^ “Let the day perish on which I was born,
+Also the night when someone said: ‘A man has been conceived!’
+
+[[v18-3-4]]
+
+^<<v18-3-4,4>>^ Let that day be darkness.
+Let God above show no concern for it;
+Let no light shine upon it.
+
+[[v18-3-5]]
+
+^<<v18-3-5,5>>^ Let the deepest darkness^&#42;1^ reclaim it.
+Let a rain cloud settle over it.
+Let whatever darkens the day terrify it.
+
+[NOTE]
+====
+. Or “darkness and death’s shadow.”
+====
+
+[[v18-3-6]]
+
+^<<v18-3-6,6>>^ That night—let the gloom seize it;
+Let it not rejoice among the days of a year,
+And let it not enter among the number of the months.
+
+[[v18-3-7]]
+
+^<<v18-3-7,7>>^ Indeed! Let that night become barren;
+Let no joyful cry be heard in it.
+
+[[v18-3-8]]
+
+^<<v18-3-8,8>>^ Let those who curse the day put a curse on it,
+Those who are able to awaken Le·viʹa·than.^&#42;1^
+
+[NOTE]
+====
+. Understood to refer to the crocodile or some other large, powerful aquatic animal.
+====
+
+[[v18-3-9]]
+
+^<<v18-3-9,9>>^ Let the stars of its twilight grow dark;
+Let it wait in vain for daylight,
+And let it not see the rays of dawn.
+
+[[v18-3-10]]
+
+^<<v18-3-10,10>>^ For it did not close the doors of my mother’s womb;
+Nor did it hide trouble from my eyes.
+
+[[v18-3-11]]
+
+^<<v18-3-11,11>>^ Why did I not die at birth?
+Why did I not perish when I came from the womb?
+
+[[v18-3-12]]
+
+^<<v18-3-12,12>>^ Why were there knees to receive me
+And breasts to nurse me?
+
+[[v18-3-13]]
+
+^<<v18-3-13,13>>^ For now I would be lying down undisturbed;
+I would be sleeping and at rest
+
+[[v18-3-14]]
+
+^<<v18-3-14,14>>^ With kings of the earth and their advisers,
+Who built for themselves places that are now in ruins,^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “who built desolate places for themselves.”
+====
+
+[[v18-3-15]]
+
+^<<v18-3-15,15>>^ Or with princes who possessed gold,
+Whose houses were filled with silver.
+
+[[v18-3-16]]
+
+^<<v18-3-16,16>>^ Or why was I not like a hidden miscarriage,
+Like children who have never seen the light?
+
+[[v18-3-17]]
+
+^<<v18-3-17,17>>^ There even the wicked have ceased from agitation;
+There the weary are at rest.
+
+[[v18-3-18]]
+
+^<<v18-3-18,18>>^ There the prisoners are at ease together;
+They do not hear the voice of the one forcing them to work.
+
+[[v18-3-19]]
+
+^<<v18-3-19,19>>^ Small and great are the same there,
+And the slave is set free from his master.
+
+[[v18-3-20]]
+
+^<<v18-3-20,20>>^ Why does he give light to one who is suffering
+And life to those in bitter distress?^&#42;1^
+
+[NOTE]
+====
+. Or “those bitter of soul.”
+====
+
+[[v18-3-21]]
+
+^<<v18-3-21,21>>^ Why do they long for death, but it does not come?
+They dig for it more than for hidden treasures,
+
+[[v18-3-22]]
+
+^<<v18-3-22,22>>^ Those who are rejoicing greatly,
+Who are happy when they find the grave.
+
+[[v18-3-23]]
+
+^<<v18-3-23,23>>^ Why does he give light to a man who has lost his way,
+Whom God has hedged in?
+
+[[v18-3-24]]
+
+^<<v18-3-24,24>>^ For in place of my food comes my sighing,
+And my groaning pours out like water.
+
+[[v18-3-25]]
+
+^<<v18-3-25,25>>^ For what I have dreaded has come upon me,
+And what I have feared has befallen me.
+
+[[v18-3-26]]
+
+^<<v18-3-26,26>>^ I have had no peace, no quiet, no rest,
+But trouble keeps coming.”
+
+'''
+
+xref:018-job/018-job-002.adoc#v18-2-0[&#60; Capítulo Anterior] | <<v18-3-0,Topo>> | xref:018-job/018-job-004.adoc#v18-4-0[Próximo Capítulo &#62;]

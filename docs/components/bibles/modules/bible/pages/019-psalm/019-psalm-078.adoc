@@ -1,0 +1,473 @@
+include::./index.adoc[]
+
+[[v19-78-0]]
+=== Psalm, 78
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Masʹkil.^&#42;1^ Of Aʹsaph._
+
+[[v19-78-1]]
+
+^<<v19-78-1,1>>^ Listen, my people, to my law;^&#42;1^
+Incline your ear to the words of my mouth.
+
+[NOTE]
+====
+. Or “instruction.”
+====
+
+[[v19-78-2]]
+
+^<<v19-78-2,2>>^ I will open my mouth in a proverb.
+I will propound riddles of long ago.
+
+[[v19-78-3]]
+
+^<<v19-78-3,3>>^ The things we have heard and know,
+Which our fathers have related to us,
+
+[[v19-78-4]]
+
+^<<v19-78-4,4>>^ We will not hide from their sons;
+We will relate to the generation to come
+The praiseworthy deeds of Jehovah and his strength,
+The wonderful things he has done.
+
+[[v19-78-5]]
+
+^<<v19-78-5,5>>^ He established a reminder in Jacob
+And set a law in Israel;
+He commanded our forefathers
+To make these things known to their children,
+
+[[v19-78-6]]
+
+^<<v19-78-6,6>>^ So that the next generation,
+The children yet to be born, might know them.
+They in turn would relate them to their children.
+
+[[v19-78-7]]
+
+^<<v19-78-7,7>>^ Then these would put their confidence in God.
+They would not forget God’s works
+But would observe his commandments.
+
+[[v19-78-8]]
+
+^<<v19-78-8,8>>^ Then they would not be like their forefathers,
+A stubborn and rebellious generation,
+A generation whose heart was unsteady^&#42;1^
+And whose spirit was not faithful to God.
+
+[NOTE]
+====
+. Lit., “unprepared.”
+====
+
+[[v19-78-9]]
+
+^<<v19-78-9,9>>^ The Eʹphra·im·ites were armed with the bow,
+But they retreated in the day of battle.
+
+[[v19-78-10]]
+
+^<<v19-78-10,10>>^ They did not keep the covenant of God
+And refused to walk in his law.
+
+[[v19-78-11]]
+
+^<<v19-78-11,11>>^ They also forgot what he had done,
+His wonderful works that he showed them.
+
+[[v19-78-12]]
+
+^<<v19-78-12,12>>^ He did marvelous things in the sight of their forefathers,
+In the land of Egypt, the region of Zoʹan.
+
+[[v19-78-13]]
+
+^<<v19-78-13,13>>^ He split the sea to let them pass through,
+And he made the waters stand up like a dam.^&#42;1^
+
+[NOTE]
+====
+. Or “wall.”
+====
+
+[[v19-78-14]]
+
+^<<v19-78-14,14>>^ He led them with a cloud by day
+And the whole night with the light of a fire.
+
+[[v19-78-15]]
+
+^<<v19-78-15,15>>^ He split rocks in the wilderness,
+He let them drink their fill as if from deep waters.
+
+[[v19-78-16]]
+
+^<<v19-78-16,16>>^ He brought streams out of a crag
+And caused waters to flow down like rivers.
+
+[[v19-78-17]]
+
+^<<v19-78-17,17>>^ But they continued to sin against him
+By rebelling against the Most High in the desert;
+
+[[v19-78-18]]
+
+^<<v19-78-18,18>>^ They challenged^&#42;1^ God in their heart
+By demanding food that they craved.^&#42;2^
+
+[NOTE]
+====
+. Lit., “tested.”
+. Or “food for their soul.”
+====
+
+[[v19-78-19]]
+
+^<<v19-78-19,19>>^ So they spoke against God,
+Saying: “Can God spread a table in the wilderness?”
+
+[[v19-78-20]]
+
+^<<v19-78-20,20>>^ Look! He struck a rock
+So that waters flowed and streams flooded out.
+“Can he also give us bread,
+Or can he provide meat for his people?”
+
+[[v19-78-21]]
+
+^<<v19-78-21,21>>^ When Jehovah heard them, he became furious;
+A fire blazed against Jacob,
+And his anger flared up against Israel
+
+[[v19-78-22]]
+
+^<<v19-78-22,22>>^ Because they did not put faith in God;
+They did not trust in his ability to save them.
+
+[[v19-78-23]]
+
+^<<v19-78-23,23>>^ So he commanded the cloudy skies above,
+And he opened the doors of heaven.
+
+[[v19-78-24]]
+
+^<<v19-78-24,24>>^ He kept raining down manna for them to eat;
+He gave them the grain of heaven.
+
+[[v19-78-25]]
+
+^<<v19-78-25,25>>^ Men ate the bread of mighty ones;^&#42;1^
+He provided enough to satisfy them.
+
+[NOTE]
+====
+. Or “of angels.”
+====
+
+[[v19-78-26]]
+
+^<<v19-78-26,26>>^ He stirred up the east wind in the heavens
+And made a south wind blow by his power.
+
+[[v19-78-27]]
+
+^<<v19-78-27,27>>^ And he rained down meat on them like dust,
+Birds like the sand of the seashore.
+
+[[v19-78-28]]
+
+^<<v19-78-28,28>>^ He made them fall in the midst of his camp,
+All around his tents.
+
+[[v19-78-29]]
+
+^<<v19-78-29,29>>^ And they ate and gorged themselves;
+He gave them what they desired.
+
+[[v19-78-30]]
+
+^<<v19-78-30,30>>^ But before they fully satisfied their craving,
+While their food was yet in their mouth,
+
+[[v19-78-31]]
+
+^<<v19-78-31,31>>^ God’s wrath flared up against them.
+He put to death their strongest men;
+He brought down the young men of Israel.
+
+[[v19-78-32]]
+
+^<<v19-78-32,32>>^ Despite this they sinned even more
+And did not put faith in his wonderful works.
+
+[[v19-78-33]]
+
+^<<v19-78-33,33>>^ So he brought their days to an end as if a mere breath,
+And their years by sudden terrors.
+
+[[v19-78-34]]
+
+^<<v19-78-34,34>>^ But as often as he killed them, they would search for him;
+They would return and look for God,
+
+[[v19-78-35]]
+
+^<<v19-78-35,35>>^ Remembering that God was their Rock
+And that the Most High God was their Redeemer.^&#42;1^
+
+[NOTE]
+====
+. Or “Avenger.”
+====
+
+[[v19-78-36]]
+
+^<<v19-78-36,36>>^ But they tried to deceive him with their mouth
+And lied to him with their tongue.
+
+[[v19-78-37]]
+
+^<<v19-78-37,37>>^ Their heart was not steadfast toward him;
+And they were not faithful to his covenant.
+
+[[v19-78-38]]
+
+^<<v19-78-38,38>>^ But he was merciful;
+He would forgive^&#42;1^ their error and not bring them to ruin.
+He often held back his anger
+Instead of stirring up all his wrath.
+
+[NOTE]
+====
+. Lit., “cover.”
+====
+
+[[v19-78-39]]
+
+^<<v19-78-39,39>>^ For he remembered that they were flesh,
+A wind that blows past and does not return.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “That the spirit is going forth and does not come back.”
+====
+
+[[v19-78-40]]
+
+^<<v19-78-40,40>>^ How often they rebelled against him in the wilderness
+And made him feel hurt in the desert!
+
+[[v19-78-41]]
+
+^<<v19-78-41,41>>^ Again and again they put God to the test,
+And they grieved^&#42;1^ the Holy One of Israel.
+
+[NOTE]
+====
+. Or “pained.”
+====
+
+[[v19-78-42]]
+
+^<<v19-78-42,42>>^ They did not remember his power,^&#42;1^
+The day that he rescued^&#42;2^ them from the adversary,
+
+[NOTE]
+====
+. Lit., “hand.”
+. Lit., “redeemed.”
+====
+
+[[v19-78-43]]
+
+^<<v19-78-43,43>>^ How he displayed his signs in Egypt
+And his miracles in the region of Zoʹan,
+
+[[v19-78-44]]
+
+^<<v19-78-44,44>>^ And how he turned the Nile canals into blood
+So that they could not drink from their streams.
+
+[[v19-78-45]]
+
+^<<v19-78-45,45>>^ He sent swarms of gadflies to devour them
+And frogs to bring them to ruin.
+
+[[v19-78-46]]
+
+^<<v19-78-46,46>>^ He gave their crops to the voracious locusts,
+The fruit of their labor to the swarming locusts.
+
+[[v19-78-47]]
+
+^<<v19-78-47,47>>^ He destroyed their vines with hail
+And their sycamore trees with hailstones.
+
+[[v19-78-48]]
+
+^<<v19-78-48,48>>^ He gave their beasts of burden over to the hail
+And their livestock to the lightning bolts.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “the burning fever.”
+====
+
+[[v19-78-49]]
+
+^<<v19-78-49,49>>^ He inflicted his burning anger on them,
+Fury and indignation and distress,
+Companies of angels bringing calamity.
+
+[[v19-78-50]]
+
+^<<v19-78-50,50>>^ He cleared a pathway for his anger.
+He did not spare them^&#42;1^ from death;
+And he gave them^&#42;2^ over to pestilence.
+
+[NOTE]
+====
+. Or “their soul.”
+. Lit., “their life.”
+====
+
+[[v19-78-51]]
+
+^<<v19-78-51,51>>^ Finally he struck down all the firstborn of Egypt,
+The beginning of their procreative power in the tents of Ham.
+
+[[v19-78-52]]
+
+^<<v19-78-52,52>>^ Then he brought his people out like a flock
+And guided them like a drove in the wilderness.
+
+[[v19-78-53]]
+
+^<<v19-78-53,53>>^ He led them in security,
+And they felt no fear;
+The sea covered their enemies.
+
+[[v19-78-54]]
+
+^<<v19-78-54,54>>^ And he brought them to his holy territory,
+This mountainous region that his right hand acquired.
+
+[[v19-78-55]]
+
+^<<v19-78-55,55>>^ He drove out the nations from before them;
+He allotted to them an inheritance by the measuring line;
+He settled the tribes of Israel in their homes.
+
+[[v19-78-56]]
+
+^<<v19-78-56,56>>^ But they kept challenging^&#42;1^ God the Most High, and rebelling against him;
+They did not pay attention to his reminders.
+
+[NOTE]
+====
+. Lit., “testing.”
+====
+
+[[v19-78-57]]
+
+^<<v19-78-57,57>>^ They also turned away and were as treacherous as their forefathers.
+They were as unreliable as a loose bow.
+
+[[v19-78-58]]
+
+^<<v19-78-58,58>>^ They kept offending him with their high places,
+And they incited him to fury^&#42;1^ with their carved images.
+
+[NOTE]
+====
+. Or “to jealousy.”
+====
+
+[[v19-78-59]]
+
+^<<v19-78-59,59>>^ God heard and became furious,
+So he utterly rejected Israel.
+
+[[v19-78-60]]
+
+^<<v19-78-60,60>>^ He finally forsook the tabernacle of Shiʹloh,
+The tent where he had resided among men.
+
+[[v19-78-61]]
+
+^<<v19-78-61,61>>^ He let the symbol of his strength go into captivity;
+His splendor into the hand of the adversary.
+
+[[v19-78-62]]
+
+^<<v19-78-62,62>>^ He handed his people over to the sword
+And became furious with his inheritance.
+
+[[v19-78-63]]
+
+^<<v19-78-63,63>>^ Fire consumed his young men,
+And to his virgins no wedding songs were sung.^&#42;1^
+
+[NOTE]
+====
+. Lit., “And his virgins were not praised.”
+====
+
+[[v19-78-64]]
+
+^<<v19-78-64,64>>^ His priests fell by the sword,
+And their own widows did not weep.
+
+[[v19-78-65]]
+
+^<<v19-78-65,65>>^ Then Jehovah woke up as from sleep,
+Like a mighty man waking up from wine.
+
+[[v19-78-66]]
+
+^<<v19-78-66,66>>^ And he drove his adversaries back;
+He put them to lasting disgrace.
+
+[[v19-78-67]]
+
+^<<v19-78-67,67>>^ He rejected the tent of Joseph;
+He did not choose the tribe of Eʹphra·im.
+
+[[v19-78-68]]
+
+^<<v19-78-68,68>>^ But he chose the tribe of Judah,
+Mount Zion, which he loves.
+
+[[v19-78-69]]
+
+^<<v19-78-69,69>>^ He made his sanctuary as enduring as the heavens,^&#42;1^
+Like the earth that he has established forever.
+
+[NOTE]
+====
+. Lit., “He built his sanctuary like the heights.”
+====
+
+[[v19-78-70]]
+
+^<<v19-78-70,70>>^ He chose David his servant
+And took him from the sheep pens,
+
+[[v19-78-71]]
+
+^<<v19-78-71,71>>^ From tending the nursing ewes;
+He made him the shepherd over Jacob, his people,
+And over Israel, his inheritance.
+
+[[v19-78-72]]
+
+^<<v19-78-72,72>>^ He shepherded them with integrity of heart,
+And with skillful hands he led them.
+
+'''
+
+xref:019-psalm/019-psalm-077.adoc#v19-77-0[&#60; Capítulo Anterior] | <<v19-78-0,Topo>> | xref:019-psalm/019-psalm-079.adoc#v19-79-0[Próximo Capítulo &#62;]

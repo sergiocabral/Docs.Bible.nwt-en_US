@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v24-37-0]]
+=== Jeremiah, 37
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v24-37-1]]
+
+^<<v24-37-1,1>>^ And King Zed·e·kiʹah the son of Jo·siʹah began to reign in place of Co·niʹah^&#42;1^ the son of Je·hoiʹa·kim, for King Neb·u·chad·nezʹzar^&#42;2^ of Babylon made him king in the land of Judah.
+
+[NOTE]
+====
+. Also called Jehoiachin and Jeconiah.
+. Lit., “Nebuchadrezzar,” a variant spelling.
+====
+
+[[v24-37-2]]
+
+^<<v24-37-2,2>>^ But he and his servants and the people of the land did not listen to the words of Jehovah spoken through Jeremiah the prophet.
+
+[[v24-37-3]]
+
+^<<v24-37-3,3>>^ And King Zed·e·kiʹah sent Je·huʹcal the son of Shel·e·miʹah and Zeph·a·niʹah the son of Ma·a·seiʹah the priest to Jeremiah the prophet, saying: “Please pray in our behalf to Jehovah our God.”
+
+[[v24-37-4]]
+
+^<<v24-37-4,4>>^ Jeremiah was moving about freely among the people, for they had not yet put him in prison.
+
+[[v24-37-5]]
+
+^<<v24-37-5,5>>^ Now Pharʹaoh’s army had set out from Egypt, and the Chal·deʹans who were besieging Jerusalem heard the report about them. So they withdrew from against Jerusalem.
+
+[[v24-37-6]]
+
+^<<v24-37-6,6>>^ Then the word of Jehovah came to Jeremiah the prophet, saying:
+
+[[v24-37-7]]
+
+^<<v24-37-7,7>>^ “This is what Jehovah the God of Israel says, ‘This is what you should say to the king of Judah, who sent you to me to inquire of me: “Look! The army of Pharʹaoh that is coming to assist you will have to go back to its land, Egypt.
+
+[[v24-37-8]]
+
+^<<v24-37-8,8>>^ And the Chal·deʹans will come back and fight against this city and capture it and burn it with fire.”
+
+[[v24-37-9]]
+
+^<<v24-37-9,9>>^ This is what Jehovah says, “Do not deceive yourselves^&#42;1^ by saying, ‘The Chal·deʹans will surely go away from against us,’ because they will not go away.
+
+[NOTE]
+====
+. Or “your souls.”
+====
+
+[[v24-37-10]]
+
+^<<v24-37-10,10>>^ Even if you were to strike down the entire army of the Chal·deʹans who are fighting against you and only their wounded men were left, they would still rise up from their tents and burn this city with fire.”’”
+
+[[v24-37-11]]
+
+^<<v24-37-11,11>>^ When the Chal·deʹan army had withdrawn from against Jerusalem because of Pharʹaoh’s army,
+
+[[v24-37-12]]
+
+^<<v24-37-12,12>>^ Jeremiah set out from Jerusalem to the land of Benjamin to receive his portion there among his people.
+
+[[v24-37-13]]
+
+^<<v24-37-13,13>>^ But when he reached the Gate of Benjamin, the officer in charge of the guard, whose name was I·riʹjah the son of Shel·e·miʹah the son of Han·a·niʹah, seized Jeremiah the prophet and said: “You are deserting to the Chal·deʹans!”
+
+[[v24-37-14]]
+
+^<<v24-37-14,14>>^ But Jeremiah said: “It is not true! I am not deserting to the Chal·deʹans.” But he did not listen to him. So I·riʹjah arrested Jeremiah and brought him in to the princes.
+
+[[v24-37-15]]
+
+^<<v24-37-15,15>>^ The princes were furious with Jeremiah, and they beat him and imprisoned him^&#42;1^ in the house of Je·honʹa·than the secretary, which had been made into a prison.
+
+[NOTE]
+====
+. Lit., “put him into the house of the fetters.”
+====
+
+[[v24-37-16]]
+
+^<<v24-37-16,16>>^ Jeremiah was put into the dungeon,^&#42;1^ into the vaulted rooms, and he remained there many days.
+
+[NOTE]
+====
+. Lit., “the house of the cistern.”
+====
+
+[[v24-37-17]]
+
+^<<v24-37-17,17>>^ Then King Zed·e·kiʹah sent for him, and the king secretly questioned him in his house.^&#42;1^ He asked, “Is there any word from Jehovah?” Jeremiah said, “There is!” and he continued, “You will be given into the hand of the king of Babylon!”
+
+[NOTE]
+====
+. Or “palace.”
+====
+
+[[v24-37-18]]
+
+^<<v24-37-18,18>>^ Jeremiah also said to King Zed·e·kiʹah: “How have I sinned against you and against your servants and against this people, so that you have put me into the prison?
+
+[[v24-37-19]]
+
+^<<v24-37-19,19>>^ Where, now, are your prophets who prophesied to you, ‘The king of Babylon will not come against you and against this land’?
+
+[[v24-37-20]]
+
+^<<v24-37-20,20>>^ Now listen, please, O my lord the king. May you grant, please, my request for favor. Do not send me back to the house of Je·honʹa·than the secretary, or I will die there.”
+
+[[v24-37-21]]
+
+^<<v24-37-21,21>>^ So King Zed·e·kiʹah ordered that Jeremiah be put in custody in the Courtyard of the Guard, and he was given a round loaf of bread daily from the street of the bakers until all the bread in the city was gone. And Jeremiah remained in the Courtyard of the Guard.
+
+'''
+
+xref:024-jeremiah/024-jeremiah-036.adoc#v24-36-0[&#60; Capítulo Anterior] | <<v24-37-0,Topo>> | xref:024-jeremiah/024-jeremiah-038.adoc#v24-38-0[Próximo Capítulo &#62;]

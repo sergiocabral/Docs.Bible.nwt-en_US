@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v35-0-0]]
+== Habakkuk
+
+[cols="8*^"]
+|===
+| xref:035-habakkuk/035-habakkuk-001.adoc#v35-1-0[1]
+| xref:035-habakkuk/035-habakkuk-002.adoc#v35-2-0[2]
+| xref:035-habakkuk/035-habakkuk-003.adoc#v35-3-0[3]
+|
+|
+|
+|
+|
+|===

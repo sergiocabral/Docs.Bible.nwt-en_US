@@ -1,0 +1,66 @@
+include::./index.adoc[]
+
+[[v19-121-0]]
+=== Psalm, 121
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-121-1]]
+
+^<<v19-121-1,1>>^ I raise my eyes to the mountains.
+From where will my help come?
+
+[[v19-121-2]]
+
+^<<v19-121-2,2>>^ My help comes from Jehovah,
+The Maker of heaven and earth.
+
+[[v19-121-3]]
+
+^<<v19-121-3,3>>^ He will never allow your foot to slip.^&#42;1^
+The One guarding you will never be drowsy.
+
+[NOTE]
+====
+. Or “totter.”
+====
+
+[[v19-121-4]]
+
+^<<v19-121-4,4>>^ Look! He will never be drowsy nor go to sleep,
+The One guarding Israel.
+
+[[v19-121-5]]
+
+^<<v19-121-5,5>>^ Jehovah is guarding you.
+Jehovah is the shade at your right hand.
+
+[[v19-121-6]]
+
+^<<v19-121-6,6>>^ By day the sun will not strike you,
+Nor the moon by night.
+
+[[v19-121-7]]
+
+^<<v19-121-7,7>>^ Jehovah will guard you against all harm.
+He will guard your life.^&#42;1^
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v19-121-8]]
+
+^<<v19-121-8,8>>^ Jehovah will guard you in all you do^&#42;1^
+From now on and forever.
+
+[NOTE]
+====
+. Lit., “your going out and your coming in.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-120.adoc#v19-120-0[&#60; Capítulo Anterior] | <<v19-121-0,Topo>> | xref:019-psalm/019-psalm-122.adoc#v19-122-0[Próximo Capítulo &#62;]

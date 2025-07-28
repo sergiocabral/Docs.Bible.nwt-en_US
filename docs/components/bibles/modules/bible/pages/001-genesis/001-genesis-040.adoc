@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v1-40-0]]
+=== Genesis, 40
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v1-40-1]]
+
+^<<v1-40-1,1>>^ After these things, the chief cupbearer of the king of Egypt and the chief baker sinned against their lord, the king of Egypt.
+
+[[v1-40-2]]
+
+^<<v1-40-2,2>>^ So Pharʹaoh grew indignant at his two officers, the chief cupbearer and the chief baker,
+
+[[v1-40-3]]
+
+^<<v1-40-3,3>>^ and he committed them to the jail of the house of the chief of the guard, to the place where Joseph was a prisoner.
+
+[[v1-40-4]]
+
+^<<v1-40-4,4>>^ Then the chief of the guard assigned Joseph to be with them and to take care of them, and they remained in jail for some time.^&#42;1^
+
+[NOTE]
+====
+. Lit., “days.”
+====
+
+[[v1-40-5]]
+
+^<<v1-40-5,5>>^ The cupbearer and the baker of the king of Egypt, who were confined in the prison, each had a dream on the same night, and each dream had its own interpretation.
+
+[[v1-40-6]]
+
+^<<v1-40-6,6>>^ The next morning, when Joseph came in and saw them, they looked dejected.
+
+[[v1-40-7]]
+
+^<<v1-40-7,7>>^ So he asked the officers of Pharʹaoh who were in custody with him in his master’s house: “Why are your faces gloomy today?”
+
+[[v1-40-8]]
+
+^<<v1-40-8,8>>^ At this they said to him: “We each had a dream, but there is no interpreter with us.” Joseph said to them: “Do not interpretations belong to God? Relate it to me, please.”
+
+[[v1-40-9]]
+
+^<<v1-40-9,9>>^ So the chief cupbearer related his dream to Joseph, saying to him: “In my dream, there was a vine before me.
+
+[[v1-40-10]]
+
+^<<v1-40-10,10>>^ And on the vine, there were three twigs, and as it was sprouting shoots, it blossomed, and its clusters ripened into grapes.
+
+[[v1-40-11]]
+
+^<<v1-40-11,11>>^ And Pharʹaoh’s cup was in my hand, and I took the grapes and squeezed them out into Pharʹaoh’s cup. After that I put the cup in Pharʹaoh’s hand.”
+
+[[v1-40-12]]
+
+^<<v1-40-12,12>>^ Then Joseph said to him: “This is its interpretation: The three twigs are three days.
+
+[[v1-40-13]]
+
+^<<v1-40-13,13>>^ Three days from now, Pharʹaoh will bring you out,^&#42;1^ restoring you to your office, and you will put Pharʹaoh’s cup into his hand as you did before when you were his cupbearer.
+
+[NOTE]
+====
+. Lit., “lift up your head.”
+====
+
+[[v1-40-14]]
+
+^<<v1-40-14,14>>^ Nevertheless, you must remember me when things go well with you. Please show me loyal love and mention me to Pharʹaoh, in order to get me out of this place.
+
+[[v1-40-15]]
+
+^<<v1-40-15,15>>^ I was, in fact, kidnapped from the land of the Hebrews, and I have not done anything here for which they should put me in prison.”^&#42;1^
+
+[NOTE]
+====
+. Lit., “the cistern; the pit.”
+====
+
+[[v1-40-16]]
+
+^<<v1-40-16,16>>^ When the chief baker saw that Joseph had interpreted something good, he said to him: “I too was in my dream, and there were three baskets of white bread on my head,
+
+[[v1-40-17]]
+
+^<<v1-40-17,17>>^ and in the top basket, there were all sorts of baked goods for Pharʹaoh, and there were birds eating them out of the basket on top of my head.”
+
+[[v1-40-18]]
+
+^<<v1-40-18,18>>^ Then Joseph answered, “This is its interpretation: The three baskets are three days.
+
+[[v1-40-19]]
+
+^<<v1-40-19,19>>^ Three days from now, Pharʹaoh will behead you^&#42;1^ and will hang you on a stake, and the birds will eat your flesh from you.”
+
+[NOTE]
+====
+. Lit., “lift up your head from you.”
+====
+
+[[v1-40-20]]
+
+^<<v1-40-20,20>>^ Now the third day was Pharʹaoh’s birthday, and he made a feast for all his servants, and he brought out^&#42;1^ both the chief cupbearer and the chief baker in the presence of his servants.
+
+[NOTE]
+====
+. Lit., “he lifted up the head of.”
+====
+
+[[v1-40-21]]
+
+^<<v1-40-21,21>>^ And he returned the chief cupbearer to his post of cupbearer, and he continued to hand the cup to Pharʹaoh.
+
+[[v1-40-22]]
+
+^<<v1-40-22,22>>^ But he hanged the chief baker, just as Joseph had interpreted to them.
+
+[[v1-40-23]]
+
+^<<v1-40-23,23>>^ However, the chief cupbearer did not remember Joseph; he kept forgetting him.
+
+'''
+
+xref:001-genesis/001-genesis-039.adoc#v1-39-0[&#60; Capítulo Anterior] | <<v1-40-0,Topo>> | xref:001-genesis/001-genesis-041.adoc#v1-41-0[Próximo Capítulo &#62;]

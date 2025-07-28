@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v23-64-0]]
+=== Isaiah, 64
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-64-1]]
+
+^<<v23-64-1,1>>^ If only you had ripped the heavens apart and come down,
+So that the mountains would quake because of you,
+
+[[v23-64-2]]
+
+^<<v23-64-2,2>>^ As when a fire ignites the brushwood,
+And the fire makes the water boil,
+Then your name would be known to your adversaries,
+And the nations would tremble before you!
+
+[[v23-64-3]]
+
+^<<v23-64-3,3>>^ When you did awe-inspiring things that we dared not hope for,
+You came down, and the mountains quaked before you.
+
+[[v23-64-4]]
+
+^<<v23-64-4,4>>^ From of old no one has heard or given ear,
+Nor has any eye seen a God except you,
+Who acts in behalf of those who keep in expectation of^&#42;1^ him.
+
+[NOTE]
+====
+. Or “patiently wait for.”
+====
+
+[[v23-64-5]]
+
+^<<v23-64-5,5>>^ You have met up with those who joyfully do what is right,
+Those who remember you and follow your ways.
+Look! You became indignant, while we kept sinning,
+We did so for a long time.
+Should we now be saved?
+
+[[v23-64-6]]
+
+^<<v23-64-6,6>>^ And we have all become like someone unclean,
+And all our acts of righteousness are like a menstrual cloth.
+We will all wither like a leaf,
+And our errors will carry us off like the wind.
+
+[[v23-64-7]]
+
+^<<v23-64-7,7>>^ There is no one calling on your name,
+No one who stirs himself to take hold of you,
+For you have hidden your face from us,
+And you cause us to waste away^&#42;1^ because of^&#42;2^ our error.
+
+[NOTE]
+====
+. Lit., “to melt.”
+. Lit., “by the hand of.”
+====
+
+[[v23-64-8]]
+
+^<<v23-64-8,8>>^ But now, O Jehovah, you are our Father.
+We are the clay, and you are our Potter;^&#42;1^
+We are all the work of your hand.
+
+[NOTE]
+====
+. Or “the One who formed us.”
+====
+
+[[v23-64-9]]
+
+^<<v23-64-9,9>>^ Do not become too indignant, O Jehovah,
+And do not remember our error forever.
+Look at us, please, for we are all your people.
+
+[[v23-64-10]]
+
+^<<v23-64-10,10>>^ Your holy cities have become a wilderness.
+Zion has become a wilderness,
+Jerusalem a wasteland.
+
+[[v23-64-11]]
+
+^<<v23-64-11,11>>^ Our house^&#42;1^ of holiness and glory,^&#42;2^
+Where our forefathers praised you,
+Has been burned with fire,
+And all the things we cherished lie in ruins.
+
+[NOTE]
+====
+. Or “temple.”
+. Or “beauty.”
+====
+
+[[v23-64-12]]
+
+^<<v23-64-12,12>>^ In view of this, will you still restrain yourself, O Jehovah?
+Will you remain silent and let us be afflicted so severely?
+
+'''
+
+xref:023-isaiah/023-isaiah-063.adoc#v23-63-0[&#60; Capítulo Anterior] | <<v23-64-0,Topo>> | xref:023-isaiah/023-isaiah-065.adoc#v23-65-0[Próximo Capítulo &#62;]

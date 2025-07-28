@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-120-0]]
+=== Psalm, 120
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents.^&#42;1^_
+
+[[v19-120-1]]
+
+^<<v19-120-1,1>>^ I called to Jehovah in my distress,
+And he answered me.
+
+[[v19-120-2]]
+
+^<<v19-120-2,2>>^ O Jehovah, rescue me^&#42;1^ from lying lips
+And from the deceitful tongue.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-120-3]]
+
+^<<v19-120-3,3>>^ What will He do to you, and how will He punish you,^&#42;1^
+You deceitful tongue?
+
+[NOTE]
+====
+. Lit., “and what will He add to you?”
+====
+
+[[v19-120-4]]
+
+^<<v19-120-4,4>>^ With sharp arrows of a warrior
+And burning coals of broomwood.
+
+[[v19-120-5]]
+
+^<<v19-120-5,5>>^ Woe to me, for I have lived as a foreigner in Meʹshech!
+I have been dwelling among the tents of Keʹdar.
+
+[[v19-120-6]]
+
+^<<v19-120-6,6>>^ I have^&#42;1^ been dwelling far too long
+With those who hate peace.
+
+[NOTE]
+====
+. Or “My soul has.”
+====
+
+[[v19-120-7]]
+
+^<<v19-120-7,7>>^ I am for peace, but when I speak,
+They are for war.
+
+'''
+
+xref:019-psalm/019-psalm-119.adoc#v19-119-0[&#60; Capítulo Anterior] | <<v19-120-0,Topo>> | xref:019-psalm/019-psalm-121.adoc#v19-121-0[Próximo Capítulo &#62;]

@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v1-15-0]]
+=== Genesis, 15
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v1-15-1]]
+
+^<<v1-15-1,1>>^ After this the word of Jehovah came to Aʹbram in a vision, saying: “Do not fear, Aʹbram. I am a shield for you. Your reward will be very great.”
+
+[[v1-15-2]]
+
+^<<v1-15-2,2>>^ Aʹbram replied: “Sovereign Lord Jehovah, what will you give me, seeing that I continue childless and the one who will inherit my house is a man of Damascus, E·li·eʹzer?”
+
+[[v1-15-3]]
+
+^<<v1-15-3,3>>^ Aʹbram added: “You have given me no offspring,^&#42;1^ and a member^&#42;2^ of my household is succeeding me as heir.”
+
+[NOTE]
+====
+. Lit., “seed.”
+. Lit., “son.”
+====
+
+[[v1-15-4]]
+
+^<<v1-15-4,4>>^ But look! Jehovah’s word in reply to him was, “This man will not succeed you as heir, but your own son^&#42;1^ will succeed you as heir.”
+
+[NOTE]
+====
+. Lit., “one who comes out of your inward parts.”
+====
+
+[[v1-15-5]]
+
+^<<v1-15-5,5>>^ He now brought him outside and said: “Look up, please, to the heavens and count the stars, if you are able to do so.” Then he said to him: “So your offspring^&#42;1^ will become.”
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v1-15-6]]
+
+^<<v1-15-6,6>>^ And he put faith in Jehovah, and He counted^&#42;1^ it to him as righteousness.
+
+[NOTE]
+====
+. Or “credited.”
+====
+
+[[v1-15-7]]
+
+^<<v1-15-7,7>>^ Then he added: “I am Jehovah, who brought you out of Ur of the Chal·deʹans to give you this land as your possession.”
+
+[[v1-15-8]]
+
+^<<v1-15-8,8>>^ To this he said: “Sovereign Lord Jehovah, how will I know that I will take possession of it?”
+
+[[v1-15-9]]
+
+^<<v1-15-9,9>>^ He replied to him: “Take for me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove, and a young pigeon.”
+
+[[v1-15-10]]
+
+^<<v1-15-10,10>>^ So he took all of these and cut them in two and put each part opposite the other,^&#42;1^ but he did not cut up the birds.
+
+[NOTE]
+====
+. Or “put each part of them so as to match the other.”
+====
+
+[[v1-15-11]]
+
+^<<v1-15-11,11>>^ Then the birds of prey began to descend on the carcasses, but Aʹbram kept driving them away.
+
+[[v1-15-12]]
+
+^<<v1-15-12,12>>^ When the sun was about to set, a deep sleep fell upon Aʹbram and a great and frightening darkness descended on him.
+
+[[v1-15-13]]
+
+^<<v1-15-13,13>>^ Then He said to Aʹbram: “Know for certain that your offspring^&#42;1^ will be foreigners in a land not theirs and that the people there will enslave them and afflict them for 400 years.
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v1-15-14]]
+
+^<<v1-15-14,14>>^ But I will judge the nation they will serve, and after that they will go out with many goods.
+
+[[v1-15-15]]
+
+^<<v1-15-15,15>>^ As for you, you will go to your forefathers in peace; you will be buried at a good old age.
+
+[[v1-15-16]]
+
+^<<v1-15-16,16>>^ But they will return here in the fourth generation, because the error of the Amʹor·ites has not yet reached its full measure.”
+
+[[v1-15-17]]
+
+^<<v1-15-17,17>>^ When the sun had set and it had become very dark, a smoking furnace appeared, and a fiery torch passed between the pieces.
+
+[[v1-15-18]]
+
+^<<v1-15-18,18>>^ On that day Jehovah made with Aʹbram a covenant, saying: “To your offspring^&#42;1^ I will give this land, from the river of Egypt to the great river, the river Eu·phraʹtes:
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v1-15-19]]
+
+^<<v1-15-19,19>>^ the land of the Kenʹites, the Kenʹiz·zites, the Kadʹmon·ites,
+
+[[v1-15-20]]
+
+^<<v1-15-20,20>>^ the Hitʹtites, the Perʹiz·zites, the Rephʹa·im,
+
+[[v1-15-21]]
+
+^<<v1-15-21,21>>^ the Amʹor·ites, the Caʹnaan·ites, the Girʹga·shites, and the Jebʹu·sites.”
+
+'''
+
+xref:001-genesis/001-genesis-014.adoc#v1-14-0[&#60; Capítulo Anterior] | <<v1-15-0,Topo>> | xref:001-genesis/001-genesis-016.adoc#v1-16-0[Próximo Capítulo &#62;]

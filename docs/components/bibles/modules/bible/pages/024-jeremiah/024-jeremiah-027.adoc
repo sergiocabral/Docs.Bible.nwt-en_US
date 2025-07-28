@@ -1,0 +1,128 @@
+include::./index.adoc[]
+
+[[v24-27-0]]
+=== Jeremiah, 27
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v24-27-1]]
+
+^<<v24-27-1,1>>^ In the beginning of the reign of Je·hoiʹa·kim son of Jo·siʹah, the king of Judah, this word came to Jeremiah from Jehovah:
+
+[[v24-27-2]]
+
+^<<v24-27-2,2>>^ “This is what Jehovah has told me, ‘Make for yourself straps and yoke bars, and put them on your neck.
+
+[[v24-27-3]]
+
+^<<v24-27-3,3>>^ Then send them to the king of Eʹdom, the king of Moʹab, the king of the Amʹmon·ites, the king of Tyre, and the king of Siʹdon by the hand of the messengers who have come to Jerusalem to King Zed·e·kiʹah of Judah.
+
+[[v24-27-4]]
+
+^<<v24-27-4,4>>^ Give them this command for their masters:
+“‘“This is what Jehovah of armies, the God of Israel, says; this is what you should say to your masters,
+
+[[v24-27-5]]
+
+^<<v24-27-5,5>>^ ‘It is I who made the earth, mankind, and the beasts that are on the surface of the earth by my great power and by my outstretched arm; and I have given it to whomever I please.^&#42;1^
+
+[NOTE]
+====
+. Lit., “to whom it is right in my eyes.”
+====
+
+[[v24-27-6]]
+
+^<<v24-27-6,6>>^ And now I have given all these lands into the hand of my servant King Neb·u·chad·nezʹzar of Babylon; even the wild beasts of the field I have given him to serve him.
+
+[[v24-27-7]]
+
+^<<v24-27-7,7>>^ All the nations will serve him and his son and his grandson until the time for his own land comes, when many nations and great kings will make him their slave.’
+
+[[v24-27-8]]
+
+^<<v24-27-8,8>>^ “‘“‘If any nation or kingdom refuses to serve King Neb·u·chad·nezʹzar of Babylon and refuses to put its neck under the yoke of the king of Babylon, I will punish that nation with the sword, with famine, and with pestilence,’^&#42;1^ declares Jehovah, ‘until I have finished them off by his hand.’
+
+[NOTE]
+====
+. Or “disease.”
+====
+
+[[v24-27-9]]
+
+^<<v24-27-9,9>>^ “‘“‘Therefore, do not listen to your prophets, your diviners, your dreamers, your magicians, and your sorcerers, who are saying to you: “You will not serve the king of Babylon.”
+
+[[v24-27-10]]
+
+^<<v24-27-10,10>>^ For they are prophesying lies to you, so that you will be taken far away from your land and I will disperse you and you will perish.
+
+[[v24-27-11]]
+
+^<<v24-27-11,11>>^ “‘“‘But the nation that brings its neck under the yoke of the king of Babylon and serves him, I will allow to remain^&#42;1^ on its land,’ declares Jehovah, ‘to cultivate it and dwell in it.’”’”
+
+[NOTE]
+====
+. Lit., “rest.”
+====
+
+[[v24-27-12]]
+
+^<<v24-27-12,12>>^ Also to King Zed·e·kiʹah of Judah I spoke in the same way, saying: “Bring your necks under the yoke of the king of Babylon and serve him and his people, and you will keep living.
+
+[[v24-27-13]]
+
+^<<v24-27-13,13>>^ Why should you and your people die by the sword, by famine, and by pestilence, as Jehovah has said about the nation that will not serve the king of Babylon?
+
+[[v24-27-14]]
+
+^<<v24-27-14,14>>^ Do not listen to the words of the prophets who are saying to you, ‘You will not serve the king of Babylon,’ because they are prophesying lies to you.
+
+[[v24-27-15]]
+
+^<<v24-27-15,15>>^ “‘For I have not sent them,’ declares Jehovah, ‘but they are prophesying lies in my name, with the result that I will disperse you and you will perish, you and the prophets who are prophesying to you.’”
+
+[[v24-27-16]]
+
+^<<v24-27-16,16>>^ And to the priests and to all this people I said: “This is what Jehovah says, ‘Do not listen to the words of your prophets who are prophesying to you: “Look! The utensils of the house of Jehovah will be brought back from Babylon very soon!” for they are prophesying lies to you.
+
+[[v24-27-17]]
+
+^<<v24-27-17,17>>^ Do not listen to them. Serve the king of Babylon and you will keep living. Why should this city become a ruin?
+
+[[v24-27-18]]
+
+^<<v24-27-18,18>>^ But if they are prophets and if the word of Jehovah is with them, please let them beg Jehovah of armies that the remaining utensils in the house of Jehovah, in the house^&#42;1^ of the king of Judah, and in Jerusalem may not be taken away to Babylon.’
+
+[NOTE]
+====
+. Or “palace.”
+====
+
+[[v24-27-19]]
+
+^<<v24-27-19,19>>^ “For this is what Jehovah of armies says concerning the pillars, the Sea,^&#42;1^ the carriages, and the remaining utensils that are left in this city,
+
+[NOTE]
+====
+. That is, the copper Sea of the temple.
+====
+
+[[v24-27-20]]
+
+^<<v24-27-20,20>>^ which King Neb·u·chad·nezʹzar of Babylon did not take when he took into exile Jec·o·niʹah son of Je·hoiʹa·kim, the king of Judah, from Jerusalem to Babylon, together with all the nobles of Judah and Jerusalem;
+
+[[v24-27-21]]
+
+^<<v24-27-21,21>>^ yes, this is what Jehovah of armies, the God of Israel, says concerning the utensils that are left at the house of Jehovah, in the house^&#42;1^ of the king of Judah, and in Jerusalem:
+
+[NOTE]
+====
+. Or “palace.”
+====
+
+[[v24-27-22]]
+
+^<<v24-27-22,22>>^ ‘“To Babylon they will be brought, and there they will remain until the day I turn my attention to them,” declares Jehovah. “Then I will bring them back and restore them to this place.”’”
+
+'''
+
+xref:024-jeremiah/024-jeremiah-026.adoc#v24-26-0[&#60; Capítulo Anterior] | <<v24-27-0,Topo>> | xref:024-jeremiah/024-jeremiah-028.adoc#v24-28-0[Próximo Capítulo &#62;]

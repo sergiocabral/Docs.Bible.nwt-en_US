@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v19-12-0]]
+=== Psalm, 12
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; tuned to Shemʹi·nith.^&#42;1^ A melody of David._
+
+[[v19-12-1]]
+
+^<<v19-12-1,1>>^ Save me, O Jehovah, for the loyal one is no more;
+Faithful people have vanished from among men.
+
+[[v19-12-2]]
+
+^<<v19-12-2,2>>^ They speak lies to one another;
+They flatter with their lips^&#42;1^ and speak with deceitful hearts.^&#42;2^
+
+[NOTE]
+====
+. Lit., “speak with a smooth lip.”
+. Lit., “with a heart and a heart.”
+====
+
+[[v19-12-3]]
+
+^<<v19-12-3,3>>^ Jehovah will cut off all flattering lips
+And the tongue that makes great boasts,
+
+[[v19-12-4]]
+
+^<<v19-12-4,4>>^ Those who say: “We will prevail with our tongues.
+We use our lips as we please;
+Who will be our master?”
+
+[[v19-12-5]]
+
+^<<v19-12-5,5>>^ “Because the afflicted are oppressed,
+Because of the sighing of the poor,
+I will rise up to act,” says Jehovah.
+“I will save them from those who treat them with contempt.”^&#42;1^
+
+[NOTE]
+====
+. Or “puff at them.”
+====
+
+[[v19-12-6]]
+
+^<<v19-12-6,6>>^ The sayings of Jehovah are pure;
+They are like silver refined in an earthen furnace,^&#42;1^ purified seven times.
+
+[NOTE]
+====
+. Or possibly, “a smelting furnace set on the ground.”
+====
+
+[[v19-12-7]]
+
+^<<v19-12-7,7>>^ You will guard them, O Jehovah;
+You will protect each one of them from this generation forever.
+
+[[v19-12-8]]
+
+^<<v19-12-8,8>>^ The wicked walk around unrestrained
+Because the sons of men promote depravity.
+
+'''
+
+xref:019-psalm/019-psalm-011.adoc#v19-11-0[&#60; Capítulo Anterior] | <<v19-12-0,Topo>> | xref:019-psalm/019-psalm-013.adoc#v19-13-0[Próximo Capítulo &#62;]

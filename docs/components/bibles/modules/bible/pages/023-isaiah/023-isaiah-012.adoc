@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v23-12-0]]
+=== Isaiah, 12
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-12-1]]
+
+^<<v23-12-1,1>>^ In that day you will certainly say:
+“I thank you, O Jehovah,
+For although you were angry with me,
+Your anger gradually subsided, and you comforted me.
+
+[[v23-12-2]]
+
+^<<v23-12-2,2>>^ Look! God is my salvation.
+I will trust and feel no dread;
+For Jah^&#42;1^ Jehovah is my strength and my might,
+And he has become my salvation.”
+
+[NOTE]
+====
+. “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v23-12-3]]
+
+^<<v23-12-3,3>>^ With rejoicing you will draw water
+From the springs of salvation.
+
+[[v23-12-4]]
+
+^<<v23-12-4,4>>^ And in that day you will say:
+“Give thanks to Jehovah, call on his name,
+Make his deeds known among the peoples!
+Declare that his name is exalted.
+
+[[v23-12-5]]
+
+^<<v23-12-5,5>>^ Sing praises^&#42;1^ to Jehovah, for he has done magnificent things.
+Let this be made known in all the earth.
+
+[NOTE]
+====
+. Or “Make music.”
+====
+
+[[v23-12-6]]
+
+^<<v23-12-6,6>>^ Cry out and shout for joy, you inhabitant^&#42;1^ of Zion,
+For great in your midst is the Holy One of Israel.”
+
+[NOTE]
+====
+. Lit., “inhabitress,” referring to the population collectively as a woman.
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-011.adoc#v23-11-0[&#60; Capítulo Anterior] | <<v23-12-0,Topo>> | xref:023-isaiah/023-isaiah-013.adoc#v23-13-0[Próximo Capítulo &#62;]

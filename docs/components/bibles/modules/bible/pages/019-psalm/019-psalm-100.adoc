@@ -1,0 +1,44 @@
+include::./index.adoc[]
+
+[[v19-100-0]]
+=== Psalm, 100
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of thanksgiving._
+
+[[v19-100-1]]
+
+^<<v19-100-1,1>>^ Shout in triumph to Jehovah, all the earth.
+
+[[v19-100-2]]
+
+^<<v19-100-2,2>>^ Serve Jehovah with rejoicing.
+Come into his presence with joyful shouting.
+
+[[v19-100-3]]
+
+^<<v19-100-3,3>>^ Know^&#42;1^ that Jehovah is God.
+He is the one who made us, and we belong to him.^&#42;2^
+We are his people and the sheep of his pasture.
+
+[NOTE]
+====
+. Or “Acknowledge.”
+. Or possibly, “and not we ourselves.”
+====
+
+[[v19-100-4]]
+
+^<<v19-100-4,4>>^ Come into his gates with thanksgiving,
+Into his courtyards with praise.
+Give thanks to him; praise his name.
+
+[[v19-100-5]]
+
+^<<v19-100-5,5>>^ For Jehovah is good;
+His loyal love endures forever,
+And his faithfulness through all generations.
+
+'''
+
+xref:019-psalm/019-psalm-099.adoc#v19-99-0[&#60; Capítulo Anterior] | <<v19-100-0,Topo>> | xref:019-psalm/019-psalm-101.adoc#v19-101-0[Próximo Capítulo &#62;]

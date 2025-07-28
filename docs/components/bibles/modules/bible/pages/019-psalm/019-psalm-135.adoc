@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v19-135-0]]
+=== Psalm, 135
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-135-1]]
+
+^<<v19-135-1,1>>^ Praise Jah!^&#42;1^
+Praise the name of Jehovah;
+Offer praise, you servants of Jehovah,
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-135-2]]
+
+^<<v19-135-2,2>>^ You who are standing in the house of Jehovah,
+In the courtyards of the house of our God.
+
+[[v19-135-3]]
+
+^<<v19-135-3,3>>^ Praise Jah, for Jehovah is good.
+Sing praises^&#42;1^ to his name, for it is pleasant.
+
+[NOTE]
+====
+. Or “Make music.”
+====
+
+[[v19-135-4]]
+
+^<<v19-135-4,4>>^ For Jah has chosen Jacob for himself,
+Israel for his special property.^&#42;1^
+
+[NOTE]
+====
+. Or “treasured possession.”
+====
+
+[[v19-135-5]]
+
+^<<v19-135-5,5>>^ For I well know that Jehovah is great;
+Our Lord is greater than all other gods.
+
+[[v19-135-6]]
+
+^<<v19-135-6,6>>^ Jehovah does everything he pleases to do
+In heaven and on earth, in the seas and all the depths.
+
+[[v19-135-7]]
+
+^<<v19-135-7,7>>^ He causes clouds^&#42;1^ to ascend from the ends of the earth;
+He makes lightning for^&#42;2^ the rain;
+He brings the wind out of his storehouses.
+
+[NOTE]
+====
+. Or “vapors.”
+. Or possibly, “makes sluices for.”
+====
+
+[[v19-135-8]]
+
+^<<v19-135-8,8>>^ He struck down the firstborn of Egypt,
+Both man and beast.
+
+[[v19-135-9]]
+
+^<<v19-135-9,9>>^ He sent signs and miracles among you, O Egypt,
+Against Pharʹaoh and all his servants.
+
+[[v19-135-10]]
+
+^<<v19-135-10,10>>^ He struck down many nations
+And killed mighty kings
+
+[[v19-135-11]]
+
+^<<v19-135-11,11>>^ —Siʹhon the king of the Amʹor·ites,
+Og the king of Baʹshan,
+And all the kingdoms of Caʹnaan.
+
+[[v19-135-12]]
+
+^<<v19-135-12,12>>^ He gave their land as an inheritance,
+An inheritance to Israel his people.
+
+[[v19-135-13]]
+
+^<<v19-135-13,13>>^ O Jehovah, your name endures forever.
+O Jehovah, your fame^&#42;1^ endures for all generations.
+
+[NOTE]
+====
+. Or “name.” Lit., “memorial.”
+====
+
+[[v19-135-14]]
+
+^<<v19-135-14,14>>^ For Jehovah will defend^&#42;1^ his people,
+And he will feel compassion^&#42;2^ for his servants.
+
+[NOTE]
+====
+. Or “plead the cause of.”
+. Or “feel regret.”
+====
+
+[[v19-135-15]]
+
+^<<v19-135-15,15>>^ The idols of the nations are silver and gold,
+The work of human hands.
+
+[[v19-135-16]]
+
+^<<v19-135-16,16>>^ A mouth they have, but they cannot speak;
+Eyes, but they cannot see;
+
+[[v19-135-17]]
+
+^<<v19-135-17,17>>^ Ears they have, but they cannot hear.
+There is no breath in their mouth.
+
+[[v19-135-18]]
+
+^<<v19-135-18,18>>^ The people who make them will become just like them,
+As will all those who trust in them.
+
+[[v19-135-19]]
+
+^<<v19-135-19,19>>^ O house of Israel, praise Jehovah.
+O house of Aaron, praise Jehovah.
+
+[[v19-135-20]]
+
+^<<v19-135-20,20>>^ O house of Leʹvi, praise Jehovah.
+You who fear Jehovah, praise Jehovah.
+
+[[v19-135-21]]
+
+^<<v19-135-21,21>>^ May Jehovah be praised from Zion,
+The One residing in Jerusalem.
+Praise Jah!
+
+'''
+
+xref:019-psalm/019-psalm-134.adoc#v19-134-0[&#60; Capítulo Anterior] | <<v19-135-0,Topo>> | xref:019-psalm/019-psalm-136.adoc#v19-136-0[Próximo Capítulo &#62;]

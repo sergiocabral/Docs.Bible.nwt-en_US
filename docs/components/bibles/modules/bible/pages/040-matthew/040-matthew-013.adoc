@@ -1,0 +1,266 @@
+include::./index.adoc[]
+
+[[v40-13-0]]
+=== According to Matthew, 13
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v40-13-1]]
+
+^<<v40-13-1,1>>^ On that day Jesus left the house and was sitting by the sea.
+
+[[v40-13-2]]
+
+^<<v40-13-2,2>>^ And such large crowds gathered to him that he went aboard a boat and sat down, and all the crowd was standing on the beach.
+
+[[v40-13-3]]
+
+^<<v40-13-3,3>>^ Then he told them many things by illustrations, saying: “Look! A sower went out to sow.
+
+[[v40-13-4]]
+
+^<<v40-13-4,4>>^ As he was sowing, some seeds fell alongside the road, and the birds came and ate them up.
+
+[[v40-13-5]]
+
+^<<v40-13-5,5>>^ Others fell on rocky ground where there was not much soil, and they immediately sprang up because the soil was not deep.
+
+[[v40-13-6]]
+
+^<<v40-13-6,6>>^ But when the sun rose, they were scorched, and they withered because they had no root.
+
+[[v40-13-7]]
+
+^<<v40-13-7,7>>^ Others fell among the thorns, and the thorns came up and choked them.
+
+[[v40-13-8]]
+
+^<<v40-13-8,8>>^ Still others fell on the fine soil, and they began to yield fruit, this one 100 times more, that one 60, the other 30.
+
+[[v40-13-9]]
+
+^<<v40-13-9,9>>^ Let the one who has ears listen.”
+
+[[v40-13-10]]
+
+^<<v40-13-10,10>>^ So the disciples came and said to him: “Why do you speak to them by the use of illustrations?”
+
+[[v40-13-11]]
+
+^<<v40-13-11,11>>^ In reply he said: “To you it is granted to understand the sacred secrets of the Kingdom of the heavens, but to them it is not granted.
+
+[[v40-13-12]]
+
+^<<v40-13-12,12>>^ For whoever has, more will be given him, and he will be made to abound; but whoever does not have, even what he has will be taken from him.
+
+[[v40-13-13]]
+
+^<<v40-13-13,13>>^ That is why I speak to them by the use of illustrations; for looking, they look in vain, and hearing, they hear in vain, nor do they get the sense of it.
+
+[[v40-13-14]]
+
+^<<v40-13-14,14>>^ And the prophecy of Isaiah is being fulfilled in their case. It says: ‘You will indeed hear but by no means get the sense of it, and you will indeed look but by no means see.
+
+[[v40-13-15]]
+
+^<<v40-13-15,15>>^ For the heart of this people has grown unreceptive, and with their ears they have heard without response, and they have shut their eyes, so that they might never see with their eyes and hear with their ears and get the sense of it with their hearts and turn back and I heal them.’
+
+[[v40-13-16]]
+
+^<<v40-13-16,16>>^ “However, happy are your eyes because they see and your ears because they hear.
+
+[[v40-13-17]]
+
+^<<v40-13-17,17>>^ For truly I say to you, many prophets and righteous men desired to see the things you are observing but did not see them, and to hear the things you are hearing but did not hear them.
+
+[[v40-13-18]]
+
+^<<v40-13-18,18>>^ “Now listen to the illustration of the man who sowed.
+
+[[v40-13-19]]
+
+^<<v40-13-19,19>>^ Where anyone hears the word of the Kingdom but does not get the sense of it, the wicked one comes and snatches away what has been sown in his heart; this is the one sown alongside the road.
+
+[[v40-13-20]]
+
+^<<v40-13-20,20>>^ As for the one sown on rocky ground, this is the one hearing the word and at once accepting it with joy.
+
+[[v40-13-21]]
+
+^<<v40-13-21,21>>^ Yet, he has no root in himself but continues for a time, and after tribulation or persecution has arisen on account of the word, he is at once stumbled.
+
+[[v40-13-22]]
+
+^<<v40-13-22,22>>^ As for the one sown among the thorns, this is the one hearing the word, but the anxiety of this system of things^&#42;1^ and the deceptive power of riches choke the word, and it becomes unfruitful.
+
+[NOTE]
+====
+. Or “this age.” See Glossary.
+====
+
+[[v40-13-23]]
+
+^<<v40-13-23,23>>^ As for the one sown upon the fine soil, this is the one hearing the word and getting the sense of it, who really does bear fruit and produces, this one 100 times more, that one 60, the other 30.”
+
+[[v40-13-24]]
+
+^<<v40-13-24,24>>^ He presented another illustration to them, saying: “The Kingdom of the heavens may be likened to a man who sowed fine seed in his field.
+
+[[v40-13-25]]
+
+^<<v40-13-25,25>>^ While men were sleeping, his enemy came and oversowed weeds in among the wheat and left.
+
+[[v40-13-26]]
+
+^<<v40-13-26,26>>^ When the stalk sprouted and produced fruit, then the weeds also appeared.
+
+[[v40-13-27]]
+
+^<<v40-13-27,27>>^ So the slaves of the master of the house came and said to him, ‘Master, did you not sow fine seed in your field? How, then, does it have weeds?’
+
+[[v40-13-28]]
+
+^<<v40-13-28,28>>^ He said to them, ‘An enemy, a man, did this.’ The slaves said to him, ‘Do you want us, then, to go out and collect them?’
+
+[[v40-13-29]]
+
+^<<v40-13-29,29>>^ He said, ‘No, for fear that while collecting the weeds, you uproot the wheat with them.
+
+[[v40-13-30]]
+
+^<<v40-13-30,30>>^ Let both grow together until the harvest, and in the harvest season, I will tell the reapers: First collect the weeds and bind them in bundles to burn them up; then gather the wheat into my storehouse.’”
+
+[[v40-13-31]]
+
+^<<v40-13-31,31>>^ He presented another illustration to them, saying: “The Kingdom of the heavens is like a mustard grain that a man took and planted in his field.
+
+[[v40-13-32]]
+
+^<<v40-13-32,32>>^ It is, in fact, the tiniest of all the seeds, but when it has grown, it is the largest of the vegetable plants and becomes a tree, so that the birds of heaven come and find lodging among its branches.”
+
+[[v40-13-33]]
+
+^<<v40-13-33,33>>^ He told them another illustration: “The Kingdom of the heavens is like leaven that a woman took and mixed with three large measures of flour until the whole mass was fermented.”
+
+[[v40-13-34]]
+
+^<<v40-13-34,34>>^ All these things Jesus spoke to the crowds by illustrations. Indeed, without an illustration he would not speak to them,
+
+[[v40-13-35]]
+
+^<<v40-13-35,35>>^ in order to fulfill what was spoken through the prophet who said: “I will open my mouth with illustrations; I will proclaim things hidden since the founding.”^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “the founding of the world.”
+====
+
+[[v40-13-36]]
+
+^<<v40-13-36,36>>^ Then after dismissing the crowds, he went into the house. His disciples came to him and said: “Explain to us the illustration of the weeds in the field.”
+
+[[v40-13-37]]
+
+^<<v40-13-37,37>>^ In response he said: “The sower of the fine seed is the Son of man;
+
+[[v40-13-38]]
+
+^<<v40-13-38,38>>^ the field is the world. As for the fine seed, these are the sons of the Kingdom, but the weeds are the sons of the wicked one,
+
+[[v40-13-39]]
+
+^<<v40-13-39,39>>^ and the enemy who sowed them is the Devil. The harvest is a conclusion of a system of things,^&#42;1^ and the reapers are angels.
+
+[NOTE]
+====
+. Or “an age.” See Glossary.
+====
+
+[[v40-13-40]]
+
+^<<v40-13-40,40>>^ Therefore, just as the weeds are collected and burned with fire, so it will be in the conclusion of the system of things.^&#42;1^
+
+[NOTE]
+====
+. Or “the age.” See Glossary.
+====
+
+[[v40-13-41]]
+
+^<<v40-13-41,41>>^ The Son of man will send his angels, and they will collect out from his Kingdom all things that cause stumbling and people who practice lawlessness,
+
+[[v40-13-42]]
+
+^<<v40-13-42,42>>^ and they will pitch them into the fiery furnace. There is where their weeping and the gnashing of their teeth will be.
+
+[[v40-13-43]]
+
+^<<v40-13-43,43>>^ At that time the righteous ones will shine as brightly as the sun in the Kingdom of their Father. Let the one who has ears listen.
+
+[[v40-13-44]]
+
+^<<v40-13-44,44>>^ “The Kingdom of the heavens is like a treasure, hidden in the field, that a man found and hid; and because of his joy, he goes and sells everything he has and buys that field.
+
+[[v40-13-45]]
+
+^<<v40-13-45,45>>^ “Again the Kingdom of the heavens is like a traveling merchant seeking fine pearls.
+
+[[v40-13-46]]
+
+^<<v40-13-46,46>>^ Upon finding one pearl of high value, he went away and promptly sold all the things he had and bought it.
+
+[[v40-13-47]]
+
+^<<v40-13-47,47>>^ “Again the Kingdom of the heavens is like a dragnet let down into the sea and gathering fish of every kind.
+
+[[v40-13-48]]
+
+^<<v40-13-48,48>>^ When it was full, they hauled it up onto the beach, and sitting down, they collected the fine ones into containers, but the unsuitable they threw away.
+
+[[v40-13-49]]
+
+^<<v40-13-49,49>>^ That is how it will be in the conclusion of the system of things.^&#42;1^ The angels will go out and separate the wicked from among the righteous
+
+[NOTE]
+====
+. Or “the age.” See Glossary.
+====
+
+[[v40-13-50]]
+
+^<<v40-13-50,50>>^ and will cast them into the fiery furnace. There is where their weeping and the gnashing of their teeth will be.
+
+[[v40-13-51]]
+
+^<<v40-13-51,51>>^ “Did you get the sense of all these things?” They said to him: “Yes.”
+
+[[v40-13-52]]
+
+^<<v40-13-52,52>>^ Then he said to them: “That being the case, every public instructor who is taught about the Kingdom of the heavens is like a man, the master of the house, who brings out of his treasure store things both new and old.”
+
+[[v40-13-53]]
+
+^<<v40-13-53,53>>^ When Jesus had finished these illustrations, he departed from there.
+
+[[v40-13-54]]
+
+^<<v40-13-54,54>>^ After coming into his home territory, he began to teach them in their synagogue, so that they were astounded and said: “Where did this man get this wisdom and these powerful works?
+
+[[v40-13-55]]
+
+^<<v40-13-55,55>>^ Is this not the carpenter’s son? Is not his mother called Mary, and his brothers James and Joseph and Simon and Judas?
+
+[[v40-13-56]]
+
+^<<v40-13-56,56>>^ And his sisters, are they not all with us? Where, then, did he get all of this?”
+
+[[v40-13-57]]
+
+^<<v40-13-57,57>>^ So they began to stumble because of him. But Jesus said to them: “A prophet is not without honor except in his home territory and in his own house.”
+
+[[v40-13-58]]
+
+^<<v40-13-58,58>>^ And he did not perform many powerful works there on account of their lack of faith.
+
+'''
+
+xref:040-matthew/040-matthew-012.adoc#v40-12-0[&#60; Capítulo Anterior] | <<v40-13-0,Topo>> | xref:040-matthew/040-matthew-014.adoc#v40-14-0[Próximo Capítulo &#62;]

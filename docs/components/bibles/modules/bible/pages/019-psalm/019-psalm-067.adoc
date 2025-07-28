@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v19-67-0]]
+=== Psalm, 67
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; to be accompanied with stringed instruments. A melody. A song._
+
+[[v19-67-1]]
+
+^<<v19-67-1,1>>^ God will show us favor and bless us;
+He will make his face shine upon us (Selah)
+
+[[v19-67-2]]
+
+^<<v19-67-2,2>>^ So that your way may be known throughout the earth,
+Your acts of salvation among all the nations.
+
+[[v19-67-3]]
+
+^<<v19-67-3,3>>^ Let peoples praise you, O God;
+Let all the peoples praise you.
+
+[[v19-67-4]]
+
+^<<v19-67-4,4>>^ Let nations rejoice and shout joyfully,
+For you will judge the peoples fairly.
+You will guide the nations of the earth. (Selah)
+
+[[v19-67-5]]
+
+^<<v19-67-5,5>>^ Let peoples praise you, O God;
+Let all the peoples praise you.
+
+[[v19-67-6]]
+
+^<<v19-67-6,6>>^ The earth will give its produce;
+God, our God, will bless us.
+
+[[v19-67-7]]
+
+^<<v19-67-7,7>>^ God will bless us,
+And all the ends of the earth will fear^&#42;1^ him.
+
+[NOTE]
+====
+. Or “honor.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-066.adoc#v19-66-0[&#60; Capítulo Anterior] | <<v19-67-0,Topo>> | xref:019-psalm/019-psalm-068.adoc#v19-68-0[Próximo Capítulo &#62;]

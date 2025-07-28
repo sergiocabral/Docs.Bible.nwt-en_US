@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v15-5-0]]
+=== Ezra, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v15-5-1]]
+
+^<<v15-5-1,1>>^ Then the prophets Hagʹgai and Zech·a·riʹah the grandson of Idʹdo prophesied to the Jews who were in Judah and in Jerusalem, in the name of the God of Israel who was over them.
+
+[[v15-5-2]]
+
+^<<v15-5-2,2>>^ It was then that Ze·rubʹba·bel the son of She·alʹti·el and Jeshʹu·a the son of Je·hozʹa·dak started to rebuild the house of God, which was in Jerusalem; and the prophets of God were with them and supported them.
+
+[[v15-5-3]]
+
+^<<v15-5-3,3>>^ At that time Tatʹte·nai the governor of the region Beyond the River^&#42;1^ and Sheʹthar-bozʹe·nai and their colleagues came to them and asked them: “Who issued an order to you to build this house and to finish this structure?”^&#42;2^
+
+[NOTE]
+====
+. Or “of Trans-Euphrates.”
+. Or “these beams.”
+====
+
+[[v15-5-4]]
+
+^<<v15-5-4,4>>^ Then they asked them: “What are the names of the men who are working on this building?”
+
+[[v15-5-5]]
+
+^<<v15-5-5,5>>^ But God was watching over^&#42;1^ the elders of the Jews, and they did not stop them until the report could be sent to Da·riʹus and an official document could be sent back concerning this.
+
+[NOTE]
+====
+. Lit., “the eye of their God was on.”
+====
+
+[[v15-5-6]]
+
+^<<v15-5-6,6>>^ Here is a copy of the letter that Tatʹte·nai the governor of the region Beyond the River and Sheʹthar-bozʹe·nai and his colleagues, the lesser governors of the region Beyond the River, sent to King Da·riʹus;
+
+[[v15-5-7]]
+
+^<<v15-5-7,7>>^ they sent the report to him, and this is what they wrote:
+“To King Da·riʹus:
+“All peace!
+
+[[v15-5-8]]
+
+^<<v15-5-8,8>>^ Let it be known to the king that we went to the province^&#42;1^ of Judah to the house of the great God, and it is being built with large stones rolled into place, and timbers are being laid in the walls. The work is being eagerly done by the people and is making progress through their efforts.
+
+[NOTE]
+====
+. Or “jurisdictional district.”
+====
+
+[[v15-5-9]]
+
+^<<v15-5-9,9>>^ Then we questioned their elders, asking them: ‘Who issued an order to you to build this house and to finish this structure?’^&#42;1^
+
+[NOTE]
+====
+. Or “these beams.”
+====
+
+[[v15-5-10]]
+
+^<<v15-5-10,10>>^ We also asked them their names to inform you, so that we could write the names of the men who are taking the lead.
+
+[[v15-5-11]]
+
+^<<v15-5-11,11>>^ “This is the response they gave us: ‘We are the servants of the God of the heavens and the earth, and we are rebuilding the house that was built many years ago, which a great king of Israel built and finished.
+
+[[v15-5-12]]
+
+^<<v15-5-12,12>>^ However, because our fathers angered the God of the heavens, he gave them into the hand of King Neb·u·chad·nezʹzar of Babylon, the Chal·deʹan, who demolished this house and took the people into exile to Babylon.
+
+[[v15-5-13]]
+
+^<<v15-5-13,13>>^ Nevertheless, in the first year of King Cyrus of Babylon, King Cyrus issued an order to rebuild this house of God.
+
+[[v15-5-14]]
+
+^<<v15-5-14,14>>^ Moreover, King Cyrus took out of the temple of Babylon the gold and silver vessels of the house of God that Neb·u·chad·nezʹzar had taken from the temple in Jerusalem and had brought to the temple of Babylon. They were given to a man named Shesh·bazʹzar,^&#42;1^ whom Cyrus made governor.
+
+[NOTE]
+====
+. Possibly Zerubbabel at Ezr 2:2; 3:8.
+====
+
+[[v15-5-15]]
+
+^<<v15-5-15,15>>^ Cyrus said to him: “Take these vessels. Go, deposit them in the temple that is in Jerusalem, and let the house of God be rebuilt in its former place.”
+
+[[v15-5-16]]
+
+^<<v15-5-16,16>>^ Then this Shesh·bazʹzar came, and he laid the foundations of the house of God, which is in Jerusalem; and it has been under construction from then until now, but it has not been completed.’
+
+[[v15-5-17]]
+
+^<<v15-5-17,17>>^ “Now if it seems good to the king, let an investigation be made in the royal treasury there in Babylon, to determine whether King Cyrus issued an order to rebuild that house of God in Jerusalem; and let the decision of the king concerning this be sent to us.”
+
+'''
+
+xref:015-ezra/015-ezra-004.adoc#v15-4-0[&#60; Capítulo Anterior] | <<v15-5-0,Topo>> | xref:015-ezra/015-ezra-006.adoc#v15-6-0[Próximo Capítulo &#62;]

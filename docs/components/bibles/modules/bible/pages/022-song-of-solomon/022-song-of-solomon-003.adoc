@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== The Song of Solomon, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ “Upon my bed during the nights,
+I sought the one I love.^&#42;1^
+I sought him, but I did not find him.
+
+[NOTE]
+====
+. Or “my soul loves.”
+====
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ I will arise and roam the city;
+In the streets and in the public squares,
+Let me seek the one I love.^&#42;1^
+I sought him, but I did not find him.
+
+[NOTE]
+====
+. Or “my soul loves.”
+====
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ The watchmen making their rounds in the city found me.
+‘Have you seen the one I love?’^&#42;1^
+
+[NOTE]
+====
+. Or “my soul loves.”
+====
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ Scarcely had I passed by them
+When I found the one I love.^&#42;1^
+I held on to him, I would not let him go
+Until I brought him into my mother’s house,
+Into the interior room of her who conceived me.
+
+[NOTE]
+====
+. Or “my soul loves.”
+====
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ I put you under oath, O daughters of Jerusalem,
+By the gazelles and the does of the field:
+Do not try to awaken or arouse love in me until it feels inclined.”
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ “What is this coming up from the wilderness like columns of smoke,
+Perfumed with myrrh and frankincense,
+With all the fragrant powders of a merchant?”
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ “Look! It is the couch belonging to Solʹo·mon.
+Sixty mighty men surround it,
+Of the mighty men of Israel,
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ All of them armed with a sword,
+All trained in warfare,
+Each with his sword at his side
+To guard against the terrors of the night.”
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ “It is the royal litter^&#42;1^ of King Solʹo·mon
+That he made for himself from the trees of Lebʹa·non.
+
+[NOTE]
+====
+. A covered couch used to carry a person of importance.
+====
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ Its pillars he made of silver,
+Its supports of gold.
+Its seat is of purple wool;
+Its interior was lovingly decorated
+By the daughters of Jerusalem.”
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ “Go out, O daughters of Zion,
+Gaze at King Solʹo·mon
+Wearing the wedding crown^&#42;1^ his mother made for him
+On the day of his marriage,
+On the day of his heart’s rejoicing.”
+
+[NOTE]
+====
+. Or “the wreath; the garland.”
+====
+
+'''
+
+xref:022-song-of-solomon/022-song-of-solomon-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-song-of-solomon/022-song-of-solomon-004.adoc#v22-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,260 @@
+include::./index.adoc[]
+
+[[v20-24-0]]
+=== Proverbs, 24
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-24-1]]
+
+^<<v20-24-1,1>>^ Do not envy evil men,
+And do not crave their company,
+
+[[v20-24-2]]
+
+^<<v20-24-2,2>>^ For their heart meditates on violence,
+And their lips speak of trouble.
+
+[[v20-24-3]]
+
+^<<v20-24-3,3>>^ By wisdom a house^&#42;1^ is built up,
+And by discernment it is made secure.
+
+[NOTE]
+====
+. Or “household.”
+====
+
+[[v20-24-4]]
+
+^<<v20-24-4,4>>^ By knowledge its rooms are filled
+With all sorts of precious and pleasant treasures.
+
+[[v20-24-5]]
+
+^<<v20-24-5,5>>^ A wise man is powerful,
+And with knowledge a man increases his power.
+
+[[v20-24-6]]
+
+^<<v20-24-6,6>>^ By skillful direction^&#42;1^ you will wage your war,
+And through many advisers^&#42;2^ there is victory.^&#42;3^
+
+[NOTE]
+====
+. Or “wise guidance.”
+. Or “counselors.”
+. Or “success; salvation.”
+====
+
+[[v20-24-7]]
+
+^<<v20-24-7,7>>^ True wisdom is unattainable for a fool;
+He has nothing to say in the city gate.
+
+[[v20-24-8]]
+
+^<<v20-24-8,8>>^ Anyone who plots evil
+Will be called a master schemer.
+
+[[v20-24-9]]
+
+^<<v20-24-9,9>>^ Foolish schemes^&#42;1^ are sinful,
+And people detest a ridiculer.
+
+[NOTE]
+====
+. Or “The schemes of a fool.”
+====
+
+[[v20-24-10]]
+
+^<<v20-24-10,10>>^ If you become discouraged in the day of distress,^&#42;1^
+Your strength will be meager.
+
+[NOTE]
+====
+. Or “in times of trouble.”
+====
+
+[[v20-24-11]]
+
+^<<v20-24-11,11>>^ Rescue those who are being taken away to death,
+And hold back those staggering to the slaughter.
+
+[[v20-24-12]]
+
+^<<v20-24-12,12>>^ If you say, “But we did not know about this,”
+Does not the One who examines hearts^&#42;1^ discern it?
+Yes, the One who watches you^&#42;2^ will know
+And will repay each man according to his activity.
+
+[NOTE]
+====
+. Or “motives.”
+. Or “your soul.”
+====
+
+[[v20-24-13]]
+
+^<<v20-24-13,13>>^ My son, eat honey, because it is good;
+Honey from the comb is sweet to the taste.
+
+[[v20-24-14]]
+
+^<<v20-24-14,14>>^ Likewise, know that wisdom is good for you.^&#42;1^
+If you find it, you will have a future
+And your hope will not be cut off.
+
+[NOTE]
+====
+. Or “is sweet to your soul.”
+====
+
+[[v20-24-15]]
+
+^<<v20-24-15,15>>^ Do not wickedly lie in ambush near the home of the righteous one;
+Do not destroy his place of rest.
+
+[[v20-24-16]]
+
+^<<v20-24-16,16>>^ For the righteous one may fall seven times, and he will get up again,
+But the wicked will be made to stumble by calamity.
+
+[[v20-24-17]]
+
+^<<v20-24-17,17>>^ When your enemy falls, do not rejoice,
+And when he stumbles, do not let your heart be joyful;
+
+[[v20-24-18]]
+
+^<<v20-24-18,18>>^ Otherwise, Jehovah will see and be displeased,
+And He will turn away his anger from him.^&#42;1^
+
+[NOTE]
+====
+. That is, the enemy.
+====
+
+[[v20-24-19]]
+
+^<<v20-24-19,19>>^ Do not be upset^&#42;1^ because of evil men;
+Do not envy wicked people,
+
+[NOTE]
+====
+. Or “show yourself heated up.”
+====
+
+[[v20-24-20]]
+
+^<<v20-24-20,20>>^ For there is no future for anyone evil;
+The lamp of the wicked will be extinguished.
+
+[[v20-24-21]]
+
+^<<v20-24-21,21>>^ My son, fear Jehovah and the king.
+And do not associate with dissenters,^&#42;1^
+
+[NOTE]
+====
+. Or “those who are for a change.”
+====
+
+[[v20-24-22]]
+
+^<<v20-24-22,22>>^ For their disaster will arise suddenly.
+Who knows what ruin both^&#42;1^ will bring upon them?
+
+[NOTE]
+====
+. That is, Jehovah and the king.
+====
+
+[[v20-24-23]]
+
+^<<v20-24-23,23>>^ These sayings also belong to the wise:
+Partiality in judgment is not good.
+
+[[v20-24-24]]
+
+^<<v20-24-24,24>>^ Whoever says to the wicked one, “You are righteous,”
+Will be cursed by the peoples and denounced by the nations.
+
+[[v20-24-25]]
+
+^<<v20-24-25,25>>^ But it will go well for those reproving him;
+Blessings of good things will come upon them.
+
+[[v20-24-26]]
+
+^<<v20-24-26,26>>^ People will kiss the lips of the one replying honestly.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “Replying in a straight­forward way is like giving a kiss.”
+====
+
+[[v20-24-27]]
+
+^<<v20-24-27,27>>^ Prepare your outside work, and get everything ready in the field;
+Then build your house.^&#42;1^
+
+[NOTE]
+====
+. Or “household.”
+====
+
+[[v20-24-28]]
+
+^<<v20-24-28,28>>^ Do not testify against your neighbor without grounds.
+Do not use your lips to deceive others.
+
+[[v20-24-29]]
+
+^<<v20-24-29,29>>^ Do not say: “I will do to him just as he has done to me;
+I will repay him for what he did.”^&#42;1^
+
+[NOTE]
+====
+. Or “I will get even with him.”
+====
+
+[[v20-24-30]]
+
+^<<v20-24-30,30>>^ I passed by the field of the lazy one,
+By the vineyard of the man lacking good sense.^&#42;1^
+
+[NOTE]
+====
+. Lit., “in want of heart.”
+====
+
+[[v20-24-31]]
+
+^<<v20-24-31,31>>^ I saw that it was overgrown with weeds;
+The ground was covered with nettles,
+And its stone wall was broken down.
+
+[[v20-24-32]]
+
+^<<v20-24-32,32>>^ I observed this and took it to heart;
+I saw it and learned this lesson:^&#42;1^
+
+[NOTE]
+====
+. Lit., “I took the discipline:”
+====
+
+[[v20-24-33]]
+
+^<<v20-24-33,33>>^ A little sleep, a little slumbering,
+A little folding of the hands to rest,
+
+[[v20-24-34]]
+
+^<<v20-24-34,34>>^ And your poverty will come like a bandit,
+And your want like an armed man.
+
+'''
+
+xref:020-proverbs/020-proverbs-023.adoc#v20-23-0[&#60; Capítulo Anterior] | <<v20-24-0,Topo>> | xref:020-proverbs/020-proverbs-025.adoc#v20-25-0[Próximo Capítulo &#62;]

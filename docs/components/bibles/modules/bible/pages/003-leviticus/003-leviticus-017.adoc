@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v3-17-0]]
+=== Leviticus, 17
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v3-17-1]]
+
+^<<v3-17-1,1>>^ Jehovah went on to say to Moses:
+
+[[v3-17-2]]
+
+^<<v3-17-2,2>>^ “Speak to Aaron and his sons and all the Israelites and say to them, ‘This is what Jehovah has commanded:
+
+[[v3-17-3]]
+
+^<<v3-17-3,3>>^ “‘“If any man of the house of Israel slaughters a bull or a young ram or a goat in the camp or if he slaughters it outside the camp,
+
+[[v3-17-4]]
+
+^<<v3-17-4,4>>^ instead of bringing it to the entrance of the tent of meeting to present it as an offering to Jehovah before the tabernacle of Jehovah, bloodguilt will be counted to that man. He has shed blood, and that man must be cut off^&#42;1^ from among his people.
+
+[NOTE]
+====
+. Or “put to death.”
+====
+
+[[v3-17-5]]
+
+^<<v3-17-5,5>>^ This is so that the Israelites will bring the sacrifices, which they now sacrifice in the open field, to Jehovah, to the entrance of the tent of meeting, to the priest. They are to sacrifice these as communion sacrifices to Jehovah.
+
+[[v3-17-6]]
+
+^<<v3-17-6,6>>^ And the priest will sprinkle the blood on Jehovah’s altar at the entrance of the tent of meeting and make the fat smoke as a pleasing^&#42;1^ aroma to Jehovah.
+
+[NOTE]
+====
+. Or “appeasing; soothing.” Lit., “restful.”
+====
+
+[[v3-17-7]]
+
+^<<v3-17-7,7>>^ So they should no longer offer sacrifices to the goatlike demons,^&#42;1^ with which they are prostituting themselves. This will serve as a lasting statute for you throughout your generations.”’
+
+[NOTE]
+====
+. Lit., “the goats.”
+====
+
+[[v3-17-8]]
+
+^<<v3-17-8,8>>^ “You should say to them, ‘Any man of the house of Israel or any foreigner who is residing in your midst who offers up a burnt offering or a sacrifice
+
+[[v3-17-9]]
+
+^<<v3-17-9,9>>^ and does not bring it to the entrance of the tent of meeting to offer it to Jehovah must be cut off^&#42;1^ from his people.
+
+[NOTE]
+====
+. Or “put to death.”
+====
+
+[[v3-17-10]]
+
+^<<v3-17-10,10>>^ “‘If any man of the house of Israel or any foreigner who is residing in your midst eats any sort of blood, I will certainly set my face against the one^&#42;1^ who is eating the blood, and I will cut him off^&#42;2^ from among his people.
+
+[NOTE]
+====
+. Or “soul.”
+. Or “put him to death.”
+====
+
+[[v3-17-11]]
+
+^<<v3-17-11,11>>^ For the life^&#42;1^ of the flesh is in the blood, and I myself have given it on the altar for you to make atonement for yourselves,^&#42;2^ because it is the blood that makes atonement by means of the life^&#42;3^ in it.
+
+[NOTE]
+====
+. Or “soul.”
+. Or “your souls.”
+. Or “soul.”
+====
+
+[[v3-17-12]]
+
+^<<v3-17-12,12>>^ That is why I have said to the Israelites: “None^&#42;1^ of you should eat blood, and no foreigner who is residing in your midst should eat blood.”
+
+[NOTE]
+====
+. Or “No soul.”
+====
+
+[[v3-17-13]]
+
+^<<v3-17-13,13>>^ “‘If one of the Israelites or some foreigner who is residing in your midst is hunting and catches a wild animal or a bird that may be eaten, he must pour its blood out and cover it with dust.
+
+[[v3-17-14]]
+
+^<<v3-17-14,14>>^ For the life^&#42;1^ of every sort of flesh is its blood, because the life^&#42;2^ is in it. Consequently, I said to the Israelites: “You must not eat the blood of any sort of flesh because the life^&#42;3^ of every sort of flesh is its blood. Anyone eating it will be cut off.”^&#42;4^
+
+[NOTE]
+====
+. Or “soul.”
+. Or “soul.”
+. Or “soul.”
+. Or “put to death.”
+====
+
+[[v3-17-15]]
+
+^<<v3-17-15,15>>^ If anyone,^&#42;1^ whether a native or a foreigner, eats an animal found dead or one torn by a wild animal, he must then wash his garments and bathe in water and be unclean until the evening; then he will be clean.
+
+[NOTE]
+====
+. Or “any soul.”
+====
+
+[[v3-17-16]]
+
+^<<v3-17-16,16>>^ But if he does not wash them and does not bathe himself,^&#42;1^ he will answer for his error.’”
+
+[NOTE]
+====
+. Lit., “his flesh.”
+====
+
+'''
+
+xref:003-leviticus/003-leviticus-016.adoc#v3-16-0[&#60; Capítulo Anterior] | <<v3-17-0,Topo>> | xref:003-leviticus/003-leviticus-018.adoc#v3-18-0[Próximo Capítulo &#62;]

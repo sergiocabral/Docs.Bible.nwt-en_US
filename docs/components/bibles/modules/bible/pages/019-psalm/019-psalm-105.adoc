@@ -1,0 +1,287 @@
+include::./index.adoc[]
+
+[[v19-105-0]]
+=== Psalm, 105
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-105-1]]
+
+^<<v19-105-1,1>>^ Give thanks to Jehovah, call on his name,
+Make his deeds known among the peoples!
+
+[[v19-105-2]]
+
+^<<v19-105-2,2>>^ Sing to him, sing praises^&#42;1^ to him,
+Ponder over^&#42;2^ all his wonderful works.
+
+[NOTE]
+====
+. Or “make music.”
+. Or possibly, “Speak about.”
+====
+
+[[v19-105-3]]
+
+^<<v19-105-3,3>>^ Boast about his holy name.
+Let the hearts of those seeking Jehovah rejoice.
+
+[[v19-105-4]]
+
+^<<v19-105-4,4>>^ Search for Jehovah and his strength.
+Seek his face^&#42;1^ constantly.
+
+[NOTE]
+====
+. Or “presence.”
+====
+
+[[v19-105-5]]
+
+^<<v19-105-5,5>>^ Remember the wonderful works he has performed,
+His miracles and the judgments he has pronounced,
+
+[[v19-105-6]]
+
+^<<v19-105-6,6>>^ You offspring^&#42;1^ of Abraham his servant,
+You sons of Jacob, his chosen ones.
+
+[NOTE]
+====
+. Or “descendants.” Lit., “seed.”
+====
+
+[[v19-105-7]]
+
+^<<v19-105-7,7>>^ He is Jehovah our God.
+His judgments are throughout the earth.
+
+[[v19-105-8]]
+
+^<<v19-105-8,8>>^ He remembers his covenant forever,
+The promise he made,^&#42;1^ to a thousand generations,
+
+[NOTE]
+====
+. Lit., “The word he commanded.”
+====
+
+[[v19-105-9]]
+
+^<<v19-105-9,9>>^ The covenant he made with Abraham,
+And the oath he swore to Isaac,
+
+[[v19-105-10]]
+
+^<<v19-105-10,10>>^ Which he established as a decree to Jacob
+And as a lasting covenant to Israel,
+
+[[v19-105-11]]
+
+^<<v19-105-11,11>>^ Saying, “I will give you the land of Caʹnaan
+As your allotted inheritance.”
+
+[[v19-105-12]]
+
+^<<v19-105-12,12>>^ This was when they were few in number,
+Yes, very few, and they were foreigners in the land.
+
+[[v19-105-13]]
+
+^<<v19-105-13,13>>^ They walked about from nation to nation,
+From one kingdom to another people.
+
+[[v19-105-14]]
+
+^<<v19-105-14,14>>^ He did not allow any man to oppress them,
+But on their account he reproved kings,
+
+[[v19-105-15]]
+
+^<<v19-105-15,15>>^ Saying, “Do not touch my anointed ones,
+And to my prophets do nothing bad.”
+
+[[v19-105-16]]
+
+^<<v19-105-16,16>>^ He called down a famine on the land;
+He cut off their supply of bread.^&#42;1^
+
+[NOTE]
+====
+. Lit., “broke every bread rod.” Possibly referring to rods used for storing bread.
+====
+
+[[v19-105-17]]
+
+^<<v19-105-17,17>>^ He sent ahead of them a man
+Who was sold to be a slave, Joseph.
+
+[[v19-105-18]]
+
+^<<v19-105-18,18>>^ With fetters they bound^&#42;1^ his feet,
+His neck was put in irons;^&#42;2^
+
+[NOTE]
+====
+. Lit., “afflicted.”
+. Or “His soul came into iron.”
+====
+
+[[v19-105-19]]
+
+^<<v19-105-19,19>>^ Until the time that his word proved true,
+The saying of Jehovah is what refined him.
+
+[[v19-105-20]]
+
+^<<v19-105-20,20>>^ The king sent to release him,
+The ruler of the peoples set him free.
+
+[[v19-105-21]]
+
+^<<v19-105-21,21>>^ He made him master of his household,
+Ruler over all his property,
+
+[[v19-105-22]]
+
+^<<v19-105-22,22>>^ To have authority over^&#42;1^ his princes as he pleased^&#42;2^
+And to teach his elders wisdom.
+
+[NOTE]
+====
+. Lit., “To bind.”
+. Or “agreeably to his soul.”
+====
+
+[[v19-105-23]]
+
+^<<v19-105-23,23>>^ Then Israel came into Egypt,
+And Jacob lived as a foreigner in the land of Ham.
+
+[[v19-105-24]]
+
+^<<v19-105-24,24>>^ God made his people very fruitful;
+He made them mightier than their adversaries,
+
+[[v19-105-25]]
+
+^<<v19-105-25,25>>^ Whose hearts he let change to hate his people,
+To plot against his servants.
+
+[[v19-105-26]]
+
+^<<v19-105-26,26>>^ He sent his servant Moses,
+And Aaron, whom he had chosen.
+
+[[v19-105-27]]
+
+^<<v19-105-27,27>>^ They performed his signs among them,
+His miracles in the land of Ham.
+
+[[v19-105-28]]
+
+^<<v19-105-28,28>>^ He sent darkness and the land became dark;
+They did not rebel against his words.
+
+[[v19-105-29]]
+
+^<<v19-105-29,29>>^ He changed their waters into blood
+And killed their fish.
+
+[[v19-105-30]]
+
+^<<v19-105-30,30>>^ Their land swarmed with frogs,
+Even in the royal chambers.
+
+[[v19-105-31]]
+
+^<<v19-105-31,31>>^ He ordered the gadflies to invade
+And gnats in all their territories.
+
+[[v19-105-32]]
+
+^<<v19-105-32,32>>^ He turned their rain to hail
+And sent lightning^&#42;1^ on their land.
+
+[NOTE]
+====
+. Or “flames of fire.”
+====
+
+[[v19-105-33]]
+
+^<<v19-105-33,33>>^ He struck their vines and their fig trees
+And shattered the trees of their territory.
+
+[[v19-105-34]]
+
+^<<v19-105-34,34>>^ He said that the locusts should invade,
+Young locusts without number.
+
+[[v19-105-35]]
+
+^<<v19-105-35,35>>^ They devoured all the vegetation in the land,
+And they devoured the produce of the ground.
+
+[[v19-105-36]]
+
+^<<v19-105-36,36>>^ Then he struck down every firstborn in their land,
+The beginning of their procreative power.
+
+[[v19-105-37]]
+
+^<<v19-105-37,37>>^ He brought his people out with silver and gold;
+And no one among his tribes stumbled.
+
+[[v19-105-38]]
+
+^<<v19-105-38,38>>^ Egypt rejoiced when they left,
+For the dread of Israel^&#42;1^ had fallen on them.
+
+[NOTE]
+====
+. Lit., “them.”
+====
+
+[[v19-105-39]]
+
+^<<v19-105-39,39>>^ He spread a cloud to screen them off
+And fire to give light by night.
+
+[[v19-105-40]]
+
+^<<v19-105-40,40>>^ They asked, and he brought quail;
+He kept satisfying them with bread from heaven.
+
+[[v19-105-41]]
+
+^<<v19-105-41,41>>^ He opened a rock, and waters flowed out;
+These flowed through the desert like a river.
+
+[[v19-105-42]]
+
+^<<v19-105-42,42>>^ For he remembered the holy promise he had made to Abraham his servant.
+
+[[v19-105-43]]
+
+^<<v19-105-43,43>>^ So he brought out his people with exultation,
+His chosen ones with a joyful cry.
+
+[[v19-105-44]]
+
+^<<v19-105-44,44>>^ He gave them the lands of nations;
+They inherited what other peoples had worked hard to produce,
+
+[[v19-105-45]]
+
+^<<v19-105-45,45>>^ So that they would keep his decrees
+And observe his laws.
+Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-104.adoc#v19-104-0[&#60; Capítulo Anterior] | <<v19-105-0,Topo>> | xref:019-psalm/019-psalm-106.adoc#v19-106-0[Próximo Capítulo &#62;]

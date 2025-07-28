@@ -1,0 +1,186 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Proverbs, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ My son, keep my sayings,
+And treasure up my commandments.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Keep my commandments and live;
+Guard my instruction^&#42;1^ like the pupil of your eye.
+
+[NOTE]
+====
+. Or “law.”
+====
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Tie them around your fingers;
+Write them on the tablet of your heart.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Say to wisdom, “You are my sister,”
+And call understanding “my relative,”
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ To guard you against the wayward^&#42;1^ woman,
+Against the immoral^&#42;2^ woman and her smooth^&#42;3^ words.
+
+[NOTE]
+====
+. Lit., “strange.” See Pr 2:16.
+. Lit., “foreign.” See Pr 2:16.
+. Or “seductive.”
+====
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ From the window of my house,
+Through my lattice, I looked down,
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ And as I observed the naive^&#42;1^ ones,
+I discerned among the youths a young man lacking good sense.^&#42;2^
+
+[NOTE]
+====
+. Or “inexperienced.”
+. Lit., “in want of heart.”
+====
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ He passed along the street near her corner,
+And he marched in the direction of her house
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ In the twilight, in the evening,
+At the approach of night and darkness.
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ Then I saw a woman meet him,
+Dressed like^&#42;1^ a prostitute, with a cunning heart.
+
+[NOTE]
+====
+. Or “with the garment of.”
+====
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ She is loud and defiant.
+She never stays^&#42;1^ at home.
+
+[NOTE]
+====
+. Lit., “Her feet never stay.”
+====
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ One moment she is outside, next she is in the public squares,
+She lurks near every corner.
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ She grabs hold of him and gives him a kiss;
+With a bold face, she says to him:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ “I had to offer communion sacrifices.
+Today I paid my vows.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ That is why I came out to meet you,
+To look for you, and I found you!
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ I have spread fine covers upon my bed,
+Colorful linen from Egypt.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ I have sprinkled my bed with myrrh, aloes, and cinnamon.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Come, let us drink our fill of love until the morning;
+Let us enjoy passionate love together,
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ For my husband is not at home;
+He has gone on a distant journey.
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ He took a bag of money with him,
+And he will not return until the day of the full moon.”
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ She misleads him with great persuasiveness.
+She seduces him with smooth speech.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ Suddenly he goes after her, like a bull to the slaughter,
+Like a fool to be punished in the stocks,^&#42;1^
+
+[NOTE]
+====
+. Or “fetters.”
+====
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ Until an arrow pierces his liver;
+Like a bird rushing into a trap, he does not know that it will cost him his life.^&#42;1^
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ And now, my sons, listen to me;
+Pay attention to the words I speak.
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ Do not let your heart turn aside to her ways.
+Do not stray onto her paths,
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ For she has caused many to fall down slain,
+And those she has killed are numerous.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ Her house leads to the Grave;^&#42;1^
+It goes down to the inner chambers of death.
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbs/020-proverbs-008.adoc#v20-8-0[Próximo Capítulo &#62;]

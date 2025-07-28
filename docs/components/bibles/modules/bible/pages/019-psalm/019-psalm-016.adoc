@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v19-16-0]]
+=== Psalm, 16
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A mikʹtam^&#42;1^ of David._
+
+[[v19-16-1]]
+
+^<<v19-16-1,1>>^ Protect me, O God, for I have taken refuge in you.
+
+[[v19-16-2]]
+
+^<<v19-16-2,2>>^ I have said to Jehovah: “You are Jehovah, my Source of goodness.
+
+[[v19-16-3]]
+
+^<<v19-16-3,3>>^ And the holy ones in the earth,
+The majestic ones, bring me great delight.”
+
+[[v19-16-4]]
+
+^<<v19-16-4,4>>^ Those who pursue other gods multiply their sorrows.
+I will never pour out their drink offerings of blood,
+Nor will my lips mention their names.
+
+[[v19-16-5]]
+
+^<<v19-16-5,5>>^ Jehovah is my portion, my allotted share, and my cup.
+You safeguard my inheritance.
+
+[[v19-16-6]]
+
+^<<v19-16-6,6>>^ Pleasant places have been measured out to me.
+Yes, I am content with my inheritance.
+
+[[v19-16-7]]
+
+^<<v19-16-7,7>>^ I will praise Jehovah, who has given me advice.
+Even during the night, my innermost thoughts^&#42;1^ correct me.
+
+[NOTE]
+====
+. Or “my deepest emotions.” Lit., “my kidneys.”
+====
+
+[[v19-16-8]]
+
+^<<v19-16-8,8>>^ I keep Jehovah before me constantly.
+Because he is at my right hand, I will never be shaken.^&#42;1^
+
+[NOTE]
+====
+. Or “will never stagger (totter).”
+====
+
+[[v19-16-9]]
+
+^<<v19-16-9,9>>^ So my heart rejoices, my whole being^&#42;1^ is joyful.
+And I reside^&#42;2^ in security.
+
+[NOTE]
+====
+. Lit., “my glory.”
+. Or “my flesh resides.”
+====
+
+[[v19-16-10]]
+
+^<<v19-16-10,10>>^ For you will not leave me in^&#42;1^ the Grave.^&#42;2^
+You will not allow your loyal one to see the pit.^&#42;3^
+
+[NOTE]
+====
+. Or “abandon my soul to.”
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+. Or possibly, “to see corruption.”
+====
+
+[[v19-16-11]]
+
+^<<v19-16-11,11>>^ You make known to me the path of life.
+In your presence^&#42;1^ is abundant joy;
+There is happiness^&#42;2^ at your right hand forever.
+
+[NOTE]
+====
+. Lit., “With your face.”
+. Or “pleasantness.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-015.adoc#v19-15-0[&#60; Capítulo Anterior] | <<v19-16-0,Topo>> | xref:019-psalm/019-psalm-017.adoc#v19-17-0[Próximo Capítulo &#62;]

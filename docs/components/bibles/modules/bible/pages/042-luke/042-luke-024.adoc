@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v42-24-0]]
+=== According to Luke, 24
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v42-24-1]]
+
+^<<v42-24-1,1>>^ But on the first day of the week, they came very early to the tomb,^&#42;1^ bringing the spices they had prepared.
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v42-24-2]]
+
+^<<v42-24-2,2>>^ But they found the stone rolled away from the tomb,^&#42;1^
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v42-24-3]]
+
+^<<v42-24-3,3>>^ and when they entered, they did not find the body of the Lord Jesus.
+
+[[v42-24-4]]
+
+^<<v42-24-4,4>>^ While they were perplexed about this, look! two men in shining garments stood by them.
+
+[[v42-24-5]]
+
+^<<v42-24-5,5>>^ The women became frightened and kept their faces turned toward the ground, so the men said to them: “Why are you looking for the living one among the dead?
+
+[[v42-24-6]]
+
+^<<v42-24-6,6>>^ He is not here, but has been raised up. Recall how he spoke to you while he was yet in Galʹi·lee,
+
+[[v42-24-7]]
+
+^<<v42-24-7,7>>^ saying that the Son of man must be handed over to sinful men and be executed on the stake and on the third day rise.”
+
+[[v42-24-8]]
+
+^<<v42-24-8,8>>^ Then they remembered his words,
+
+[[v42-24-9]]
+
+^<<v42-24-9,9>>^ and they returned from the tomb^&#42;1^ and reported all these things to the Eleven and to all the rest.
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v42-24-10]]
+
+^<<v42-24-10,10>>^ They were Mary Magʹda·lene, Jo·anʹna, and Mary the mother of James. Also, the rest of the women with them were telling these things to the apostles.
+
+[[v42-24-11]]
+
+^<<v42-24-11,11>>^ However, these sayings seemed like nonsense to them, and they would not believe the women.
+
+[[v42-24-12]]
+
+^<<v42-24-12,12>>^ But Peter got up and ran to the tomb,^&#42;1^ and stooping forward, he saw only the linen cloths. So he went off, wondering to himself what had occurred.
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v42-24-13]]
+
+^<<v42-24-13,13>>^ But look! on that very day, two of them were traveling to a village named Em·maʹus, about seven miles^&#42;1^ from Jerusalem,
+
+[NOTE]
+====
+. About 11 km. Lit., “60 stadia.” A stadium equaled 185 m (606.95 ft). See App. B14.
+====
+
+[[v42-24-14]]
+
+^<<v42-24-14,14>>^ and they were conversing with each other about all these things that had happened.
+
+[[v42-24-15]]
+
+^<<v42-24-15,15>>^ Now as they were conversing and discussing these things, Jesus himself approached and began walking with them,
+
+[[v42-24-16]]
+
+^<<v42-24-16,16>>^ but their eyes were kept from recognizing him.
+
+[[v42-24-17]]
+
+^<<v42-24-17,17>>^ He said to them: “What are these matters that you are debating between yourselves as you walk along?” And they stood still, looking sad.
+
+[[v42-24-18]]
+
+^<<v42-24-18,18>>^ In answer the one named Cleʹo·pas said to him: “Are you a stranger dwelling alone in Jerusalem and do not know^&#42;1^ the things that have occurred there during these days?”
+
+[NOTE]
+====
+. Or possibly, “Are you the only visitor in Jerusalem who does not know?”
+====
+
+[[v42-24-19]]
+
+^<<v42-24-19,19>>^ He asked them: “What things?” They said to him: “The things concerning Jesus the Naz·a·reneʹ, who proved to be a prophet powerful in deed and word before God and all the people;
+
+[[v42-24-20]]
+
+^<<v42-24-20,20>>^ and how our chief priests and rulers handed him over to be sentenced to death, and they nailed him to the stake.
+
+[[v42-24-21]]
+
+^<<v42-24-21,21>>^ But we were hoping that this man was the one who was going to deliver Israel. Yes, and besides all these things, this is the third day since these things occurred.
+
+[[v42-24-22]]
+
+^<<v42-24-22,22>>^ Moreover, some women from among us also astonished us, for they went early to the tomb^&#42;1^
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v42-24-23]]
+
+^<<v42-24-23,23>>^ and when they did not find his body, they came saying that they had also seen a supernatural sight of angels, who said he is alive.
+
+[[v42-24-24]]
+
+^<<v42-24-24,24>>^ Then some of those who were with us went off to the tomb,^&#42;1^ and they found it just as the women had said, but they did not see him.”
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v42-24-25]]
+
+^<<v42-24-25,25>>^ So he said to them: “O senseless ones and slow of heart to believe all the things the prophets have spoken!
+
+[[v42-24-26]]
+
+^<<v42-24-26,26>>^ Was it not necessary for the Christ to suffer these things and to enter into his glory?”
+
+[[v42-24-27]]
+
+^<<v42-24-27,27>>^ And starting with Moses and all the Prophets, he interpreted to them things pertaining to himself in all the Scriptures.
+
+[[v42-24-28]]
+
+^<<v42-24-28,28>>^ Finally they got close to the village to which they were traveling, and he made as if to travel on farther.
+
+[[v42-24-29]]
+
+^<<v42-24-29,29>>^ But they urged him to remain, saying: “Stay with us, because it is almost evening and the day is nearly over.” With that he went in to stay with them.
+
+[[v42-24-30]]
+
+^<<v42-24-30,30>>^ And as he was dining^&#42;1^ with them, he took the bread, blessed it, broke it, and began handing it to them.
+
+[NOTE]
+====
+. Or “reclining at the table.”
+====
+
+[[v42-24-31]]
+
+^<<v42-24-31,31>>^ At that their eyes were fully opened and they recognized him; but he disappeared from them.
+
+[[v42-24-32]]
+
+^<<v42-24-32,32>>^ And they said to each other: “Were not our hearts burning within us as he was speaking to us on the road, as he was fully opening up^&#42;1^ the Scriptures to us?”
+
+[NOTE]
+====
+. Or “clearly explaining.”
+====
+
+[[v42-24-33]]
+
+^<<v42-24-33,33>>^ And they got up in that very hour and returned to Jerusalem, and they found the Eleven and those assembled together with them,
+
+[[v42-24-34]]
+
+^<<v42-24-34,34>>^ who said: “For a fact the Lord was raised up, and he appeared to Simon!”
+
+[[v42-24-35]]
+
+^<<v42-24-35,35>>^ Then they related the events on the road and how he became known to them by the breaking of the bread.
+
+[[v42-24-36]]
+
+^<<v42-24-36,36>>^ While they were speaking of these things, he himself stood in their midst and said to them: “May you have peace.”
+
+[[v42-24-37]]
+
+^<<v42-24-37,37>>^ But because they were terrified and frightened, they imagined that they were seeing a spirit.
+
+[[v42-24-38]]
+
+^<<v42-24-38,38>>^ So he said to them: “Why are you troubled, and why have doubts come up in your hearts?
+
+[[v42-24-39]]
+
+^<<v42-24-39,39>>^ See my hands and my feet, that it is I myself; touch me and see, for a spirit does not have flesh and bones just as you see that I have.”
+
+[[v42-24-40]]
+
+^<<v42-24-40,40>>^ And as he said this, he showed them his hands and his feet.
+
+[[v42-24-41]]
+
+^<<v42-24-41,41>>^ But while they were still not believing for sheer joy and amazement, he said to them: “Do you have something there to eat?”
+
+[[v42-24-42]]
+
+^<<v42-24-42,42>>^ So they handed him a piece of broiled fish,
+
+[[v42-24-43]]
+
+^<<v42-24-43,43>>^ and he took it and ate it before their eyes.
+
+[[v42-24-44]]
+
+^<<v42-24-44,44>>^ He then said to them: “These are my words that I spoke to you while I was yet with you, that all the things written about me in the Law of Moses and in the Prophets and Psalms must be fulfilled.”
+
+[[v42-24-45]]
+
+^<<v42-24-45,45>>^ Then he opened up their minds fully to grasp the meaning of the Scriptures,
+
+[[v42-24-46]]
+
+^<<v42-24-46,46>>^ and he said to them, “This is what is written: that the Christ would suffer and rise from among the dead on the third day,
+
+[[v42-24-47]]
+
+^<<v42-24-47,47>>^ and on the basis of his name, repentance for forgiveness of sins would be preached in all the nations—starting out from Jerusalem.
+
+[[v42-24-48]]
+
+^<<v42-24-48,48>>^ You are to be witnesses of these things.
+
+[[v42-24-49]]
+
+^<<v42-24-49,49>>^ And look! I am sending upon you what my Father promised. You, though, stay in the city until you are clothed with power from on high.”
+
+[[v42-24-50]]
+
+^<<v42-24-50,50>>^ Then he led them out as far as Bethʹa·ny, and he lifted up his hands and blessed them.
+
+[[v42-24-51]]
+
+^<<v42-24-51,51>>^ As he was blessing them, he was parted from them and taken up to heaven.
+
+[[v42-24-52]]
+
+^<<v42-24-52,52>>^ And they did obeisance^&#42;1^ to him and returned to Jerusalem with great joy.
+
+[NOTE]
+====
+. Or “bowed down.”
+====
+
+[[v42-24-53]]
+
+^<<v42-24-53,53>>^ And they were continually in the temple, praising God.
+
+'''
+
+xref:042-luke/042-luke-023.adoc#v42-23-0[&#60; Capítulo Anterior] | <<v42-24-0,Topo>> | xref:043-john/043-john-001.adoc#v43-1-0[Próximo Capítulo &#62;]

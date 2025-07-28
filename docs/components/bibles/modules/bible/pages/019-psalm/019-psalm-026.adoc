@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v19-26-0]]
+=== Psalm, 26
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David._
+
+[[v19-26-1]]
+
+^<<v19-26-1,1>>^ Judge me, O Jehovah, for I have walked in my integrity;
+In Jehovah I have trusted without wavering.
+
+[[v19-26-2]]
+
+^<<v19-26-2,2>>^ Examine me, O Jehovah, and put me to the test;
+Refine my innermost thoughts^&#42;1^ and my heart.
+
+[NOTE]
+====
+. Or “my deepest emotions.” Lit., “my kidneys.”
+====
+
+[[v19-26-3]]
+
+^<<v19-26-3,3>>^ For your loyal love is always in front of me,
+And I walk in your truth.
+
+[[v19-26-4]]
+
+^<<v19-26-4,4>>^ I do not associate^&#42;1^ with deceitful men,
+And I avoid those who hide what they are.^&#42;2^
+
+[NOTE]
+====
+. Lit., “sit.”
+. Or “I do not mingle with hypocrites.”
+====
+
+[[v19-26-5]]
+
+^<<v19-26-5,5>>^ I hate the company of evil men,
+And I refuse to associate^&#42;1^ with the wicked.
+
+[NOTE]
+====
+. Lit., “sit.”
+====
+
+[[v19-26-6]]
+
+^<<v19-26-6,6>>^ I will wash my hands in innocence,
+And I will march around your altar, O Jehovah,
+
+[[v19-26-7]]
+
+^<<v19-26-7,7>>^ To cause the sound of thanksgiving to be heard
+And to declare all your wonderful works.
+
+[[v19-26-8]]
+
+^<<v19-26-8,8>>^ Jehovah, I love the house where you dwell,
+The place where your glory resides.
+
+[[v19-26-9]]
+
+^<<v19-26-9,9>>^ Do not sweep me^&#42;1^ away with sinners
+Nor take my life away with violent men,^&#42;2^
+
+[NOTE]
+====
+. Or “my soul.”
+. Or “with men of bloodshed.”
+====
+
+[[v19-26-10]]
+
+^<<v19-26-10,10>>^ Whose hands engage in shameful conduct,
+And whose right hand is full of bribes.
+
+[[v19-26-11]]
+
+^<<v19-26-11,11>>^ But as for me, I will walk in my integrity.
+Rescue^&#42;1^ me and show me favor.
+
+[NOTE]
+====
+. Lit., “Redeem.”
+====
+
+[[v19-26-12]]
+
+^<<v19-26-12,12>>^ My foot is standing on level ground;
+In the great congregation,^&#42;1^ I will praise Jehovah.
+
+[NOTE]
+====
+. Lit., “In assemblies.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-025.adoc#v19-25-0[&#60; Capítulo Anterior] | <<v19-26-0,Topo>> | xref:019-psalm/019-psalm-027.adoc#v19-27-0[Próximo Capítulo &#62;]

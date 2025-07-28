@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Joshua, 20
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ Then Jehovah said to Joshua:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ “Tell the Israelites, ‘Select for yourselves the cities of refuge about which I spoke to you through Moses,
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ so that the manslayer who unintentionally or accidentally^&#42;1^ kills someone^&#42;2^ may flee there. And they will serve as a refuge for you from the avenger of blood.
+
+[NOTE]
+====
+. Or “unknowingly.”
+. Or “strikes a soul.”
+====
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ He must flee to one of these cities and stand at the entrance of the city gate and present his case in the hearing of the elders of that city. Then they must receive him into the city and give him a place and he will live with them.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ If the avenger of blood chases after him, they should not surrender the manslayer into his hand, for he killed his fellow man accidentally^&#42;1^ and he did not previously hate him.
+
+[NOTE]
+====
+. Or “unknowingly.”
+====
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ He must dwell in that city until he stands trial before the assembly and remain there until the death of the high priest who is in office at that time. Then the manslayer may return to the city from which he fled, and he may enter his city and his house.’”
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ So they gave a sacred status to^&#42;1^ Keʹdesh in Galʹi·lee in the mountainous region of Naphʹta·li, Sheʹchem in the mountainous region of Eʹphra·im, and Kirʹi·ath-arʹba, that is, Hebʹron, in the mountainous region of Judah.
+
+[NOTE]
+====
+. Or “they set apart.”
+====
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ In the region of the Jordan, east of Jerʹi·cho, they selected Beʹzer in the wilderness on the tableland^&#42;1^ out of the tribe of Reuʹben, Raʹmoth in Gilʹe·ad out of the tribe of Gad, and Goʹlan in Baʹshan out of the tribe of Ma·nasʹseh.
+
+[NOTE]
+====
+. Or “plateau.”
+====
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ These became the cities appointed for all the Israelites and for the foreign residents residing among them, so that anyone who unintentionally killed someone^&#42;1^ could flee there and not die by the hand of the avenger of blood prior to standing trial before the assembly.
+
+[NOTE]
+====
+. Or “a soul.”
+====
+
+'''
+
+xref:006-joshua/006-joshua-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-joshua/006-joshua-021.adoc#v6-21-0[Próximo Capítulo &#62;]

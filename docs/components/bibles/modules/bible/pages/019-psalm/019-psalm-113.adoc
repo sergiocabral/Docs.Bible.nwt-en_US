@@ -1,0 +1,76 @@
+include::./index.adoc[]
+
+[[v19-113-0]]
+=== Psalm, 113
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-113-1]]
+
+^<<v19-113-1,1>>^ Praise Jah!^&#42;1^
+Offer praise, you servants of Jehovah,
+Praise the name of Jehovah.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-113-2]]
+
+^<<v19-113-2,2>>^ May Jehovah’s name be praised
+From now on and forever.
+
+[[v19-113-3]]
+
+^<<v19-113-3,3>>^ From the rising of the sun to its setting,
+Let Jehovah’s name be praised.
+
+[[v19-113-4]]
+
+^<<v19-113-4,4>>^ Jehovah is high above all the nations;
+His glory is above the heavens.
+
+[[v19-113-5]]
+
+^<<v19-113-5,5>>^ Who is like Jehovah our God,
+The one who dwells^&#42;1^ on high?
+
+[NOTE]
+====
+. Or “sits enthroned.”
+====
+
+[[v19-113-6]]
+
+^<<v19-113-6,6>>^ He stoops down to look on heaven and earth,
+
+[[v19-113-7]]
+
+^<<v19-113-7,7>>^ Raising the lowly from the dust.
+He lifts up the poor from the ash heap^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “garbage dump.”
+====
+
+[[v19-113-8]]
+
+^<<v19-113-8,8>>^ In order to make him sit with nobles,
+With the nobles of his people.
+
+[[v19-113-9]]
+
+^<<v19-113-9,9>>^ He gives the barren woman a home
+As a happy mother with children.^&#42;1^
+Praise Jah!^&#42;2^
+
+[NOTE]
+====
+. Lit., “sons.”
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-112.adoc#v19-112-0[&#60; Capítulo Anterior] | <<v19-113-0,Topo>> | xref:019-psalm/019-psalm-114.adoc#v19-114-0[Próximo Capítulo &#62;]

@@ -1,0 +1,56 @@
+include::./index.adoc[]
+
+[[v19-150-0]]
+=== Psalm, 150
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-150-1]]
+
+^<<v19-150-1,1>>^ Praise Jah!^&#42;1^
+Praise God in his holy place.
+Praise him in the expanse of^&#42;2^ his strength.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+. Or “the sky that bears witness to.”
+====
+
+[[v19-150-2]]
+
+^<<v19-150-2,2>>^ Praise him for his mighty works.
+Praise him for his exceeding greatness.
+
+[[v19-150-3]]
+
+^<<v19-150-3,3>>^ Praise him with the sounding of the horn.
+Praise him with the stringed instrument and the harp.
+
+[[v19-150-4]]
+
+^<<v19-150-4,4>>^ Praise him with the tambourine and the circle dance.
+Praise him with strings and the flute.^&#42;1^
+
+[NOTE]
+====
+. Or “pipe.”
+====
+
+[[v19-150-5]]
+
+^<<v19-150-5,5>>^ Praise him with ringing cymbals.
+Praise him with crashing cymbals.
+
+[[v19-150-6]]
+
+^<<v19-150-6,6>>^ Every breathing thing—let it praise Jah.
+Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-149.adoc#v19-149-0[&#60; Capítulo Anterior] | <<v19-150-0,Topo>> | xref:020-proverbs/020-proverbs-001.adoc#v20-1-0[Próximo Capítulo &#62;]

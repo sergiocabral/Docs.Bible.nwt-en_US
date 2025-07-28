@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v19-124-0]]
+=== Psalm, 124
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents. Of David._
+
+[[v19-124-1]]
+
+^<<v19-124-1,1>>^ “If Jehovah had not been with us”
+—Let Israel now say—
+
+[[v19-124-2]]
+
+^<<v19-124-2,2>>^ “If Jehovah had not been with us
+When men rose up to attack us,
+
+[[v19-124-3]]
+
+^<<v19-124-3,3>>^ Then they would have swallowed us up alive
+When their anger was burning against us.
+
+[[v19-124-4]]
+
+^<<v19-124-4,4>>^ Then the waters would have washed us away,
+The torrent would have swept over us.^&#42;1^
+
+[NOTE]
+====
+. Or “our soul.”
+====
+
+[[v19-124-5]]
+
+^<<v19-124-5,5>>^ The raging waters would have overwhelmed us.^&#42;1^
+
+[NOTE]
+====
+. Or “our soul.”
+====
+
+[[v19-124-6]]
+
+^<<v19-124-6,6>>^ May Jehovah be praised,
+For he has not given us as prey to their teeth.
+
+[[v19-124-7]]
+
+^<<v19-124-7,7>>^ We are^&#42;1^ like a bird that escaped
+From the hunter’s trap;
+The trap was broken,
+And we escaped.
+
+[NOTE]
+====
+. Or “Our soul is.”
+====
+
+[[v19-124-8]]
+
+^<<v19-124-8,8>>^ Our help is in the name of Jehovah,
+The Maker of heaven and earth.”
+
+'''
+
+xref:019-psalm/019-psalm-123.adoc#v19-123-0[&#60; Capítulo Anterior] | <<v19-124-0,Topo>> | xref:019-psalm/019-psalm-125.adoc#v19-125-0[Próximo Capítulo &#62;]

@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v19-95-0]]
+=== Psalm, 95
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-95-1]]
+
+^<<v19-95-1,1>>^ Come, let us shout joyfully to Jehovah!
+Let us shout in triumph to our Rock of salvation.
+
+[[v19-95-2]]
+
+^<<v19-95-2,2>>^ Let us come into his presence^&#42;1^ with thanksgiving;
+Let us sing and shout in triumph to him.
+
+[NOTE]
+====
+. Lit., “before his face.”
+====
+
+[[v19-95-3]]
+
+^<<v19-95-3,3>>^ For Jehovah is a great God,
+A great King over all other gods.
+
+[[v19-95-4]]
+
+^<<v19-95-4,4>>^ In his hand are the depths of the earth;
+The mountain peaks belong to him.
+
+[[v19-95-5]]
+
+^<<v19-95-5,5>>^ The sea, which he made, belongs to him,
+And his hands formed the dry land.
+
+[[v19-95-6]]
+
+^<<v19-95-6,6>>^ Come, let us worship and bow down;
+Let us kneel before Jehovah our Maker.
+
+[[v19-95-7]]
+
+^<<v19-95-7,7>>^ For he is our God,
+And we are the people of his pasture,
+The sheep in his care.^&#42;1^
+Today if you listen to his voice,
+
+[NOTE]
+====
+. Lit., “of his hand.”
+====
+
+[[v19-95-8]]
+
+^<<v19-95-8,8>>^ Do not harden your heart as at Merʹi·bah,^&#42;1^
+As in the day of Masʹsah^&#42;2^ in the wilderness,
+
+[NOTE]
+====
+. Meaning “Quarreling.”
+. Meaning “Testing; Trial.”
+====
+
+[[v19-95-9]]
+
+^<<v19-95-9,9>>^ When your forefathers tested me;
+They challenged me, though they had seen my works.
+
+[[v19-95-10]]
+
+^<<v19-95-10,10>>^ For 40 years I felt a loathing toward that generation, and I said:
+“They are a people who always go astray in their hearts;
+They have not come to know my ways.”
+
+[[v19-95-11]]
+
+^<<v19-95-11,11>>^ So I swore in my anger:
+“They will not enter into my rest.”
+
+'''
+
+xref:019-psalm/019-psalm-094.adoc#v19-94-0[&#60; Capítulo Anterior] | <<v19-95-0,Topo>> | xref:019-psalm/019-psalm-096.adoc#v19-96-0[Próximo Capítulo &#62;]

@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v18-41-0]]
+=== Job, 41
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-41-1]]
+
+^<<v18-41-1,1>>^ “Can you catch Le·viʹa·than^&#42;1^ with a fishhook
+Or hold down its tongue with a rope?
+
+[NOTE]
+====
+. Possibly the crocodile.
+====
+
+[[v18-41-2]]
+
+^<<v18-41-2,2>>^ Can you put a rope^&#42;1^ through its nostrils
+Or pierce its jaws with a hook?^&#42;2^
+
+[NOTE]
+====
+. Lit., “a rush.”
+. Lit., “thorn.”
+====
+
+[[v18-41-3]]
+
+^<<v18-41-3,3>>^ Will it make many pleas to you,
+Or will it speak gently to you?
+
+[[v18-41-4]]
+
+^<<v18-41-4,4>>^ Will it make a covenant with you,
+So that you may make it your slave for life?
+
+[[v18-41-5]]
+
+^<<v18-41-5,5>>^ Will you play with it as with a bird
+Or tie it on a leash for your little girls?
+
+[[v18-41-6]]
+
+^<<v18-41-6,6>>^ Will traders barter for it?
+Will they divide it up among merchants?
+
+[[v18-41-7]]
+
+^<<v18-41-7,7>>^ Will you fill its hide with harpoons
+Or its head with fishing spears?
+
+[[v18-41-8]]
+
+^<<v18-41-8,8>>^ Lay your hand on it;
+You will remember the battle and never do it again!
+
+[[v18-41-9]]
+
+^<<v18-41-9,9>>^ Any hope of subduing it is futile.
+The mere sight of it would overwhelm you.^&#42;1^
+
+[NOTE]
+====
+. Or “hurl you down.”
+====
+
+[[v18-41-10]]
+
+^<<v18-41-10,10>>^ No one dares to stir it up.
+So who is it who can stand up to me?
+
+[[v18-41-11]]
+
+^<<v18-41-11,11>>^ Who has given me anything first that I should repay him?
+Whatever is under the heavens is mine.
+
+[[v18-41-12]]
+
+^<<v18-41-12,12>>^ I will not be silent about its limbs,
+About its mightiness and its well-formed body.
+
+[[v18-41-13]]
+
+^<<v18-41-13,13>>^ Who has removed its outer covering?
+Who will enter its open jaws?
+
+[[v18-41-14]]
+
+^<<v18-41-14,14>>^ Who can pry open the doors of its mouth?^&#42;1^
+Its teeth all around are fearsome.
+
+[NOTE]
+====
+. Lit., “face.”
+====
+
+[[v18-41-15]]
+
+^<<v18-41-15,15>>^ Its back has rows of scales^&#42;1^
+Tightly sealed together.
+
+[NOTE]
+====
+. Or possibly, “Its pride is its rows of scales.”
+====
+
+[[v18-41-16]]
+
+^<<v18-41-16,16>>^ Each one fits so closely to the other
+That no air can come between them.
+
+[[v18-41-17]]
+
+^<<v18-41-17,17>>^ They are stuck to one another;
+They cling together and cannot be separated.
+
+[[v18-41-18]]
+
+^<<v18-41-18,18>>^ Its snorting flashes out light,
+And its eyes are like the rays of dawn.
+
+[[v18-41-19]]
+
+^<<v18-41-19,19>>^ Flashes of lightning go out of its mouth;
+Fiery sparks escape.
+
+[[v18-41-20]]
+
+^<<v18-41-20,20>>^ Smoke pours out of its nostrils,
+Like a furnace fueled with rushes.
+
+[[v18-41-21]]
+
+^<<v18-41-21,21>>^ Its breath sets coals ablaze,
+And a flame shoots from its mouth.
+
+[[v18-41-22]]
+
+^<<v18-41-22,22>>^ There is great strength in its neck,
+And dismay runs before it.
+
+[[v18-41-23]]
+
+^<<v18-41-23,23>>^ The folds of its flesh are tightly joined together;
+They are firm, as though cast upon it and immovable.
+
+[[v18-41-24]]
+
+^<<v18-41-24,24>>^ Its heart is hard as stone,
+Yes, hard as a lower millstone.
+
+[[v18-41-25]]
+
+^<<v18-41-25,25>>^ When it rises up, even the mighty are frightened;
+Its thrashing causes bewilderment.
+
+[[v18-41-26]]
+
+^<<v18-41-26,26>>^ No sword that reaches it will prevail;
+Nor will spear, dart, or arrowhead.
+
+[[v18-41-27]]
+
+^<<v18-41-27,27>>^ It regards iron as straw,
+Copper as rotten wood.
+
+[[v18-41-28]]
+
+^<<v18-41-28,28>>^ An arrow does not make it flee;
+Slingstones turn into stubble against it.
+
+[[v18-41-29]]
+
+^<<v18-41-29,29>>^ It regards a club as stubble,
+And it laughs at the rattling of a javelin.
+
+[[v18-41-30]]
+
+^<<v18-41-30,30>>^ Underneath, it is like sharp fragments of pottery;
+It spreads itself in the mud like a threshing sledge.
+
+[[v18-41-31]]
+
+^<<v18-41-31,31>>^ It makes the deep boil just like a pot;
+It stirs up the sea like an ointment pot.
+
+[[v18-41-32]]
+
+^<<v18-41-32,32>>^ It leaves a glistening wake in its path.
+One would think that the deep had white hair.
+
+[[v18-41-33]]
+
+^<<v18-41-33,33>>^ There is nothing like it on the earth,
+A creature made to have no fear.
+
+[[v18-41-34]]
+
+^<<v18-41-34,34>>^ It glares at everything that is haughty.
+It is king over all the majestic wild beasts.”
+
+'''
+
+xref:018-job/018-job-040.adoc#v18-40-0[&#60; Capítulo Anterior] | <<v18-41-0,Topo>> | xref:018-job/018-job-042.adoc#v18-42-0[Próximo Capítulo &#62;]

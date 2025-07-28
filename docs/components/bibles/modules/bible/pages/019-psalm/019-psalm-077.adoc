@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v19-77-0]]
+=== Psalm, 77
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; on Je·duʹthun.^&#42;1^ Of Aʹsaph. A melody._
+
+[[v19-77-1]]
+
+^<<v19-77-1,1>>^ With my voice I will cry out to God;
+To God I will cry out, and he will hear me.
+
+[[v19-77-2]]
+
+^<<v19-77-2,2>>^ In the day of my distress I search for Jehovah.
+At night my hands are stretched out to him without ceasing.^&#42;1^
+I^&#42;2^ cannot be comforted.
+
+[NOTE]
+====
+. Lit., “growing numb.”
+. Or “My soul.”
+====
+
+[[v19-77-3]]
+
+^<<v19-77-3,3>>^ When I remember God, I groan;
+I am troubled and my strength fails.^&#42;1^ (Selah)
+
+[NOTE]
+====
+. Lit., “my spirit faints.”
+====
+
+[[v19-77-4]]
+
+^<<v19-77-4,4>>^ You hold my eyelids open;
+I am agitated and cannot speak.
+
+[[v19-77-5]]
+
+^<<v19-77-5,5>>^ My thoughts turn to the days of long ago,
+The years of the distant past.
+
+[[v19-77-6]]
+
+^<<v19-77-6,6>>^ During the night I remember my song;^&#42;1^
+I ponder in my heart;
+I make^&#42;2^ a diligent search.
+
+[NOTE]
+====
+. Or “string music.”
+. Lit., “My spirit makes.”
+====
+
+[[v19-77-7]]
+
+^<<v19-77-7,7>>^ Will Jehovah cast us off forever?
+Will he never again show his favor?
+
+[[v19-77-8]]
+
+^<<v19-77-8,8>>^ Has his loyal love ceased forever?
+Will his promise come to nothing for all generations?
+
+[[v19-77-9]]
+
+^<<v19-77-9,9>>^ Has God forgotten to show his favor,
+Or has his anger caused his mercy to cease? (Selah)
+
+[[v19-77-10]]
+
+^<<v19-77-10,10>>^ Must I keep saying: “This is what distresses me:^&#42;1^
+The Most High has changed his position^&#42;2^ toward us”?
+
+[NOTE]
+====
+. Or “pierces me.”
+. Lit., “right hand.”
+====
+
+[[v19-77-11]]
+
+^<<v19-77-11,11>>^ I will remember the works of Jah;
+I will remember your marvelous deeds of long ago.
+
+[[v19-77-12]]
+
+^<<v19-77-12,12>>^ And I will meditate on all your activity
+And ponder over your dealings.
+
+[[v19-77-13]]
+
+^<<v19-77-13,13>>^ O God, your ways are holy.
+What god is as great as you, O God?
+
+[[v19-77-14]]
+
+^<<v19-77-14,14>>^ You are the true God, who does marvelous things.
+You have revealed your strength to the peoples.
+
+[[v19-77-15]]
+
+^<<v19-77-15,15>>^ With your power^&#42;1^ you have rescued^&#42;2^ your people,
+The sons of Jacob and of Joseph. (Selah)
+
+[NOTE]
+====
+. Lit., “arm.”
+. Lit., “redeemed.”
+====
+
+[[v19-77-16]]
+
+^<<v19-77-16,16>>^ The waters saw you, O God;
+The waters saw you and were disturbed.
+And the deep waters became agitated.
+
+[[v19-77-17]]
+
+^<<v19-77-17,17>>^ The clouds poured down water.
+The cloudy skies thundered,
+And your arrows flew here and there.
+
+[[v19-77-18]]
+
+^<<v19-77-18,18>>^ The sound of your thunder was like chariot wheels;
+Flashes of lightning lit up the inhabited earth;^&#42;1^
+The earth trembled and quaked.
+
+[NOTE]
+====
+. Or “the productive land.”
+====
+
+[[v19-77-19]]
+
+^<<v19-77-19,19>>^ Your way was through the sea,
+Your path through many waters;
+But your footprints could not be traced.
+
+[[v19-77-20]]
+
+^<<v19-77-20,20>>^ You led your people just like a flock,
+In the care^&#42;1^ of Moses and Aaron.
+
+[NOTE]
+====
+. Lit., “By the hand.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-076.adoc#v19-76-0[&#60; Capítulo Anterior] | <<v19-77-0,Topo>> | xref:019-psalm/019-psalm-078.adoc#v19-78-0[Próximo Capítulo &#62;]

@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v46-2-0]]
+=== The First to the Corinthians, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v46-2-1]]
+
+^<<v46-2-1,1>>^ So when I came to you, brothers, I did not come with extravagant speech or wisdom declaring the sacred secret of God to you.
+
+[[v46-2-2]]
+
+^<<v46-2-2,2>>^ For I decided not to know anything among you except Jesus Christ, and him executed on the stake.
+
+[[v46-2-3]]
+
+^<<v46-2-3,3>>^ And I came to you in weakness and in fear and with much trembling;
+
+[[v46-2-4]]
+
+^<<v46-2-4,4>>^ and my speech and what I preached were not with persuasive words of wisdom but with a demonstration of spirit and power,
+
+[[v46-2-5]]
+
+^<<v46-2-5,5>>^ so that your faith might be, not in men’s wisdom, but in God’s power.
+
+[[v46-2-6]]
+
+^<<v46-2-6,6>>^ Now we speak wisdom among those who are mature, but not the wisdom of this system of things^&#42;1^ nor that of the rulers of this system of things, who are to come to nothing.
+
+[NOTE]
+====
+. Or “this age.” See Glossary.
+====
+
+[[v46-2-7]]
+
+^<<v46-2-7,7>>^ But we speak God’s wisdom in a sacred secret, the hidden wisdom, which God foreordained before the systems of things for our glory.
+
+[[v46-2-8]]
+
+^<<v46-2-8,8>>^ It is this wisdom that none of the rulers of this system of things^&#42;1^ came to know, for if they had known it, they would not have executed^&#42;2^ the glorious Lord.
+
+[NOTE]
+====
+. Or “this age.” See Glossary.
+. Or “executed on the stake.”
+====
+
+[[v46-2-9]]
+
+^<<v46-2-9,9>>^ But just as it is written: “Eye has not seen and ear has not heard, nor have there been conceived in the heart of man the things that God has prepared for those who love him.”
+
+[[v46-2-10]]
+
+^<<v46-2-10,10>>^ For it is to us God has revealed them through his spirit, for the spirit searches into all things, even the deep things of God.
+
+[[v46-2-11]]
+
+^<<v46-2-11,11>>^ For who among men knows the things of a man except the man’s spirit within him? So, too, no one has come to know the things of God except the spirit of God.
+
+[[v46-2-12]]
+
+^<<v46-2-12,12>>^ Now we received, not the spirit of the world, but the spirit that is from God, so that we might know the things that have been kindly given us by God.
+
+[[v46-2-13]]
+
+^<<v46-2-13,13>>^ These things we also speak, not with words taught by human wisdom, but with those taught by the spirit, as we explain^&#42;1^ spiritual matters with spiritual words.
+
+[NOTE]
+====
+. Or “combine.”
+====
+
+[[v46-2-14]]
+
+^<<v46-2-14,14>>^ But a physical man does not accept^&#42;1^ the things of the spirit of God, for they are foolishness to him; and he cannot get to know them, because they are examined spiritually.
+
+[NOTE]
+====
+. Or “receive.”
+====
+
+[[v46-2-15]]
+
+^<<v46-2-15,15>>^ However, the spiritual man examines all things, but he himself is not examined by any man.
+
+[[v46-2-16]]
+
+^<<v46-2-16,16>>^ For “who has come to know the mind of Jehovah,^&#42;1^ so that he may instruct him?” But we do have the mind of Christ.
+
+[NOTE]
+====
+. See App. A5.
+====
+
+'''
+
+xref:046-1-corinthians/046-1-corinthians-001.adoc#v46-1-0[&#60; Capítulo Anterior] | <<v46-2-0,Topo>> | xref:046-1-corinthians/046-1-corinthians-003.adoc#v46-3-0[Próximo Capítulo &#62;]

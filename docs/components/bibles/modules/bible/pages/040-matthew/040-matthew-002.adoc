@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== According to Matthew, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ After Jesus had been born in Bethʹle·hem of Ju·deʹa in the days of Herod^&#42;1^ the king, look! astrologers^&#42;2^ from the East came to Jerusalem,
+
+[NOTE]
+====
+. See Glossary.
+. Or “magi.”
+====
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ saying: “Where is the one born king of the Jews? For we saw his star when we were in the East, and we have come to do obeisance^&#42;1^ to him.”
+
+[NOTE]
+====
+. Or “to bow down.”
+====
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ At hearing this, King Herod was agitated, and all Jerusalem with him.
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ On gathering together all the chief priests and scribes of the people, he inquired of them where the Christ^&#42;1^ was to be born.
+
+[NOTE]
+====
+. Or “the Messiah; the Anointed One.”
+====
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ They said to him: “In Bethʹle·hem of Ju·deʹa, for this is how it has been written through the prophet:
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ ‘And you, O Bethʹle·hem of the land of Judah, are by no means the most insignificant city among the governors of Judah, for out of you will come a governing one, who will shepherd my people Israel.’”
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ Then Herod secretly summoned the astrologers and carefully ascertained from them the time of the star’s appearing.
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ When sending them to Bethʹle·hem, he said: “Go make a careful search for the young child, and when you have found him, report back to me so that I too may go and do obeisance to him.”
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ After they had heard the king, they went their way, and look! the star they had seen when they were in the East went ahead of them until it came to a stop above where the young child was.
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ On seeing the star, they rejoiced with great joy.
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ And when they went into the house, they saw the young child with Mary his mother, and falling down, they did obeisance^&#42;1^ to him. They also opened their treasures and presented him with gifts—gold and frankincense and myrrh.
+
+[NOTE]
+====
+. Or “bowed down.”
+====
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ However, because they were given divine warning in a dream not to return to Herod, they departed for their country by another way.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ After they had departed, look! Jehovah’s^&#42;1^ angel appeared to Joseph in a dream, saying: “Get up, take the young child and his mother and flee to Egypt, and stay there until I give you word, for Herod is about to search for the young child to kill him.”
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v40-2-14]]
+
+^<<v40-2-14,14>>^ So Joseph got up and by night took along the young child and the child’s mother and went into Egypt.
+
+[[v40-2-15]]
+
+^<<v40-2-15,15>>^ He stayed there until the death of Herod. This fulfilled what was spoken by Jehovah^&#42;1^ through his prophet, saying: “Out of Egypt I called my son.”
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v40-2-16]]
+
+^<<v40-2-16,16>>^ Then Herod, seeing that he had been outwitted by the astrologers, flew into a great rage, and he sent out and had all the boys in Bethʹle·hem and in all its districts killed, from two years of age and under, according to the time that he had carefully ascertained from the astrologers.
+
+[[v40-2-17]]
+
+^<<v40-2-17,17>>^ Then was fulfilled what was spoken through Jeremiah the prophet, who said:
+
+[[v40-2-18]]
+
+^<<v40-2-18,18>>^ “A voice was heard in Raʹmah, weeping and much wailing. It was Rachel weeping for her children, and she was unwilling to take comfort, because they are no more.”
+
+[[v40-2-19]]
+
+^<<v40-2-19,19>>^ When Herod had died, look! Jehovah’s^&#42;1^ angel appeared in a dream to Joseph in Egypt
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v40-2-20]]
+
+^<<v40-2-20,20>>^ and said: “Get up, take the young child and his mother and go into the land of Israel, for those who were seeking the life^&#42;1^ of the young child are dead.”
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v40-2-21]]
+
+^<<v40-2-21,21>>^ So he got up and took the young child and the child’s mother and entered into the land of Israel.
+
+[[v40-2-22]]
+
+^<<v40-2-22,22>>^ But hearing that Ar·che·laʹus ruled Ju·deʹa instead of his father Herod, he was afraid to go there. Moreover, being given divine warning in a dream, he withdrew into the territory of Galʹi·lee.
+
+[[v40-2-23]]
+
+^<<v40-2-23,23>>^ And he came and settled in a city named Nazʹa·reth, in order to fulfill what was spoken through the prophets: “He will be called a Naz·a·reneʹ.”^&#42;1^
+
+[NOTE]
+====
+. Probably from the Hebrew expression “sprout.”
+====
+
+'''
+
+xref:040-matthew/040-matthew-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-matthew/040-matthew-003.adoc#v40-3-0[Próximo Capítulo &#62;]

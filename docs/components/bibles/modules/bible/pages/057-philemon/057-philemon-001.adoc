@@ -1,0 +1,150 @@
+include::./index.adoc[]
+
+[[v57-1-0]]
+=== To Philemon, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v57-1-1]]
+
+^<<v57-1-1,1>>^ Paul, a prisoner for the sake of Christ Jesus, and Timothy our brother, to Phi·leʹmon our beloved fellow worker,
+
+[[v57-1-2]]
+
+^<<v57-1-2,2>>^ and to Apʹphi·a our sister, and to Ar·chipʹpus our fellow soldier, and to the congregation that is in your house:
+
+[[v57-1-3]]
+
+^<<v57-1-3,3>>^ May you have undeserved kindness and peace from God our Father and the Lord Jesus Christ.
+
+[[v57-1-4]]
+
+^<<v57-1-4,4>>^ I always thank my God when I mention you in my prayers,
+
+[[v57-1-5]]
+
+^<<v57-1-5,5>>^ as I keep hearing of your faith and the love that you have for^&#42;1^ the Lord Jesus and for^&#42;2^ all the holy ones.
+
+[NOTE]
+====
+. Or “toward.”
+. Or “toward.”
+====
+
+[[v57-1-6]]
+
+^<<v57-1-6,6>>^ I pray that your sharing in the faith may move you to acknowledge every good thing that we have through Christ.
+
+[[v57-1-7]]
+
+^<<v57-1-7,7>>^ For I received much joy and comfort on hearing of your love, because the hearts^&#42;1^ of the holy ones have been refreshed through you, brother.
+
+[NOTE]
+====
+. Or “tender affections.”
+====
+
+[[v57-1-8]]
+
+^<<v57-1-8,8>>^ For this very reason, though I have great freeness of speech in connection with Christ to order you to do what is proper,
+
+[[v57-1-9]]
+
+^<<v57-1-9,9>>^ I would rather appeal to you on the basis of love, seeing that I am Paul an older man, yes, now also a prisoner for the sake of Christ Jesus.
+
+[[v57-1-10]]
+
+^<<v57-1-10,10>>^ I am appealing to you for my child, whose father I became while in prison,^&#42;1^ O·nesʹi·mus.
+
+[NOTE]
+====
+. Lit., “in the bonds.”
+====
+
+[[v57-1-11]]
+
+^<<v57-1-11,11>>^ He was formerly useless to you, but now he is useful to you and to me.
+
+[[v57-1-12]]
+
+^<<v57-1-12,12>>^ I am sending him back to you, yes him, my very own heart.^&#42;1^
+
+[NOTE]
+====
+. Or “my tender affections.”
+====
+
+[[v57-1-13]]
+
+^<<v57-1-13,13>>^ I would like to keep him here for myself so that he might take your place in ministering to me during my imprisonment for the sake of the good news.
+
+[[v57-1-14]]
+
+^<<v57-1-14,14>>^ But I do not want to do anything without your consent, so that your good deed may be done, not under compulsion, but of your own free will.
+
+[[v57-1-15]]
+
+^<<v57-1-15,15>>^ Perhaps this is really why he broke away for a short while,^&#42;1^ so that you may have him back forever,
+
+[NOTE]
+====
+. Lit., “an hour.”
+====
+
+[[v57-1-16]]
+
+^<<v57-1-16,16>>^ no longer as a slave, but as more than a slave, as a brother who is beloved, especially so to me, but how much more so to you, both in the flesh and in the Lord.
+
+[[v57-1-17]]
+
+^<<v57-1-17,17>>^ So if you consider me a friend,^&#42;1^ receive him kindly the same way you would me.
+
+[NOTE]
+====
+. Lit., “a sharer.”
+====
+
+[[v57-1-18]]
+
+^<<v57-1-18,18>>^ Moreover, if he did you any wrong or owes you anything, charge it to my account.
+
+[[v57-1-19]]
+
+^<<v57-1-19,19>>^ I, Paul, am writing with my own hand: I will pay it back—not to mention that you owe me even your own self.
+
+[[v57-1-20]]
+
+^<<v57-1-20,20>>^ Yes, brother, may I receive this assistance from you in connection with the Lord; refresh my heart^&#42;1^ in connection with Christ.
+
+[NOTE]
+====
+. Or “tender affections.”
+====
+
+[[v57-1-21]]
+
+^<<v57-1-21,21>>^ I am confident that you will comply, so I am writing you, knowing that you will do even more than what I say.
+
+[[v57-1-22]]
+
+^<<v57-1-22,22>>^ But along with that, also prepare a place for me to stay, for I am hoping that through your prayers I will be given back to you.^&#42;1^
+
+[NOTE]
+====
+. Or “set free for you.”
+====
+
+[[v57-1-23]]
+
+^<<v57-1-23,23>>^ Sending you greetings is Epʹa·phras, my fellow captive in union with Christ Jesus,
+
+[[v57-1-24]]
+
+^<<v57-1-24,24>>^ also Mark, Ar·is·tarʹchus, Deʹmas, and Luke, my fellow workers.
+
+[[v57-1-25]]
+
+^<<v57-1-25,25>>^ The undeserved kindness of the Lord Jesus Christ be with the spirit you show.
+
+'''
+
+xref:056-titus/056-titus-003.adoc#v56-3-0[&#60; Capítulo Anterior] | <<v57-1-0,Topo>> | xref:058-hebrews/058-hebrews-001.adoc#v58-1-0[Próximo Capítulo &#62;]

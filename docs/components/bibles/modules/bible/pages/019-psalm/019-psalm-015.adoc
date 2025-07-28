@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v19-15-0]]
+=== Psalm, 15
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of David._
+
+[[v19-15-1]]
+
+^<<v19-15-1,1>>^ O Jehovah, who may be a guest in your tent?
+Who may reside in your holy mountain?
+
+[[v19-15-2]]
+
+^<<v19-15-2,2>>^ The one who is walking faultlessly,^&#42;1^
+Practicing what is right
+And speaking the truth in his heart.
+
+[NOTE]
+====
+. Or “with integrity.”
+====
+
+[[v19-15-3]]
+
+^<<v19-15-3,3>>^ He does not slander with his tongue,
+He does nothing bad to his neighbor,
+And he does not defame^&#42;1^ his friends.
+
+[NOTE]
+====
+. Or “shame.”
+====
+
+[[v19-15-4]]
+
+^<<v19-15-4,4>>^ He rejects anyone who is contemptible,
+But he honors those fearing Jehovah.
+He does not go back on his promise,^&#42;1^ even when it is bad for him.
+
+[NOTE]
+====
+. Lit., “oath.”
+====
+
+[[v19-15-5]]
+
+^<<v19-15-5,5>>^ He does not lend his money on interest,
+And he does not accept a bribe against the innocent.
+Whoever does these things will never be shaken.^&#42;1^
+
+[NOTE]
+====
+. Or “will never stagger (totter).”
+====
+
+'''
+
+xref:019-psalm/019-psalm-014.adoc#v19-14-0[&#60; Capítulo Anterior] | <<v19-15-0,Topo>> | xref:019-psalm/019-psalm-016.adoc#v19-16-0[Próximo Capítulo &#62;]

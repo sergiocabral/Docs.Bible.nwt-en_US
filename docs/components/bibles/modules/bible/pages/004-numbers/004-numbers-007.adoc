@@ -1,0 +1,391 @@
+include::./index.adoc[]
+
+[[v4-7-0]]
+=== Numbers, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-7-1]]
+
+^<<v4-7-1,1>>^ On the day that Moses finished setting up the tabernacle, he anointed it and sanctified it, together with all its furnishings, the altar, and all its utensils. When he had anointed and sanctified these things,
+
+[[v4-7-2]]
+
+^<<v4-7-2,2>>^ the chieftains of Israel, the heads of their paternal houses, made an offering. These chieftains of the tribes who presided over the registration
+
+[[v4-7-3]]
+
+^<<v4-7-3,3>>^ brought before Jehovah their offering of six covered wagons and 12 oxen, a wagon for two chieftains and a bull^&#42;1^ for each one; and they presented them before the tabernacle.
+
+[NOTE]
+====
+. Or “an ox.”
+====
+
+[[v4-7-4]]
+
+^<<v4-7-4,4>>^ Jehovah said to Moses:
+
+[[v4-7-5]]
+
+^<<v4-7-5,5>>^ “Accept these things from them, as they will be used for the service of the tent of meeting, and you should give them to the Levites, to each one as needed for his duties.”
+
+[[v4-7-6]]
+
+^<<v4-7-6,6>>^ So Moses accepted the wagons and the cattle and gave them to the Levites.
+
+[[v4-7-7]]
+
+^<<v4-7-7,7>>^ He gave two wagons and four oxen to the sons of Gerʹshon, according to what was needed for their duties;
+
+[[v4-7-8]]
+
+^<<v4-7-8,8>>^ and he gave four wagons and eight oxen to the sons of Me·rarʹi, according to what was needed for their duties, under the direction of Ithʹa·mar the son of Aaron the priest.
+
+[[v4-7-9]]
+
+^<<v4-7-9,9>>^ But he did not give any to the sons of Koʹhath because their duties involved the service of the holy place, and they carried the holy things on their shoulders.
+
+[[v4-7-10]]
+
+^<<v4-7-10,10>>^ Now the chieftains made their presentation at the inauguration^&#42;1^ of the altar on the day it was anointed. When the chieftains presented their offering before the altar,
+
+[NOTE]
+====
+. Or “dedication.”
+====
+
+[[v4-7-11]]
+
+^<<v4-7-11,11>>^ Jehovah said to Moses: “One chieftain each day, on successive days, will present his offering for the inauguration of the altar.”
+
+[[v4-7-12]]
+
+^<<v4-7-12,12>>^ The one who presented his offering on the first day was Nahʹshon the son of Am·minʹa·dab of the tribe of Judah.
+
+[[v4-7-13]]
+
+^<<v4-7-13,13>>^ His offering was one silver dish weighing 130 shekels^&#42;1^ and one silver bowl weighing 70 shekels by the standard shekel of the holy place,^&#42;2^ both of them full of fine flour mixed with oil for a grain offering;
+
+[NOTE]
+====
+. A shekel equaled 11.4 g (0.367 oz t). See App. B14.
+. Or “by the holy shekel.”
+====
+
+[[v4-7-14]]
+
+^<<v4-7-14,14>>^ one gold cup^&#42;1^ weighing 10 shekels, full of incense;
+
+[NOTE]
+====
+. Or “small bowl.”
+====
+
+[[v4-7-15]]
+
+^<<v4-7-15,15>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-16]]
+
+^<<v4-7-16,16>>^ one young goat for a sin offering;
+
+[[v4-7-17]]
+
+^<<v4-7-17,17>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of Nahʹshon the son of Am·minʹa·dab.
+
+[[v4-7-18]]
+
+^<<v4-7-18,18>>^ On the second day, Ne·thanʹel the son of Zuʹar, the chieftain of Isʹsa·char, made a presentation.
+
+[[v4-7-19]]
+
+^<<v4-7-19,19>>^ He presented as his offering one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-20]]
+
+^<<v4-7-20,20>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-21]]
+
+^<<v4-7-21,21>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-22]]
+
+^<<v4-7-22,22>>^ one young goat for a sin offering;
+
+[[v4-7-23]]
+
+^<<v4-7-23,23>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of Ne·thanʹel the son of Zuʹar.
+
+[[v4-7-24]]
+
+^<<v4-7-24,24>>^ On the third day, the chieftain for the sons of Zebʹu·lun, E·liʹab the son of Heʹlon,
+
+[[v4-7-25]]
+
+^<<v4-7-25,25>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-26]]
+
+^<<v4-7-26,26>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-27]]
+
+^<<v4-7-27,27>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-28]]
+
+^<<v4-7-28,28>>^ one young goat for a sin offering;
+
+[[v4-7-29]]
+
+^<<v4-7-29,29>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of E·liʹab the son of Heʹlon.
+
+[[v4-7-30]]
+
+^<<v4-7-30,30>>^ On the fourth day, the chieftain for the sons of Reuʹben, E·liʹzur the son of Shedʹe·ur,
+
+[[v4-7-31]]
+
+^<<v4-7-31,31>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-32]]
+
+^<<v4-7-32,32>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-33]]
+
+^<<v4-7-33,33>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-34]]
+
+^<<v4-7-34,34>>^ one young goat for a sin offering;
+
+[[v4-7-35]]
+
+^<<v4-7-35,35>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of E·liʹzur the son of Shedʹe·ur.
+
+[[v4-7-36]]
+
+^<<v4-7-36,36>>^ On the fifth day, the chieftain for the sons of Simʹe·on, She·luʹmi·el the son of Zu·ri·shadʹdai,
+
+[[v4-7-37]]
+
+^<<v4-7-37,37>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-38]]
+
+^<<v4-7-38,38>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-39]]
+
+^<<v4-7-39,39>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-40]]
+
+^<<v4-7-40,40>>^ one young goat for a sin offering;
+
+[[v4-7-41]]
+
+^<<v4-7-41,41>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of She·luʹmi·el the son of Zu·ri·shadʹdai.
+
+[[v4-7-42]]
+
+^<<v4-7-42,42>>^ On the sixth day, the chieftain for the sons of Gad, E·liʹa·saph the son of Deuʹel,
+
+[[v4-7-43]]
+
+^<<v4-7-43,43>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-44]]
+
+^<<v4-7-44,44>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-45]]
+
+^<<v4-7-45,45>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-46]]
+
+^<<v4-7-46,46>>^ one young goat for a sin offering;
+
+[[v4-7-47]]
+
+^<<v4-7-47,47>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of E·liʹa·saph the son of Deuʹel.
+
+[[v4-7-48]]
+
+^<<v4-7-48,48>>^ On the seventh day, the chieftain for the sons of Eʹphra·im, E·lishʹa·ma the son of Am·miʹhud,
+
+[[v4-7-49]]
+
+^<<v4-7-49,49>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-50]]
+
+^<<v4-7-50,50>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-51]]
+
+^<<v4-7-51,51>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-52]]
+
+^<<v4-7-52,52>>^ one young goat for a sin offering;
+
+[[v4-7-53]]
+
+^<<v4-7-53,53>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of E·lishʹa·ma the son of Am·miʹhud.
+
+[[v4-7-54]]
+
+^<<v4-7-54,54>>^ On the eighth day, the chieftain for the sons of Ma·nasʹseh, Ga·maʹli·el the son of Pe·dahʹzur,
+
+[[v4-7-55]]
+
+^<<v4-7-55,55>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-56]]
+
+^<<v4-7-56,56>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-57]]
+
+^<<v4-7-57,57>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-58]]
+
+^<<v4-7-58,58>>^ one young goat for a sin offering;
+
+[[v4-7-59]]
+
+^<<v4-7-59,59>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of Ga·maʹli·el the son of Pe·dahʹzur.
+
+[[v4-7-60]]
+
+^<<v4-7-60,60>>^ On the ninth day, the chieftain for the sons of Benjamin, Abʹi·dan the son of Gid·e·oʹni,
+
+[[v4-7-61]]
+
+^<<v4-7-61,61>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-62]]
+
+^<<v4-7-62,62>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-63]]
+
+^<<v4-7-63,63>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-64]]
+
+^<<v4-7-64,64>>^ one young goat for a sin offering;
+
+[[v4-7-65]]
+
+^<<v4-7-65,65>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of Abʹi·dan the son of Gid·e·oʹni.
+
+[[v4-7-66]]
+
+^<<v4-7-66,66>>^ On the tenth day, the chieftain for the sons of Dan, A·hi·eʹzer the son of Am·mi·shadʹdai,
+
+[[v4-7-67]]
+
+^<<v4-7-67,67>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-68]]
+
+^<<v4-7-68,68>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-69]]
+
+^<<v4-7-69,69>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-70]]
+
+^<<v4-7-70,70>>^ one young goat for a sin offering;
+
+[[v4-7-71]]
+
+^<<v4-7-71,71>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of A·hi·eʹzer the son of Am·mi·shadʹdai.
+
+[[v4-7-72]]
+
+^<<v4-7-72,72>>^ On the 11th day, the chieftain for the sons of Ashʹer, Paʹgi·el the son of Ochʹran,
+
+[[v4-7-73]]
+
+^<<v4-7-73,73>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-74]]
+
+^<<v4-7-74,74>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-75]]
+
+^<<v4-7-75,75>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-76]]
+
+^<<v4-7-76,76>>^ one young goat for a sin offering;
+
+[[v4-7-77]]
+
+^<<v4-7-77,77>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of Paʹgi·el the son of Ochʹran.
+
+[[v4-7-78]]
+
+^<<v4-7-78,78>>^ On the 12th day, the chieftain for the sons of Naphʹta·li, A·hiʹra the son of Eʹnan,
+
+[[v4-7-79]]
+
+^<<v4-7-79,79>>^ made his offering of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels by the standard shekel of the holy place, both of them full of fine flour mixed with oil for a grain offering;
+
+[[v4-7-80]]
+
+^<<v4-7-80,80>>^ one gold cup weighing 10 shekels, full of incense;
+
+[[v4-7-81]]
+
+^<<v4-7-81,81>>^ one young bull, one ram, and one male lamb in its first year for a burnt offering;
+
+[[v4-7-82]]
+
+^<<v4-7-82,82>>^ one young goat for a sin offering;
+
+[[v4-7-83]]
+
+^<<v4-7-83,83>>^ and for a communion sacrifice, two cattle, five rams, five male goats, and five male lambs each a year old. This was the offering of A·hiʹra the son of Eʹnan.
+
+[[v4-7-84]]
+
+^<<v4-7-84,84>>^ This was the inauguration offering of the altar from the chieftains of Israel when it was anointed: 12 silver dishes, 12 silver bowls, 12 gold cups;
+
+[[v4-7-85]]
+
+^<<v4-7-85,85>>^ each silver dish weighing 130 shekels and each bowl weighing 70 shekels, all the silver of the vessels amounting to 2,400 shekels by the standard shekel of the holy place;
+
+[[v4-7-86]]
+
+^<<v4-7-86,86>>^ the 12 gold cups full of incense each weighed 10 shekels by the standard shekel of the holy place, all the gold of the cups amounting to 120 shekels.
+
+[[v4-7-87]]
+
+^<<v4-7-87,87>>^ All the cattle for the burnt offering were 12 bulls, 12 rams, 12 male lambs each a year old and their grain offerings, and 12 young goats for a sin offering;
+
+[[v4-7-88]]
+
+^<<v4-7-88,88>>^ and all the cattle of the communion sacrifice amounted to 24 bulls, 60 rams, 60 male goats, and 60 male lambs each a year old. This was the inauguration offering of the altar after it was anointed.
+
+[[v4-7-89]]
+
+^<<v4-7-89,89>>^ Whenever Moses went into the tent of meeting to speak with God,^&#42;1^ he would hear the voice conversing with him from above the cover of the ark of the Testimony, from between the two cherubs; and God would speak to him.
+
+[NOTE]
+====
+. Lit., “him.”
+====
+
+'''
+
+xref:004-numbers/004-numbers-006.adoc#v4-6-0[&#60; Capítulo Anterior] | <<v4-7-0,Topo>> | xref:004-numbers/004-numbers-008.adoc#v4-8-0[Próximo Capítulo &#62;]

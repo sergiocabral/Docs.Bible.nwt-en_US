@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v19-17-0]]
+=== Psalm, 17
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A prayer of David._
+
+[[v19-17-1]]
+
+^<<v19-17-1,1>>^ Hear my plea for justice, O Jehovah;
+Pay attention to my cry for help;
+Listen to my prayer spoken without deceit.
+
+[[v19-17-2]]
+
+^<<v19-17-2,2>>^ May you make a just decision in my behalf;
+May your eyes see what is right.
+
+[[v19-17-3]]
+
+^<<v19-17-3,3>>^ You have examined my heart, you have inspected me by night;
+You have refined me;
+You will find that I have not schemed anything bad,
+And my mouth has not transgressed.
+
+[[v19-17-4]]
+
+^<<v19-17-4,4>>^ As for the activities of men,
+In accord with the word of your lips, I avoid the paths of the robber.
+
+[[v19-17-5]]
+
+^<<v19-17-5,5>>^ Let my steps stay on your tracks
+So that my feet will not stumble.
+
+[[v19-17-6]]
+
+^<<v19-17-6,6>>^ I do call on you, because you will answer me, O God.
+Incline your ear^&#42;1^ to me. Hear my words.
+
+[NOTE]
+====
+. Or “Bend down and listen.”
+====
+
+[[v19-17-7]]
+
+^<<v19-17-7,7>>^ Show your loyal love in a wonderful way,
+O Savior of those seeking refuge at your right hand
+From those who rebel against you.
+
+[[v19-17-8]]
+
+^<<v19-17-8,8>>^ Guard me like the pupil of your eye;
+Conceal me in the shadow of your wings.
+
+[[v19-17-9]]
+
+^<<v19-17-9,9>>^ Guard me from the wicked who attack me,
+From my mortal enemies^&#42;1^ who surround me.
+
+[NOTE]
+====
+. Or “my enemies against the soul.”
+====
+
+[[v19-17-10]]
+
+^<<v19-17-10,10>>^ They have become insensitive;^&#42;1^
+With their mouth they speak arrogantly;
+
+[NOTE]
+====
+. Or “They are enclosed in their own fat.”
+====
+
+[[v19-17-11]]
+
+^<<v19-17-11,11>>^ Now they hem us in;
+They watch for the chance to cause our downfall.^&#42;1^
+
+[NOTE]
+====
+. Or “throw us down to the ground.”
+====
+
+[[v19-17-12]]
+
+^<<v19-17-12,12>>^ He is like a lion eager to tear its prey to pieces,
+Like a young lion crouching in ambush.
+
+[[v19-17-13]]
+
+^<<v19-17-13,13>>^ Rise up, O Jehovah, to confront him and bring him down;
+Rescue me^&#42;1^ from the wicked with your sword;
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-17-14]]
+
+^<<v19-17-14,14>>^ Rescue me with your hand, O Jehovah,
+From men of this world,^&#42;1^ whose share is in this life,
+Those whom you fill with the good things you provide
+And who leave an inheritance to their many sons.
+
+[NOTE]
+====
+. Or “system of things.”
+====
+
+[[v19-17-15]]
+
+^<<v19-17-15,15>>^ But as for me, in righteousness I will see your face;
+I am satisfied to awaken in your presence.^&#42;1^
+
+[NOTE]
+====
+. Or “to see your form.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v19-17-0,Topo>> | xref:019-psalm/019-psalm-018.adoc#v19-18-0[Próximo Capítulo &#62;]

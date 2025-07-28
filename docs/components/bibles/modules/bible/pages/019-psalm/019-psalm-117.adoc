@@ -1,0 +1,30 @@
+include::./index.adoc[]
+
+[[v19-117-0]]
+=== Psalm, 117
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-117-1]]
+
+^<<v19-117-1,1>>^ Praise Jehovah, all you nations;
+Glorify him, all you peoples.^&#42;1^
+
+[NOTE]
+====
+. Or “clans.”
+====
+
+[[v19-117-2]]
+
+^<<v19-117-2,2>>^ For his loyal love toward us is great;
+The faithfulness of Jehovah endures forever.
+Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-116.adoc#v19-116-0[&#60; Capítulo Anterior] | <<v19-117-0,Topo>> | xref:019-psalm/019-psalm-118.adoc#v19-118-0[Próximo Capítulo &#62;]

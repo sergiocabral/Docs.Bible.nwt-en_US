@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-84-0]]
+=== Psalm, 84
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_For the director; upon the Gitʹtith.^&#42;1^ Of the sons of Korʹah. A melody._
+
+[[v19-84-1]]
+
+^<<v19-84-1,1>>^ How lovely^&#42;1^ your grand tabernacle is,
+O Jehovah of armies!
+
+[NOTE]
+====
+. Or “deeply loved.”
+====
+
+[[v19-84-2]]
+
+^<<v19-84-2,2>>^ My whole being^&#42;1^ yearns,
+Yes, I am faint with longing,
+For the courtyards of Jehovah.
+My heart and my flesh shout joyfully to the living God.
+
+[NOTE]
+====
+. Or “My soul.”
+====
+
+[[v19-84-3]]
+
+^<<v19-84-3,3>>^ Even the bird finds a home there
+And the swallow a nest for herself,
+Where she cares for her young
+Near your grand altar, O Jehovah of armies,
+My King and my God!
+
+[[v19-84-4]]
+
+^<<v19-84-4,4>>^ Happy are those dwelling in your house!
+They continue to praise you. (Selah)
+
+[[v19-84-5]]
+
+^<<v19-84-5,5>>^ Happy are the men who find their strength in you,
+Whose hearts are set on the highways.
+
+[[v19-84-6]]
+
+^<<v19-84-6,6>>^ When they pass through the Baʹca Valley,^&#42;1^
+They make it into a place of springs;
+And the early rain clothes it^&#42;2^ with blessings.
+
+[NOTE]
+====
+. Or “the valley of baca bushes.”
+. Or possibly, “And the instructor enwraps himself.”
+====
+
+[[v19-84-7]]
+
+^<<v19-84-7,7>>^ They will walk on from strength to strength;
+Each one appears before God in Zion.
+
+[[v19-84-8]]
+
+^<<v19-84-8,8>>^ O Jehovah God of armies, hear my prayer;
+Listen, O God of Jacob. (Selah)
+
+[[v19-84-9]]
+
+^<<v19-84-9,9>>^ Look, our shield and our God,^&#42;1^
+Look upon the face of your anointed one.
+
+[NOTE]
+====
+. Or possibly, “Look at our shield, O God.”
+====
+
+[[v19-84-10]]
+
+^<<v19-84-10,10>>^ For a day in your courtyards is better than a thousand anywhere else!
+I choose to stand at the threshold of the house of my God
+Rather than to dwell in the tents of wickedness.
+
+[[v19-84-11]]
+
+^<<v19-84-11,11>>^ For Jehovah God is a sun and a shield;
+He gives favor and glory.
+Jehovah will not hold back anything good
+From those walking in integrity.
+
+[[v19-84-12]]
+
+^<<v19-84-12,12>>^ O Jehovah of armies,
+Happy is the man who trusts in you.
+
+'''
+
+xref:019-psalm/019-psalm-083.adoc#v19-83-0[&#60; Capítulo Anterior] | <<v19-84-0,Topo>> | xref:019-psalm/019-psalm-085.adoc#v19-85-0[Próximo Capítulo &#62;]

@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v6-21-0]]
+=== Joshua, 21
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v6-21-1]]
+
+^<<v6-21-1,1>>^ The heads of the paternal houses of the Levites now approached El·e·aʹzar the priest, Joshua the son of Nun, and the heads of the paternal houses of the tribes of Israel,
+
+[[v6-21-2]]
+
+^<<v6-21-2,2>>^ and they spoke to them in Shiʹloh in the land of Caʹnaan, saying: “Jehovah through Moses commanded that we be given cities in which to dwell, along with their pastures for our livestock.”
+
+[[v6-21-3]]
+
+^<<v6-21-3,3>>^ So at the order of Jehovah, the Israelites gave the Levites these cities and their pastures out of their own inheritance.
+
+[[v6-21-4]]
+
+^<<v6-21-4,4>>^ The lot came out for the families of the Koʹhath·ites, and the Levites who were descendants of Aaron the priest were given by lot^&#42;1^ 13 cities out of the tribe of Judah, the tribe of Simʹe·on, and the tribe of Benjamin.
+
+[NOTE]
+====
+. Or “were allotted.”
+====
+
+[[v6-21-5]]
+
+^<<v6-21-5,5>>^ And for the rest of the Koʹhath·ites, there were allotted^&#42;1^ ten cities out of the families of the tribe of Eʹphra·im, the tribe of Dan, and the half tribe of Ma·nasʹseh.
+
+[NOTE]
+====
+. Or “given by lot.”
+====
+
+[[v6-21-6]]
+
+^<<v6-21-6,6>>^ And for the Gerʹshon·ites, there were allotted 13 cities out of the families of the tribe of Isʹsa·char, the tribe of Ashʹer, the tribe of Naphʹta·li, and the half tribe of Ma·nasʹseh in Baʹshan.
+
+[[v6-21-7]]
+
+^<<v6-21-7,7>>^ For the Me·rarʹites by their families, there were 12 cities out of the tribe of Reuʹben, the tribe of Gad, and the tribe of Zebʹu·lun.
+
+[[v6-21-8]]
+
+^<<v6-21-8,8>>^ Thus the Israelites gave the Levites these cities and their pastures by lot, just as Jehovah had commanded through Moses.
+
+[[v6-21-9]]
+
+^<<v6-21-9,9>>^ So from the tribe of Judah and the tribe of Simʹe·on, they gave these cities here mentioned by name,
+
+[[v6-21-10]]
+
+^<<v6-21-10,10>>^ and they were given to the sons of Aaron of the Koʹhath·ite families of the Levites, because they received the first lot.
+
+[[v6-21-11]]
+
+^<<v6-21-11,11>>^ They gave them Kirʹi·ath-arʹba (Arʹba was the father of Aʹnak), that is, Hebʹron, in the mountainous region of Judah, and its surrounding pastures.
+
+[[v6-21-12]]
+
+^<<v6-21-12,12>>^ But the field of the city and its settlements they gave to Caʹleb the son of Je·phunʹneh as his possession.
+
+[[v6-21-13]]
+
+^<<v6-21-13,13>>^ And to the sons of Aaron the priest, they gave the city of refuge for the manslayer, namely, Hebʹron with its pastures, also Libʹnah with its pastures,
+
+[[v6-21-14]]
+
+^<<v6-21-14,14>>^ Jatʹtir with its pastures, Esh·te·moʹa with its pastures,
+
+[[v6-21-15]]
+
+^<<v6-21-15,15>>^ Hoʹlon with its pastures, Deʹbir with its pastures,
+
+[[v6-21-16]]
+
+^<<v6-21-16,16>>^ Aʹin with its pastures, Jutʹtah with its pastures, and Beth-sheʹmesh with its pastures—nine cities out of these two tribes.
+
+[[v6-21-17]]
+
+^<<v6-21-17,17>>^ And from the tribe of Benjamin: Gibʹe·on with its pastures, Geʹba with its pastures,
+
+[[v6-21-18]]
+
+^<<v6-21-18,18>>^ Anʹa·thoth with its pastures, and Alʹmon with its pastures—four cities.
+
+[[v6-21-19]]
+
+^<<v6-21-19,19>>^ All the cities given to the descendants of Aaron, the priests, were 13 cities with their pastures.
+
+[[v6-21-20]]
+
+^<<v6-21-20,20>>^ And the rest of the Koʹhath·ite families among the Levites were given by lot cities from the tribe of Eʹphra·im.
+
+[[v6-21-21]]
+
+^<<v6-21-21,21>>^ They gave them the city of refuge for the manslayer, namely, Sheʹchem with its pastures in the mountainous region of Eʹphra·im, Geʹzer with its pastures,
+
+[[v6-21-22]]
+
+^<<v6-21-22,22>>^ Kibʹza·im with its pastures, and Beth-hoʹron with its pastures—four cities.
+
+[[v6-21-23]]
+
+^<<v6-21-23,23>>^ And from the tribe of Dan: Elʹte·ke with its pastures, Gibʹbe·thon with its pastures,
+
+[[v6-21-24]]
+
+^<<v6-21-24,24>>^ Aiʹja·lon with its pastures, Gath-rimʹmon with its pastures—four cities.
+
+[[v6-21-25]]
+
+^<<v6-21-25,25>>^ And from the half tribe of Ma·nasʹseh: Taʹa·nach with its pastures and Gath-rimʹmon with its pastures—two cities.
+
+[[v6-21-26]]
+
+^<<v6-21-26,26>>^ All the cities together with their pastures that the rest of the families of the Koʹhath·ites received were ten.
+
+[[v6-21-27]]
+
+^<<v6-21-27,27>>^ And the Gerʹshon·ites of the families of the Levites received from the half tribe of Ma·nasʹseh the city of refuge for the manslayer, namely, Goʹlan, in Baʹshan, with its pastures and Be·eshʹte·rah with its pastures—two cities.
+
+[[v6-21-28]]
+
+^<<v6-21-28,28>>^ And from the tribe of Isʹsa·char: Kishʹi·on with its pastures, Dabʹe·rath with its pastures,
+
+[[v6-21-29]]
+
+^<<v6-21-29,29>>^ Jarʹmuth with its pastures, and En-ganʹnim with its pastures—four cities.
+
+[[v6-21-30]]
+
+^<<v6-21-30,30>>^ And from the tribe of Ashʹer: Miʹshal with its pastures, Abʹdon with its pastures,
+
+[[v6-21-31]]
+
+^<<v6-21-31,31>>^ Helʹkath with its pastures, and Reʹhob with its pastures—four cities.
+
+[[v6-21-32]]
+
+^<<v6-21-32,32>>^ And from the tribe of Naphʹta·li: the city of refuge for the manslayer, namely, Keʹdesh in Galʹi·lee with its pastures, Hamʹmoth-dor with its pastures, and Karʹtan with its pastures—three cities.
+
+[[v6-21-33]]
+
+^<<v6-21-33,33>>^ All the cities of the Gerʹshon·ites by their families were 13 cities with their pastures.
+
+[[v6-21-34]]
+
+^<<v6-21-34,34>>^ And the families of the Me·rarʹites, the rest of the Levites, received from the tribe of Zebʹu·lun: Jokʹne·am with its pastures, Karʹtah with its pastures,
+
+[[v6-21-35]]
+
+^<<v6-21-35,35>>^ Dimʹnah with its pastures, and Na·halʹal with its pastures—four cities.
+
+[[v6-21-36]]
+
+^<<v6-21-36,36>>^ And from the tribe of Reuʹben: Beʹzer with its pastures, Jaʹhaz with its pastures,
+
+[[v6-21-37]]
+
+^<<v6-21-37,37>>^ Kedʹe·moth with its pastures, and Mephʹa·ath with its pastures—four cities.
+
+[[v6-21-38]]
+
+^<<v6-21-38,38>>^ And from the tribe of Gad: the city of refuge for the manslayer, namely, Raʹmoth in Gilʹe·ad with its pastures, Ma·ha·naʹim with its pastures,
+
+[[v6-21-39]]
+
+^<<v6-21-39,39>>^ Heshʹbon with its pastures, and Jaʹzer with its pastures—a total of four cities.
+
+[[v6-21-40]]
+
+^<<v6-21-40,40>>^ All the cities that were allotted to the Me·rarʹites by their families, the rest of the families of the Levites, were 12 cities.
+
+[[v6-21-41]]
+
+^<<v6-21-41,41>>^ All the cities of the Levites within the possession of the Israelites were 48 cities together with their pastures.
+
+[[v6-21-42]]
+
+^<<v6-21-42,42>>^ Each of these cities had its pastures all around it—this was the case for all these cities.
+
+[[v6-21-43]]
+
+^<<v6-21-43,43>>^ So Jehovah gave Israel all the land that he had sworn to give to their forefathers, and they took possession of it and settled in it.
+
+[[v6-21-44]]
+
+^<<v6-21-44,44>>^ Furthermore, Jehovah gave them rest on every side, just as he had sworn to their forefathers, and not one of all their enemies could stand against them. Jehovah gave all their enemies into their hand.
+
+[[v6-21-45]]
+
+^<<v6-21-45,45>>^ Not a promise^&#42;1^ failed out of all the good promises that Jehovah had made to the house of Israel; all of them came true.
+
+[NOTE]
+====
+. Or “word.”
+====
+
+'''
+
+xref:006-joshua/006-joshua-020.adoc#v6-20-0[&#60; Capítulo Anterior] | <<v6-21-0,Topo>> | xref:006-joshua/006-joshua-022.adoc#v6-22-0[Próximo Capítulo &#62;]

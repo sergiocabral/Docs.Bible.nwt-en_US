@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v19-90-0]]
+=== Psalm, 90
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_BOOK FOUR_
+
+_(Psalms 90-106)_
+
+_A prayer of Moses, the man of the true God._
+
+[[v19-90-1]]
+
+^<<v19-90-1,1>>^ O Jehovah, you have been our dwelling place^&#42;1^ throughout all generations.
+
+[NOTE]
+====
+. Or possibly, “our refuge.”
+====
+
+[[v19-90-2]]
+
+^<<v19-90-2,2>>^ Before the mountains were born
+Or you brought forth^&#42;1^ the earth and the productive land,
+From everlasting to everlasting,^&#42;2^ you are God.
+
+[NOTE]
+====
+. Or “brought forth as with labor pains.”
+. Or “From eternity to eternity.”
+====
+
+[[v19-90-3]]
+
+^<<v19-90-3,3>>^ You make mortal man return to dust;
+You say: “Return, you sons of men.”
+
+[[v19-90-4]]
+
+^<<v19-90-4,4>>^ For a thousand years are in your eyes just as yesterday when it is past,
+Just as a watch during the night.
+
+[[v19-90-5]]
+
+^<<v19-90-5,5>>^ You sweep them away; they become like mere sleep;
+In the morning they are like grass that sprouts.
+
+[[v19-90-6]]
+
+^<<v19-90-6,6>>^ In the morning it blossoms and is renewed,
+But by evening it withers and dries up.
+
+[[v19-90-7]]
+
+^<<v19-90-7,7>>^ For we are consumed by your anger
+And terrified by your rage.
+
+[[v19-90-8]]
+
+^<<v19-90-8,8>>^ You place our errors in front of you;^&#42;1^
+Our secrets are exposed by the light of your face.
+
+[NOTE]
+====
+. Or “You are aware of our errors.”
+====
+
+[[v19-90-9]]
+
+^<<v19-90-9,9>>^ Our days ebb^&#42;1^ away because of your fury;
+And our years come to an end like a whisper.^&#42;2^
+
+[NOTE]
+====
+. Or “Our life ebbs.”
+. Or “a sigh.”
+====
+
+[[v19-90-10]]
+
+^<<v19-90-10,10>>^ The span of our life is 70 years,
+Or 80 if one is especially strong.^&#42;1^
+But they are filled with trouble and sorrow;
+They quickly pass by, and away we fly.
+
+[NOTE]
+====
+. Or “because of special mightiness.”
+====
+
+[[v19-90-11]]
+
+^<<v19-90-11,11>>^ Who can fathom the power of your anger?
+Your fury is as great as the fear you deserve.
+
+[[v19-90-12]]
+
+^<<v19-90-12,12>>^ Teach us how to count our days
+So that we may acquire a heart of wisdom.
+
+[[v19-90-13]]
+
+^<<v19-90-13,13>>^ Return, O Jehovah! How long will this last?
+Have pity on your servants.
+
+[[v19-90-14]]
+
+^<<v19-90-14,14>>^ Satisfy us with your loyal love in the morning,
+So that we may shout joyfully and rejoice during all our days.
+
+[[v19-90-15]]
+
+^<<v19-90-15,15>>^ Make us rejoice in proportion to the days you have afflicted us,
+For as many years as we have experienced calamity.
+
+[[v19-90-16]]
+
+^<<v19-90-16,16>>^ May your servants see your activity,
+And may their sons see your splendor.
+
+[[v19-90-17]]
+
+^<<v19-90-17,17>>^ May the favor of Jehovah our God be upon us;
+May you prosper^&#42;1^ the work of our hands.
+Yes, prosper^&#42;2^ the work of our hands.
+
+[NOTE]
+====
+. Or “firmly establish.”
+. Or “firmly establish.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-089.adoc#v19-89-0[&#60; Capítulo Anterior] | <<v19-90-0,Topo>> | xref:019-psalm/019-psalm-091.adoc#v19-91-0[Próximo Capítulo &#62;]

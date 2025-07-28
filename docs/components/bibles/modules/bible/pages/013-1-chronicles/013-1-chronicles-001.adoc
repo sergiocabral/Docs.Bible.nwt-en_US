@@ -1,0 +1,277 @@
+include::./index.adoc[]
+
+[[v13-1-0]]
+=== The First of Chronicles, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v13-1-1]]
+
+^<<v13-1-1,1>>^ Adam,
+Seth,
+Eʹnosh,
+
+[[v13-1-2]]
+
+^<<v13-1-2,2>>^ Keʹnan,
+Ma·halʹa·lel,
+Jaʹred,
+
+[[v13-1-3]]
+
+^<<v13-1-3,3>>^ Eʹnoch,
+Me·thuʹse·lah,
+Laʹmech,
+
+[[v13-1-4]]
+
+^<<v13-1-4,4>>^ Noah,
+Shem, Ham, and Jaʹpheth.
+
+[[v13-1-5]]
+
+^<<v13-1-5,5>>^ The sons of Jaʹpheth were Goʹmer, Maʹgog, Maʹda·i, Jaʹvan, Tuʹbal, Meʹshech, and Tiʹras.
+
+[[v13-1-6]]
+
+^<<v13-1-6,6>>^ The sons of Goʹmer were Ashʹke·naz, Riʹphath, and To·garʹmah.
+
+[[v13-1-7]]
+
+^<<v13-1-7,7>>^ The sons of Jaʹvan were E·liʹshah, Tarʹshish, Kitʹtim, and Roʹda·nim.
+
+[[v13-1-8]]
+
+^<<v13-1-8,8>>^ The sons of Ham were Cush, Mizʹra·im, Put, and Caʹnaan.
+
+[[v13-1-9]]
+
+^<<v13-1-9,9>>^ The sons of Cush were Seʹba, Havʹi·lah, Sabʹtah, Raʹa·mah, and Sabʹte·ca.
+The sons of Raʹa·mah were Sheʹba and Deʹdan.
+
+[[v13-1-10]]
+
+^<<v13-1-10,10>>^ Cush became father to Nimʹrod. He was the first to become a mighty one on the earth.
+
+[[v13-1-11]]
+
+^<<v13-1-11,11>>^ Mizʹra·im became father to Luʹdim, Anʹa·mim, Le·haʹbim, Naph·tuʹhim,
+
+[[v13-1-12]]
+
+^<<v13-1-12,12>>^ Path·ruʹsim, Cas·luʹhim (from whom the Phi·lisʹtines came), and Caphʹto·rim.
+
+[[v13-1-13]]
+
+^<<v13-1-13,13>>^ Caʹnaan became father to Siʹdon, his firstborn, and Heth,
+
+[[v13-1-14]]
+
+^<<v13-1-14,14>>^ as well as the Jebʹu·site, the Amʹor·ite, the Girʹga·shite,
+
+[[v13-1-15]]
+
+^<<v13-1-15,15>>^ the Hiʹvite, the Arkʹite, the Siʹnite,
+
+[[v13-1-16]]
+
+^<<v13-1-16,16>>^ the Arʹvad·ite, the Zemʹa·rite, and the Haʹmath·ite.
+
+[[v13-1-17]]
+
+^<<v13-1-17,17>>^ The sons of Shem were Eʹlam, Asʹshur, Ar·pachʹshad, Lud, and Aʹram,
+and^&#42;1^ Uz, Hul, Geʹther, and Mash.
+
+[NOTE]
+====
+. The following are the sons of Aram. See Ge 10:23.
+====
+
+[[v13-1-18]]
+
+^<<v13-1-18,18>>^ Ar·pachʹshad became father to Sheʹlah, and Sheʹlah became father to Eʹber.
+
+[[v13-1-19]]
+
+^<<v13-1-19,19>>^ Two sons were born to Eʹber. The name of the one was Peʹleg,^&#42;1^ because in his lifetime the earth^&#42;2^ was divided. The name of his brother was Jokʹtan.
+
+[NOTE]
+====
+. Meaning “Division.”
+. Or “earth’s population.”
+====
+
+[[v13-1-20]]
+
+^<<v13-1-20,20>>^ Jokʹtan became father to Al·moʹdad, Sheʹleph, Ha·zar·maʹveth, Jeʹrah,
+
+[[v13-1-21]]
+
+^<<v13-1-21,21>>^ Ha·doʹram, Uʹzal, Dikʹlah,
+
+[[v13-1-22]]
+
+^<<v13-1-22,22>>^ Oʹbal, A·bimʹa·el, Sheʹba,
+
+[[v13-1-23]]
+
+^<<v13-1-23,23>>^ Oʹphir, Havʹi·lah, and Joʹbab; all of these were the sons of Jokʹtan.
+
+[[v13-1-24]]
+
+^<<v13-1-24,24>>^ Shem,
+Ar·pachʹshad,
+Sheʹlah,
+
+[[v13-1-25]]
+
+^<<v13-1-25,25>>^ Eʹber,
+Peʹleg,
+Reʹu,
+
+[[v13-1-26]]
+
+^<<v13-1-26,26>>^ Seʹrug,
+Naʹhor,
+Teʹrah,
+
+[[v13-1-27]]
+
+^<<v13-1-27,27>>^ Aʹbram, that is, Abraham.
+
+[[v13-1-28]]
+
+^<<v13-1-28,28>>^ The sons of Abraham were Isaac and Ishʹma·el.
+
+[[v13-1-29]]
+
+^<<v13-1-29,29>>^ These are their family origins: Ishʹma·el’s firstborn Ne·baʹioth, then Keʹdar, Adʹbe·el, Mibʹsam,
+
+[[v13-1-30]]
+
+^<<v13-1-30,30>>^ Mishʹma, Duʹmah, Masʹsa, Haʹdad, Teʹma,
+
+[[v13-1-31]]
+
+^<<v13-1-31,31>>^ Jeʹtur, Naʹphish, and Kedʹe·mah. These were the sons of Ishʹma·el.
+
+[[v13-1-32]]
+
+^<<v13-1-32,32>>^ The sons that Ke·tuʹrah, Abraham’s concubine, gave birth to were Zimʹran, Jokʹshan, Meʹdan, Midʹi·an, Ishʹbak, and Shuʹah.
+The sons of Jokʹshan were Sheʹba and Deʹdan.
+
+[[v13-1-33]]
+
+^<<v13-1-33,33>>^ The sons of Midʹi·an were Eʹphah, Eʹpher, Haʹnoch, A·biʹda, and El·daʹah.
+All of these were the sons of Ke·tuʹrah.
+
+[[v13-1-34]]
+
+^<<v13-1-34,34>>^ Abraham became father to Isaac. The sons of Isaac were Eʹsau and Israel.
+
+[[v13-1-35]]
+
+^<<v13-1-35,35>>^ The sons of Eʹsau were Elʹi·phaz, Reuʹel, Jeʹush, Jaʹlam, and Korʹah.
+
+[[v13-1-36]]
+
+^<<v13-1-36,36>>^ The sons of Elʹi·phaz were Teʹman, Oʹmar, Zeʹpho, Gaʹtam, Keʹnaz, Timʹna, and Amʹa·lek.
+
+[[v13-1-37]]
+
+^<<v13-1-37,37>>^ The sons of Reuʹel were Naʹhath, Zeʹrah, Shamʹmah, and Mizʹzah.
+
+[[v13-1-38]]
+
+^<<v13-1-38,38>>^ The sons of Seʹir were Loʹtan, Shoʹbal, Zibʹe·on, Aʹnah, Diʹshon, Eʹzer, and Diʹshan.
+
+[[v13-1-39]]
+
+^<<v13-1-39,39>>^ The sons of Loʹtan were Hoʹri and Hoʹmam. Loʹtan’s sister was Timʹna.
+
+[[v13-1-40]]
+
+^<<v13-1-40,40>>^ The sons of Shoʹbal were Alʹvan, Manʹa·hath, Eʹbal, Sheʹpho, and Oʹnam.
+The sons of Zibʹe·on were Aʹiah and Aʹnah.
+
+[[v13-1-41]]
+
+^<<v13-1-41,41>>^ The son^&#42;1^ of Aʹnah was Diʹshon.
+The sons of Diʹshon were Hemʹdan, Eshʹban, Ithʹran, and Cheʹran.
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v13-1-42]]
+
+^<<v13-1-42,42>>^ The sons of Eʹzer were Bilʹhan, Zaʹa·van, and Aʹkan.
+The sons of Diʹshan were Uz and Aʹran.
+
+[[v13-1-43]]
+
+^<<v13-1-43,43>>^ These are the kings who reigned in the land of Eʹdom before any king reigned over the Israelites:^&#42;1^ Beʹla the son of Beʹor; the name of his city was Dinʹha·bah.
+
+[NOTE]
+====
+. Lit., “sons of Israel.”
+====
+
+[[v13-1-44]]
+
+^<<v13-1-44,44>>^ When Beʹla died, Joʹbab the son of Zeʹrah from Bozʹrah began to reign in his place.
+
+[[v13-1-45]]
+
+^<<v13-1-45,45>>^ When Joʹbab died, Huʹsham from the land of the Teʹman·ites began to reign in his place.
+
+[[v13-1-46]]
+
+^<<v13-1-46,46>>^ When Huʹsham died, Haʹdad the son of Beʹdad, who defeated Midʹi·an in the territory^&#42;1^ of Moʹab, began to reign in his place. The name of his city was Aʹvith.
+
+[NOTE]
+====
+. Lit., “field.”
+====
+
+[[v13-1-47]]
+
+^<<v13-1-47,47>>^ When Haʹdad died, Samʹlah from Mas·reʹkah began to reign in his place.
+
+[[v13-1-48]]
+
+^<<v13-1-48,48>>^ When Samʹlah died, Shaʹul from Re·hoʹboth by the River began to reign in his place.
+
+[[v13-1-49]]
+
+^<<v13-1-49,49>>^ When Shaʹul died, Baʹal-haʹnan the son of Achʹbor began to reign in his place.
+
+[[v13-1-50]]
+
+^<<v13-1-50,50>>^ When Baʹal-haʹnan died, Haʹdad began to reign in his place. The name of his city was Paʹu, and the name of his wife was Me·hetʹa·bel the daughter of Maʹtred, the daughter of Meʹza·hab.
+
+[[v13-1-51]]
+
+^<<v13-1-51,51>>^ Then Haʹdad died.
+The sheikhs^&#42;1^ of Eʹdom were Sheikh Timʹna, Sheikh Alʹvah, Sheikh Jeʹtheth,
+
+[NOTE]
+====
+. A sheikh was a tribal chief.
+====
+
+[[v13-1-52]]
+
+^<<v13-1-52,52>>^ Sheikh O·hol·i·baʹmah, Sheikh Eʹlah, Sheikh Piʹnon,
+
+[[v13-1-53]]
+
+^<<v13-1-53,53>>^ Sheikh Keʹnaz, Sheikh Teʹman, Sheikh Mibʹzar,
+
+[[v13-1-54]]
+
+^<<v13-1-54,54>>^ Sheikh Magʹdi·el, Sheikh Iʹram. These were the sheikhs of Eʹdom.
+
+'''
+
+xref:012-2-kings/012-2-kings-025.adoc#v12-25-0[&#60; Capítulo Anterior] | <<v13-1-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-002.adoc#v13-2-0[Próximo Capítulo &#62;]

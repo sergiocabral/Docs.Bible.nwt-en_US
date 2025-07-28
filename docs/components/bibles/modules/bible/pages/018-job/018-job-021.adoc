@@ -1,0 +1,242 @@
+include::./index.adoc[]
+
+[[v18-21-0]]
+=== Job, 21
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-21-1]]
+
+^<<v18-21-1,1>>^ Job said in reply:
+
+[[v18-21-2]]
+
+^<<v18-21-2,2>>^ “Listen carefully to what I say;
+Let this be the consolation you give me.
+
+[[v18-21-3]]
+
+^<<v18-21-3,3>>^ Bear with me while I speak;
+After I speak, you may then mock me.
+
+[[v18-21-4]]
+
+^<<v18-21-4,4>>^ Is my complaint directed toward a man?
+If it were, would I^&#42;1^ not lose patience?
+
+[NOTE]
+====
+. Lit., “my spirit.”
+====
+
+[[v18-21-5]]
+
+^<<v18-21-5,5>>^ Look at me and stare in amazement;
+Put your hand over your mouth.
+
+[[v18-21-6]]
+
+^<<v18-21-6,6>>^ When I think about it, I am disturbed,
+And my whole body shudders.
+
+[[v18-21-7]]
+
+^<<v18-21-7,7>>^ Why do the wicked live on,
+Grow old, and become wealthy?^&#42;1^
+
+[NOTE]
+====
+. Or “powerful.”
+====
+
+[[v18-21-8]]
+
+^<<v18-21-8,8>>^ Their children are always in their presence,
+And they get to see their descendants.
+
+[[v18-21-9]]
+
+^<<v18-21-9,9>>^ Their houses are secure, they are free from fear,
+And God does not punish them with his rod.
+
+[[v18-21-10]]
+
+^<<v18-21-10,10>>^ Their bulls breed without failure;
+Their cows give birth and do not miscarry.
+
+[[v18-21-11]]
+
+^<<v18-21-11,11>>^ Their boys run outside just like a flock,
+And their children skip about.
+
+[[v18-21-12]]
+
+^<<v18-21-12,12>>^ They sing accompanied by tambourine and harp
+And rejoice at the sound of the flute.^&#42;1^
+
+[NOTE]
+====
+. Or “pipe.”
+====
+
+[[v18-21-13]]
+
+^<<v18-21-13,13>>^ They spend their days in contentment
+And go down peacefully^&#42;1^ to the Grave.^&#42;2^
+
+[NOTE]
+====
+. Or “in a moment,” that is, a quick and painless death.
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v18-21-14]]
+
+^<<v18-21-14,14>>^ But they say to the true God, ‘Leave us alone!
+We have no desire to know your ways.
+
+[[v18-21-15]]
+
+^<<v18-21-15,15>>^ Who is the Almighty, that we should serve him?
+What would we gain by being acquainted with him?’
+
+[[v18-21-16]]
+
+^<<v18-21-16,16>>^ But I know that they do not control their own prosperity.
+The thinking^&#42;1^ of the wicked is far from me.
+
+[NOTE]
+====
+. Or “advice; scheming.”
+====
+
+[[v18-21-17]]
+
+^<<v18-21-17,17>>^ How often is the lamp of the wicked extinguished?
+How often does disaster come upon them?
+How often does God deal out destruction to them in his anger?
+
+[[v18-21-18]]
+
+^<<v18-21-18,18>>^ Do they ever become like straw before the wind
+And like chaff that a storm wind carries away?
+
+[[v18-21-19]]
+
+^<<v18-21-19,19>>^ God will store up a man’s punishment for his own sons.
+But may God repay him so that he will know it.
+
+[[v18-21-20]]
+
+^<<v18-21-20,20>>^ May his own eyes see his ruin,
+And may he be the one to drink from the rage of the Almighty.
+
+[[v18-21-21]]
+
+^<<v18-21-21,21>>^ For what does he care about what happens to his house after him
+If the number of his months is cut short?^&#42;1^
+
+[NOTE]
+====
+. Or “cut in two.”
+====
+
+[[v18-21-22]]
+
+^<<v18-21-22,22>>^ Can anyone teach knowledge to God,^&#42;1^
+When He is the one who judges even the highest ones?
+
+[NOTE]
+====
+. Or “teach God anything.”
+====
+
+[[v18-21-23]]
+
+^<<v18-21-23,23>>^ One man dies in his full vigor
+When he is completely carefree and at ease,
+
+[[v18-21-24]]
+
+^<<v18-21-24,24>>^ When his thighs are padded with fat
+And his bones are strong.^&#42;1^
+
+[NOTE]
+====
+. Lit., “the marrow of his bones is moist.”
+====
+
+[[v18-21-25]]
+
+^<<v18-21-25,25>>^ But another man dies deeply distressed,^&#42;1^
+Never having tasted good things.
+
+[NOTE]
+====
+. Or “with a bitter soul.”
+====
+
+[[v18-21-26]]
+
+^<<v18-21-26,26>>^ Together they will lie down in the dust,
+And maggots will cover both of them.
+
+[[v18-21-27]]
+
+^<<v18-21-27,27>>^ Look! I know exactly what you are thinking
+And the schemes you devise to wrong me.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “to act violently against me.”
+====
+
+[[v18-21-28]]
+
+^<<v18-21-28,28>>^ For you say, ‘Where is the house of the prominent man,
+And where is the tent in which the wicked one lived?’
+
+[[v18-21-29]]
+
+^<<v18-21-29,29>>^ Have you not questioned travelers?
+Do you not carefully study their observations,^&#42;1^
+
+[NOTE]
+====
+. Lit., “signs.”
+====
+
+[[v18-21-30]]
+
+^<<v18-21-30,30>>^ That an evil person is spared on the day of disaster
+And rescued on the day of fury?
+
+[[v18-21-31]]
+
+^<<v18-21-31,31>>^ Who will confront him about his way,
+And who will repay him for what he has done?
+
+[[v18-21-32]]
+
+^<<v18-21-32,32>>^ When he is carried to the graveyard,
+A vigil will be kept over his tomb.
+
+[[v18-21-33]]
+
+^<<v18-21-33,33>>^ The clods of earth of the valley^&#42;1^ will be sweet to him,
+And all mankind follows after him^&#42;2^
+Like the countless number before him.
+
+[NOTE]
+====
+. Or “wadi.”
+. Lit., “And he will drag all mankind after him.”
+====
+
+[[v18-21-34]]
+
+^<<v18-21-34,34>>^ So why offer me meaningless comfort?
+There is nothing but deceit in your answers!”
+
+'''
+
+xref:018-job/018-job-020.adoc#v18-20-0[&#60; Capítulo Anterior] | <<v18-21-0,Topo>> | xref:018-job/018-job-022.adoc#v18-22-0[Próximo Capítulo &#62;]

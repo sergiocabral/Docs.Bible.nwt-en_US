@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-56-0]]
+=== Psalm, 56
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; set to “The Silent Dove That Is Far Away.” Of David. Mikʹtam.^&#42;1^ When the Phi·lisʹtines captured him in Gath._
+
+[[v19-56-1]]
+
+^<<v19-56-1,1>>^ Show me favor, O God, because mortal man is attacking^&#42;1^ me.
+All day long they keep fighting and oppressing me.
+
+[NOTE]
+====
+. Or “snapping at.”
+====
+
+[[v19-56-2]]
+
+^<<v19-56-2,2>>^ My foes keep snapping at me all day long;
+Many arrogantly fight against me.
+
+[[v19-56-3]]
+
+^<<v19-56-3,3>>^ When I am afraid, I put my trust in you.
+
+[[v19-56-4]]
+
+^<<v19-56-4,4>>^ In God—whose word I praise—
+In God I put my trust; I am not afraid.
+What can mere man^&#42;1^ do to me?
+
+[NOTE]
+====
+. Lit., “flesh.”
+====
+
+[[v19-56-5]]
+
+^<<v19-56-5,5>>^ All day long they hurt my interests;
+Their only thought is to harm me.
+
+[[v19-56-6]]
+
+^<<v19-56-6,6>>^ They conceal themselves to attack;
+They watch my every step,
+Hoping to take away my life.^&#42;1^
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-56-7]]
+
+^<<v19-56-7,7>>^ Reject them because of their wickedness.
+Bring down the nations in your anger, O God.
+
+[[v19-56-8]]
+
+^<<v19-56-8,8>>^ You keep track of my wandering.
+Do collect my tears in your skin bottle.
+Are they not recorded in your book?
+
+[[v19-56-9]]
+
+^<<v19-56-9,9>>^ My enemies will retreat on the day that I call for help.
+Of this I am confident: God is on my side.
+
+[[v19-56-10]]
+
+^<<v19-56-10,10>>^ In God—whose word I praise—
+In Jehovah—whose word I praise—
+
+[[v19-56-11]]
+
+^<<v19-56-11,11>>^ In God I put my trust; I am not afraid.
+What can a mere human do to me?
+
+[[v19-56-12]]
+
+^<<v19-56-12,12>>^ I am bound by my vows to you, O God;
+I will offer you expressions of thanksgiving.
+
+[[v19-56-13]]
+
+^<<v19-56-13,13>>^ For you have rescued me^&#42;1^ from death
+And prevented my feet from stumbling,
+So that I may walk before God in the light of the living.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-055.adoc#v19-55-0[&#60; Capítulo Anterior] | <<v19-56-0,Topo>> | xref:019-psalm/019-psalm-057.adoc#v19-57-0[Próximo Capítulo &#62;]

@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v42-17-0]]
+=== According to Luke, 17
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v42-17-1]]
+
+^<<v42-17-1,1>>^ Then he said to his disciples: “It is unavoidable that causes for stumbling should come. Nevertheless, woe to the one through whom they come!
+
+[[v42-17-2]]
+
+^<<v42-17-2,2>>^ It would be more advantageous for him if a millstone were hung from his neck and he were thrown into the sea than for him to stumble one of these little ones.
+
+[[v42-17-3]]
+
+^<<v42-17-3,3>>^ Pay attention to yourselves. If your brother commits a sin, rebuke him, and if he repents, forgive him.
+
+[[v42-17-4]]
+
+^<<v42-17-4,4>>^ Even if he sins seven times a day against you and he comes back to you seven times, saying, ‘I repent,’ you must forgive him.”
+
+[[v42-17-5]]
+
+^<<v42-17-5,5>>^ Now the apostles said to the Lord: “Give us more faith.”
+
+[[v42-17-6]]
+
+^<<v42-17-6,6>>^ Then the Lord said: “If you had faith the size of a mustard grain, you would say to this black mulberry tree, ‘Be uprooted and planted in the sea!’ and it would obey you.
+
+[[v42-17-7]]
+
+^<<v42-17-7,7>>^ “Which one of you who has a slave plowing or shepherding would say to him when he comes in from the field, ‘Come here at once and dine at the table’?
+
+[[v42-17-8]]
+
+^<<v42-17-8,8>>^ Rather, will he not say to him, ‘Get something ready for me to have my evening meal, and put on an apron and serve me until I finish eating and drinking, and afterward you can eat and drink’?
+
+[[v42-17-9]]
+
+^<<v42-17-9,9>>^ He will not feel gratitude to the slave because he did what was assigned, will he?
+
+[[v42-17-10]]
+
+^<<v42-17-10,10>>^ Likewise, when you have done all the things assigned to you, say: ‘We are good-for-nothing slaves. What we have done is what we ought to have done.’”
+
+[[v42-17-11]]
+
+^<<v42-17-11,11>>^ While he was going to Jerusalem, he was passing between Sa·marʹi·a and Galʹi·lee.
+
+[[v42-17-12]]
+
+^<<v42-17-12,12>>^ And as he was entering a village, ten men with leprosy met him, but they stood at a distance.
+
+[[v42-17-13]]
+
+^<<v42-17-13,13>>^ And they raised their voices and said: “Jesus, Instructor, have mercy on us!”
+
+[[v42-17-14]]
+
+^<<v42-17-14,14>>^ When he saw them, he said to them: “Go and show yourselves to the priests.” Then as they were going off, they were cleansed.
+
+[[v42-17-15]]
+
+^<<v42-17-15,15>>^ One of them, when he saw that he was healed, turned back, glorifying God with a loud voice.
+
+[[v42-17-16]]
+
+^<<v42-17-16,16>>^ And he fell facedown at Jesus’ feet, thanking him. Furthermore, he was a Sa·marʹi·tan.
+
+[[v42-17-17]]
+
+^<<v42-17-17,17>>^ In reply Jesus said: “All ten were cleansed, were they not? Where, then, are the other nine?
+
+[[v42-17-18]]
+
+^<<v42-17-18,18>>^ Did no one else turn back to give glory to God except this man of another nation?”
+
+[[v42-17-19]]
+
+^<<v42-17-19,19>>^ Then he said to him: “Get up and be on your way; your faith has made you well.”
+
+[[v42-17-20]]
+
+^<<v42-17-20,20>>^ On being asked by the Pharisees when the Kingdom of God was coming, he answered them: “The Kingdom of God is not coming with striking observableness;
+
+[[v42-17-21]]
+
+^<<v42-17-21,21>>^ nor will people say, ‘See here!’ or, ‘There!’ For look! the Kingdom of God is in your midst.”^&#42;1^
+
+[NOTE]
+====
+. Or “is among you.”
+====
+
+[[v42-17-22]]
+
+^<<v42-17-22,22>>^ Then he said to the disciples: “Days will come when you will desire to see one of the days of the Son of man, but you will not see it.
+
+[[v42-17-23]]
+
+^<<v42-17-23,23>>^ And people will say to you, ‘See there!’ or, ‘See here!’ Do not go out or chase after them.
+
+[[v42-17-24]]
+
+^<<v42-17-24,24>>^ For just as lightning flashes from one part of heaven to another part of heaven, so the Son of man will be in his day.
+
+[[v42-17-25]]
+
+^<<v42-17-25,25>>^ First, however, he must undergo many sufferings and be rejected by this generation.
+
+[[v42-17-26]]
+
+^<<v42-17-26,26>>^ Moreover, just as it occurred in the days of Noah, so it will be in the days of the Son of man:
+
+[[v42-17-27]]
+
+^<<v42-17-27,27>>^ they were eating, they were drinking, men were marrying, women were being given in marriage until that day when Noah entered into the ark, and the Flood came and destroyed them all.
+
+[[v42-17-28]]
+
+^<<v42-17-28,28>>^ Likewise, just as it occurred in the days of Lot: they were eating, they were drinking, they were buying, they were selling, they were planting, they were building.
+
+[[v42-17-29]]
+
+^<<v42-17-29,29>>^ But on the day that Lot went out of Sodʹom, it rained fire and sulfur from heaven and destroyed them all.
+
+[[v42-17-30]]
+
+^<<v42-17-30,30>>^ It will be the same on that day when the Son of man is revealed.
+
+[[v42-17-31]]
+
+^<<v42-17-31,31>>^ “On that day let the person who is on the housetop but whose belongings are in the house not come down to pick these up, and likewise, the person out in the field must not return to the things behind.
+
+[[v42-17-32]]
+
+^<<v42-17-32,32>>^ Remember the wife of Lot.
+
+[[v42-17-33]]
+
+^<<v42-17-33,33>>^ Whoever seeks to keep his life^&#42;1^ safe will lose it, but whoever loses it will preserve it alive.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v42-17-34]]
+
+^<<v42-17-34,34>>^ I tell you, in that night two people will be in one bed; the one will be taken along, but the other will be abandoned.
+
+[[v42-17-35]]
+
+^<<v42-17-35,35>>^ There will be two women grinding at the same mill; the one will be taken along, but the other will be abandoned.”
+
+[[v42-17-36]]
+
+^<<v42-17-36,36>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. See App. A3.
+====
+
+[[v42-17-37]]
+
+^<<v42-17-37,37>>^ So in response they said to him: “Where, Lord?” He said to them: “Where the body is, there also the eagles will be gathered together.”
+
+'''
+
+xref:042-luke/042-luke-016.adoc#v42-16-0[&#60; Capítulo Anterior] | <<v42-17-0,Topo>> | xref:042-luke/042-luke-018.adoc#v42-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,148 @@
+include::./index.adoc[]
+
+[[v19-38-0]]
+=== Psalm, 38
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of David, to serve as a reminder.^&#42;1^_
+
+[[v19-38-1]]
+
+^<<v19-38-1,1>>^ O Jehovah, do not reprove me in your anger,
+Nor correct me in your wrath.
+
+[[v19-38-2]]
+
+^<<v19-38-2,2>>^ For your arrows have pierced deep into me,
+And your hand presses down on me.
+
+[[v19-38-3]]
+
+^<<v19-38-3,3>>^ My whole body is sick^&#42;1^ because of your indignation.
+There is no peace within my bones because of my sin.
+
+[NOTE]
+====
+. Lit., “There is no sound spot in my flesh.”
+====
+
+[[v19-38-4]]
+
+^<<v19-38-4,4>>^ For my errors loom over my head;
+Like a heavy burden, they are too much for me to bear.
+
+[[v19-38-5]]
+
+^<<v19-38-5,5>>^ My wounds stink and fester
+Because of my foolishness.
+
+[[v19-38-6]]
+
+^<<v19-38-6,6>>^ I am distressed and extremely downcast;
+I walk around sad all day long.
+
+[[v19-38-7]]
+
+^<<v19-38-7,7>>^ There is a burning within me;^&#42;1^
+My whole body is sick.
+
+[NOTE]
+====
+. Lit., “My loins are full of burning.”
+====
+
+[[v19-38-8]]
+
+^<<v19-38-8,8>>^ I have grown numb and become completely crushed;
+My anguished heart makes me groan aloud.^&#42;1^
+
+[NOTE]
+====
+. Or “roar.”
+====
+
+[[v19-38-9]]
+
+^<<v19-38-9,9>>^ O Jehovah, all my desires are before you,
+And my sighing is not hidden from you.
+
+[[v19-38-10]]
+
+^<<v19-38-10,10>>^ My heart pounds, my strength is gone,
+And the light of my eyes has left me.
+
+[[v19-38-11]]
+
+^<<v19-38-11,11>>^ My friends and my companions avoid me because of my plague,
+And my close acquaintances keep their distance.
+
+[[v19-38-12]]
+
+^<<v19-38-12,12>>^ Those seeking my life^&#42;1^ set traps;
+Those trying to harm me speak of ruin;
+They mutter deception all day long.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-38-13]]
+
+^<<v19-38-13,13>>^ But like someone deaf, I would not listen;
+Like someone speechless, I would not open my mouth.
+
+[[v19-38-14]]
+
+^<<v19-38-14,14>>^ I have become like a man who cannot hear,
+Whose mouth has nothing to say in defense.
+
+[[v19-38-15]]
+
+^<<v19-38-15,15>>^ For on you, O Jehovah, I waited,
+And you answered me, O Jehovah my God.
+
+[[v19-38-16]]
+
+^<<v19-38-16,16>>^ For I said: “May they not gloat over me
+Or exalt themselves over me if my foot slips.”
+
+[[v19-38-17]]
+
+^<<v19-38-17,17>>^ For I was ready to collapse,
+And my pain was always with me.
+
+[[v19-38-18]]
+
+^<<v19-38-18,18>>^ I confessed my error;
+I was troubled by my sin.
+
+[[v19-38-19]]
+
+^<<v19-38-19,19>>^ But my enemies are vigorous^&#42;1^ and mighty,^&#42;2^
+Those hating me for no reason have become numerous.
+
+[NOTE]
+====
+. Lit., “alive.”
+. Or possibly, “But my enemies without cause are many.”
+====
+
+[[v19-38-20]]
+
+^<<v19-38-20,20>>^ They repaid me with bad for good;
+They were resisting me for pursuing what is good.
+
+[[v19-38-21]]
+
+^<<v19-38-21,21>>^ Do not abandon me, O Jehovah.
+O God, do not remain far away from me.
+
+[[v19-38-22]]
+
+^<<v19-38-22,22>>^ Do hurry to help me,
+O Jehovah, my salvation.
+
+'''
+
+xref:019-psalm/019-psalm-037.adoc#v19-37-0[&#60; Capítulo Anterior] | <<v19-38-0,Topo>> | xref:019-psalm/019-psalm-039.adoc#v19-39-0[Próximo Capítulo &#62;]

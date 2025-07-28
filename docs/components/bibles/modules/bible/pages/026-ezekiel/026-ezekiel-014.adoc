@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v26-14-0]]
+=== Ezekiel, 14
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v26-14-1]]
+
+^<<v26-14-1,1>>^ And some of the elders of Israel came and sat down before me.
+
+[[v26-14-2]]
+
+^<<v26-14-2,2>>^ Then the word of Jehovah came to me, saying:
+
+[[v26-14-3]]
+
+^<<v26-14-3,3>>^ “Son of man, these men are determined to follow their disgusting idols,^&#42;1^ and they have set up a stumbling block that causes people to sin. Should I let them inquire of me?
+
+[NOTE]
+====
+. The Hebrew term may be related to a word for “dung” and is used as an expression of contempt.
+====
+
+[[v26-14-4]]
+
+^<<v26-14-4,4>>^ Now speak with them and tell them, ‘This is what the Sovereign Lord Jehovah says: “If an Israelite is determined to follow his disgusting idols and sets up a stumbling block causing people to sin and he then comes to inquire of a prophet, I, Jehovah, will answer him appropriately according to his many disgusting idols.
+
+[[v26-14-5]]
+
+^<<v26-14-5,5>>^ For I will cause terror in the hearts of the house of Israel^&#42;1^ because they have all withdrawn from me and have gone after their disgusting idols.”’
+
+[NOTE]
+====
+. Lit., “seize the house of Israel in their heart.”
+====
+
+[[v26-14-6]]
+
+^<<v26-14-6,6>>^ “So tell the house of Israel, ‘This is what the Sovereign Lord Jehovah says: “Come back and turn away from your disgusting idols and turn your faces away from all your detestable practices.
+
+[[v26-14-7]]
+
+^<<v26-14-7,7>>^ For if any Israelite or foreign resident living in Israel separates himself from me and is determined to follow his disgusting idols and sets up a stumbling block that causes people to sin and then comes to inquire of my prophet, I, Jehovah, I will personally answer him.
+
+[[v26-14-8]]
+
+^<<v26-14-8,8>>^ I will set my face against that man and make him a warning sign and a proverbial saying, and I will cut him off from my people; and you will have to know that I am Jehovah.”’
+
+[[v26-14-9]]
+
+^<<v26-14-9,9>>^ “‘But if the prophet is fooled and gives a response, it is I, Jehovah, who have fooled that prophet. I will then stretch out my hand against him and annihilate him from my people Israel.
+
+[[v26-14-10]]
+
+^<<v26-14-10,10>>^ They will have to bear their guilt; the guilt of the inquirer will be the same as the guilt of the prophet,
+
+[[v26-14-11]]
+
+^<<v26-14-11,11>>^ so that the house of Israel may stop wandering away from me and stop defiling themselves by all their transgressions. And they will be my people, and I will be their God,’ declares the Sovereign Lord Jehovah.”
+
+[[v26-14-12]]
+
+^<<v26-14-12,12>>^ And the word of Jehovah again came to me, saying:
+
+[[v26-14-13]]
+
+^<<v26-14-13,13>>^ “Son of man, if a land sins against me by acting unfaithfully, I will stretch out my hand against it and destroy its food supply,^&#42;1^ and I will send famine upon it and cut off man and animal from it.”
+
+[NOTE]
+====
+. Lit., “break its bread rods.” Possibly referring to rods used for storing bread.
+====
+
+[[v26-14-14]]
+
+^<<v26-14-14,14>>^ “‘Even if these three men—Noah, Daniel, and Job—were within it, they would be able to save only themselves^&#42;1^ because of their righteousness,’ declares the Sovereign Lord Jehovah.”
+
+[NOTE]
+====
+. Or “their soul.”
+====
+
+[[v26-14-15]]
+
+^<<v26-14-15,15>>^ “‘Or suppose I make vicious wild animals pass through the land and they depopulate it^&#42;1^ and make it a wasteland without anyone passing through because of the wild animals.
+
+[NOTE]
+====
+. Or “bereave it of children.”
+====
+
+[[v26-14-16]]
+
+^<<v26-14-16,16>>^ As surely as I am alive,’ declares the Sovereign Lord Jehovah, ‘even if these three men were in it, they would save neither their sons nor their daughters; they would save only themselves, and the land would become desolate.’”
+
+[[v26-14-17]]
+
+^<<v26-14-17,17>>^ “‘Or suppose I bring a sword against that land and say: “Let a sword pass through the land,” and cut off from it both man and animal,
+
+[[v26-14-18]]
+
+^<<v26-14-18,18>>^ even if these three men were in it, as surely as I am alive,’ declares the Sovereign Lord Jehovah, ‘they would save neither their sons nor their daughters; they would save only themselves.’”
+
+[[v26-14-19]]
+
+^<<v26-14-19,19>>^ “‘Or suppose I send a pestilence into that land and pour out my rage on it with bloodshed to cut off from it man and animal,
+
+[[v26-14-20]]
+
+^<<v26-14-20,20>>^ even if Noah, Daniel, and Job were in it, as surely as I am alive,’ declares the Sovereign Lord Jehovah, ‘they would save neither their sons nor their daughters; they would save only themselves^&#42;1^ because of their righteousness.’”
+
+[NOTE]
+====
+. Or “their soul.”
+====
+
+[[v26-14-21]]
+
+^<<v26-14-21,21>>^ “For this is what the Sovereign Lord Jehovah says: ‘So it will be when I send my four punishments^&#42;1^—sword, famine, vicious wild animal, and pestilence—against Jerusalem to cut off man and animal from it.
+
+[NOTE]
+====
+. Or “my four injurious acts of judgment.”
+====
+
+[[v26-14-22]]
+
+^<<v26-14-22,22>>^ However, some left in it will escape and be brought out, both sons and daughters. They are coming to you, and when you see their ways and their deeds, you will certainly be comforted over the calamity that I brought on Jerusalem, over everything that I did to it.’”
+
+[[v26-14-23]]
+
+^<<v26-14-23,23>>^ “‘They will comfort you when you see their ways and their deeds, and you will know that it was not without cause that I did what I had to do to it,’ declares the Sovereign Lord Jehovah.”
+
+'''
+
+xref:026-ezekiel/026-ezekiel-013.adoc#v26-13-0[&#60; Capítulo Anterior] | <<v26-14-0,Topo>> | xref:026-ezekiel/026-ezekiel-015.adoc#v26-15-0[Próximo Capítulo &#62;]

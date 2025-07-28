@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v32-2-0]]
+=== Jonah, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v32-2-1]]
+
+^<<v32-2-1,1>>^ Then Joʹnah prayed to Jehovah his God from the belly of the fish,
+
+[[v32-2-2]]
+
+^<<v32-2-2,2>>^ and he said:
+“Out of my distress I called out to Jehovah, and he answered me.
+Out of the depths^&#42;1^ of the Grave^&#42;2^ I cried for help.
+You heard my voice.
+
+[NOTE]
+====
+. Lit., “belly.”
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v32-2-3]]
+
+^<<v32-2-3,3>>^ When you threw me to the depths, into the heart of the open sea,
+Then the currents engulfed me.
+All your breakers and waves swept over me.
+
+[[v32-2-4]]
+
+^<<v32-2-4,4>>^ And I said, ‘I have been driven away from your sight!
+How will I gaze again upon your holy temple?’
+
+[[v32-2-5]]
+
+^<<v32-2-5,5>>^ Waters engulfed me and threatened my life;^&#42;1^
+The watery deep closed in on me.
+Weeds were wrapped around my head.
+
+[NOTE]
+====
+. Or “Waters encompassed me to the soul.”
+====
+
+[[v32-2-6]]
+
+^<<v32-2-6,6>>^ To the bottoms of the mountains I sank down.
+The bars of the earth were closing upon me forever.
+But out of the pit you brought up my life, O Jehovah my God.
+
+[[v32-2-7]]
+
+^<<v32-2-7,7>>^ When my life^&#42;1^ was ebbing away, Jehovah was the One whom I remembered.
+Then my prayer came in to you, into your holy temple.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v32-2-8]]
+
+^<<v32-2-8,8>>^ Those who are devoted to the worthless idols forsake their source of loyal love.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “their loyalty.”
+====
+
+[[v32-2-9]]
+
+^<<v32-2-9,9>>^ But as for me, with the voice of thanksgiving I will sacrifice to you.
+What I have vowed, I will pay.
+Salvation is from Jehovah.”
+
+[[v32-2-10]]
+
+^<<v32-2-10,10>>^ In time Jehovah commanded the fish, and it vomited Joʹnah out onto the dry land.
+
+'''
+
+xref:032-jonah/032-jonah-001.adoc#v32-1-0[&#60; Capítulo Anterior] | <<v32-2-0,Topo>> | xref:032-jonah/032-jonah-003.adoc#v32-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,132 @@
+include::./index.adoc[]
+
+[[v41-2-0]]
+=== According to Mark, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v41-2-1]]
+
+^<<v41-2-1,1>>^ However, after some days he again entered into Ca·perʹna·um, and the word spread that he was at home.
+
+[[v41-2-2]]
+
+^<<v41-2-2,2>>^ And so many gathered that there was no more room, not even around the door, and he began to speak the word to them.
+
+[[v41-2-3]]
+
+^<<v41-2-3,3>>^ And they brought him a paralytic carried by four men.
+
+[[v41-2-4]]
+
+^<<v41-2-4,4>>^ But they could not bring him right to Jesus because of the crowd, so they removed the roof above Jesus, and after digging an opening, they lowered the stretcher on which the paralytic was lying.
+
+[[v41-2-5]]
+
+^<<v41-2-5,5>>^ When Jesus saw their faith, he said to the paralytic: “Child, your sins are forgiven.”
+
+[[v41-2-6]]
+
+^<<v41-2-6,6>>^ Now some of the scribes were there, sitting and reasoning in their hearts:
+
+[[v41-2-7]]
+
+^<<v41-2-7,7>>^ “Why is this man talking this way? He is blaspheming. Who can forgive sins except one, God?”
+
+[[v41-2-8]]
+
+^<<v41-2-8,8>>^ But immediately Jesus discerned by his spirit that they were reasoning that way among themselves, so he said to them: “Why are you reasoning these things in your hearts?
+
+[[v41-2-9]]
+
+^<<v41-2-9,9>>^ Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Get up and pick up your stretcher and walk’?
+
+[[v41-2-10]]
+
+^<<v41-2-10,10>>^ But in order for you to know that the Son of man has authority to forgive sins on earth—” he said to the paralytic:
+
+[[v41-2-11]]
+
+^<<v41-2-11,11>>^ “I say to you, Get up, pick up your stretcher, and go to your home.”
+
+[[v41-2-12]]
+
+^<<v41-2-12,12>>^ At that he got up and immediately picked up his stretcher and walked out in front of them all. So they were all astonished, and they glorified God, saying: “We have never seen anything like this.”
+
+[[v41-2-13]]
+
+^<<v41-2-13,13>>^ Again he went out alongside the sea, and all the crowd kept coming to him, and he began to teach them.
+
+[[v41-2-14]]
+
+^<<v41-2-14,14>>^ And as he was passing by, he caught sight of Leʹvi the son of Al·phaeʹus sitting at the tax office, and he said to him: “Be my follower.” At that he rose up and followed him.
+
+[[v41-2-15]]
+
+^<<v41-2-15,15>>^ Later he was dining^&#42;1^ in his house, and many tax collectors and sinners were dining^&#42;2^ with Jesus and his disciples, for there were many of them who were following him.
+
+[NOTE]
+====
+. Or “reclining at the table.”
+. Or “reclining at the table.”
+====
+
+[[v41-2-16]]
+
+^<<v41-2-16,16>>^ But when the scribes of the Pharisees saw that he was eating with the sinners and tax collectors, they began saying to his disciples: “Does he eat with tax collectors and sinners?”
+
+[[v41-2-17]]
+
+^<<v41-2-17,17>>^ On hearing this, Jesus said to them: “Those who are strong do not need a physician, but those who are ill do. I came to call, not righteous people, but sinners.”
+
+[[v41-2-18]]
+
+^<<v41-2-18,18>>^ Now John’s disciples and the Pharisees practiced fasting. So they came and said to him: “Why do John’s disciples and the disciples of the Pharisees practice fasting, but your disciples do not practice fasting?”
+
+[[v41-2-19]]
+
+^<<v41-2-19,19>>^ So Jesus said to them: “While the bridegroom is with them, the friends of the bridegroom have no reason to fast, do they? As long as they have the bridegroom with them, they cannot fast.
+
+[[v41-2-20]]
+
+^<<v41-2-20,20>>^ But days will come when the bridegroom will be taken away from them, and then they will fast on that day.
+
+[[v41-2-21]]
+
+^<<v41-2-21,21>>^ Nobody sews a patch of unshrunk cloth on an old outer garment. If he does, the new piece pulls away from the old, and the tear becomes worse.
+
+[[v41-2-22]]
+
+^<<v41-2-22,22>>^ Also, no one puts new wine into old wineskins. If he does, the wine will burst the skins, and the wine is lost as well as the skins. But new wine is put into new wineskins.”
+
+[[v41-2-23]]
+
+^<<v41-2-23,23>>^ Now as he was passing through the grainfields on the Sabbath, his disciples started to pluck the heads of grain as they went.
+
+[[v41-2-24]]
+
+^<<v41-2-24,24>>^ So the Pharisees said to him: “Look here! Why are they doing what is not lawful on the Sabbath?”
+
+[[v41-2-25]]
+
+^<<v41-2-25,25>>^ But he said to them: “Have you never read what David did when he was in need and he and the men with him were hungry?
+
+[[v41-2-26]]
+
+^<<v41-2-26,26>>^ How, in the account about A·biʹa·thar the chief priest, he entered into the house of God and ate the loaves of presentation,^&#42;1^ which it is not lawful for anybody to eat except the priests, and he also gave some to the men who were with him?”
+
+[NOTE]
+====
+. Or “the showbread.”
+====
+
+[[v41-2-27]]
+
+^<<v41-2-27,27>>^ Then he said to them: “The Sabbath came into existence for the sake of man, and not man for the sake of the Sabbath.
+
+[[v41-2-28]]
+
+^<<v41-2-28,28>>^ So the Son of man is Lord even of the Sabbath.”
+
+'''
+
+xref:041-mark/041-mark-001.adoc#v41-1-0[&#60; Capítulo Anterior] | <<v41-2-0,Topo>> | xref:041-mark/041-mark-003.adoc#v41-3-0[Próximo Capítulo &#62;]

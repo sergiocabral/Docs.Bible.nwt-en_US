@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v19-49-0]]
+=== Psalm, 49
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of the sons of Korʹah. A melody._
+
+[[v19-49-1]]
+
+^<<v19-49-1,1>>^ Hear this, all you peoples.
+Pay attention, all you inhabitants of the world,^&#42;1^
+
+[NOTE]
+====
+. Or “system of things.”
+====
+
+[[v19-49-2]]
+
+^<<v19-49-2,2>>^ Both small and great,^&#42;1^
+Rich and poor alike.
+
+[NOTE]
+====
+. Lit., “both sons of humankind as well as sons of man.”
+====
+
+[[v19-49-3]]
+
+^<<v19-49-3,3>>^ My own mouth will speak wisdom,
+And the meditation of my heart will show understanding.
+
+[[v19-49-4]]
+
+^<<v19-49-4,4>>^ I will pay attention to a proverb;
+I will expound my riddle with the harp.
+
+[[v19-49-5]]
+
+^<<v19-49-5,5>>^ Why should I fear during times of trouble,
+When I am surrounded by the evil^&#42;1^ of those trying to overthrow me?
+
+[NOTE]
+====
+. Lit., “error.”
+====
+
+[[v19-49-6]]
+
+^<<v19-49-6,6>>^ Those who are trusting in their wealth
+And who boast about their great riches,
+
+[[v19-49-7]]
+
+^<<v19-49-7,7>>^ None of them can ever redeem a brother
+Or give to God a ransom for him,
+
+[[v19-49-8]]
+
+^<<v19-49-8,8>>^ (The ransom^&#42;1^ price for their life^&#42;2^ is so precious
+That it is always beyond their reach);
+
+[NOTE]
+====
+. Or “redemption.”
+. Or “soul.”
+====
+
+[[v19-49-9]]
+
+^<<v19-49-9,9>>^ That he should live forever and not see the pit.^&#42;1^
+
+[NOTE]
+====
+. Or “grave.”
+====
+
+[[v19-49-10]]
+
+^<<v19-49-10,10>>^ He sees that even wise people die;
+The stupid and the unreasoning perish together,
+And they must leave their wealth to others.
+
+[[v19-49-11]]
+
+^<<v19-49-11,11>>^ Their inner wish is that their houses will last forever,
+Their tents to generation after generation.
+They have named their estates after themselves.
+
+[[v19-49-12]]
+
+^<<v19-49-12,12>>^ But man, although honored, will not remain;
+He is no better than the beasts that perish.
+
+[[v19-49-13]]
+
+^<<v19-49-13,13>>^ This is the way of the stupid ones
+And of those who follow them, who take pleasure in their empty words. (Selah)
+
+[[v19-49-14]]
+
+^<<v19-49-14,14>>^ They are assigned like sheep to the Grave.^&#42;1^
+Death will shepherd them;
+The upright will rule over them in the morning.
+Every trace of them will fade away;
+The Grave^&#42;2^ rather than a palace will be their home.
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v19-49-15]]
+
+^<<v19-49-15,15>>^ But God will redeem me^&#42;1^ from the power^&#42;2^ of the Grave,^&#42;3^
+For he will take hold of me. (Selah)
+
+[NOTE]
+====
+. Or “my soul.”
+. Lit., “hand.”
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v19-49-16]]
+
+^<<v19-49-16,16>>^ Do not be afraid because a man becomes rich,
+Because the splendor of his house increases,
+
+[[v19-49-17]]
+
+^<<v19-49-17,17>>^ For when he dies he can take nothing with him;
+His splendor will not go down with him.
+
+[[v19-49-18]]
+
+^<<v19-49-18,18>>^ For during his lifetime he congratulates himself.^&#42;1^
+(People praise you when you prosper.)
+
+[NOTE]
+====
+. Or “his soul.”
+====
+
+[[v19-49-19]]
+
+^<<v19-49-19,19>>^ But he finally joins the generation of his forefathers.
+They will never again see the light.
+
+[[v19-49-20]]
+
+^<<v19-49-20,20>>^ A man who does not understand this, although honored,
+Is no better than the beasts that perish.
+
+'''
+
+xref:019-psalm/019-psalm-048.adoc#v19-48-0[&#60; Capítulo Anterior] | <<v19-49-0,Topo>> | xref:019-psalm/019-psalm-050.adoc#v19-50-0[Próximo Capítulo &#62;]

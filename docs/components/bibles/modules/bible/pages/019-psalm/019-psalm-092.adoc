@@ -1,0 +1,108 @@
+include::./index.adoc[]
+
+[[v19-92-0]]
+=== Psalm, 92
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody. A song for the Sabbath day._
+
+[[v19-92-1]]
+
+^<<v19-92-1,1>>^ It is good to give thanks to Jehovah
+And to sing praises^&#42;1^ to your name, O Most High,
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-92-2]]
+
+^<<v19-92-2,2>>^ To declare your loyal love in the morning
+And your faithfulness during the nights,
+
+[[v19-92-3]]
+
+^<<v19-92-3,3>>^ Accompanied by a ten-stringed instrument and a lute,
+By the melodious sound of a harp.
+
+[[v19-92-4]]
+
+^<<v19-92-4,4>>^ For you have made me rejoice, O Jehovah, because of your deeds;
+Because of the works of your hands I shout joyfully.
+
+[[v19-92-5]]
+
+^<<v19-92-5,5>>^ How great your works are, O Jehovah!
+How very deep your thoughts are!
+
+[[v19-92-6]]
+
+^<<v19-92-6,6>>^ No unreasoning man can know them;
+And no foolish person can understand this:
+
+[[v19-92-7]]
+
+^<<v19-92-7,7>>^ When the wicked sprout like weeds^&#42;1^
+And all the wrongdoers flourish,
+It is that they may be annihilated forever.
+
+[NOTE]
+====
+. Or “grass.”
+====
+
+[[v19-92-8]]
+
+^<<v19-92-8,8>>^ But you are exalted forever, O Jehovah.
+
+[[v19-92-9]]
+
+^<<v19-92-9,9>>^ Indeed, look in triumph on your enemies, O Jehovah,
+Look at how your enemies will perish;
+All the wrongdoers will be scattered.
+
+[[v19-92-10]]
+
+^<<v19-92-10,10>>^ But you will exalt my strength^&#42;1^ like that of a wild bull;
+I will moisten my skin with fresh oil.
+
+[NOTE]
+====
+. Lit., “horn.”
+====
+
+[[v19-92-11]]
+
+^<<v19-92-11,11>>^ My eyes will look in triumph on my foes;
+My ears will hear about the downfall of the evil men who attack me.
+
+[[v19-92-12]]
+
+^<<v19-92-12,12>>^ But the righteous will flourish like a palm tree
+And grow big like a cedar in Lebʹa·non.
+
+[[v19-92-13]]
+
+^<<v19-92-13,13>>^ They are planted in the house of Jehovah;
+They flourish in the courtyards of our God.
+
+[[v19-92-14]]
+
+^<<v19-92-14,14>>^ Even in old age^&#42;1^ they will still be thriving;
+They will remain vigorous^&#42;2^ and fresh,
+
+[NOTE]
+====
+. Or “during gray-headedness.”
+. Lit., “fat.”
+====
+
+[[v19-92-15]]
+
+^<<v19-92-15,15>>^ Declaring that Jehovah is upright.
+He is my Rock, in whom there is no unrighteousness.
+
+'''
+
+xref:019-psalm/019-psalm-091.adoc#v19-91-0[&#60; Capítulo Anterior] | <<v19-92-0,Topo>> | xref:019-psalm/019-psalm-093.adoc#v19-93-0[Próximo Capítulo &#62;]

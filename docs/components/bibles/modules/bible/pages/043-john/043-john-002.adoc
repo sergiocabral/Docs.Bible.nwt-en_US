@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v43-2-0]]
+=== According to John, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v43-2-1]]
+
+^<<v43-2-1,1>>^ And on the third day a marriage feast took place in Caʹna of Galʹi·lee, and the mother of Jesus was there.
+
+[[v43-2-2]]
+
+^<<v43-2-2,2>>^ Jesus and his disciples were also invited to the marriage feast.
+
+[[v43-2-3]]
+
+^<<v43-2-3,3>>^ When the wine ran short, the mother of Jesus said to him: “They have no wine.”
+
+[[v43-2-4]]
+
+^<<v43-2-4,4>>^ But Jesus said to her: “Woman, why is that of concern to me and to you?^&#42;1^ My hour has not yet come.”
+
+[NOTE]
+====
+. Lit., “What to me and to you, woman?” This is an idiom indicating objection. The use of “woman” does not denote disrespect.
+====
+
+[[v43-2-5]]
+
+^<<v43-2-5,5>>^ His mother said to those serving: “Do whatever he tells you.”
+
+[[v43-2-6]]
+
+^<<v43-2-6,6>>^ Now there were six stone water jars sitting there as required by the purification rules of the Jews, each able to hold two or three liquid measures.^&#42;1^
+
+[NOTE]
+====
+. Likely the liquid measure was the bath that equaled 22 L (5.81 gal). See App. B14.
+====
+
+[[v43-2-7]]
+
+^<<v43-2-7,7>>^ Jesus said to them: “Fill the jars with water.” So they filled them to the brim.
+
+[[v43-2-8]]
+
+^<<v43-2-8,8>>^ Then he said to them: “Now draw some out and take it to the director of the feast.” So they took it.
+
+[[v43-2-9]]
+
+^<<v43-2-9,9>>^ When the director of the feast tasted the water that had now been turned into wine, not knowing where it came from (although the servants who had drawn out the water knew), the director of the feast called the bridegroom
+
+[[v43-2-10]]
+
+^<<v43-2-10,10>>^ and said to him: “Everyone else puts out the fine wine first, and when people are intoxicated, the inferior. You have saved the fine wine until now.”
+
+[[v43-2-11]]
+
+^<<v43-2-11,11>>^ Jesus did this in Caʹna of Galʹi·lee as the beginning of his signs, and he made his glory manifest, and his disciples put their faith in him.
+
+[[v43-2-12]]
+
+^<<v43-2-12,12>>^ After this he and his mother and his brothers and his disciples went down to Ca·perʹna·um, but they did not stay there many days.
+
+[[v43-2-13]]
+
+^<<v43-2-13,13>>^ Now the Passover of the Jews was near, and Jesus went up to Jerusalem.
+
+[[v43-2-14]]
+
+^<<v43-2-14,14>>^ He found in the temple those selling cattle and sheep and doves, and the money brokers in their seats.
+
+[[v43-2-15]]
+
+^<<v43-2-15,15>>^ So after making a whip of ropes, he drove all those with the sheep and cattle out of the temple, and he poured out the coins of the money changers and overturned their tables.
+
+[[v43-2-16]]
+
+^<<v43-2-16,16>>^ And he said to those selling the doves: “Take these things away from here! Stop making the house of my Father a house of commerce!”^&#42;1^
+
+[NOTE]
+====
+. Or “a marketplace; a business.”
+====
+
+[[v43-2-17]]
+
+^<<v43-2-17,17>>^ His disciples recalled that it is written: “The zeal for your house will consume me.”
+
+[[v43-2-18]]
+
+^<<v43-2-18,18>>^ Therefore, in response the Jews said to him: “What sign can you show us, since you are doing these things?”
+
+[[v43-2-19]]
+
+^<<v43-2-19,19>>^ Jesus replied to them: “Tear down this temple, and in three days I will raise it up.”
+
+[[v43-2-20]]
+
+^<<v43-2-20,20>>^ The Jews then said: “This temple was built in 46 years, and will you raise it up in three days?”
+
+[[v43-2-21]]
+
+^<<v43-2-21,21>>^ But he was talking about the temple of his body.
+
+[[v43-2-22]]
+
+^<<v43-2-22,22>>^ When, though, he was raised up from the dead, his disciples recalled that he used to say this, and they believed the scripture and what Jesus had spoken.
+
+[[v43-2-23]]
+
+^<<v43-2-23,23>>^ However, when he was in Jerusalem at the festival of the Passover, many people put their faith in his name when they saw the signs that he was performing.
+
+[[v43-2-24]]
+
+^<<v43-2-24,24>>^ But Jesus would not entrust himself to them because he knew them all
+
+[[v43-2-25]]
+
+^<<v43-2-25,25>>^ and because he did not need to have anyone bear witness about man, for he knew what was in man.
+
+'''
+
+xref:043-john/043-john-001.adoc#v43-1-0[&#60; Capítulo Anterior] | <<v43-2-0,Topo>> | xref:043-john/043-john-003.adoc#v43-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,261 @@
+include::./index.adoc[]
+
+[[v18-9-0]]
+=== Job, 9
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-9-1]]
+
+^<<v18-9-1,1>>^ Job said in reply:
+
+[[v18-9-2]]
+
+^<<v18-9-2,2>>^ “For a fact I know that this is so.
+But how can mortal man be in the right in a case with God?
+
+[[v18-9-3]]
+
+^<<v18-9-3,3>>^ If someone wishes to argue with Him,^&#42;1^
+That one could not answer one of His questions in a thousand.
+
+[NOTE]
+====
+. Or “to take Him to court.”
+====
+
+[[v18-9-4]]
+
+^<<v18-9-4,4>>^ He is wise in heart and mighty in power.
+Who can resist him and come off uninjured?
+
+[[v18-9-5]]
+
+^<<v18-9-5,5>>^ He moves^&#42;1^ mountains without anyone knowing it;
+He overturns them in his anger.
+
+[NOTE]
+====
+. Or “removes.”
+====
+
+[[v18-9-6]]
+
+^<<v18-9-6,6>>^ He shakes the earth out of its place,
+So that its pillars tremble.
+
+[[v18-9-7]]
+
+^<<v18-9-7,7>>^ He commands the sun not to shine
+And seals off the light of the stars;
+
+[[v18-9-8]]
+
+^<<v18-9-8,8>>^ He spreads out the heavens by himself,
+And he treads upon the high waves of the sea.
+
+[[v18-9-9]]
+
+^<<v18-9-9,9>>^ He made the Ash,^&#42;1^ the Keʹsil,^&#42;2^ and the Kiʹmah constellations,^&#42;3^
+And the constellations of the southern sky;^&#42;4^
+
+[NOTE]
+====
+. Possibly the Great Bear constellation (Ursa Major).
+. Possibly the Orion constellation.
+. Possibly the Pleiades stars in the Taurus constellation.
+. Lit., “the interior rooms of the south.”
+====
+
+[[v18-9-10]]
+
+^<<v18-9-10,10>>^ He does great and unsearchable things,
+Wonderful things that cannot be counted.
+
+[[v18-9-11]]
+
+^<<v18-9-11,11>>^ He passes by me, and I cannot see him;
+He moves past me, but I do not discern him.
+
+[[v18-9-12]]
+
+^<<v18-9-12,12>>^ When he snatches something, who can resist him?
+Who can say to him, ‘What are you doing?’
+
+[[v18-9-13]]
+
+^<<v18-9-13,13>>^ God will not restrain his anger;
+Even the helpers of Raʹhab^&#42;1^ will bow down to him.
+
+[NOTE]
+====
+. Possibly a great sea monster.
+====
+
+[[v18-9-14]]
+
+^<<v18-9-14,14>>^ How much more when I answer him
+Must I choose my words carefully to argue with him!
+
+[[v18-9-15]]
+
+^<<v18-9-15,15>>^ Even if I were in the right, I would not answer him.
+I could only plead for mercy from my judge.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “my opponent at law.”
+====
+
+[[v18-9-16]]
+
+^<<v18-9-16,16>>^ If I call out to him, will he answer me?
+I do not believe that he will listen to my voice,
+
+[[v18-9-17]]
+
+^<<v18-9-17,17>>^ For he crushes me with a storm
+And multiplies my wounds for no reason.
+
+[[v18-9-18]]
+
+^<<v18-9-18,18>>^ He does not let me catch my breath;
+He keeps filling me with bitter things.
+
+[[v18-9-19]]
+
+^<<v18-9-19,19>>^ If it is a matter of power, he is the strong one.
+If it is a matter of justice, he says: ‘Who can call me to account?’^&#42;1^
+
+[NOTE]
+====
+. Lit., “summon me?”
+====
+
+[[v18-9-20]]
+
+^<<v18-9-20,20>>^ If I were in the right, my own mouth would condemn me;
+Even if I keep my integrity,^&#42;1^ he will declare me guilty.^&#42;2^
+
+[NOTE]
+====
+. Or “Even if I am innocent.”
+. Lit., “crooked.”
+====
+
+[[v18-9-21]]
+
+^<<v18-9-21,21>>^ Even if I keep my integrity,^&#42;1^ I am not confident about myself;^&#42;2^
+I reject^&#42;3^ this life of mine.
+
+[NOTE]
+====
+. Or “Even if I am innocent.”
+. Or “I do not know my soul.”
+. Or “despise; refuse.”
+====
+
+[[v18-9-22]]
+
+^<<v18-9-22,22>>^ It is all the same. That is why I say,
+‘He destroys the innocent^&#42;1^ and the wicked alike.’
+
+[NOTE]
+====
+. Or “those keeping integrity.”
+====
+
+[[v18-9-23]]
+
+^<<v18-9-23,23>>^ If a flash flood should cause sudden death,
+He would mock at the despair of the innocent.
+
+[[v18-9-24]]
+
+^<<v18-9-24,24>>^ The earth has been handed over to the wicked;
+He covers the eyes^&#42;1^ of its judges.
+If it is not he, then, who is it?
+
+[NOTE]
+====
+. Lit., “faces.”
+====
+
+[[v18-9-25]]
+
+^<<v18-9-25,25>>^ Now my days are swifter than a runner;
+They run away without seeing good.
+
+[[v18-9-26]]
+
+^<<v18-9-26,26>>^ They glide by like reed boats,
+Like eagles that swoop down on their prey.
+
+[[v18-9-27]]
+
+^<<v18-9-27,27>>^ If I say, ‘I will forget my complaint,
+I will change my expression and be cheerful,’
+
+[[v18-9-28]]
+
+^<<v18-9-28,28>>^ I would still be afraid because of all my pains,
+And I know you would not find me innocent.
+
+[[v18-9-29]]
+
+^<<v18-9-29,29>>^ I would be found guilty.^&#42;1^
+So why should I struggle in vain?
+
+[NOTE]
+====
+. Lit., “wicked.”
+====
+
+[[v18-9-30]]
+
+^<<v18-9-30,30>>^ If I wash myself in water from melting snow,
+And I cleanse my hands in lye,^&#42;1^
+
+[NOTE]
+====
+. Or “potash.”
+====
+
+[[v18-9-31]]
+
+^<<v18-9-31,31>>^ Then you would dip me in a pit,
+So that even my own garments would detest me.
+
+[[v18-9-32]]
+
+^<<v18-9-32,32>>^ For he is not a man like me that I may answer him,
+That we should go to court together.
+
+[[v18-9-33]]
+
+^<<v18-9-33,33>>^ There is no person to decide^&#42;1^ between us,
+Who could serve as our judge.^&#42;2^
+
+[NOTE]
+====
+. Or “no mediator.”
+. Lit., “put his hand upon us both.”
+====
+
+[[v18-9-34]]
+
+^<<v18-9-34,34>>^ If he would stop beating me^&#42;1^
+And not let his terror frighten me,
+
+[NOTE]
+====
+. Lit., “remove his rod from upon me.”
+====
+
+[[v18-9-35]]
+
+^<<v18-9-35,35>>^ Then I would speak to him unafraid,
+For it is not in me to speak out of fear.
+
+'''
+
+xref:018-job/018-job-008.adoc#v18-8-0[&#60; Capítulo Anterior] | <<v18-9-0,Topo>> | xref:018-job/018-job-010.adoc#v18-10-0[Próximo Capítulo &#62;]

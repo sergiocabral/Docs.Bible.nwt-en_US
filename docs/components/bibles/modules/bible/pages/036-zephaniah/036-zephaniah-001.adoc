@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v36-1-0]]
+=== Zephaniah, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v36-1-1]]
+
+^<<v36-1-1,1>>^ The word of Jehovah that came to Zeph·a·niʹah^&#42;1^ son of Cushʹi son of Ged·a·liʹah son of Am·a·riʹah son of Hez·e·kiʹah in the days of Jo·siʹah son of Aʹmon the king of Judah:
+
+[NOTE]
+====
+. Meaning “Jehovah Has Concealed (Treasured Up).”
+====
+
+[[v36-1-2]]
+
+^<<v36-1-2,2>>^ “I will completely sweep away everything from the surface of the ground,” declares Jehovah.
+
+[[v36-1-3]]
+
+^<<v36-1-3,3>>^ “I will sweep away man and beast.
+I will sweep away the birds of the heavens and the fish of the sea,
+And the stumbling blocks^&#42;1^ along with the wicked ones;
+And I will remove mankind from the surface of the ground,” declares Jehovah.
+
+[NOTE]
+====
+. Evidently, objects or activities connected with idolatry.
+====
+
+[[v36-1-4]]
+
+^<<v36-1-4,4>>^ “I will stretch out my hand against Judah
+And against all the inhabitants of Jerusalem,
+And I will wipe out from this place every vestige^&#42;1^ of Baʹal,
+The name of the foreign-god priests along with the priests,
+
+[NOTE]
+====
+. Or “trace.”
+====
+
+[[v36-1-5]]
+
+^<<v36-1-5,5>>^ And those who bow down on the rooftops to the army of the heavens,
+And those who bow down and pledge loyalty to Jehovah
+While pledging loyalty to Malʹcam;
+
+[[v36-1-6]]
+
+^<<v36-1-6,6>>^ And those who turn away from following Jehovah
+And who do not seek Jehovah or inquire of him.”
+
+[[v36-1-7]]
+
+^<<v36-1-7,7>>^ Be silent before the Sovereign Lord Jehovah, for the day of Jehovah is near.
+Jehovah has prepared a sacrifice; he has sanctified those he invited.
+
+[[v36-1-8]]
+
+^<<v36-1-8,8>>^ “On the day of Jehovah’s sacrifice I will call to account the princes,
+The sons of the king, and all those wearing foreign clothing.
+
+[[v36-1-9]]
+
+^<<v36-1-9,9>>^ I will call to account everyone who climbs onto the platform^&#42;1^ on that day,
+Those who fill their master’s house with violence and deception.
+
+[NOTE]
+====
+. Or “podium; threshold.” Possibly the platform of the king’s throne.
+====
+
+[[v36-1-10]]
+
+^<<v36-1-10,10>>^ On that day,” declares Jehovah,
+“There will be the sound of an outcry from the Fish Gate,
+A wailing from the Second Quarter of the city,
+And a loud crash from the hills.
+
+[[v36-1-11]]
+
+^<<v36-1-11,11>>^ Wail, you inhabitants of Makʹtesh,^&#42;1^
+For all the tradesmen^&#42;2^ have been done away with;^&#42;3^
+All those weighing out silver have been destroyed.
+
+[NOTE]
+====
+. Apparently a section of Jerusalem near the Fish Gate.
+. Or “merchants.”
+. Lit., “silenced.”
+====
+
+[[v36-1-12]]
+
+^<<v36-1-12,12>>^ At that time I will carefully search Jerusalem with lamps,
+And I will call to account the complacent ones,^&#42;1^ who say in their heart,
+‘Jehovah will not do good, and he will not do bad.’
+
+[NOTE]
+====
+. Lit., “those congealing on their dregs,” as in a wine vat.
+====
+
+[[v36-1-13]]
+
+^<<v36-1-13,13>>^ Their wealth will be plundered and their houses will be devastated.
+They will build houses, but they will not occupy them;
+And they will plant vineyards, but they will not drink wine from them.
+
+[[v36-1-14]]
+
+^<<v36-1-14,14>>^ The great day of Jehovah is near!
+It is near and it is approaching very quickly!^&#42;1^
+The sound of the day of Jehovah is bitter.
+There a warrior cries out.
+
+[NOTE]
+====
+. Or “hurrying rapidly!”
+====
+
+[[v36-1-15]]
+
+^<<v36-1-15,15>>^ That day is a day of fury,
+A day of distress and anguish,
+A day of storm and desolation,
+A day of darkness and gloom,
+A day of clouds and thick gloom,
+
+[[v36-1-16]]
+
+^<<v36-1-16,16>>^ A day of the horn and of the battle cry,
+Against the fortified cities and against the high corner towers.
+
+[[v36-1-17]]
+
+^<<v36-1-17,17>>^ I will cause distress to mankind,
+And they will walk like blind men,
+Because it is against Jehovah they have sinned.
+Their blood will be poured out like dust,
+And their flesh^&#42;1^ like the dung.
+
+[NOTE]
+====
+. Lit., “intestines.”
+====
+
+[[v36-1-18]]
+
+^<<v36-1-18,18>>^ Neither their silver nor their gold will be able to save them in the day of Jehovah’s fury;
+For by the fire of his zeal the whole earth will be consumed,
+Because he will make an extermination, indeed a terrible one, of all the inhabitants of the earth.”
+
+'''
+
+xref:035-habakkuk/035-habakkuk-003.adoc#v35-3-0[&#60; Capítulo Anterior] | <<v36-1-0,Topo>> | xref:036-zephaniah/036-zephaniah-002.adoc#v36-2-0[Próximo Capítulo &#62;]

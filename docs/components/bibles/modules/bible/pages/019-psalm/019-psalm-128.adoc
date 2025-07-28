@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-128-0]]
+=== Psalm, 128
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-128-1]]
+
+^<<v19-128-1,1>>^ Happy is everyone who fears Jehovah,
+Who walks in His ways.
+
+[[v19-128-2]]
+
+^<<v19-128-2,2>>^ You will eat what your hands worked hard to produce.
+You will be happy and will enjoy prosperity.
+
+[[v19-128-3]]
+
+^<<v19-128-3,3>>^ Your wife will be like a fruitful vine within your house;
+Your sons will be like shoots of an olive tree around your table.
+
+[[v19-128-4]]
+
+^<<v19-128-4,4>>^ Look! That is how the man who fears Jehovah
+Will be blessed.
+
+[[v19-128-5]]
+
+^<<v19-128-5,5>>^ Jehovah will bless you from Zion.
+May you see Jerusalem prosper all the days of your life
+
+[[v19-128-6]]
+
+^<<v19-128-6,6>>^ And see the sons of your sons.
+May there be peace upon Israel.
+
+'''
+
+xref:019-psalm/019-psalm-127.adoc#v19-127-0[&#60; Capítulo Anterior] | <<v19-128-0,Topo>> | xref:019-psalm/019-psalm-129.adoc#v19-129-0[Próximo Capítulo &#62;]

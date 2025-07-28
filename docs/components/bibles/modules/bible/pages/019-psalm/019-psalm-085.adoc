@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v19-85-0]]
+=== Psalm, 85
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_For the director. Of the sons of Korʹah. A melody._
+
+[[v19-85-1]]
+
+^<<v19-85-1,1>>^ You have shown favor, O Jehovah, to your land;
+You brought back those of Jacob who were taken captive.
+
+[[v19-85-2]]
+
+^<<v19-85-2,2>>^ You have pardoned the error of your people;
+You forgave^&#42;1^ all their sin. (Selah)
+
+[NOTE]
+====
+. Lit., “covered.”
+====
+
+[[v19-85-3]]
+
+^<<v19-85-3,3>>^ You held back all your fury;
+You turned away from your hot anger.
+
+[[v19-85-4]]
+
+^<<v19-85-4,4>>^ Restore us,^&#42;1^ O God of our salvation,
+And set aside your displeasure with us.
+
+[NOTE]
+====
+. Or “Gather us back.”
+====
+
+[[v19-85-5]]
+
+^<<v19-85-5,5>>^ Will you be furious with us forever?
+Will you prolong your anger to generation after generation?
+
+[[v19-85-6]]
+
+^<<v19-85-6,6>>^ Will you not revive us again
+So that your people may rejoice in you?
+
+[[v19-85-7]]
+
+^<<v19-85-7,7>>^ Show your loyal love to us, O Jehovah,
+And grant us your salvation.
+
+[[v19-85-8]]
+
+^<<v19-85-8,8>>^ I will listen to what the true God Jehovah says,
+For he will speak peace to his people, to his loyal ones,
+But let them not return to overconfidence.
+
+[[v19-85-9]]
+
+^<<v19-85-9,9>>^ Surely his salvation is near to those who fear him,
+So that his glory may reside in our land.
+
+[[v19-85-10]]
+
+^<<v19-85-10,10>>^ Loyal love and faithfulness will meet together;
+Righteousness and peace will kiss each other.
+
+[[v19-85-11]]
+
+^<<v19-85-11,11>>^ Faithfulness will sprout from the earth,
+And righteousness will look down from the heavens.
+
+[[v19-85-12]]
+
+^<<v19-85-12,12>>^ Yes, Jehovah will give what is good,^&#42;1^
+And our land will yield its harvest.
+
+[NOTE]
+====
+. Or “prosperity.”
+====
+
+[[v19-85-13]]
+
+^<<v19-85-13,13>>^ Righteousness will walk before him
+And make a path for his footsteps.
+
+'''
+
+xref:019-psalm/019-psalm-084.adoc#v19-84-0[&#60; Capítulo Anterior] | <<v19-85-0,Topo>> | xref:019-psalm/019-psalm-086.adoc#v19-86-0[Próximo Capítulo &#62;]

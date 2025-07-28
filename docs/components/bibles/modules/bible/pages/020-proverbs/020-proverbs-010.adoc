@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v20-10-0]]
+=== Proverbs, 10
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-10-1]]
+
+^<<v20-10-1,1>>^ Proverbs of Solʹo·mon.
+A wise son makes his father rejoice,
+But a foolish son is the grief of his mother.
+
+[[v20-10-2]]
+
+^<<v20-10-2,2>>^ The treasures gained by wickedness will be of no benefit,
+But righteousness is what rescues from death.
+
+[[v20-10-3]]
+
+^<<v20-10-3,3>>^ Jehovah will not cause the righteous one^&#42;1^ to go hungry,
+But he will deny the wicked what they crave.
+
+[NOTE]
+====
+. Or “the soul of the righteous one.”
+====
+
+[[v20-10-4]]
+
+^<<v20-10-4,4>>^ Idle hands will cause poverty,
+But diligent hands bring riches.
+
+[[v20-10-5]]
+
+^<<v20-10-5,5>>^ The son acting with insight gathers the crop in summer,
+But the son acting shamefully is fast asleep during the harvest.
+
+[[v20-10-6]]
+
+^<<v20-10-6,6>>^ Blessings are on the head of the righteous one,
+But the mouth of the wicked conceals violence.
+
+[[v20-10-7]]
+
+^<<v20-10-7,7>>^ The memory^&#42;1^ of the righteous one is due for a blessing,
+But the name of the wicked will rot.
+
+[NOTE]
+====
+. Or “reputation.”
+====
+
+[[v20-10-8]]
+
+^<<v20-10-8,8>>^ The wisehearted person will accept instructions,^&#42;1^
+But the one speaking foolishly will be trodden down.
+
+[NOTE]
+====
+. Lit., “commandments.”
+====
+
+[[v20-10-9]]
+
+^<<v20-10-9,9>>^ The one walking in integrity will walk in security,
+But the one making his ways crooked will be found out.
+
+[[v20-10-10]]
+
+^<<v20-10-10,10>>^ The one who slyly winks his eye causes grief,
+And the one who speaks foolishly will be trodden down.
+
+[[v20-10-11]]
+
+^<<v20-10-11,11>>^ The mouth of the righteous one is a source of life,
+But the mouth of the wicked conceals violence.
+
+[[v20-10-12]]
+
+^<<v20-10-12,12>>^ Hatred is what stirs up contentions,
+But love covers over all transgressions.
+
+[[v20-10-13]]
+
+^<<v20-10-13,13>>^ Wisdom is found on the lips of the discerning person,
+But the rod is for the back of one lacking good sense.^&#42;1^
+
+[NOTE]
+====
+. Lit., “in want of heart.”
+====
+
+[[v20-10-14]]
+
+^<<v20-10-14,14>>^ Those who are wise treasure up knowledge,
+But the mouth of the fool invites ruin.
+
+[[v20-10-15]]
+
+^<<v20-10-15,15>>^ The wealth^&#42;1^ of a rich man is his fortified city.
+The ruin of the poor is their poverty.
+
+[NOTE]
+====
+. Or “valuable thing.”
+====
+
+[[v20-10-16]]
+
+^<<v20-10-16,16>>^ The activity of the righteous one leads to life;
+But the produce of the wicked one leads to sin.
+
+[[v20-10-17]]
+
+^<<v20-10-17,17>>^ The one who heeds discipline is a path to life,^&#42;1^
+But the one who ignores reproof leads others astray.
+
+[NOTE]
+====
+. Or possibly, “is on the path to life.”
+====
+
+[[v20-10-18]]
+
+^<<v20-10-18,18>>^ The one who conceals his hatred speaks lies,
+And the one spreading malicious reports^&#42;1^ is stupid.
+
+[NOTE]
+====
+. Or “rumors.”
+====
+
+[[v20-10-19]]
+
+^<<v20-10-19,19>>^ When words are many, transgression cannot be avoided,
+But whoever controls his lips acts discreetly.
+
+[[v20-10-20]]
+
+^<<v20-10-20,20>>^ The tongue of the righteous one is like the finest silver,
+But the heart of the wicked one is worth little.
+
+[[v20-10-21]]
+
+^<<v20-10-21,21>>^ The lips of the righteous one nourish^&#42;1^ many,
+But the foolish die for lack of sense.
+
+[NOTE]
+====
+. Or “guide.”
+====
+
+[[v20-10-22]]
+
+^<<v20-10-22,22>>^ It is the blessing of Jehovah that makes one rich,
+And He adds no pain^&#42;1^ with it.
+
+[NOTE]
+====
+. Or “sorrow; hardship.”
+====
+
+[[v20-10-23]]
+
+^<<v20-10-23,23>>^ Engaging in shameful conduct is like a game to the stupid one,
+But wisdom is for the man of discernment.
+
+[[v20-10-24]]
+
+^<<v20-10-24,24>>^ What the wicked one fears will come upon him;
+But the desire of the righteous will be granted.
+
+[[v20-10-25]]
+
+^<<v20-10-25,25>>^ When the storm passes by, the wicked one will be no more,
+But the righteous one is a foundation forever.
+
+[[v20-10-26]]
+
+^<<v20-10-26,26>>^ Like vinegar to the teeth and smoke to the eyes,
+So the lazy person is to the one who sends him.^&#42;1^
+
+[NOTE]
+====
+. Or “to his employer.”
+====
+
+[[v20-10-27]]
+
+^<<v20-10-27,27>>^ The fear of Jehovah prolongs life,
+But the years of the wicked will be cut short.
+
+[[v20-10-28]]
+
+^<<v20-10-28,28>>^ The expectation^&#42;1^ of the righteous brings joy,
+But the hope of the wicked will perish.
+
+[NOTE]
+====
+. Or “hope.”
+====
+
+[[v20-10-29]]
+
+^<<v20-10-29,29>>^ The way of Jehovah is a stronghold for the blameless one,
+But it means ruin for evildoers.
+
+[[v20-10-30]]
+
+^<<v20-10-30,30>>^ The righteous one will never be made to fall,
+But the wicked will no longer inhabit the earth.
+
+[[v20-10-31]]
+
+^<<v20-10-31,31>>^ The mouth of the righteous one produces^&#42;1^ wisdom,
+But the perverse tongue will be cut off.
+
+[NOTE]
+====
+. Or “bears the fruit of.”
+====
+
+[[v20-10-32]]
+
+^<<v20-10-32,32>>^ The lips of the righteous one know what is pleasing,
+But the mouth of the wicked is perverse.
+
+'''
+
+xref:020-proverbs/020-proverbs-009.adoc#v20-9-0[&#60; Capítulo Anterior] | <<v20-10-0,Topo>> | xref:020-proverbs/020-proverbs-011.adoc#v20-11-0[Próximo Capítulo &#62;]

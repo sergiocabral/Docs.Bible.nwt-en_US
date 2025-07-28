@@ -1,0 +1,122 @@
+include::./index.adoc[]
+
+[[v23-46-0]]
+=== Isaiah, 46
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-46-1]]
+
+^<<v23-46-1,1>>^ Bel bends down, Neʹbo stoops over.
+Their idols are loaded on animals, on beasts of burden,
+Like baggage that burdens the weary animals.
+
+[[v23-46-2]]
+
+^<<v23-46-2,2>>^ They stoop and bend down together;
+They cannot rescue the loads,^&#42;1^
+And they themselves^&#42;2^ go into captivity.
+
+[NOTE]
+====
+. That is, the idols loaded on the animals.
+. Or “their souls.”
+====
+
+[[v23-46-3]]
+
+^<<v23-46-3,3>>^ “Listen to me, O house of Jacob, and all you who remain of the house of Israel,
+You whom I have supported from birth and carried from the womb.
+
+[[v23-46-4]]
+
+^<<v23-46-4,4>>^ Until you grow old I will be the same;
+Until your hair is gray I will keep bearing you.
+As I have done, I will carry you and bear you and rescue you.
+
+[[v23-46-5]]
+
+^<<v23-46-5,5>>^ To whom will you liken me or make me equal or compare me,
+So that we should resemble each other?
+
+[[v23-46-6]]
+
+^<<v23-46-6,6>>^ There are those who lavish gold from their purse;
+They weigh out the silver on the scale.
+They hire a metalworker, and he makes it into a god.
+Then they prostrate themselves, yes, they worship it.^&#42;1^
+
+[NOTE]
+====
+. Lit., “bow down to it.”
+====
+
+[[v23-46-7]]
+
+^<<v23-46-7,7>>^ They lift it to their shoulders;
+They carry it and put it in its place, and it just stands there.
+It does not move from its place.
+They cry out to it, but it does not answer;
+It cannot rescue anyone from distress.
+
+[[v23-46-8]]
+
+^<<v23-46-8,8>>^ Remember this, and take courage.
+Take it to heart, you transgressors.
+
+[[v23-46-9]]
+
+^<<v23-46-9,9>>^ Remember the former^&#42;1^ things of long ago,
+That I am God,^&#42;2^ and there is no other.
+I am God, and there is no one like me.
+
+[NOTE]
+====
+. Lit., “first.”
+. Or “the Divine One.”
+====
+
+[[v23-46-10]]
+
+^<<v23-46-10,10>>^ From the beginning I foretell the outcome,
+And from long ago the things that have not yet been done.
+I say, ‘My decision^&#42;1^ will stand,
+And I will do whatever I please.’
+
+[NOTE]
+====
+. Or “purpose; counsel.”
+====
+
+[[v23-46-11]]
+
+^<<v23-46-11,11>>^ I am calling a bird of prey from the sunrise,^&#42;1^
+From a distant land the man to carry out my decision.^&#42;2^
+I have spoken, and I will bring it about.
+I have purposed it, and I will also carry it out.
+
+[NOTE]
+====
+. Or “east.”
+. Or “purpose; counsel.”
+====
+
+[[v23-46-12]]
+
+^<<v23-46-12,12>>^ Listen to me, you who are stubborn^&#42;1^ of heart,
+You who are far away from righteousness.
+
+[NOTE]
+====
+. Lit., “powerful.”
+====
+
+[[v23-46-13]]
+
+^<<v23-46-13,13>>^ I have brought my righteousness near;
+It is not far away,
+And my salvation will not delay.
+I will grant salvation in Zion, my splendor to Israel.”
+
+'''
+
+xref:023-isaiah/023-isaiah-045.adoc#v23-45-0[&#60; Capítulo Anterior] | <<v23-46-0,Topo>> | xref:023-isaiah/023-isaiah-047.adoc#v23-47-0[Próximo Capítulo &#62;]

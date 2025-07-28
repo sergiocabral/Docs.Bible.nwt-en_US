@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v19-88-0]]
+=== Psalm, 88
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A song. A melody of the sons of Korʹah. To the director; in the style of Maʹha·lath,^&#42;1^ to be sung alternately. Masʹkil^&#42;2^ of Heʹman the Ezʹra·hite._
+
+[[v19-88-1]]
+
+^<<v19-88-1,1>>^ O Jehovah, the God of my salvation,
+By day I cry out,
+And by night I come before you.
+
+[[v19-88-2]]
+
+^<<v19-88-2,2>>^ Let my prayer come to you,
+Incline your ear^&#42;1^ to my cry for help.
+
+[NOTE]
+====
+. Or “Bend down and listen.”
+====
+
+[[v19-88-3]]
+
+^<<v19-88-3,3>>^ For my soul^&#42;1^ has been filled with calamity,
+And my life is on the brink of the Grave.^&#42;2^
+
+[NOTE]
+====
+. See Glossary.
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v19-88-4]]
+
+^<<v19-88-4,4>>^ I am already counted among those going down to the pit;^&#42;1^
+I have become a helpless man,^&#42;2^
+
+[NOTE]
+====
+. Or “grave.”
+. Or “like a man without strength.”
+====
+
+[[v19-88-5]]
+
+^<<v19-88-5,5>>^ Left among the dead
+Like the slain lying in a grave,
+Whom you remember no longer
+And who have been separated from your care.^&#42;1^
+
+[NOTE]
+====
+. Lit., “hand.”
+====
+
+[[v19-88-6]]
+
+^<<v19-88-6,6>>^ You have put me in the lowest pit,
+In dark places, in a large abyss.
+
+[[v19-88-7]]
+
+^<<v19-88-7,7>>^ Your rage weighs heavily on me,
+And you overwhelm me with your crashing waves. (Selah)
+
+[[v19-88-8]]
+
+^<<v19-88-8,8>>^ You have driven my acquaintances far away from me;
+You have made me something detestable to them.
+I am trapped and cannot escape.
+
+[[v19-88-9]]
+
+^<<v19-88-9,9>>^ My eye is worn out because of my affliction.
+I call on you, O Jehovah, all day long;
+To you I spread out my hands.
+
+[[v19-88-10]]
+
+^<<v19-88-10,10>>^ Will you perform wonders for the dead?
+Can those powerless in death rise up to praise you? (Selah)
+
+[[v19-88-11]]
+
+^<<v19-88-11,11>>^ Will your loyal love be declared in the grave,
+Your faithfulness in the place of destruction?^&#42;1^
+
+[NOTE]
+====
+. Or “in Abaddon.”
+====
+
+[[v19-88-12]]
+
+^<<v19-88-12,12>>^ Will your wonders be known in the darkness
+Or your righteousness in the land of oblivion?
+
+[[v19-88-13]]
+
+^<<v19-88-13,13>>^ But I still cry to you for help, O Jehovah,
+Each morning my prayer comes before you.
+
+[[v19-88-14]]
+
+^<<v19-88-14,14>>^ Why, O Jehovah, do you reject me?^&#42;1^
+Why do you hide your face from me?
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-88-15]]
+
+^<<v19-88-15,15>>^ From my youth on,
+I have been afflicted and ready to perish;
+I am numb from the terrible things you allow me to suffer.
+
+[[v19-88-16]]
+
+^<<v19-88-16,16>>^ Your burning anger overwhelms me;
+Your terrors destroy me.
+
+[[v19-88-17]]
+
+^<<v19-88-17,17>>^ They surround me like waters all day long;
+They close in on me from all sides.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “all at once.”
+====
+
+[[v19-88-18]]
+
+^<<v19-88-18,18>>^ You have driven my friends and companions far away from me;
+Darkness has become my companion.
+
+'''
+
+xref:019-psalm/019-psalm-087.adoc#v19-87-0[&#60; Capítulo Anterior] | <<v19-88-0,Topo>> | xref:019-psalm/019-psalm-089.adoc#v19-89-0[Próximo Capítulo &#62;]

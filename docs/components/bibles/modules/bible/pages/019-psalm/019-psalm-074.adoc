@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v19-74-0]]
+=== Psalm, 74
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A masʹkil.^&#42;1^ Of Aʹsaph._
+
+[[v19-74-1]]
+
+^<<v19-74-1,1>>^ Why, O God, have you rejected us forever?
+Why does your anger burn^&#42;1^ against the flock of your pasture?
+
+[NOTE]
+====
+. Lit., “smoke.”
+====
+
+[[v19-74-2]]
+
+^<<v19-74-2,2>>^ Remember the people^&#42;1^ you acquired long ago,
+The tribe you redeemed as your inheritance.
+Remember Mount Zion, where you have resided.
+
+[NOTE]
+====
+. Lit., “your assembly.”
+====
+
+[[v19-74-3]]
+
+^<<v19-74-3,3>>^ Direct your steps to the perpetual ruins.
+The enemy has devastated everything in the holy place.
+
+[[v19-74-4]]
+
+^<<v19-74-4,4>>^ Your foes roared inside your meeting place.^&#42;1^
+They have set up their own banners as signs there.
+
+[NOTE]
+====
+. Or “your place of assembly.”
+====
+
+[[v19-74-5]]
+
+^<<v19-74-5,5>>^ They were like men wielding axes against a thick forest.
+
+[[v19-74-6]]
+
+^<<v19-74-6,6>>^ They broke up all its engravings with axes and iron bars.
+
+[[v19-74-7]]
+
+^<<v19-74-7,7>>^ They set your sanctuary on fire.
+They profaned the tabernacle bearing your name, casting it to the ground.
+
+[[v19-74-8]]
+
+^<<v19-74-8,8>>^ They and their offspring have said in their hearts:
+“All the meeting places of God^&#42;1^ in the land must be burned.”
+
+[NOTE]
+====
+. Or “All places where God is worshipped.”
+====
+
+[[v19-74-9]]
+
+^<<v19-74-9,9>>^ There are no signs for us to see;
+There is no longer any prophet,
+And no one among us knows how long this will last.
+
+[[v19-74-10]]
+
+^<<v19-74-10,10>>^ How long, O God, will the adversary keep taunting?
+Will the enemy treat your name with disrespect forever?
+
+[[v19-74-11]]
+
+^<<v19-74-11,11>>^ Why do you hold back your hand, your right hand?
+Draw it out of your bosom^&#42;1^ and put an end to them.
+
+[NOTE]
+====
+. Or “from the folds of your garment.”
+====
+
+[[v19-74-12]]
+
+^<<v19-74-12,12>>^ But God is my King from long ago,
+The one performing acts of salvation on the earth.
+
+[[v19-74-13]]
+
+^<<v19-74-13,13>>^ You stirred up the sea with your strength;
+You smashed the heads of the sea monsters in the waters.
+
+[[v19-74-14]]
+
+^<<v19-74-14,14>>^ You crushed the heads of Le·viʹa·than;^&#42;1^
+You gave it as food to the people, to those inhabiting the deserts.
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v19-74-15]]
+
+^<<v19-74-15,15>>^ You cut openings for the springs and the streams;
+You dried up ever-flowing rivers.
+
+[[v19-74-16]]
+
+^<<v19-74-16,16>>^ The day belongs to you, also the night.
+You made the light^&#42;1^ and the sun.
+
+[NOTE]
+====
+. Or “the luminary.”
+====
+
+[[v19-74-17]]
+
+^<<v19-74-17,17>>^ You set up all the boundaries of the earth;
+You made summer and winter.
+
+[[v19-74-18]]
+
+^<<v19-74-18,18>>^ Remember the enemy’s taunts, O Jehovah,
+How a foolish people treats your name with disrespect.
+
+[[v19-74-19]]
+
+^<<v19-74-19,19>>^ Do not surrender the life^&#42;1^ of your turtledove to the wild beasts.
+Do not forget the life of your afflicted people forever.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v19-74-20]]
+
+^<<v19-74-20,20>>^ Remember the covenant,
+For the dark places of the earth have become full of the haunts of violence.
+
+[[v19-74-21]]
+
+^<<v19-74-21,21>>^ May the crushed one not turn away disappointed;
+May the lowly and the poor praise your name.
+
+[[v19-74-22]]
+
+^<<v19-74-22,22>>^ Rise up, O God, and plead your legal case.
+Remember how the foolish taunt you all day long.
+
+[[v19-74-23]]
+
+^<<v19-74-23,23>>^ Do not forget what your foes are saying.
+The uproar of those who defy you is ascending constantly.
+
+'''
+
+xref:019-psalm/019-psalm-073.adoc#v19-73-0[&#60; Capítulo Anterior] | <<v19-74-0,Topo>> | xref:019-psalm/019-psalm-075.adoc#v19-75-0[Próximo Capítulo &#62;]

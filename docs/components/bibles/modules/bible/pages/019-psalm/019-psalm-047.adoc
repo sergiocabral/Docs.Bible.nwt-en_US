@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v19-47-0]]
+=== Psalm, 47
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of the sons of Korʹah. A melody._
+
+[[v19-47-1]]
+
+^<<v19-47-1,1>>^ All you peoples, clap your hands.
+Shout in triumph to God with joyful cries.
+
+[[v19-47-2]]
+
+^<<v19-47-2,2>>^ For Jehovah the Most High is awe-inspiring;
+He is the great King over all the earth.
+
+[[v19-47-3]]
+
+^<<v19-47-3,3>>^ He subdues peoples under us;
+He puts nations under our feet.
+
+[[v19-47-4]]
+
+^<<v19-47-4,4>>^ He chooses our inheritance for us,
+The pride of Jacob, whom he loves. (Selah)
+
+[[v19-47-5]]
+
+^<<v19-47-5,5>>^ God has ascended amid joyful shouting;
+Jehovah, amid the sound of the horn.^&#42;1^
+
+[NOTE]
+====
+. Or “ram’s horn; trumpet.”
+====
+
+[[v19-47-6]]
+
+^<<v19-47-6,6>>^ Sing praises^&#42;1^ to God, sing praises.
+Sing praises to our King, sing praises.
+
+[NOTE]
+====
+. Or “Make music.”
+====
+
+[[v19-47-7]]
+
+^<<v19-47-7,7>>^ For God is King of all the earth;
+Sing praises, and show insight.
+
+[[v19-47-8]]
+
+^<<v19-47-8,8>>^ God has become King over the nations.
+God sits on his holy throne.
+
+[[v19-47-9]]
+
+^<<v19-47-9,9>>^ The leaders of the peoples have gathered together
+With the people of the God of Abraham.
+For the rulers^&#42;1^ of the earth belong to God.
+He is highly exalted.
+
+[NOTE]
+====
+. Lit., “shields.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-046.adoc#v19-46-0[&#60; Capítulo Anterior] | <<v19-47-0,Topo>> | xref:019-psalm/019-psalm-048.adoc#v19-48-0[Próximo Capítulo &#62;]

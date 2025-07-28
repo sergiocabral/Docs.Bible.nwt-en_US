@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v49-0-0]]
+== Ephesians
+
+[cols="8*^"]
+|===
+| xref:049-ephesians/049-ephesians-001.adoc#v49-1-0[1]
+| xref:049-ephesians/049-ephesians-002.adoc#v49-2-0[2]
+| xref:049-ephesians/049-ephesians-003.adoc#v49-3-0[3]
+| xref:049-ephesians/049-ephesians-004.adoc#v49-4-0[4]
+| xref:049-ephesians/049-ephesians-005.adoc#v49-5-0[5]
+| xref:049-ephesians/049-ephesians-006.adoc#v49-6-0[6]
+|
+|
+|===

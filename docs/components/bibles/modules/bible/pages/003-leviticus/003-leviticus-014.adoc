@@ -1,0 +1,258 @@
+include::./index.adoc[]
+
+[[v3-14-0]]
+=== Leviticus, 14
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v3-14-1]]
+
+^<<v3-14-1,1>>^ Jehovah continued to speak to Moses, saying:
+
+[[v3-14-2]]
+
+^<<v3-14-2,2>>^ “This is to be the law of the leper on the day his purification is established, when he is to be brought to the priest.
+
+[[v3-14-3]]
+
+^<<v3-14-3,3>>^ The priest will go outside the camp and examine him. If the leper has been cured of the leprosy,
+
+[[v3-14-4]]
+
+^<<v3-14-4,4>>^ the priest will command him to bring two live clean birds, cedarwood, scarlet material, and hyssop for his cleansing.
+
+[[v3-14-5]]
+
+^<<v3-14-5,5>>^ The priest will command that the one bird be killed in an earthenware vessel over running water.
+
+[[v3-14-6]]
+
+^<<v3-14-6,6>>^ But he should take the living bird along with the cedarwood, the scarlet material, and the hyssop, and dip them together in the blood of the bird that was killed over the running water.
+
+[[v3-14-7]]
+
+^<<v3-14-7,7>>^ Then he will spatter it seven times on the one cleansing himself from the leprosy and declare him clean, and he will set the living bird free in the open field.
+
+[[v3-14-8]]
+
+^<<v3-14-8,8>>^ “The one cleansing himself must wash his garments and shave off all his hair and bathe in water, and he will be clean. Afterward, he may come into the camp, but he will dwell outside his tent for seven days.
+
+[[v3-14-9]]
+
+^<<v3-14-9,9>>^ On the seventh day, he should shave off all the hair on his head and his chin and his eyebrows. After he shaves off all his hair, he will wash his garments and bathe himself in water, and he will be clean.
+
+[[v3-14-10]]
+
+^<<v3-14-10,10>>^ “On the eighth day, he will take two sound young rams, one sound female lamb in its first year, three tenths of an eʹphah^&#42;1^ of fine flour mixed with oil as a grain offering, and one log measure^&#42;2^ of oil;
+
+[NOTE]
+====
+. Three tenths of an ephah equaled 6.6 L (6 dry qt). See App. B14.
+. A log equaled 0.31 L (0.66 pt). See App. B14.
+====
+
+[[v3-14-11]]
+
+^<<v3-14-11,11>>^ and the priest who declares him clean will present the man who is cleansing himself, along with the offerings, before Jehovah at the entrance of the tent of meeting.
+
+[[v3-14-12]]
+
+^<<v3-14-12,12>>^ The priest will take the one young ram and offer it as a guilt offering together with the log measure of oil, and he will wave them back and forth as a wave offering before Jehovah.
+
+[[v3-14-13]]
+
+^<<v3-14-13,13>>^ Then he will slaughter the young ram in the place where the sin offering and the burnt offering are usually slaughtered, in a holy place, because, like the sin offering, the guilt offering belongs to the priest. It is something most holy.
+
+[[v3-14-14]]
+
+^<<v3-14-14,14>>^ “Then the priest will take some of the blood of the guilt offering, and the priest will put it on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot.
+
+[[v3-14-15]]
+
+^<<v3-14-15,15>>^ And the priest will take some of the log measure of oil and pour it into his own left palm.
+
+[[v3-14-16]]
+
+^<<v3-14-16,16>>^ The priest will then dip his right finger into the oil that is in his left palm and spatter some of the oil with his finger seven times before Jehovah.
+
+[[v3-14-17]]
+
+^<<v3-14-17,17>>^ Then the priest will put some of the remaining oil in his palm on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot over the blood of the guilt offering.
+
+[[v3-14-18]]
+
+^<<v3-14-18,18>>^ The priest will put what is left over of the oil in his palm on the head of the one cleansing himself, and the priest will make atonement for him before Jehovah.
+
+[[v3-14-19]]
+
+^<<v3-14-19,19>>^ “The priest will sacrifice the sin offering and make atonement for the one cleansing himself from his impurity, and afterward he will slaughter the burnt offering.
+
+[[v3-14-20]]
+
+^<<v3-14-20,20>>^ And the priest will offer up the burnt offering and the grain offering on the altar, and the priest will make atonement for him, and he will be clean.
+
+[[v3-14-21]]
+
+^<<v3-14-21,21>>^ “However, if he is poor and does not have enough means, he will then take one young ram as a guilt offering for a wave offering, in order to make atonement for himself, along with one tenth of an eʹphah^&#42;1^ of fine flour mixed with oil as a grain offering, a log measure of oil,
+
+[NOTE]
+====
+. A tenth of an ephah equaled 2.2 L (2 dry qt). See App. B14.
+====
+
+[[v3-14-22]]
+
+^<<v3-14-22,22>>^ and two turtledoves or two young pigeons, according to his means. The one will serve as a sin offering, and the other as a burnt offering.
+
+[[v3-14-23]]
+
+^<<v3-14-23,23>>^ On the eighth day, he will bring them for establishing his purification to the priest at the entrance of the tent of meeting before Jehovah.
+
+[[v3-14-24]]
+
+^<<v3-14-24,24>>^ “The priest will take the young ram of the guilt offering and the log measure of oil, and the priest will wave them back and forth as a wave offering before Jehovah.
+
+[[v3-14-25]]
+
+^<<v3-14-25,25>>^ He will then slaughter the young ram of the guilt offering, and the priest will take some of the blood of the guilt offering and put it on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot.
+
+[[v3-14-26]]
+
+^<<v3-14-26,26>>^ The priest will pour some of the oil into his own left palm,
+
+[[v3-14-27]]
+
+^<<v3-14-27,27>>^ and he will then spatter with his right finger some of the oil that is in his left palm seven times before Jehovah.
+
+[[v3-14-28]]
+
+^<<v3-14-28,28>>^ And the priest will put some of the oil that is in his palm on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot on the same places that he put the blood of the guilt offering.
+
+[[v3-14-29]]
+
+^<<v3-14-29,29>>^ The priest will then put what is left over of the oil in his palm on the head of the one cleansing himself, in order to make atonement for him before Jehovah.
+
+[[v3-14-30]]
+
+^<<v3-14-30,30>>^ “He will offer up one of the turtledoves or one of the young pigeons, according to his means,
+
+[[v3-14-31]]
+
+^<<v3-14-31,31>>^ the one he can afford, as a sin offering and the other as a burnt offering along with the grain offering; and the priest will make atonement for the one cleansing himself before Jehovah.
+
+[[v3-14-32]]
+
+^<<v3-14-32,32>>^ “This is the law for the one in whom the disease of leprosy was but who does not have the means when establishing his purification.”
+
+[[v3-14-33]]
+
+^<<v3-14-33,33>>^ Then Jehovah said to Moses and Aaron:
+
+[[v3-14-34]]
+
+^<<v3-14-34,34>>^ “When you come into the land of Caʹnaan, which I am giving you as a possession, and I contaminate a house in your land with the disease of leprosy,
+
+[[v3-14-35]]
+
+^<<v3-14-35,35>>^ the one to whom the house belongs should then come and tell the priest, ‘Some kind of contamination has appeared in my house.’
+
+[[v3-14-36]]
+
+^<<v3-14-36,36>>^ The priest will give orders to clear out the house before he comes to examine the contamination, in order that he may not declare everything that is in the house unclean; and after that the priest will come in to inspect the house.
+
+[[v3-14-37]]
+
+^<<v3-14-37,37>>^ He will examine the affected area, and if the walls of the house are contaminated with yellowish-green or reddish depressions and they appear to be deeper than the wall surface,
+
+[[v3-14-38]]
+
+^<<v3-14-38,38>>^ the priest will then go out of the house to the entryway of the house and quarantine the house for seven days.
+
+[[v3-14-39]]
+
+^<<v3-14-39,39>>^ “Then the priest will return on the seventh day and make an inspection. If the contamination has spread in the walls of the house,
+
+[[v3-14-40]]
+
+^<<v3-14-40,40>>^ the priest will then give orders, and the contaminated stones must be torn out and thrown outside the city into an unclean place.
+
+[[v3-14-41]]
+
+^<<v3-14-41,41>>^ Then he is to have the inside of the house thoroughly scraped, and the plaster and mortar that is removed should be discarded outside the city in an unclean place.
+
+[[v3-14-42]]
+
+^<<v3-14-42,42>>^ They will then insert other stones in the place of the stones they removed, and he should use different mortar and have the house plastered.
+
+[[v3-14-43]]
+
+^<<v3-14-43,43>>^ “If, though, the contamination returns and breaks out in the house after the stones were torn out and the house was scraped and replastered,
+
+[[v3-14-44]]
+
+^<<v3-14-44,44>>^ the priest will then go in and inspect it. If the contamination has spread in the house, it is malignant leprosy in the house. The house is unclean.
+
+[[v3-14-45]]
+
+^<<v3-14-45,45>>^ He will then have the house pulled down—its stones, its timbers, and all the plaster and mortar of the house—and carried outside the city to an unclean place.
+
+[[v3-14-46]]
+
+^<<v3-14-46,46>>^ But whoever enters the house any of the days it is quarantined will be unclean until the evening;
+
+[[v3-14-47]]
+
+^<<v3-14-47,47>>^ and whoever lies down in the house should wash his garments, and whoever eats in the house should wash his garments.
+
+[[v3-14-48]]
+
+^<<v3-14-48,48>>^ “However, if the priest comes and sees that the contamination has not spread in the house after the house was replastered, the priest will then declare the house clean, because the contamination has been healed.
+
+[[v3-14-49]]
+
+^<<v3-14-49,49>>^ In order to purify the house from uncleanness,^&#42;1^ he will take two birds, cedarwood, scarlet material, and hyssop.
+
+[NOTE]
+====
+. Lit., “sin.”
+====
+
+[[v3-14-50]]
+
+^<<v3-14-50,50>>^ He is to kill the one bird in an earthenware vessel over running water.
+
+[[v3-14-51]]
+
+^<<v3-14-51,51>>^ Then he will take the cedarwood, the hyssop, the scarlet material, and the live bird and dip them in the blood of the bird that was killed and in the running water, and he must spatter it toward the house seven times.
+
+[[v3-14-52]]
+
+^<<v3-14-52,52>>^ And he will purify the house from uncleanness^&#42;1^ with the blood of the bird, the running water, the live bird, the cedarwood, the hyssop, and the scarlet material.
+
+[NOTE]
+====
+. Lit., “sin.”
+====
+
+[[v3-14-53]]
+
+^<<v3-14-53,53>>^ He will then set the live bird free outside the city in the open field and make atonement for the house, and it will be clean.
+
+[[v3-14-54]]
+
+^<<v3-14-54,54>>^ “This is the law respecting any case of leprosy, infection of the scalp or the beard,
+
+[[v3-14-55]]
+
+^<<v3-14-55,55>>^ leprosy of the garment or the house,
+
+[[v3-14-56]]
+
+^<<v3-14-56,56>>^ and respecting swellings, scabs, and blotches,
+
+[[v3-14-57]]
+
+^<<v3-14-57,57>>^ in order to determine when something is unclean and when something is clean. This is the law about leprosy.”
+
+'''
+
+xref:003-leviticus/003-leviticus-013.adoc#v3-13-0[&#60; Capítulo Anterior] | <<v3-14-0,Topo>> | xref:003-leviticus/003-leviticus-015.adoc#v3-15-0[Próximo Capítulo &#62;]

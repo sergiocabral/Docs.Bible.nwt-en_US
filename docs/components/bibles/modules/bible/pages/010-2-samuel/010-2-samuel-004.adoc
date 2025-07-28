@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v10-4-0]]
+=== The Second of Samuel, 4
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v10-4-1]]
+
+^<<v10-4-1,1>>^ When Saul’s son Ish-boʹsheth^&#42;1^ heard that Abʹner had died in Hebʹron, his courage failed him^&#42;2^ and all the Israelites were disturbed.
+
+[NOTE]
+====
+. Lit., “the son of Saul.”
+. Lit., “his hands became feeble.”
+====
+
+[[v10-4-2]]
+
+^<<v10-4-2,2>>^ There were two men in charge of the marauder bands that belonged to the son of Saul: one was named Baʹa·nah and the other Reʹchab. They were sons of Rimʹmon the Be·erʹoth·ite, of the tribe of Benjamin. (For Be·erʹoth too used to be counted as part of Benjamin.
+
+[[v10-4-3]]
+
+^<<v10-4-3,3>>^ The Be·erʹoth·ites ran away to Gitʹta·im, and they are foreign residents there down to this day.)
+
+[[v10-4-4]]
+
+^<<v10-4-4,4>>^ Now Saul’s son Jonʹa·than had a son whose feet were crippled.^&#42;1^ He was five years old when the report about Saul and Jonʹa·than came from Jezʹre·el, and his nurse picked him up and fled, but as she was fleeing in panic, he fell and was crippled. His name was Me·phibʹo·sheth.
+
+[NOTE]
+====
+. Or “lame.”
+====
+
+[[v10-4-5]]
+
+^<<v10-4-5,5>>^ The sons of Rimʹmon the Be·erʹoth·ite, Reʹchab and Baʹa·nah, went to the house of Ish-boʹsheth during the hot part of the day, as he was taking his midday rest.
+
+[[v10-4-6]]
+
+^<<v10-4-6,6>>^ They went into the house as if they were getting wheat, and they struck him in the abdomen; then Reʹchab and his brother Baʹa·nah escaped.
+
+[[v10-4-7]]
+
+^<<v10-4-7,7>>^ When they had entered the house, he was lying on his bed in his bedroom, and they struck him and put him to death, after which they cut off his head. Then they took his head and walked all night long on the road to the Arʹa·bah.
+
+[[v10-4-8]]
+
+^<<v10-4-8,8>>^ And they brought the head of Ish-boʹsheth to David at Hebʹron and said to the king: “Here is the head of Ish-boʹsheth the son of Saul your enemy who sought your life.^&#42;1^ This day Jehovah gives to my lord the king revenge on Saul and his descendants.”
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v10-4-9]]
+
+^<<v10-4-9,9>>^ However, David answered Reʹchab and his brother Baʹa·nah, the sons of Rimʹmon the Be·erʹoth·ite, and said to them: “As surely as Jehovah is living, the one who rescued me^&#42;1^ out of all distress,
+
+[NOTE]
+====
+. Or “redeemed my soul.”
+====
+
+[[v10-4-10]]
+
+^<<v10-4-10,10>>^ when someone reported to me, ‘Here Saul is dead,’ and he thought he was bringing me good news, I took hold of him and killed him in Zikʹlag. That was the messenger’s reward he received from me!
+
+[[v10-4-11]]
+
+^<<v10-4-11,11>>^ How much more so when wicked men have killed a righteous man in his own house on his bed! Should I not require his blood from your hands and rid the earth of you?”
+
+[[v10-4-12]]
+
+^<<v10-4-12,12>>^ David then ordered the young men to kill them. They cut off their hands and feet and hung them by the pool in Hebʹron. But they took the head of Ish-boʹsheth and buried it in the burial place of Abʹner in Hebʹron.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-003.adoc#v10-3-0[&#60; Capítulo Anterior] | <<v10-4-0,Topo>> | xref:010-2-samuel/010-2-samuel-005.adoc#v10-5-0[Próximo Capítulo &#62;]

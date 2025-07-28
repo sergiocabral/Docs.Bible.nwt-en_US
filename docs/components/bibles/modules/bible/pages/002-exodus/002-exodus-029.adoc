@@ -1,0 +1,251 @@
+include::./index.adoc[]
+
+[[v2-29-0]]
+=== Exodus, 29
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-29-1]]
+
+^<<v2-29-1,1>>^ “This is what you are to do to sanctify them to serve as priests to me: Take a young bull, two unblemished rams,
+
+[[v2-29-2]]
+
+^<<v2-29-2,2>>^ unleavened bread, unleavened ring-shaped loaves mixed with oil, and unleavened wafers spread with oil. You are to make them with fine wheat flour
+
+[[v2-29-3]]
+
+^<<v2-29-3,3>>^ and put them in a basket and present them in the basket, along with the bull and the two rams.
+
+[[v2-29-4]]
+
+^<<v2-29-4,4>>^ “You will present Aaron and his sons at the entrance of the tent of meeting and wash them with water.
+
+[[v2-29-5]]
+
+^<<v2-29-5,5>>^ Then you are to take the garments and clothe Aaron with the robe, the sleeveless coat of the ephʹod, the ephʹod, and the breastpiece, and you are to tie the woven belt^&#42;1^ of the ephʹod securely around his waist.
+
+[NOTE]
+====
+. Or “waistband.”
+====
+
+[[v2-29-6]]
+
+^<<v2-29-6,6>>^ You will put the turban on his head and put the holy sign of dedication^&#42;1^ on the turban;
+
+[NOTE]
+====
+. Or “the holy diadem.”
+====
+
+[[v2-29-7]]
+
+^<<v2-29-7,7>>^ and take the anointing oil and pour it on his head and anoint him.
+
+[[v2-29-8]]
+
+^<<v2-29-8,8>>^ “Then bring his sons forward and clothe them with the robes
+
+[[v2-29-9]]
+
+^<<v2-29-9,9>>^ and wrap the sashes around them, Aaron as well as his sons, and put on their headgear; and the priesthood will become theirs as a permanent statute. This is how you should install Aaron and his sons to serve as priests.^&#42;1^
+
+[NOTE]
+====
+. Lit., “fill the hand of Aaron and the hand of his sons.”
+====
+
+[[v2-29-10]]
+
+^<<v2-29-10,10>>^ “You are now to present the bull before the tent of meeting, and Aaron and his sons will lay their hands on the bull’s head.
+
+[[v2-29-11]]
+
+^<<v2-29-11,11>>^ Slaughter the bull before Jehovah, at the entrance of the tent of meeting.
+
+[[v2-29-12]]
+
+^<<v2-29-12,12>>^ Take some of the bull’s blood on your finger and put it on the horns of the altar, and pour out all the rest of the blood at the base of the altar.
+
+[[v2-29-13]]
+
+^<<v2-29-13,13>>^ Then take all the fat that covers the intestines, the appendage on the liver, and the two kidneys and the fat that is on them, and burn them so that they smoke on the altar.
+
+[[v2-29-14]]
+
+^<<v2-29-14,14>>^ But the bull’s flesh and its skin and its dung, you will burn with fire outside the camp. It is a sin offering.
+
+[[v2-29-15]]
+
+^<<v2-29-15,15>>^ “Then take the one ram, and Aaron and his sons are to lay their hands on the ram’s head.
+
+[[v2-29-16]]
+
+^<<v2-29-16,16>>^ Slaughter the ram and take its blood and sprinkle it on all sides of the altar.
+
+[[v2-29-17]]
+
+^<<v2-29-17,17>>^ Cut the ram into its pieces, and wash its intestines and its shanks, and arrange the pieces together with its head.
+
+[[v2-29-18]]
+
+^<<v2-29-18,18>>^ You must burn the entire ram, making it smoke on the altar. It is a burnt offering to Jehovah, a pleasing^&#42;1^ aroma. It is an offering made by fire to Jehovah.
+
+[NOTE]
+====
+. Or “appeasing; soothing.” Lit., “restful.”
+====
+
+[[v2-29-19]]
+
+^<<v2-29-19,19>>^ “Next you are to take the other ram, and Aaron and his sons are to lay their hands on the ram’s head.
+
+[[v2-29-20]]
+
+^<<v2-29-20,20>>^ Slaughter the ram and take some of its blood and put it on Aaron’s right earlobe and on his sons’ right earlobe and on the thumb of their right hand and the big toe of their right foot, and sprinkle the blood on all sides of the altar.
+
+[[v2-29-21]]
+
+^<<v2-29-21,21>>^ Then take some of the blood that is on the altar and some of the anointing oil and spatter it on Aaron and his garments and on his sons and his sons’ garments, so that he and his garments and his sons and their garments may be holy.
+
+[[v2-29-22]]
+
+^<<v2-29-22,22>>^ “Then take from the ram the fat, the fat tail, the fat that covers the intestines, the appendage of the liver, the two kidneys and the fat that is on them, and the right leg, for it is a ram of installation.
+
+[[v2-29-23]]
+
+^<<v2-29-23,23>>^ Take also a round loaf of bread and a ring-shaped loaf of oiled bread and a wafer out of the basket of unleavened bread that is before Jehovah.
+
+[[v2-29-24]]
+
+^<<v2-29-24,24>>^ You must place them all in the hands of Aaron and in the hands of his sons, and you are to wave them back and forth as a wave offering before Jehovah.
+
+[[v2-29-25]]
+
+^<<v2-29-25,25>>^ Then you will take them out of their hands and burn them on the altar, on top of the burnt offering, as a pleasing^&#42;1^ aroma before Jehovah. It is an offering made by fire to Jehovah.
+
+[NOTE]
+====
+. Or “appeasing; soothing.” Lit., “restful.”
+====
+
+[[v2-29-26]]
+
+^<<v2-29-26,26>>^ “Then take the breast of the ram of installation, which is offered in behalf of Aaron, and wave it back and forth as a wave offering before Jehovah, and it will become your portion.
+
+[[v2-29-27]]
+
+^<<v2-29-27,27>>^ You are to sanctify the breast of the wave offering and the leg of the sacred portion that was waved and that was taken from the ram of installation, from what was offered for Aaron and for his sons.
+
+[[v2-29-28]]
+
+^<<v2-29-28,28>>^ It is to become Aaron’s and his sons’ by a permanent regulation to be carried out by the Israelites, for it is a sacred portion, and it will become a sacred portion to be given by the Israelites. It is their sacred portion for Jehovah from their communion sacrifices.
+
+[[v2-29-29]]
+
+^<<v2-29-29,29>>^ “The holy garments that belong to Aaron will be used by his sons after him when they are anointed and installed as priests.
+
+[[v2-29-30]]
+
+^<<v2-29-30,30>>^ The priest from among his sons who succeeds him and who comes into the tent of meeting to minister in the holy place will wear them for seven days.
+
+[[v2-29-31]]
+
+^<<v2-29-31,31>>^ “You will take the ram of installation and boil its flesh in a holy place.
+
+[[v2-29-32]]
+
+^<<v2-29-32,32>>^ Aaron and his sons will eat the flesh of the ram and the bread that is in the basket at the entrance of the tent of meeting.
+
+[[v2-29-33]]
+
+^<<v2-29-33,33>>^ They are to eat the things with which atonement was made to install them as priests^&#42;1^ and to sanctify them. But an unauthorized person^&#42;2^ may not eat them, for they are something holy.
+
+[NOTE]
+====
+. Lit., “to fill their hand.”
+. Lit., “a stranger,” that is, a man not of Aaron’s family.
+====
+
+[[v2-29-34]]
+
+^<<v2-29-34,34>>^ If any of the flesh of the installation sacrifice and of the bread is left over until the morning, then you must burn what is left with fire. It must not be eaten, for it is something holy.
+
+[[v2-29-35]]
+
+^<<v2-29-35,35>>^ “You are to do this way to Aaron and his sons, according to all that I have commanded you. You will take seven days to install them as priests.^&#42;1^
+
+[NOTE]
+====
+. Lit., “to fill their hand.”
+====
+
+[[v2-29-36]]
+
+^<<v2-29-36,36>>^ You will offer the bull of the sin offering daily for an atonement, and you are to purify the altar from sin by making atonement for it, and you must anoint it to sanctify it.
+
+[[v2-29-37]]
+
+^<<v2-29-37,37>>^ You will take seven days to make atonement for the altar, and you must sanctify it so that it may become a most holy altar. Anyone who touches the altar is to be holy.
+
+[[v2-29-38]]
+
+^<<v2-29-38,38>>^ “This is what you will offer on the altar: two one-year-old rams each day, continually.
+
+[[v2-29-39]]
+
+^<<v2-29-39,39>>^ Offer the one young ram in the morning and the other ram at twilight.^&#42;1^
+
+[NOTE]
+====
+. Lit., “between the two evenings.”
+====
+
+[[v2-29-40]]
+
+^<<v2-29-40,40>>^ A tenth part of an eʹphah measure^&#42;1^ of fine flour mixed with a fourth of a hin^&#42;2^ of beaten oil, and a drink offering of a fourth of a hin of wine, will go for the first young ram.
+
+[NOTE]
+====
+. An ephah equaled 22 L (20 dry qt). See App. B14.
+. A hin equaled 3.67 L (7.75 pt). See App. B14.
+====
+
+[[v2-29-41]]
+
+^<<v2-29-41,41>>^ You will offer the second young ram at twilight,^&#42;1^ along with the same grain and drink offerings as in the morning. You will render it as a pleasing^&#42;2^ aroma, an offering made by fire to Jehovah.
+
+[NOTE]
+====
+. Lit., “between the two evenings.”
+. Or “appeasing; soothing.” Lit., “restful.”
+====
+
+[[v2-29-42]]
+
+^<<v2-29-42,42>>^ It is to be a regular burnt offering throughout your generations at the entrance of the tent of meeting before Jehovah, where I will present myself to you to speak to you there.
+
+[[v2-29-43]]
+
+^<<v2-29-43,43>>^ “I will present myself there to the Israelites, and it will be sanctified by my glory.
+
+[[v2-29-44]]
+
+^<<v2-29-44,44>>^ I will sanctify the tent of meeting and the altar, and I will sanctify Aaron and his sons so that they may serve as priests to me.
+
+[[v2-29-45]]
+
+^<<v2-29-45,45>>^ I will reside^&#42;1^ among the people of Israel, and I will be their God.
+
+[NOTE]
+====
+. Or “tabernacle.”
+====
+
+[[v2-29-46]]
+
+^<<v2-29-46,46>>^ And they will certainly know that I am Jehovah their God, who brought them out of the land of Egypt so that I may reside among them. I am Jehovah their God.
+
+'''
+
+xref:002-exodus/002-exodus-028.adoc#v2-28-0[&#60; Capítulo Anterior] | <<v2-29-0,Topo>> | xref:002-exodus/002-exodus-030.adoc#v2-30-0[Próximo Capítulo &#62;]

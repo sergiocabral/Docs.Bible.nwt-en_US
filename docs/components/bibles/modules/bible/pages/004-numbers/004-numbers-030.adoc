@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v4-30-0]]
+=== Numbers, 30
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-30-1]]
+
+^<<v4-30-1,1>>^ Then Moses spoke to the heads of the tribes of Israel, saying: “This is the word that Jehovah has commanded:
+
+[[v4-30-2]]
+
+^<<v4-30-2,2>>^ If a man makes a vow to Jehovah or swears an oath to impose on himself^&#42;1^ a vow of abstinence, he must not violate his word. He should do everything he vowed he would do.
+
+[NOTE]
+====
+. Or “to bind an obligation upon his soul.”
+====
+
+[[v4-30-3]]
+
+^<<v4-30-3,3>>^ “And if a woman makes a vow to Jehovah or she imposes a vow of abstinence on herself when she is young and living in the house of her father
+
+[[v4-30-4]]
+
+^<<v4-30-4,4>>^ and her father hears her vow or her abstinence vow that she has imposed on herself^&#42;1^ and her father offers no objection, all her vows will stand, and every abstinence vow that she has imposed on herself will stand.
+
+[NOTE]
+====
+. Or “her soul.”
+====
+
+[[v4-30-5]]
+
+^<<v4-30-5,5>>^ But if her father forbids her when he hears that she has imposed vows or abstinence vows on herself, it will not stand. Jehovah will forgive her because her father forbade her.
+
+[[v4-30-6]]
+
+^<<v4-30-6,6>>^ “However, if she should marry a husband while under her vow or the rash promise that she has imposed on herself
+
+[[v4-30-7]]
+
+^<<v4-30-7,7>>^ and her husband hears of it and offers no objection on the day he hears of it, her vows or her abstinence vows that she has imposed on herself will stand.
+
+[[v4-30-8]]
+
+^<<v4-30-8,8>>^ But if her husband forbids her on the day he hears of it, he may annul the vow or the rash promise that she imposed on herself, and Jehovah will forgive her.
+
+[[v4-30-9]]
+
+^<<v4-30-9,9>>^ “But if a widow or a divorced woman makes a vow, everything that she has imposed on herself will be binding on her.
+
+[[v4-30-10]]
+
+^<<v4-30-10,10>>^ “However, if a woman imposed the vow or the abstinence vow on herself while in the house of her husband
+
+[[v4-30-11]]
+
+^<<v4-30-11,11>>^ and her husband heard it and has not objected or disapproved, all her vows or any abstinence vow that she imposed on herself will stand.
+
+[[v4-30-12]]
+
+^<<v4-30-12,12>>^ But if on the day he heard them her husband completely annulled whatever vows or abstinence vow she swore to, they will not stand. Her husband annulled them, and Jehovah will forgive her.
+
+[[v4-30-13]]
+
+^<<v4-30-13,13>>^ Regarding any vow or any oath involving an abstinence vow to practice self-denial,^&#42;1^ her husband should establish it or her husband should annul it.
+
+[NOTE]
+====
+. Or “a vow to afflict the soul.”
+====
+
+[[v4-30-14]]
+
+^<<v4-30-14,14>>^ But if her husband offers no objection at all from day to day, he also establishes all her vows or all her abstinence vows that are upon her. He establishes them because he did not object on the day he heard her make them.
+
+[[v4-30-15]]
+
+^<<v4-30-15,15>>^ But if he annuls them later, sometime after the day he heard them, he will bear the consequences of her guilt.
+
+[[v4-30-16]]
+
+^<<v4-30-16,16>>^ “These are the regulations that Jehovah commanded Moses relating to a husband and his wife, and relating to a father and his young daughter living in his house.”
+
+'''
+
+xref:004-numbers/004-numbers-029.adoc#v4-29-0[&#60; Capítulo Anterior] | <<v4-30-0,Topo>> | xref:004-numbers/004-numbers-031.adoc#v4-31-0[Próximo Capítulo &#62;]

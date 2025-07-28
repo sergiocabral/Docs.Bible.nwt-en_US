@@ -1,0 +1,35 @@
+include::./index.adoc[]
+
+[[v19-131-0]]
+=== Psalm, 131
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents. Of David._
+
+[[v19-131-1]]
+
+^<<v19-131-1,1>>^ O Jehovah, my heart is not haughty,
+Nor are my eyes lofty;
+Nor do I aspire to things too great,
+Or to things that are beyond me.
+
+[[v19-131-2]]
+
+^<<v19-131-2,2>>^ No, but I have calmed and quieted my soul^&#42;1^
+Like a weaned child with its mother;
+I am^&#42;2^ contented like a weaned child.
+
+[NOTE]
+====
+. Or “myself.” See Glossary.
+. Or “My soul is.”
+====
+
+[[v19-131-3]]
+
+^<<v19-131-3,3>>^ Let Israel wait for Jehovah
+From now on and forever.
+
+'''
+
+xref:019-psalm/019-psalm-130.adoc#v19-130-0[&#60; Capítulo Anterior] | <<v19-131-0,Topo>> | xref:019-psalm/019-psalm-132.adoc#v19-132-0[Próximo Capítulo &#62;]

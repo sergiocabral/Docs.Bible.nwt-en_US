@@ -1,0 +1,252 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Numbers, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ And Jehovah spoke to Moses in the wilderness of Siʹnai, in the tent of meeting, on the first day of the second month, in the second year of their coming out of the land of Egypt. He said:
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ “Take a census of the whole assembly of the Israelites^&#42;1^ individually^&#42;2^ according to their families, according to their paternal houses, according to the count of the names of all the males.
+
+[NOTE]
+====
+. Lit., “sons of Israel.”
+. Or “head by head of them.”
+====
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ You and Aaron are to register by their companies^&#42;1^ all those from 20 years old and up who can serve in the army in Israel.
+
+[NOTE]
+====
+. Lit., “according to their armies.”
+====
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ “Take with you one man from each tribe; each one is to be a head of his paternal house.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ These are the names of the men who will stand with you: of Reuʹben, E·liʹzur the son of Shedʹe·ur;
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ of Simʹe·on, She·luʹmi·el the son of Zu·ri·shadʹdai;
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ of Judah, Nahʹshon the son of Am·minʹa·dab;
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ of Isʹsa·char, Ne·thanʹel the son of Zuʹar;
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ of Zebʹu·lun, E·liʹab the son of Heʹlon;
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ of the sons of Joseph: from Eʹphra·im, E·lishʹa·ma the son of Am·miʹhud; from Ma·nasʹseh, Ga·maʹli·el the son of Pe·dahʹzur;
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ of Benjamin, Abʹi·dan the son of Gid·e·oʹni;
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ of Dan, A·hi·eʹzer the son of Am·mi·shadʹdai;
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ of Ashʹer, Paʹgi·el the son of Ochʹran;
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ of Gad, E·liʹa·saph the son of Deuʹel;
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ of Naphʹta·li, A·hiʹra the son of Eʹnan.
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ These are the ones summoned from the assembly. They are the chieftains of the tribes of their fathers, the heads of the thousands of Israel.”
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ So Moses and Aaron took these men who had been designated by name.
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ They gathered all the assembly on the first day of the second month, so that they might be registered individually by name, by family, and by their paternal houses, from 20 years old and up,
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ just as Jehovah had commanded Moses. So he registered them in the wilderness of Siʹnai.
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ The sons of Reuʹben, the descendants of Israel’s firstborn, were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted individually,
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ and the number registered of the tribe of Reuʹben was 46,500.
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ The descendants of Simʹe·on were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted individually,
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ and the number registered of the tribe of Simʹe·on was 59,300.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ The descendants of Gad were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ and the number registered of the tribe of Gad was 45,650.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ The descendants of Judah were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ and the number registered of the tribe of Judah was 74,600.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ The descendants of Isʹsa·char were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-29]]
+
+^<<v4-1-29,29>>^ and the number registered of the tribe of Isʹsa·char was 54,400.
+
+[[v4-1-30]]
+
+^<<v4-1-30,30>>^ The descendants of Zebʹu·lun were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-31]]
+
+^<<v4-1-31,31>>^ and the number registered of the tribe of Zebʹu·lun was 57,400.
+
+[[v4-1-32]]
+
+^<<v4-1-32,32>>^ The descendants of Joseph through Eʹphra·im were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-33]]
+
+^<<v4-1-33,33>>^ and the number registered of the tribe of Eʹphra·im was 40,500.
+
+[[v4-1-34]]
+
+^<<v4-1-34,34>>^ The descendants of Ma·nasʹseh were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-35]]
+
+^<<v4-1-35,35>>^ and the number registered of the tribe of Ma·nasʹseh was 32,200.
+
+[[v4-1-36]]
+
+^<<v4-1-36,36>>^ The descendants of Benjamin were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-37]]
+
+^<<v4-1-37,37>>^ and the number registered of the tribe of Benjamin was 35,400.
+
+[[v4-1-38]]
+
+^<<v4-1-38,38>>^ The descendants of Dan were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-39]]
+
+^<<v4-1-39,39>>^ and the number registered of the tribe of Dan was 62,700.
+
+[[v4-1-40]]
+
+^<<v4-1-40,40>>^ The descendants of Ashʹer were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-41]]
+
+^<<v4-1-41,41>>^ and the number registered of the tribe of Ashʹer was 41,500.
+
+[[v4-1-42]]
+
+^<<v4-1-42,42>>^ The descendants of Naphʹta·li were listed by name, by family, and by their paternal houses. All the males from 20 years old and up who could serve in the army were counted,
+
+[[v4-1-43]]
+
+^<<v4-1-43,43>>^ and the number registered of the tribe of Naphʹta·li was 53,400.
+
+[[v4-1-44]]
+
+^<<v4-1-44,44>>^ These were registered by Moses together with Aaron and the 12 chieftains of Israel, each representing his paternal house.
+
+[[v4-1-45]]
+
+^<<v4-1-45,45>>^ All the Israelites from 20 years old and up who could serve in the army in Israel were registered by their paternal house,
+
+[[v4-1-46]]
+
+^<<v4-1-46,46>>^ and the total number registered was 603,550.
+
+[[v4-1-47]]
+
+^<<v4-1-47,47>>^ But the Levites were not registered in among them by the tribe of their fathers.
+
+[[v4-1-48]]
+
+^<<v4-1-48,48>>^ So Jehovah told Moses:
+
+[[v4-1-49]]
+
+^<<v4-1-49,49>>^ “Only the tribe of Leʹvi you are not to register, and you should not include the number of them along with the other Israelites.
+
+[[v4-1-50]]
+
+^<<v4-1-50,50>>^ You should appoint the Levites over the tabernacle of the Testimony and over all its utensils and over everything that belongs to it. They will carry the tabernacle and all its utensils, and they will minister at it, and they are to camp around the tabernacle.
+
+[[v4-1-51]]
+
+^<<v4-1-51,51>>^ Whenever the tabernacle is to be moved, the Levites should take it down; and when the tabernacle is to be reassembled, the Levites should set it up; and any unauthorized person^&#42;1^ who comes near should be put to death.
+
+[NOTE]
+====
+. Lit., “any stranger,” that is, a non-Levite.
+====
+
+[[v4-1-52]]
+
+^<<v4-1-52,52>>^ “Each Israelite should set up his tent in his assigned camp, each man according to his three-tribe division^&#42;1^ by their companies.^&#42;2^
+
+[NOTE]
+====
+. Or “by his standard (banner).”
+. Lit., “according to their armies.”
+====
+
+[[v4-1-53]]
+
+^<<v4-1-53,53>>^ And the Levites should encamp around the tabernacle of the Testimony, so that no indignation may arise against the assembly of the Israelites; and the Levites must be responsible for the care of^&#42;1^ the tabernacle of the Testimony.”
+
+[NOTE]
+====
+. Or “for guarding; for carrying out their service at.”
+====
+
+[[v4-1-54]]
+
+^<<v4-1-54,54>>^ The people of Israel did all that Jehovah had commanded Moses. They did just so.
+
+'''
+
+xref:003-leviticus/003-leviticus-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numbers/004-numbers-002.adoc#v4-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,54 @@
+include::./index.adoc[]
+
+[[v2-11-0]]
+=== Exodus, 11
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-11-1]]
+
+^<<v2-11-1,1>>^ Then Jehovah said to Moses: “One more plague I am going to bring upon Pharʹaoh and Egypt. After that he will send you away from here. When he does send you away, he will literally drive you out of here.
+
+[[v2-11-2]]
+
+^<<v2-11-2,2>>^ Now tell the people that all the men and women should ask their neighbor for articles of silver and of gold.”
+
+[[v2-11-3]]
+
+^<<v2-11-3,3>>^ And Jehovah gave the people favor in the eyes of the Egyptians. Moreover, Moses himself had become highly esteemed in the land of Egypt among Pharʹaoh’s servants and among the people.
+
+[[v2-11-4]]
+
+^<<v2-11-4,4>>^ Moses then said: “This is what Jehovah has said, ‘About midnight I am going out into the midst of Egypt,
+
+[[v2-11-5]]
+
+^<<v2-11-5,5>>^ and every firstborn in the land of Egypt will die, from the firstborn of Pharʹaoh who is sitting on his throne to the firstborn of the slave girl who is working at the hand mill, and every firstborn of the livestock.
+
+[[v2-11-6]]
+
+^<<v2-11-6,6>>^ Throughout all the land of Egypt, there will be a great outcry such as has never occurred nor will ever occur again.
+
+[[v2-11-7]]
+
+^<<v2-11-7,7>>^ But not even a dog will bark^&#42;1^ at the Israelites, at the men or their livestock, so that you may know that Jehovah can make a distinction between the Egyptians and the Israelites.’
+
+[NOTE]
+====
+. Lit., “sharpen its tongue.”
+====
+
+[[v2-11-8]]
+
+^<<v2-11-8,8>>^ And all your servants will certainly come down to me and prostrate themselves to me, saying, ‘Go, you and all the people who follow you.’ And after that I will go out.” With that he went out from Pharʹaoh in the heat of anger.
+
+[[v2-11-9]]
+
+^<<v2-11-9,9>>^ Jehovah then said to Moses: “Pharʹaoh will not listen to you, in order for my miracles to be multiplied in the land of Egypt.”
+
+[[v2-11-10]]
+
+^<<v2-11-10,10>>^ Moses and Aaron performed all these miracles before Pharʹaoh, but Jehovah allowed Pharʹaoh’s heart to become obstinate, so that he did not send the Israelites away from his land.
+
+'''
+
+xref:002-exodus/002-exodus-010.adoc#v2-10-0[&#60; Capítulo Anterior] | <<v2-11-0,Topo>> | xref:002-exodus/002-exodus-012.adoc#v2-12-0[Próximo Capítulo &#62;]

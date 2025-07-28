@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v21-8-0]]
+=== Ecclesiastes, 8
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v21-8-1]]
+
+^<<v21-8-1,1>>^ Who is like the wise man? Who knows the solution to a problem?^&#42;1^ A man’s wisdom lights up his face and softens his stern appearance.
+
+[NOTE]
+====
+. Or “the interpretation of a matter?”
+====
+
+[[v21-8-2]]
+
+^<<v21-8-2,2>>^ I say: “Obey the king’s orders out of regard for the oath to God.
+
+[[v21-8-3]]
+
+^<<v21-8-3,3>>^ Do not rush to depart from his presence. Do not take a stand for anything bad; for he can do whatever he pleases,
+
+[[v21-8-4]]
+
+^<<v21-8-4,4>>^ because the word of the king is absolute; who can say to him, ‘What are you doing?’”
+
+[[v21-8-5]]
+
+^<<v21-8-5,5>>^ The one who observes the commandment will not experience harm, and the wise heart will know the right time and procedure.^&#42;1^
+
+[NOTE]
+====
+. Or “judgment.”
+====
+
+[[v21-8-6]]
+
+^<<v21-8-6,6>>^ For every matter there is a time and procedure,^&#42;1^ because the troubles of mankind are so abundant.
+
+[NOTE]
+====
+. Or “judgment.”
+====
+
+[[v21-8-7]]
+
+^<<v21-8-7,7>>^ Since no one knows what will happen, who can tell him how it will happen?
+
+[[v21-8-8]]
+
+^<<v21-8-8,8>>^ Just as no man has power over the spirit^&#42;1^ or can restrain the spirit, so no one has power over the day of death. Just as no one is discharged during a war, so wickedness will not allow those who practice it to escape.^&#42;2^
+
+[NOTE]
+====
+. Or “breath; wind.”
+. Or possibly, “their wickedness cannot rescue the wicked.”
+====
+
+[[v21-8-9]]
+
+^<<v21-8-9,9>>^ All of this I have seen, and I applied my heart to every work that has been done under the sun, during the time that man has dominated man to his harm.^&#42;1^
+
+[NOTE]
+====
+. Or “injury; detriment.”
+====
+
+[[v21-8-10]]
+
+^<<v21-8-10,10>>^ And I saw the wicked being buried, those who used to go in and out of the holy place, but they were soon forgotten in the city where they acted that way. This too is futility.
+
+[[v21-8-11]]
+
+^<<v21-8-11,11>>^ Because sentence against a bad deed has not been executed speedily, the heart of men becomes emboldened to do bad.
+
+[[v21-8-12]]
+
+^<<v21-8-12,12>>^ Although a sinner may do bad a hundred times and still live a long time, yet I am aware that it will turn out well for those who fear the true God, because they fear him.
+
+[[v21-8-13]]
+
+^<<v21-8-13,13>>^ But it will not turn out well for the wicked one, nor will he prolong his days that are like a shadow, because he does not fear God.
+
+[[v21-8-14]]
+
+^<<v21-8-14,14>>^ There is something futile^&#42;1^ that takes place on the earth: There are righteous people who are treated as if they had acted wickedly, and there are wicked people who are treated as if they had acted righteously. I say that this too is futility.
+
+[NOTE]
+====
+. Or “frustrating.”
+====
+
+[[v21-8-15]]
+
+^<<v21-8-15,15>>^ So I recommended rejoicing, because there is nothing better for man under the sun than to eat and drink and rejoice; this should accompany him as he works hard during the days of his life, which the true God gives him under the sun.
+
+[[v21-8-16]]
+
+^<<v21-8-16,16>>^ I applied my heart to acquire wisdom and to see all the activity^&#42;1^ happening on the earth, even going without sleep day and night.^&#42;2^
+
+[NOTE]
+====
+. Or “occupation.”
+. Or possibly, “that people do not see sleep either by day or by night.”
+====
+
+[[v21-8-17]]
+
+^<<v21-8-17,17>>^ Then I considered all the work of the true God, and I realized that mankind cannot comprehend what happens under the sun. No matter how hard men try, they cannot comprehend it. Even if they claim that they are wise enough to know, they cannot really comprehend it.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-007.adoc#v21-7-0[&#60; Capítulo Anterior] | <<v21-8-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-009.adoc#v21-9-0[Próximo Capítulo &#62;]

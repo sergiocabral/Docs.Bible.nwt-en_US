@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v45-3-0]]
+=== To the Romans, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v45-3-1]]
+
+^<<v45-3-1,1>>^ What, then, is the advantage of the Jew, or what is the benefit of circumcision?
+
+[[v45-3-2]]
+
+^<<v45-3-2,2>>^ A great deal in every way. First of all, that they were entrusted with the sacred pronouncements of God.
+
+[[v45-3-3]]
+
+^<<v45-3-3,3>>^ What, then, is the case? If some lacked faith, will their lack of faith invalidate the faithfulness of God?
+
+[[v45-3-4]]
+
+^<<v45-3-4,4>>^ Certainly not! But let God be found true, even if every man be found a liar, just as it is written: “That you might be proved righteous in your words and might win when you are being judged.”
+
+[[v45-3-5]]
+
+^<<v45-3-5,5>>^ However, if our unrighteousness highlights God’s righteousness, what are we to say? God is not unjust when he expresses his wrath, is he? (I am speaking in human terms.)
+
+[[v45-3-6]]
+
+^<<v45-3-6,6>>^ By no means! How, otherwise, will God judge the world?
+
+[[v45-3-7]]
+
+^<<v45-3-7,7>>^ But if by my lie the truth of God has been made more prominent to his glory, why am I also being judged as a sinner?
+
+[[v45-3-8]]
+
+^<<v45-3-8,8>>^ And why not say, just as some men falsely claim that we say, “Let us do bad things that good things may come”? The judgment against those men is in harmony with justice.
+
+[[v45-3-9]]
+
+^<<v45-3-9,9>>^ What then? Are we in a better position? Not at all! For above we have made the charge that Jews as well as Greeks are all under sin;
+
+[[v45-3-10]]
+
+^<<v45-3-10,10>>^ just as it is written: “There is not a righteous man, not even one;
+
+[[v45-3-11]]
+
+^<<v45-3-11,11>>^ there is no one who has any insight; there is no one who searches for God.
+
+[[v45-3-12]]
+
+^<<v45-3-12,12>>^ All men have turned aside, all of them have become worthless; there is no one who shows kindness, not so much as one.”
+
+[[v45-3-13]]
+
+^<<v45-3-13,13>>^ “Their throat is an open grave; they have deceived with their tongues.” “Venom of asps is behind their lips.”
+
+[[v45-3-14]]
+
+^<<v45-3-14,14>>^ “And their mouth is full of cursing and bitterness.”
+
+[[v45-3-15]]
+
+^<<v45-3-15,15>>^ “Their feet are swift to shed blood.”
+
+[[v45-3-16]]
+
+^<<v45-3-16,16>>^ “Ruin and misery are in their ways,
+
+[[v45-3-17]]
+
+^<<v45-3-17,17>>^ and they have not known the way of peace.”
+
+[[v45-3-18]]
+
+^<<v45-3-18,18>>^ “There is no fear of God before their eyes.”
+
+[[v45-3-19]]
+
+^<<v45-3-19,19>>^ Now we know that all the things the Law says, it addresses to those under the Law, so that every mouth may be silenced and all the world may become accountable to God for punishment.
+
+[[v45-3-20]]
+
+^<<v45-3-20,20>>^ Therefore, no one^&#42;1^ will be declared righteous before him by works of law, for by law comes the accurate knowledge of sin.
+
+[NOTE]
+====
+. Lit., “flesh.”
+====
+
+[[v45-3-21]]
+
+^<<v45-3-21,21>>^ But now apart from law God’s righteousness has been revealed, as the Law and the Prophets bear witness,
+
+[[v45-3-22]]
+
+^<<v45-3-22,22>>^ yes, God’s righteousness through the faith in Jesus Christ, for all those having faith. For there is no distinction.
+
+[[v45-3-23]]
+
+^<<v45-3-23,23>>^ For all have sinned and fall short of the glory of God,
+
+[[v45-3-24]]
+
+^<<v45-3-24,24>>^ and it is as a free gift that they are being declared righteous by his undeserved kindness through the release by the ransom paid by Christ Jesus.
+
+[[v45-3-25]]
+
+^<<v45-3-25,25>>^ God presented him as an offering for propitiation^&#42;1^ through faith in his blood. This was to demonstrate his own righteousness, because God in his forbearance^&#42;2^ was forgiving the sins that occurred in the past.
+
+[NOTE]
+====
+. Or “atonement; reconciliation.”
+. Or “tolerance.”
+====
+
+[[v45-3-26]]
+
+^<<v45-3-26,26>>^ This was to demonstrate his own righteousness in this present season, so that he might be righteous even when declaring righteous the man who has faith in Jesus.
+
+[[v45-3-27]]
+
+^<<v45-3-27,27>>^ Where, then, is the boasting? There is no place for it. Through what law? That of works? No indeed, but through the law of faith.
+
+[[v45-3-28]]
+
+^<<v45-3-28,28>>^ For we consider that a man is declared righteous by faith apart from works of law.
+
+[[v45-3-29]]
+
+^<<v45-3-29,29>>^ Or is he the God of the Jews only? Is he not also the God of people of the nations? Yes, also of people of the nations.
+
+[[v45-3-30]]
+
+^<<v45-3-30,30>>^ Since God is one, he will declare circumcised people righteous as a result of faith and uncircumcised people righteous by means of their faith.
+
+[[v45-3-31]]
+
+^<<v45-3-31,31>>^ Do we, then, abolish law by means of our faith? Not at all! On the contrary, we uphold law.
+
+'''
+
+xref:045-romans/045-romans-002.adoc#v45-2-0[&#60; Capítulo Anterior] | <<v45-3-0,Topo>> | xref:045-romans/045-romans-004.adoc#v45-4-0[Próximo Capítulo &#62;]

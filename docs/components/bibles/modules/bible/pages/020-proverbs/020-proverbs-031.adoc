@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Proverbs, 31
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ The words of King Lemʹu·el, the weighty message his mother gave to instruct him:
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ What should I tell you, O my son,
+What, O son of my womb,
+And what, O son of my vows?
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ Do not give your vigor to women,
+Nor follow ways that destroy kings.
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ It is not for kings, O Lemʹu·el,
+It is not for kings to drink wine
+Nor for rulers to say, “Where is my drink?”
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ So that they do not drink and forget what is decreed
+And pervert the rights of the lowly ones.
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ Give alcohol to those who are perishing
+And wine to those in bitter distress.^&#42;1^
+
+[NOTE]
+====
+. Or “those bitter of soul.”
+====
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Let them drink and forget their poverty;
+Let them remember their trouble no more.
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ Speak up in behalf of the speechless;
+Defend the rights of all who are perishing.
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Speak up and judge righteously;
+Defend the rights^&#42;1^ of the lowly and the poor.
+
+[NOTE]
+====
+. Or “Plead the cause.”
+====
+
+_א &#91;Aleph&#93;_
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ Who can find a capable^&#42;1^ wife?
+Her value is far more than that of corals.^&#42;2^
+
+[NOTE]
+====
+. Or “an excellent.”
+. See Glossary.
+====
+
+_ב &#91;Beth&#93;_
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ Her husband trusts her from his heart,
+And he lacks nothing of value.
+
+_ג &#91;Gimel&#93;_
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ She rewards him with good, not bad,
+All the days of her life.
+
+_ד &#91;Daleth&#93;_
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ She obtains wool and linen;
+She delights to work with her hands.
+
+_ה &#91;He&#93;_
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ She is like the ships of a merchant,
+Bringing her food in from afar.
+
+_ו &#91;Waw&#93;_
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ She also rises while it is still night,
+Providing food for her household
+And portions for her female servants.
+
+_ז &#91;Zayin&#93;_
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ She sets her mind on a field and buys it;
+She plants a vineyard from her own labors.^&#42;1^
+
+[NOTE]
+====
+. Or “with her earnings.” Lit., “from the fruitage of her hands.”
+====
+
+_ח &#91;Heth&#93;_
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ She prepares herself for hard work,^&#42;1^
+And she strengthens her arms.
+
+[NOTE]
+====
+. Lit., “girds her hips with strength.”
+====
+
+_ט &#91;Teth&#93;_
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ She sees that her trading is profitable;
+Her lamp does not go out at night.
+
+_י &#91;Yod&#93;_
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ Her hands seize the distaff,
+And her hands take hold of the spindle.^&#42;1^
+
+[NOTE]
+====
+. The distaff and the spindle were sticks used to spin or make thread and yarn.
+====
+
+_כ &#91;Kaph&#93;_
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ She extends her palm to the lowly one,
+And she opens her hands to the poor.
+
+_ל &#91;Lamed&#93;_
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ She does not worry about her household because of the snow,
+For her whole household is clothed in warm^&#42;1^ garments.
+
+[NOTE]
+====
+. Lit., “double.”
+====
+
+_מ &#91;Mem&#93;_
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ She makes her own bed covers.
+Her clothing is of linen and purple wool.
+
+_נ &#91;Nun&#93;_
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ Her husband is well-known in the city gates,
+Where he sits among the elders of the land.
+
+_ס &#91;Samekh&#93;_
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ She makes and sells linen garments^&#42;1^
+And supplies belts to the merchants.
+
+[NOTE]
+====
+. Or “undergarments.”
+====
+
+_ע &#91;Ayin&#93;_
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ She is clothed with strength and splendor,
+And she looks to the future with confidence.^&#42;1^
+
+[NOTE]
+====
+. Or “laughs at a future day.”
+====
+
+_פ &#91;Pe&#93;_
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ She opens her mouth in wisdom;
+The law of kindness^&#42;1^ is on her tongue.
+
+[NOTE]
+====
+. Or “Loving instruction; The law of loyal love.”
+====
+
+_צ &#91;Tsade&#93;_
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ She watches over the activity of her household,
+And the bread of laziness she does not eat.
+
+_ק &#91;Qoph&#93;_
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Her children rise up and declare her happy;
+Her husband rises up and praises her.
+
+_ר &#91;Resh&#93;_
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ There are many capable^&#42;1^ women,
+But you—you surpass them all.
+
+[NOTE]
+====
+. Or “excellent.”
+====
+
+_ש &#91;Shin&#93;_
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ Charm may be false, and beauty may be fleeting,^&#42;1^
+But the woman who fears Jehovah will be praised.
+
+[NOTE]
+====
+. Or “empty.”
+====
+
+_ת &#91;Taw&#93;_
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ Give her the reward for what she does,^&#42;1^
+And let her works praise her in the city gates.
+
+[NOTE]
+====
+. Lit., “Give her from the fruit of her hands.”
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-001.adoc#v21-1-0[Próximo Capítulo &#62;]

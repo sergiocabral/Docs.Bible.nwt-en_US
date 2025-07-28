@@ -1,0 +1,118 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Exodus, 27
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ “You will make the altar of acacia wood; it will be five cubits^&#42;1^ long and five cubits wide. The altar should be square and three cubits high.
+
+[NOTE]
+====
+. A cubit equaled 44.5 cm (17.5 in.). See App. B14.
+====
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ You will make horns on its four corners; the horns will be part of the altar, and you will overlay the altar with copper.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ You will make buckets for clearing away its ashes,^&#42;1^ along with shovels, bowls, forks, and fire holders, and you will make all its utensils of copper.
+
+[NOTE]
+====
+. Or “fatty ashes,” that is, ashes soaked with the fat of the sacrifices.
+====
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ You will make a grating for the altar, a network of copper, and on the network four rings of copper at its four corners.
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ You will set it down below the rim of the altar, and the network will extend partway down into the altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ You will make poles of acacia wood for the altar and overlay them with copper.
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ The poles will be inserted into the rings so that the poles are on the two sides of the altar when it is carried.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ You will make the altar in the form of a hollow chest of planks. It should be made just as He showed you on the mountain.
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ “You will make the courtyard of the tabernacle. For the south side, facing south, the courtyard will have hanging curtains of fine twisted linen, 100 cubits long for the one side.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ It will have 20 pillars with 20 copper socket pedestals. The hooks of the pillars and their connectors^&#42;1^ are of silver.
+
+[NOTE]
+====
+. Or “rings; hoops; bands” for attachments.
+====
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ The hanging curtains for the north side will also be 100 cubits long, along with its 20 pillars and their 20 copper socket pedestals, with silver hooks and connectors^&#42;1^ for the pillars.
+
+[NOTE]
+====
+. Or “rings; hoops; bands” for attachments.
+====
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ There are to be hanging curtains on the west side for 50 cubits across the width of the courtyard, with ten pillars and ten socket pedestals.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ The width of the courtyard on the east side toward the sunrise is 50 cubits.
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ There will be 15 cubits of hanging curtains on the one side, with three pillars and three socket pedestals.
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ And for the other side, there will be 15 cubits of hanging curtains, with three pillars and three socket pedestals.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ “The entrance of the courtyard should have a screen^&#42;1^ 20 cubits long made of blue thread, purple wool, scarlet material, and fine twisted linen woven together, with four pillars and their four socket pedestals.
+
+[NOTE]
+====
+. Or “curtain.”
+====
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ All the pillars surrounding the courtyard will have silver fasteners and silver hooks, but their socket pedestals will be of copper.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ The courtyard is to be 100 cubits long, 50 cubits wide, and 5 cubits high, made from fine twisted linen, and it should have copper socket pedestals.
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ All the utensils and the items used in the service of the tabernacle, as well as its tent pins and all the pins of the courtyard, are to be of copper.
+
+[[v2-27-20]]
+
+^<<v2-27-20,20>>^ “You are to command the Israelites to bring you pure, beaten olive oil for the lighting, in order to keep the lamps burning constantly.
+
+[[v2-27-21]]
+
+^<<v2-27-21,21>>^ In the tent of meeting, outside the curtain that is near the Testimony, Aaron and his sons will arrange to keep the lamps lit from evening until morning before Jehovah. It is a lasting statute for all their generations to be carried out by the Israelites.
+
+'''
+
+xref:002-exodus/002-exodus-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodus/002-exodus-028.adoc#v2-28-0[Próximo Capítulo &#62;]

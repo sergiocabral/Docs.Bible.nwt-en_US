@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v48-1-0]]
+=== To the Galatians, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v48-1-1]]
+
+^<<v48-1-1,1>>^ Paul, an apostle, neither from men nor through a man, but through Jesus Christ and God the Father, who raised him up from the dead,
+
+[[v48-1-2]]
+
+^<<v48-1-2,2>>^ and all the brothers with me, to the congregations of Ga·laʹti·a:
+
+[[v48-1-3]]
+
+^<<v48-1-3,3>>^ May you have undeserved kindness and peace from God our Father and the Lord Jesus Christ.
+
+[[v48-1-4]]
+
+^<<v48-1-4,4>>^ He gave himself for our sins so that he might rescue us from the present wicked system of things^&#42;1^ according to the will of our God and Father,
+
+[NOTE]
+====
+. Or “wicked age.” See Glossary.
+====
+
+[[v48-1-5]]
+
+^<<v48-1-5,5>>^ to whom be the glory forever and ever. Amen.
+
+[[v48-1-6]]
+
+^<<v48-1-6,6>>^ I am amazed that you are so quickly turning away^&#42;1^ from the One who called you with Christ’s undeserved kindness to another sort of good news.
+
+[NOTE]
+====
+. Or “are being so quickly removed.”
+====
+
+[[v48-1-7]]
+
+^<<v48-1-7,7>>^ Not that there is another good news; but there are certain ones who are causing you trouble and wanting to distort the good news about the Christ.
+
+[[v48-1-8]]
+
+^<<v48-1-8,8>>^ However, even if we or an angel out of heaven were to declare to you as good news something beyond the good news we declared to you, let him be accursed.
+
+[[v48-1-9]]
+
+^<<v48-1-9,9>>^ As we have said before, I now say again, Whoever is declaring to you as good news something beyond what you accepted, let him be accursed.
+
+[[v48-1-10]]
+
+^<<v48-1-10,10>>^ Is it, in fact, men I am now trying to persuade or God? Or am I trying to please men? If I were still pleasing men, I would not be Christ’s slave.
+
+[[v48-1-11]]
+
+^<<v48-1-11,11>>^ For I want you to know, brothers, that the good news I declared to you is not of human origin;
+
+[[v48-1-12]]
+
+^<<v48-1-12,12>>^ for neither did I receive it from man, nor was I taught it, but it was through a revelation by Jesus Christ.
+
+[[v48-1-13]]
+
+^<<v48-1-13,13>>^ Of course, you heard about my conduct formerly in Juʹda·ism, that I kept intensely^&#42;1^ persecuting the congregation of God and devastating it;
+
+[NOTE]
+====
+. Lit., “that to the point of excess I kept.”
+====
+
+[[v48-1-14]]
+
+^<<v48-1-14,14>>^ and I was making greater progress in Juʹda·ism than many of my own age in my nation, as I was far more zealous for the traditions of my fathers.
+
+[[v48-1-15]]
+
+^<<v48-1-15,15>>^ But when God, who separated me from my mother’s womb and called me through his undeserved kindness, thought good
+
+[[v48-1-16]]
+
+^<<v48-1-16,16>>^ to reveal his Son through me so that I might declare the good news about him to the nations, I did not immediately consult with any human;^&#42;1^
+
+[NOTE]
+====
+. Lit., “with flesh and blood.”
+====
+
+[[v48-1-17]]
+
+^<<v48-1-17,17>>^ nor did I go up to Jerusalem to those who were apostles before I was, but I went to Arabia, and then I returned to Damascus.
+
+[[v48-1-18]]
+
+^<<v48-1-18,18>>^ Then three years later I went up to Jerusalem to visit Ceʹphas,^&#42;1^ and I stayed with him for 15 days.
+
+[NOTE]
+====
+. Also called Peter.
+====
+
+[[v48-1-19]]
+
+^<<v48-1-19,19>>^ But I did not see any of the other apostles, only James the brother of the Lord.
+
+[[v48-1-20]]
+
+^<<v48-1-20,20>>^ Now regarding the things I am writing you, I assure you before God that I am not lying.
+
+[[v48-1-21]]
+
+^<<v48-1-21,21>>^ After that I went into the regions of Syria and Ci·liʹcia.
+
+[[v48-1-22]]
+
+^<<v48-1-22,22>>^ But I was personally unknown to the congregations of Ju·deʹa that were in union with Christ.
+
+[[v48-1-23]]
+
+^<<v48-1-23,23>>^ They only used to hear: “The man who formerly persecuted us is now declaring the good news about the faith that he formerly devastated.”
+
+[[v48-1-24]]
+
+^<<v48-1-24,24>>^ So they began glorifying God because of me.
+
+'''
+
+xref:047-2-corinthians/047-2-corinthians-013.adoc#v47-13-0[&#60; Capítulo Anterior] | <<v48-1-0,Topo>> | xref:048-galatians/048-galatians-002.adoc#v48-2-0[Próximo Capítulo &#62;]

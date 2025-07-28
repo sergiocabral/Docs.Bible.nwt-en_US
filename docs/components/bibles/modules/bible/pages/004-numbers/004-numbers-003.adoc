@@ -1,0 +1,266 @@
+include::./index.adoc[]
+
+[[v4-3-0]]
+=== Numbers, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-3-1]]
+
+^<<v4-3-1,1>>^ Now these were the family lines^&#42;1^ of Aaron and Moses in the day that Jehovah spoke with Moses on Mount Siʹnai.
+
+[NOTE]
+====
+. Lit., “the generations.”
+====
+
+[[v4-3-2]]
+
+^<<v4-3-2,2>>^ These were the names of Aaron’s sons: the firstborn Naʹdab, and A·biʹhu, El·e·aʹzar, and Ithʹa·mar.
+
+[[v4-3-3]]
+
+^<<v4-3-3,3>>^ These were the names of Aaron’s sons, the anointed priests who had been installed^&#42;1^ to serve as priests.
+
+[NOTE]
+====
+. Lit., “whose hands had been filled.”
+====
+
+[[v4-3-4]]
+
+^<<v4-3-4,4>>^ However, Naʹdab and A·biʹhu died before Jehovah when they offered unauthorized fire before Jehovah in the wilderness of Siʹnai, and they did not have any sons. But El·e·aʹzar and Ithʹa·mar continued to serve as priests along with Aaron their father.
+
+[[v4-3-5]]
+
+^<<v4-3-5,5>>^ Jehovah then said to Moses:
+
+[[v4-3-6]]
+
+^<<v4-3-6,6>>^ “Bring the tribe of Leʹvi forward, and stand them before Aaron the priest, and they will minister to him.
+
+[[v4-3-7]]
+
+^<<v4-3-7,7>>^ They are to fulfill their responsibilities toward him and toward all the assembly before the tent of meeting by carrying out their service in connection with the tabernacle.
+
+[[v4-3-8]]
+
+^<<v4-3-8,8>>^ They are to take care of all the equipment of the tent of meeting and to carry out their responsibilities toward the Israelites by taking care of the services related to the tabernacle.
+
+[[v4-3-9]]
+
+^<<v4-3-9,9>>^ You are to give the Levites to Aaron and his sons. They are given ones, given to him from the Israelites.
+
+[[v4-3-10]]
+
+^<<v4-3-10,10>>^ You should appoint Aaron and his sons, and they are to carry out their priestly duties, and any unauthorized person^&#42;1^ who comes near should be put to death.”
+
+[NOTE]
+====
+. Lit., “any stranger,” that is, a man not of Aaron’s family.
+====
+
+[[v4-3-11]]
+
+^<<v4-3-11,11>>^ Jehovah continued to speak to Moses, saying:
+
+[[v4-3-12]]
+
+^<<v4-3-12,12>>^ “As for me, look! I take the Levites from among the Israelites in place of all the firstborn^&#42;1^ of the Israelites, and the Levites will become mine.
+
+[NOTE]
+====
+. Lit., “of every firstborn opening the womb.”
+====
+
+[[v4-3-13]]
+
+^<<v4-3-13,13>>^ For every firstborn is mine. In the day that I struck every firstborn in the land of Egypt, I sanctified to myself every firstborn in Israel from man to beast. They are to become mine. I am Jehovah.”
+
+[[v4-3-14]]
+
+^<<v4-3-14,14>>^ Jehovah spoke further to Moses in the wilderness of Siʹnai, saying:
+
+[[v4-3-15]]
+
+^<<v4-3-15,15>>^ “Register the sons of Leʹvi by their paternal houses and by their families. You should register every male from a month old and up.”
+
+[[v4-3-16]]
+
+^<<v4-3-16,16>>^ So Moses registered them at the order of Jehovah, just as he had been commanded.
+
+[[v4-3-17]]
+
+^<<v4-3-17,17>>^ These were the names of the sons of Leʹvi: Gerʹshon, Koʹhath, and Me·rarʹi.
+
+[[v4-3-18]]
+
+^<<v4-3-18,18>>^ Now these were the names of the sons of Gerʹshon by their families: Libʹni and Shimʹe·i.
+
+[[v4-3-19]]
+
+^<<v4-3-19,19>>^ The sons of Koʹhath by their families were Amʹram, Izʹhar, Hebʹron, and Uzʹzi·el.
+
+[[v4-3-20]]
+
+^<<v4-3-20,20>>^ The sons of Me·rarʹi by their families were Mahʹli and Muʹshi.
+These were the families of the Levites by their paternal houses.
+
+[[v4-3-21]]
+
+^<<v4-3-21,21>>^ From Gerʹshon came the family of the Libʹnites and the family of the Shimʹe·ites. These were the families of the Gerʹshon·ites.
+
+[[v4-3-22]]
+
+^<<v4-3-22,22>>^ The number of all their males a month old and up who were registered was 7,500.
+
+[[v4-3-23]]
+
+^<<v4-3-23,23>>^ The families of the Gerʹshon·ites were encamped behind the tabernacle toward the west.
+
+[[v4-3-24]]
+
+^<<v4-3-24,24>>^ The chieftain of the paternal house of the Gerʹshon·ites was E·liʹa·saph the son of Laʹel.
+
+[[v4-3-25]]
+
+^<<v4-3-25,25>>^ The responsibility of the sons of Gerʹshon in the tent of meeting was to care for the tabernacle and the tent, its covering, the screen^&#42;1^ of the entrance of the tent of meeting,
+
+[NOTE]
+====
+. Or “curtain.”
+====
+
+[[v4-3-26]]
+
+^<<v4-3-26,26>>^ the hanging curtains of the courtyard, the screen^&#42;1^ of the entrance of the courtyard that surrounds the tabernacle and the altar, its tent cords, and all the service connected with these.
+
+[NOTE]
+====
+. Or “curtain.”
+====
+
+[[v4-3-27]]
+
+^<<v4-3-27,27>>^ From Koʹhath came the family of the Amʹram·ites, the family of the Izʹhar·ites, the family of the Hebʹron·ites, and the family of the Uz·ziʹel·ites. These were the families of the Koʹhath·ites.
+
+[[v4-3-28]]
+
+^<<v4-3-28,28>>^ The number of all the males from a month old and up was 8,600; they were responsible for taking care of the holy place.
+
+[[v4-3-29]]
+
+^<<v4-3-29,29>>^ The families of the sons of Koʹhath camped on the south side of the tabernacle.
+
+[[v4-3-30]]
+
+^<<v4-3-30,30>>^ The chieftain of the paternal house of the families of the Koʹhath·ites was E·li·zaʹphan the son of Uzʹzi·el.
+
+[[v4-3-31]]
+
+^<<v4-3-31,31>>^ Their responsibility was to care for the Ark, the table, the lampstand, the altars, the utensils used to minister in the holy place, the screen,^&#42;1^ and all the service connected with these.
+
+[NOTE]
+====
+. Or “curtain.”
+====
+
+[[v4-3-32]]
+
+^<<v4-3-32,32>>^ The head chieftain of the Levites was El·e·aʹzar the son of Aaron the priest, who had the oversight of those taking care of the responsibilities of the holy place.
+
+[[v4-3-33]]
+
+^<<v4-3-33,33>>^ From Me·rarʹi came the family of the Mahʹlites and the family of the Muʹshites. These were the families of Me·rarʹi.
+
+[[v4-3-34]]
+
+^<<v4-3-34,34>>^ The number of all the males from a month old and up who were registered was 6,200.
+
+[[v4-3-35]]
+
+^<<v4-3-35,35>>^ The chieftain of the paternal house of the families of Me·rarʹi was Zuʹri·el the son of Abʹi·ha·il. They were encamped on the north side of the tabernacle.
+
+[[v4-3-36]]
+
+^<<v4-3-36,36>>^ The sons of Me·rarʹi were responsible for overseeing the panel frames of the tabernacle, its bars, its pillars, its socket pedestals, all its utensils, and all the service connected with these,
+
+[[v4-3-37]]
+
+^<<v4-3-37,37>>^ as well as the pillars that were all around the courtyard and their socket pedestals, their tent pins, and their tent cords.
+
+[[v4-3-38]]
+
+^<<v4-3-38,38>>^ Those camping in front of the tabernacle toward the east, before the tent of meeting toward the sunrise, were Moses and Aaron and his sons. They were responsible for taking care of the sanctuary as their obligation in behalf of the Israelites. Any unauthorized person^&#42;1^ coming near would be put to death.
+
+[NOTE]
+====
+. Lit., “Any stranger,” that is, a non-Levite.
+====
+
+[[v4-3-39]]
+
+^<<v4-3-39,39>>^ All the Levite males from a month old and up, whom Moses and Aaron registered by their families at the order of Jehovah, were 22,000.
+
+[[v4-3-40]]
+
+^<<v4-3-40,40>>^ Then Jehovah said to Moses: “Register all the firstborn males of the Israelites from a month old and up, count them, and make a list of their names.
+
+[[v4-3-41]]
+
+^<<v4-3-41,41>>^ You must take the Levites for me—I am Jehovah—in place of all the firstborn of the Israelites, and take the domestic animals of the Levites in place of all the firstborn of the domestic animals of the Israelites.”
+
+[[v4-3-42]]
+
+^<<v4-3-42,42>>^ Moses then registered all the firstborn among the Israelites, just as Jehovah had commanded him.
+
+[[v4-3-43]]
+
+^<<v4-3-43,43>>^ The number of all the firstborn males who were registered by name from a month old and up was 22,273.
+
+[[v4-3-44]]
+
+^<<v4-3-44,44>>^ Jehovah continued to speak to Moses, saying:
+
+[[v4-3-45]]
+
+^<<v4-3-45,45>>^ “Take the Levites in place of all the firstborn among the Israelites, and take the domestic animals of the Levites in place of their domestic animals, and the Levites must become mine. I am Jehovah.
+
+[[v4-3-46]]
+
+^<<v4-3-46,46>>^ As the ransom price of the 273 of the firstborn of the Israelites who are in excess of the Levites,
+
+[[v4-3-47]]
+
+^<<v4-3-47,47>>^ you are to take five shekels^&#42;1^ for each individual, according to the standard shekel of the holy place.^&#42;2^ A shekel is 20 geʹrahs.^&#42;3^
+
+[NOTE]
+====
+. A shekel equaled 11.4 g (0.367 oz t). See App. B14.
+. Or “by the holy shekel.”
+. A gerah equaled 0.57 g (0.01835 oz t). See App. B14.
+====
+
+[[v4-3-48]]
+
+^<<v4-3-48,48>>^ You are to give the money to Aaron and his sons as the ransom price of those who are in excess of them.”
+
+[[v4-3-49]]
+
+^<<v4-3-49,49>>^ So Moses took the money of the redemption price from those who were in excess of the ransom price of the Levites.
+
+[[v4-3-50]]
+
+^<<v4-3-50,50>>^ He took the money from the firstborn of the Israelites, 1,365 shekels, according to the standard shekel of the holy place.
+
+[[v4-3-51]]
+
+^<<v4-3-51,51>>^ Then Moses gave the money of the ransom price to Aaron and his sons according to the word^&#42;1^ of Jehovah, just as Jehovah had commanded Moses.
+
+[NOTE]
+====
+. Lit., “mouth.”
+====
+
+'''
+
+xref:004-numbers/004-numbers-002.adoc#v4-2-0[&#60; Capítulo Anterior] | <<v4-3-0,Topo>> | xref:004-numbers/004-numbers-004.adoc#v4-4-0[Próximo Capítulo &#62;]

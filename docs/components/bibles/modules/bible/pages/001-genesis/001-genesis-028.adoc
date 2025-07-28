@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v1-28-0]]
+=== Genesis, 28
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v1-28-1]]
+
+^<<v1-28-1,1>>^ So Isaac called Jacob and blessed him and commanded him, saying: “You must not take a wife from the daughters of Caʹnaan.
+
+[[v1-28-2]]
+
+^<<v1-28-2,2>>^ Go away to Padʹdan-aʹram to the house of Be·thuʹel, your mother’s father, and from there take for yourself a wife from the daughters of Laʹban, your mother’s brother.
+
+[[v1-28-3]]
+
+^<<v1-28-3,3>>^ God Almighty will bless you and make you fruitful and multiply you, and you will certainly become a congregation of peoples.
+
+[[v1-28-4]]
+
+^<<v1-28-4,4>>^ And he will give to you the blessing of Abraham, to you and to your offspring^&#42;1^ with you, so that you may take possession of the land where you have been living as a foreigner, which God has given to Abraham.”
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v1-28-5]]
+
+^<<v1-28-5,5>>^ So Isaac sent Jacob away, and he departed for Padʹdan-aʹram, to Laʹban the son of Be·thuʹel the A·ra·maeʹan, the brother of Re·bekʹah, the mother of Jacob and Eʹsau.
+
+[[v1-28-6]]
+
+^<<v1-28-6,6>>^ Eʹsau saw that Isaac had blessed Jacob and had sent him away to Padʹdan-aʹram to take a wife from there and that when he blessed him, he commanded him, “Do not take a wife from the daughters of Caʹnaan,”
+
+[[v1-28-7]]
+
+^<<v1-28-7,7>>^ and that Jacob obeyed his father and his mother and departed for Padʹdan-aʹram.
+
+[[v1-28-8]]
+
+^<<v1-28-8,8>>^ Eʹsau then realized that the daughters of Caʹnaan were displeasing to his father Isaac,
+
+[[v1-28-9]]
+
+^<<v1-28-9,9>>^ so Eʹsau went to Ishʹma·el and took as wife Maʹha·lath the daughter of Abraham’s son Ishʹma·el, the sister of Ne·baʹioth, in addition to the other wives he already had.
+
+[[v1-28-10]]
+
+^<<v1-28-10,10>>^ Jacob departed from Beʹer-sheʹba and kept going toward Haʹran.
+
+[[v1-28-11]]
+
+^<<v1-28-11,11>>^ In time he came to a place and prepared to spend the night there because the sun had set. So he took one of the stones of that place and set it to rest his head on and lay down there.
+
+[[v1-28-12]]
+
+^<<v1-28-12,12>>^ Then he had a dream, and look! there was a stairway^&#42;1^ set on the earth, and its top reached up to the heavens; and there were God’s angels ascending and descending on it.
+
+[NOTE]
+====
+. Or “ladder.”
+====
+
+[[v1-28-13]]
+
+^<<v1-28-13,13>>^ And look! there was Jehovah stationed above it, and he said:
+“I am Jehovah the God of Abraham your father and the God of Isaac. The land on which you are lying, to you I am going to give it and to your offspring.^&#42;1^
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v1-28-14]]
+
+^<<v1-28-14,14>>^ And your offspring^&#42;1^ will certainly become like the dust particles of the earth, and you will spread abroad to the west and to the east and to the north and to the south, and by means of you and by means of your offspring^&#42;2^ all the families of the ground will certainly be blessed.^&#42;3^
+
+[NOTE]
+====
+. Lit., “seed.”
+. Lit., “seed.”
+. Or “will obtain a blessing for themselves.”
+====
+
+[[v1-28-15]]
+
+^<<v1-28-15,15>>^ I am with you, and I will safeguard you wherever you go, and I will return you to this land. I will not leave you until I have done what I have promised you.”
+
+[[v1-28-16]]
+
+^<<v1-28-16,16>>^ Then Jacob awoke from his sleep and said: “Truly Jehovah is in this place, and I did not know it.”
+
+[[v1-28-17]]
+
+^<<v1-28-17,17>>^ And he grew fearful and added: “How awe-inspiring this place is! This can only be the house of God, and this is the gate of the heavens.”
+
+[[v1-28-18]]
+
+^<<v1-28-18,18>>^ So Jacob got up early in the morning and took the stone on which he had rested his head and set it up as a pillar and poured oil on top of it.
+
+[[v1-28-19]]
+
+^<<v1-28-19,19>>^ So he named that place Bethʹel,^&#42;1^ but previously the city’s name was Luz.
+
+[NOTE]
+====
+. Meaning “House of God.”
+====
+
+[[v1-28-20]]
+
+^<<v1-28-20,20>>^ Jacob then made a vow, saying: “If God will continue with me and will protect me on my journey and will give me bread to eat and garments to wear
+
+[[v1-28-21]]
+
+^<<v1-28-21,21>>^ and I return in peace to the house of my father, then Jehovah will certainly have proved to be my God.
+
+[[v1-28-22]]
+
+^<<v1-28-22,22>>^ And this stone that I have set up as a pillar will become a house of God, and without fail I will give you a tenth of everything you give to me.”
+
+'''
+
+xref:001-genesis/001-genesis-027.adoc#v1-27-0[&#60; Capítulo Anterior] | <<v1-28-0,Topo>> | xref:001-genesis/001-genesis-029.adoc#v1-29-0[Próximo Capítulo &#62;]

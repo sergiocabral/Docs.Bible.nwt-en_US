@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-148-0]]
+=== Psalm, 148
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-148-1]]
+
+^<<v19-148-1,1>>^ Praise Jah!^&#42;1^
+Praise Jehovah from the heavens;
+Praise him in the heights.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-148-2]]
+
+^<<v19-148-2,2>>^ Praise him, all his angels.
+Praise him, all his army.
+
+[[v19-148-3]]
+
+^<<v19-148-3,3>>^ Praise him, sun and moon.
+Praise him, all shining stars.
+
+[[v19-148-4]]
+
+^<<v19-148-4,4>>^ Praise him, O highest heavens^&#42;1^
+And waters above the heavens.
+
+[NOTE]
+====
+. Lit., “heavens of the heavens.”
+====
+
+[[v19-148-5]]
+
+^<<v19-148-5,5>>^ Let them praise the name of Jehovah,
+For he commanded, and they were created.
+
+[[v19-148-6]]
+
+^<<v19-148-6,6>>^ He keeps them established forever and ever;
+He has issued a decree that will not pass away.
+
+[[v19-148-7]]
+
+^<<v19-148-7,7>>^ Praise Jehovah from the earth,
+You great sea creatures and all deep waters,
+
+[[v19-148-8]]
+
+^<<v19-148-8,8>>^ You lightning and hail, snow and thick clouds,
+You storm wind, carrying out his word,
+
+[[v19-148-9]]
+
+^<<v19-148-9,9>>^ You mountains and all you hills,
+You fruit trees and all you cedars,
+
+[[v19-148-10]]
+
+^<<v19-148-10,10>>^ You wild animals and all you domestic animals,
+You creeping things and winged birds,
+
+[[v19-148-11]]
+
+^<<v19-148-11,11>>^ You kings of the earth and all you nations,
+You princes and all you judges of the earth,
+
+[[v19-148-12]]
+
+^<<v19-148-12,12>>^ You young men and young women,^&#42;1^
+Old men and young together.^&#42;2^
+
+[NOTE]
+====
+. Lit., “virgins.”
+. Or “Old and young together.”
+====
+
+[[v19-148-13]]
+
+^<<v19-148-13,13>>^ Let them praise the name of Jehovah,
+For his name alone is unreachably high.
+His majesty is above earth and heaven.
+
+[[v19-148-14]]
+
+^<<v19-148-14,14>>^ He will exalt the strength^&#42;1^ of his people,
+For the praise of all his loyal ones,
+Of the sons of Israel, the people close to him.
+Praise Jah!^&#42;2^
+
+[NOTE]
+====
+. Lit., “the horn.”
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-147.adoc#v19-147-0[&#60; Capítulo Anterior] | <<v19-148-0,Topo>> | xref:019-psalm/019-psalm-149.adoc#v19-149-0[Próximo Capítulo &#62;]

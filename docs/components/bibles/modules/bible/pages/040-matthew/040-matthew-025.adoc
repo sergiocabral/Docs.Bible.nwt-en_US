@@ -1,0 +1,223 @@
+include::./index.adoc[]
+
+[[v40-25-0]]
+=== According to Matthew, 25
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v40-25-1]]
+
+^<<v40-25-1,1>>^ “Then the Kingdom of the heavens may be likened to ten virgins who took their lamps and went out to meet the bridegroom.
+
+[[v40-25-2]]
+
+^<<v40-25-2,2>>^ Five of them were foolish, and five were discreet.^&#42;1^
+
+[NOTE]
+====
+. Or “wise.”
+====
+
+[[v40-25-3]]
+
+^<<v40-25-3,3>>^ For the foolish took their lamps but took no oil with them,
+
+[[v40-25-4]]
+
+^<<v40-25-4,4>>^ whereas the discreet took oil in their flasks along with their lamps.
+
+[[v40-25-5]]
+
+^<<v40-25-5,5>>^ While the bridegroom was delaying, they all became drowsy and fell asleep.
+
+[[v40-25-6]]
+
+^<<v40-25-6,6>>^ Right in the middle of the night there was a shout: ‘Here is the bridegroom! Go out to meet him.’
+
+[[v40-25-7]]
+
+^<<v40-25-7,7>>^ Then all those virgins got up and put their lamps in order.
+
+[[v40-25-8]]
+
+^<<v40-25-8,8>>^ The foolish said to the discreet, ‘Give us some of your oil, because our lamps are about to go out.’
+
+[[v40-25-9]]
+
+^<<v40-25-9,9>>^ The discreet answered, saying: ‘Perhaps there may not be enough for both us and you. Go instead to those who sell it, and buy some for yourselves.’
+
+[[v40-25-10]]
+
+^<<v40-25-10,10>>^ While they were going off to buy it, the bridegroom came. The virgins who were ready went in with him to the marriage feast, and the door was shut.
+
+[[v40-25-11]]
+
+^<<v40-25-11,11>>^ Afterward, the rest of the virgins also came, saying, ‘Sir, Sir, open to us!’
+
+[[v40-25-12]]
+
+^<<v40-25-12,12>>^ In answer he said, ‘I tell you the truth, I do not know you.’
+
+[[v40-25-13]]
+
+^<<v40-25-13,13>>^ “Keep on the watch, therefore, because you know neither the day nor the hour.
+
+[[v40-25-14]]
+
+^<<v40-25-14,14>>^ “For it is just like a man about to travel abroad who summoned his slaves and entrusted his belongings to them.
+
+[[v40-25-15]]
+
+^<<v40-25-15,15>>^ He gave five talents^&#42;1^ to one, two to another, and one to still another, to each according to his own ability, and he went abroad.
+
+[NOTE]
+====
+. A Greek talent equaled 20.4 kg (654 oz t). See App. B14.
+====
+
+[[v40-25-16]]
+
+^<<v40-25-16,16>>^ Immediately the one who received the five talents went and did business with them and gained five more.
+
+[[v40-25-17]]
+
+^<<v40-25-17,17>>^ Likewise, the one who received the two gained two more.
+
+[[v40-25-18]]
+
+^<<v40-25-18,18>>^ But the slave who received just one went off and dug in the ground and hid his master’s money.^&#42;1^
+
+[NOTE]
+====
+. Lit., “silver.”
+====
+
+[[v40-25-19]]
+
+^<<v40-25-19,19>>^ “After a long time, the master of those slaves came and settled accounts with them.
+
+[[v40-25-20]]
+
+^<<v40-25-20,20>>^ So the one who had received the five talents came forward and brought five additional talents, saying, ‘Master, you entrusted five talents to me; see, I gained five talents more.’
+
+[[v40-25-21]]
+
+^<<v40-25-21,21>>^ His master said to him: ‘Well done, good and faithful slave! You were faithful over a few things. I will appoint you over many things. Enter into the joy of your master.’
+
+[[v40-25-22]]
+
+^<<v40-25-22,22>>^ Next the one who had received the two talents came forward and said, ‘Master, you entrusted two talents to me; see, I gained two talents more.’
+
+[[v40-25-23]]
+
+^<<v40-25-23,23>>^ His master said to him: ‘Well done, good and faithful slave! You were faithful over a few things. I will appoint you over many things. Enter into the joy of your master.’
+
+[[v40-25-24]]
+
+^<<v40-25-24,24>>^ “Finally the slave who had received the one talent came forward and said: ‘Master, I knew you to be a demanding man, reaping where you did not sow and gathering where you did not winnow.
+
+[[v40-25-25]]
+
+^<<v40-25-25,25>>^ So I grew afraid and went and hid your talent in the ground. Here, you have what is yours.’
+
+[[v40-25-26]]
+
+^<<v40-25-26,26>>^ In reply his master said to him: ‘Wicked and sluggish slave, you knew, did you, that I reaped where I did not sow and gathered where I did not winnow?
+
+[[v40-25-27]]
+
+^<<v40-25-27,27>>^ Well, then, you should have deposited my money^&#42;1^ with the bankers, and on my coming I would have received it back with interest.
+
+[NOTE]
+====
+. Lit., “silver.”
+====
+
+[[v40-25-28]]
+
+^<<v40-25-28,28>>^ “‘Therefore, take the talent away from him and give it to the one who has the ten talents.
+
+[[v40-25-29]]
+
+^<<v40-25-29,29>>^ For to everyone who has, more will be given, and he will have an abundance. But the one who does not have, even what he has will be taken away from him.
+
+[[v40-25-30]]
+
+^<<v40-25-30,30>>^ And throw the good-for-nothing slave out into the darkness outside. There is where his weeping and the gnashing of his teeth will be.’
+
+[[v40-25-31]]
+
+^<<v40-25-31,31>>^ “When the Son of man comes in his glory, and all the angels with him, then he will sit down on his glorious throne.
+
+[[v40-25-32]]
+
+^<<v40-25-32,32>>^ All the nations will be gathered before him, and he will separate people one from another, just as a shepherd separates the sheep from the goats.
+
+[[v40-25-33]]
+
+^<<v40-25-33,33>>^ And he will put the sheep on his right hand, but the goats on his left.
+
+[[v40-25-34]]
+
+^<<v40-25-34,34>>^ “Then the King will say to those on his right: ‘Come, you who have been blessed by my Father, inherit the Kingdom prepared for you from the founding of the world.
+
+[[v40-25-35]]
+
+^<<v40-25-35,35>>^ For I became hungry and you gave me something to eat; I was thirsty and you gave me something to drink. I was a stranger and you received me hospitably;
+
+[[v40-25-36]]
+
+^<<v40-25-36,36>>^ naked^&#42;1^ and you clothed me. I fell sick and you looked after me. I was in prison and you visited me.’
+
+[NOTE]
+====
+. Or “not sufficiently dressed.”
+====
+
+[[v40-25-37]]
+
+^<<v40-25-37,37>>^ Then the righteous ones will answer him with the words: ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?
+
+[[v40-25-38]]
+
+^<<v40-25-38,38>>^ When did we see you a stranger and receive you hospitably, or naked and clothe you?
+
+[[v40-25-39]]
+
+^<<v40-25-39,39>>^ When did we see you sick or in prison and visit you?’
+
+[[v40-25-40]]
+
+^<<v40-25-40,40>>^ In reply the King will say to them, ‘Truly I say to you, to the extent that you did it to one of the least of these my brothers, you did it to me.’
+
+[[v40-25-41]]
+
+^<<v40-25-41,41>>^ “Then he will say to those on his left: ‘Go away from me, you who have been cursed, into the everlasting fire prepared for the Devil and his angels.
+
+[[v40-25-42]]
+
+^<<v40-25-42,42>>^ For I became hungry, but you gave me nothing to eat; and I was thirsty, but you gave me nothing to drink.
+
+[[v40-25-43]]
+
+^<<v40-25-43,43>>^ I was a stranger, but you did not receive me hospitably; naked, but you did not clothe me; sick and in prison, but you did not look after me.’
+
+[[v40-25-44]]
+
+^<<v40-25-44,44>>^ Then they too will answer with the words: ‘Lord, when did we see you hungry or thirsty or a stranger or naked or sick or in prison and did not minister to you?’
+
+[[v40-25-45]]
+
+^<<v40-25-45,45>>^ Then he will answer them, saying: ‘Truly I say to you, to the extent that you did not do it to one of these least ones, you did not do it to me.’
+
+[[v40-25-46]]
+
+^<<v40-25-46,46>>^ These will depart into everlasting cutting-off,^&#42;1^ but the righteous ones into everlasting life.”
+
+[NOTE]
+====
+. That is, from life. Lit., “lopping off; pruning.”
+====
+
+'''
+
+xref:040-matthew/040-matthew-024.adoc#v40-24-0[&#60; Capítulo Anterior] | <<v40-25-0,Topo>> | xref:040-matthew/040-matthew-026.adoc#v40-26-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-6-0]]
+=== Psalm, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; to be accompanied with stringed instruments tuned to Shemʹi·nith.^&#42;1^ A melody of David._
+
+[[v19-6-1]]
+
+^<<v19-6-1,1>>^ O Jehovah, do not reprove me in your anger,
+And do not correct me in your rage.
+
+[[v19-6-2]]
+
+^<<v19-6-2,2>>^ Show me favor,^&#42;1^ O Jehovah, for I am growing weak.
+Heal me, O Jehovah, for my bones are shaking.
+
+[NOTE]
+====
+. Or “mercy.”
+====
+
+[[v19-6-3]]
+
+^<<v19-6-3,3>>^ Yes, I am^&#42;1^ greatly disturbed,
+And I ask you, O Jehovah—how long will it be?
+
+[NOTE]
+====
+. Or “my soul is.”
+====
+
+[[v19-6-4]]
+
+^<<v19-6-4,4>>^ Return, O Jehovah, and rescue me;^&#42;1^
+Save me for the sake of your loyal love.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-6-5]]
+
+^<<v19-6-5,5>>^ For in death there is no mention^&#42;1^ of you;
+In the Grave,^&#42;2^ who will praise you?
+
+[NOTE]
+====
+. Or “remembrance.”
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v19-6-6]]
+
+^<<v19-6-6,6>>^ I have grown weary with my sighing;
+All night long I soak my bed with tears;^&#42;1^
+I flood my couch with weeping.
+
+[NOTE]
+====
+. Lit., “make my bed swim.”
+====
+
+[[v19-6-7]]
+
+^<<v19-6-7,7>>^ My eye is weak from my grief;
+It has dimmed^&#42;1^ because of all those harassing me.
+
+[NOTE]
+====
+. Or “grown old.”
+====
+
+[[v19-6-8]]
+
+^<<v19-6-8,8>>^ Get away from me, all you who behave wickedly,
+For Jehovah will hear the sound of my weeping.
+
+[[v19-6-9]]
+
+^<<v19-6-9,9>>^ Jehovah will hear my request for favor;
+Jehovah will accept my prayer.
+
+[[v19-6-10]]
+
+^<<v19-6-10,10>>^ All my enemies will be put to shame and dismayed;
+They will fall back in sudden disgrace.
+
+'''
+
+xref:019-psalm/019-psalm-005.adoc#v19-5-0[&#60; Capítulo Anterior] | <<v19-6-0,Topo>> | xref:019-psalm/019-psalm-007.adoc#v19-7-0[Próximo Capítulo &#62;]

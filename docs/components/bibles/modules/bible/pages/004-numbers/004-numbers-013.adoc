@@ -1,0 +1,178 @@
+include::./index.adoc[]
+
+[[v4-13-0]]
+=== Numbers, 13
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-13-1]]
+
+^<<v4-13-1,1>>^ Jehovah now spoke to Moses, saying:
+
+[[v4-13-2]]
+
+^<<v4-13-2,2>>^ “Send out men to spy^&#42;1^ out the land of Caʹnaan, which I am giving to the Israelites. You are to send out one man from each ancestral tribe, each one a chieftain among them.”
+
+[NOTE]
+====
+. Or “to scout.”
+====
+
+[[v4-13-3]]
+
+^<<v4-13-3,3>>^ So Moses sent them out from the wilderness of Paʹran at the order of Jehovah. All the men were heads of the Israelites.
+
+[[v4-13-4]]
+
+^<<v4-13-4,4>>^ These are their names: of the tribe of Reuʹben, Sham·muʹa the son of Zacʹcur;
+
+[[v4-13-5]]
+
+^<<v4-13-5,5>>^ of the tribe of Simʹe·on, Shaʹphat the son of Hoʹri;
+
+[[v4-13-6]]
+
+^<<v4-13-6,6>>^ of the tribe of Judah, Caʹleb the son of Je·phunʹneh;
+
+[[v4-13-7]]
+
+^<<v4-13-7,7>>^ of the tribe of Isʹsa·char, Iʹgal the son of Joseph;
+
+[[v4-13-8]]
+
+^<<v4-13-8,8>>^ of the tribe of Eʹphra·im, Ho·sheʹa the son of Nun;
+
+[[v4-13-9]]
+
+^<<v4-13-9,9>>^ of the tribe of Benjamin, Palʹti the son of Raʹphu;
+
+[[v4-13-10]]
+
+^<<v4-13-10,10>>^ of the tribe of Zebʹu·lun, Gadʹdi·el the son of Soʹdi;
+
+[[v4-13-11]]
+
+^<<v4-13-11,11>>^ of the tribe of Joseph, for the tribe of Ma·nasʹseh, Gadʹdi the son of Suʹsi;
+
+[[v4-13-12]]
+
+^<<v4-13-12,12>>^ of the tribe of Dan, Amʹmi·el the son of Ge·malʹli;
+
+[[v4-13-13]]
+
+^<<v4-13-13,13>>^ of the tribe of Ashʹer, Seʹthur the son of Miʹcha·el;
+
+[[v4-13-14]]
+
+^<<v4-13-14,14>>^ of the tribe of Naphʹta·li, Nahʹbi the son of Vophʹsi;
+
+[[v4-13-15]]
+
+^<<v4-13-15,15>>^ of the tribe of Gad, Geuʹel the son of Maʹchi.
+
+[[v4-13-16]]
+
+^<<v4-13-16,16>>^ These are the names of the men whom Moses sent to spy out the land. And Moses gave the name Joshua^&#42;1^ to Ho·sheʹa the son of Nun.
+
+[NOTE]
+====
+. Or “Jehoshua,” meaning “Jehovah Is Salvation.”
+====
+
+[[v4-13-17]]
+
+^<<v4-13-17,17>>^ When Moses was sending them to spy out the land of Caʹnaan, he said to them: “Go up there into the Negʹeb, and then go up into the mountainous region.
+
+[[v4-13-18]]
+
+^<<v4-13-18,18>>^ You must see what kind of land it is and whether the people who are dwelling in it are strong or weak, few or many,
+
+[[v4-13-19]]
+
+^<<v4-13-19,19>>^ and whether the land is good or bad and whether the cities they are dwelling in are encampments or fortifications.
+
+[[v4-13-20]]
+
+^<<v4-13-20,20>>^ And find out whether the land is rich^&#42;1^ or poor^&#42;2^ and whether there are trees in it or not. You must be courageous and take some of the fruitage of the land.” Now it was the season of the first ripe grapes.
+
+[NOTE]
+====
+. Lit., “fat.”
+. Lit., “lean.”
+====
+
+[[v4-13-21]]
+
+^<<v4-13-21,21>>^ So they went up and spied out the land from the wilderness of Zin to Reʹhob, near Leʹbo-haʹmath.^&#42;1^
+
+[NOTE]
+====
+. Or “the entrance of Hamath.”
+====
+
+[[v4-13-22]]
+
+^<<v4-13-22,22>>^ When they went up into the Negʹeb, they came to Hebʹron, where A·hiʹman, Sheʹshai, and Talʹmai, the Anʹa·kim, were living. Incidentally, Hebʹron had been built seven years before Zoʹan of Egypt.
+
+[[v4-13-23]]
+
+^<<v4-13-23,23>>^ When they came to the Valley^&#42;1^ of Eshʹcol, there they cut down a branch with one cluster of grapes, which two of the men had to carry on a bar, as well as some of the pomegranates and figs.
+
+[NOTE]
+====
+. Or “Wadi.”
+====
+
+[[v4-13-24]]
+
+^<<v4-13-24,24>>^ They called that place the Valley^&#42;1^ of Eshʹcol^&#42;2^ because of the cluster that the Israelites cut down from there.
+
+[NOTE]
+====
+. Or “Wadi.”
+. Meaning “Cluster of Grapes.”
+====
+
+[[v4-13-25]]
+
+^<<v4-13-25,25>>^ At the end of 40 days, they returned from spying out the land.
+
+[[v4-13-26]]
+
+^<<v4-13-26,26>>^ So they came back to Moses and Aaron and all the assembly of the Israelites in the wilderness of Paʹran, at Kaʹdesh. They brought back a report to all the assembly and showed them the fruitage of the land.
+
+[[v4-13-27]]
+
+^<<v4-13-27,27>>^ This is what they reported to Moses: “We entered the land into which you sent us, and it is indeed flowing with milk and honey, and this is its fruitage.
+
+[[v4-13-28]]
+
+^<<v4-13-28,28>>^ Nevertheless, the people who dwell in the land are strong, and the fortified cities are very great. We also saw the Anʹa·kim there.
+
+[[v4-13-29]]
+
+^<<v4-13-29,29>>^ The A·malʹek·ites are dwelling in the land of the Negʹeb, and the Hitʹtites, the Jebʹu·sites, and the Amʹor·ites are dwelling in the mountainous region, and the Caʹnaan·ites are dwelling by the sea and along the Jordan.”
+
+[[v4-13-30]]
+
+^<<v4-13-30,30>>^ Then Caʹleb tried to calm the people as they stood before Moses by saying: “Let us go up immediately, and we are sure to take possession of it, because we can surely conquer it.”
+
+[[v4-13-31]]
+
+^<<v4-13-31,31>>^ But the men who went up with him said: “We are not able to go up against the people, because they are stronger than we are.”
+
+[[v4-13-32]]
+
+^<<v4-13-32,32>>^ And they kept on giving the Israelites a bad report about the land that they had spied out, saying: “The land that we passed through to spy out is a land that devours its inhabitants, and all the people whom we saw in it are men of extraordinary size.
+
+[[v4-13-33]]
+
+^<<v4-13-33,33>>^ And there we saw the Nephʹi·lim, the sons of Aʹnak, who are from^&#42;1^ the Nephʹi·lim, and in comparison we seemed like grasshoppers, both to us and to them.”
+
+[NOTE]
+====
+. Or “descendants of.”
+====
+
+'''
+
+xref:004-numbers/004-numbers-012.adoc#v4-12-0[&#60; Capítulo Anterior] | <<v4-13-0,Topo>> | xref:004-numbers/004-numbers-014.adoc#v4-14-0[Próximo Capítulo &#62;]

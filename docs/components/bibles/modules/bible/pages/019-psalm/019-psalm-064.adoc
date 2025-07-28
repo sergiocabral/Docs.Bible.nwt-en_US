@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v19-64-0]]
+=== Psalm, 64
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. A melody of David._
+
+[[v19-64-1]]
+
+^<<v19-64-1,1>>^ Hear my voice, O God, as I plead.
+Safeguard my life from the dreadfulness of the enemy.
+
+[[v19-64-2]]
+
+^<<v19-64-2,2>>^ Shield me from the secret plots of wicked men,
+From the crowd of wrongdoers.
+
+[[v19-64-3]]
+
+^<<v19-64-3,3>>^ They sharpen their tongue just like a sword;
+They aim their cruel words like arrows,
+
+[[v19-64-4]]
+
+^<<v19-64-4,4>>^ To shoot at the innocent from their hiding places;
+They shoot at him suddenly, without fear.
+
+[[v19-64-5]]
+
+^<<v19-64-5,5>>^ They hold fast to their evil intent;^&#42;1^
+They discuss how to hide their traps.
+They say: “Who will see them?”
+
+[NOTE]
+====
+. Or “They encourage one another to do evil.”
+====
+
+[[v19-64-6]]
+
+^<<v19-64-6,6>>^ They search out new ways of wrongdoing;
+They secretly devise their shrewd strategy;
+The thinking within each one’s heart is unfathomable.
+
+[[v19-64-7]]
+
+^<<v19-64-7,7>>^ But God will shoot at them;
+Suddenly they will be wounded by an arrow.
+
+[[v19-64-8]]
+
+^<<v19-64-8,8>>^ Their own tongue will cause their downfall;
+All those looking on will shake their head.
+
+[[v19-64-9]]
+
+^<<v19-64-9,9>>^ Then all men will become afraid,
+And they will proclaim what God has done,
+And they will have insight into his deeds.
+
+[[v19-64-10]]
+
+^<<v19-64-10,10>>^ The righteous one will rejoice in Jehovah and take refuge in him;
+All the upright in heart will exult.^&#42;1^
+
+[NOTE]
+====
+. Or “boast.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-063.adoc#v19-63-0[&#60; Capítulo Anterior] | <<v19-64-0,Topo>> | xref:019-psalm/019-psalm-065.adoc#v19-65-0[Próximo Capítulo &#62;]

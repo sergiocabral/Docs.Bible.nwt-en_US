@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v19-21-0]]
+=== Psalm, 21
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. A melody of David._
+
+[[v19-21-1]]
+
+^<<v19-21-1,1>>^ O Jehovah, in your strength the king rejoices;
+How greatly he rejoices in your acts of salvation!
+
+[[v19-21-2]]
+
+^<<v19-21-2,2>>^ You have granted him the desire of his heart,
+And you have not withheld the request of his lips. (Selah)
+
+[[v19-21-3]]
+
+^<<v19-21-3,3>>^ For you meet him with rich blessings;
+You place a crown of fine^&#42;1^ gold on his head.
+
+[NOTE]
+====
+. Or “refined.”
+====
+
+[[v19-21-4]]
+
+^<<v19-21-4,4>>^ He asked you for life, and you gave it to him,
+A long life,^&#42;1^ forever and ever.
+
+[NOTE]
+====
+. Lit., “Length of days.”
+====
+
+[[v19-21-5]]
+
+^<<v19-21-5,5>>^ Your acts of salvation bring him great glory.
+Dignity and splendor you bestow on him.
+
+[[v19-21-6]]
+
+^<<v19-21-6,6>>^ You make him blessed forever;
+You make him glad with the joy of your presence.^&#42;1^
+
+[NOTE]
+====
+. Lit., “face.”
+====
+
+[[v19-21-7]]
+
+^<<v19-21-7,7>>^ For the king trusts in Jehovah;
+Because of the loyal love of the Most High, he will never be shaken.^&#42;1^
+
+[NOTE]
+====
+. Or “will never stagger (totter).”
+====
+
+[[v19-21-8]]
+
+^<<v19-21-8,8>>^ Your hand will find all your enemies;
+Your right hand will find those hating you.
+
+[[v19-21-9]]
+
+^<<v19-21-9,9>>^ You will make them like a fiery furnace at the appointed time when you give them attention.
+Jehovah will swallow them up in his anger, and fire will consume them.
+
+[[v19-21-10]]
+
+^<<v19-21-10,10>>^ Their descendants^&#42;1^ you will destroy from the earth,
+And their offspring from the sons of men.
+
+[NOTE]
+====
+. Lit., “fruitage.”
+====
+
+[[v19-21-11]]
+
+^<<v19-21-11,11>>^ For they intended to do what is bad against you;
+They have devised schemes that will not succeed.
+
+[[v19-21-12]]
+
+^<<v19-21-12,12>>^ For you will make them retreat
+By aiming your bow^&#42;1^ at them.^&#42;2^
+
+[NOTE]
+====
+. Lit., “bowstrings.”
+. Lit., “their faces.”
+====
+
+[[v19-21-13]]
+
+^<<v19-21-13,13>>^ Rise up, O Jehovah, in your strength.
+We will sing praises^&#42;1^ to your mightiness.
+
+[NOTE]
+====
+. Lit., “sing and make music.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-020.adoc#v19-20-0[&#60; Capítulo Anterior] | <<v19-21-0,Topo>> | xref:019-psalm/019-psalm-022.adoc#v19-22-0[Próximo Capítulo &#62;]

@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v19-70-0]]
+=== Psalm, 70
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of David, to serve as a reminder.^&#42;1^_
+
+[[v19-70-1]]
+
+^<<v19-70-1,1>>^ O God, save me;
+O Jehovah, hurry to help me.
+
+[[v19-70-2]]
+
+^<<v19-70-2,2>>^ May those seeking to take my life^&#42;1^
+Be put to shame and disgraced.
+May those who delight in my calamity
+Retreat in humiliation.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v19-70-3]]
+
+^<<v19-70-3,3>>^ May those who are saying: “Aha! Aha!”
+Be driven back in shame.
+
+[[v19-70-4]]
+
+^<<v19-70-4,4>>^ But let those who are seeking you
+Exult and rejoice in you.
+May those who love your acts of salvation always say:
+“May God be magnified!”
+
+[[v19-70-5]]
+
+^<<v19-70-5,5>>^ But I am helpless and poor;
+O God, act quickly in my behalf.
+You are my helper and my rescuer;
+O Jehovah, do not delay.
+
+'''
+
+xref:019-psalm/019-psalm-069.adoc#v19-69-0[&#60; Capítulo Anterior] | <<v19-70-0,Topo>> | xref:019-psalm/019-psalm-071.adoc#v19-71-0[Próximo Capítulo &#62;]

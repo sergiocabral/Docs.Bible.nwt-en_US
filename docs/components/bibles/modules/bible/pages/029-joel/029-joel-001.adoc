@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v29-1-0]]
+=== Joel, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v29-1-1]]
+
+^<<v29-1-1,1>>^ The word of Jehovah that came to Joel^&#42;1^ the son of Pe·thuʹel:
+
+[NOTE]
+====
+. Meaning “Jehovah Is God.”
+====
+
+[[v29-1-2]]
+
+^<<v29-1-2,2>>^ “Hear this, you elders,
+And pay attention, all you inhabitants of the land.^&#42;1^
+Has anything like this happened in your days
+Or in the days of your forefathers?
+
+[NOTE]
+====
+. Or “earth.”
+====
+
+[[v29-1-3]]
+
+^<<v29-1-3,3>>^ Tell about it to your sons,
+And let your sons tell about it to their sons,
+And their sons to the next generation.
+
+[[v29-1-4]]
+
+^<<v29-1-4,4>>^ What was left by the devouring locust, the swarming locust has eaten;
+And what was left by the swarming locust, the unwinged locust has eaten;
+And what the unwinged locust has left, the voracious locust has eaten.
+
+[[v29-1-5]]
+
+^<<v29-1-5,5>>^ Wake up, you drunkards, and weep!
+Wail, all you wine drinkers,
+Because the sweet wine has been taken from your mouths.
+
+[[v29-1-6]]
+
+^<<v29-1-6,6>>^ For a nation has come up into my land, mighty and without number.
+Its teeth are the teeth of a lion, and its jaws are those of a lion.
+
+[[v29-1-7]]
+
+^<<v29-1-7,7>>^ It has devastated my vine and turned my fig tree into a stump,
+Stripping them completely bare and tossing them aside,
+Leaving their twigs white.
+
+[[v29-1-8]]
+
+^<<v29-1-8,8>>^ Wail as a virgin^&#42;1^ wearing sackcloth does
+For the bridegroom^&#42;2^ of her youth.
+
+[NOTE]
+====
+. Or “young woman.”
+. Or “husband.”
+====
+
+[[v29-1-9]]
+
+^<<v29-1-9,9>>^ Grain offering and drink offering have ceased from the house of Jehovah;
+The priests, the ministers of Jehovah, are in mourning.
+
+[[v29-1-10]]
+
+^<<v29-1-10,10>>^ The field has been devastated, the ground mourns;
+For the grain has been devastated, the new wine has dried up, the oil has failed.
+
+[[v29-1-11]]
+
+^<<v29-1-11,11>>^ Farmers are dismayed, vinedressers wail,
+Because of the wheat and the barley;
+For the harvest of the field has perished.
+
+[[v29-1-12]]
+
+^<<v29-1-12,12>>^ The vine has dried up,
+The fig tree has withered.
+The pomegranate, the palm, and the apple,
+All the trees of the field have dried up;
+For joy has turned to shame among the people.
+
+[[v29-1-13]]
+
+^<<v29-1-13,13>>^ Put on sackcloth^&#42;1^ and mourn,^&#42;2^ you priests;
+Wail, you ministers of the altar.
+Come in and spend the night in sackcloth, you ministers of my God;
+For grain offering and drink offering have been withheld from the house of your God.
+
+[NOTE]
+====
+. Lit., “Gird yourselves.”
+. Or “beat your chest.”
+====
+
+[[v29-1-14]]
+
+^<<v29-1-14,14>>^ Proclaim^&#42;1^ a fast; call for a solemn assembly.
+Gather the elders together, with all the inhabitants of the land,
+To the house of Jehovah your God, and cry to Jehovah for help.
+
+[NOTE]
+====
+. Lit., “Sanctify.”
+====
+
+[[v29-1-15]]
+
+^<<v29-1-15,15>>^ Woe because of the day!
+For the day of Jehovah is near,
+And it will come like a destruction from the Almighty!
+
+[[v29-1-16]]
+
+^<<v29-1-16,16>>^ Has not food been taken from before our very eyes,
+And rejoicing and joy from the house of our God?
+
+[[v29-1-17]]
+
+^<<v29-1-17,17>>^ The seeds^&#42;1^ have shriveled under their shovels.
+Storehouses are desolate.
+Granaries have been torn down, for the grain has dried up.
+
+[NOTE]
+====
+. Or possibly, “dried figs.”
+====
+
+[[v29-1-18]]
+
+^<<v29-1-18,18>>^ Even the livestock groan!
+The herds of cattle wander in confusion, for they have no pasture!
+And the flocks of sheep bear the punishment.
+
+[[v29-1-19]]
+
+^<<v29-1-19,19>>^ To you, O Jehovah, I will call;
+For fire has devoured the pastures of the wilderness,
+And a flame has consumed all the trees of the field.
+
+[[v29-1-20]]
+
+^<<v29-1-20,20>>^ Even the wild beasts long for you,
+Because the streams of water have dried up
+And fire has devoured the pastures of the wilderness.”
+
+'''
+
+xref:028-hosea/028-hosea-014.adoc#v28-14-0[&#60; Capítulo Anterior] | <<v29-1-0,Topo>> | xref:029-joel/029-joel-002.adoc#v29-2-0[Próximo Capítulo &#62;]

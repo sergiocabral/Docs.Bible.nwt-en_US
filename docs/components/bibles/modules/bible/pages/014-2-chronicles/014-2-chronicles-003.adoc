@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v14-3-0]]
+=== The Second of Chronicles, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v14-3-1]]
+
+^<<v14-3-1,1>>^ Then Solʹo·mon started to build the house of Jehovah in Jerusalem on Mount Mo·riʹah, where Jehovah had appeared to his father David, in the place that David had prepared on the threshing floor of Orʹnan the Jebʹu·site.
+
+[[v14-3-2]]
+
+^<<v14-3-2,2>>^ He started to build on the second day of the second month, in the fourth year of his reign.
+
+[[v14-3-3]]
+
+^<<v14-3-3,3>>^ And the foundation that Solʹo·mon laid for building the house of the true God was 60 cubits long and 20 cubits wide, according to the former measurement.^&#42;1^
+
+[NOTE]
+====
+. A standard cubit equaled 44.5 cm (17.5 in.), but some feel that “the former measurement” refers to the long cubit that equaled 51.8 cm (20.4 in.). See App. B14.
+====
+
+[[v14-3-4]]
+
+^<<v14-3-4,4>>^ The porch in front was 20 cubits long, corresponding to the width of the house,^&#42;1^ and its height was 20 cubits;^&#42;2^ and he overlaid it inside with pure gold.
+
+[NOTE]
+====
+. Or “20 cubits extending across the width of the house.”
+. Some ancient manuscripts read “120,” whereas other manuscripts and some translations read “20 cubits.”
+====
+
+[[v14-3-5]]
+
+^<<v14-3-5,5>>^ He paneled the great house with juniper wood, after which he covered it with fine gold, and then he decorated it with palm-tree figures and chains.
+
+[[v14-3-6]]
+
+^<<v14-3-6,6>>^ Further, he overlaid the house with beautiful precious stones; and the gold he used was gold from Par·vaʹim.
+
+[[v14-3-7]]
+
+^<<v14-3-7,7>>^ He covered the house, the rafters, the thresholds, its walls, and its doors with gold; and he engraved cherubs on the walls.
+
+[[v14-3-8]]
+
+^<<v14-3-8,8>>^ He now made the Most Holy compartment;^&#42;1^ its length matched the width of the house, 20 cubits, and its width was 20 cubits. He covered it with 600 talents^&#42;2^ of fine gold.
+
+[NOTE]
+====
+. Lit., “house.”
+. A talent equaled 34.2 kg (1,101 oz t). See App. B14.
+====
+
+[[v14-3-9]]
+
+^<<v14-3-9,9>>^ The weight of the gold for the nails was 50 shekels;^&#42;1^ and he covered the roof chambers with gold.
+
+[NOTE]
+====
+. A shekel equaled 11.4 g (0.367 oz t). See App. B14.
+====
+
+[[v14-3-10]]
+
+^<<v14-3-10,10>>^ Then he made in the Most Holy compartment^&#42;1^ two cherub sculptures, and he overlaid them with gold.
+
+[NOTE]
+====
+. Lit., “house.”
+====
+
+[[v14-3-11]]
+
+^<<v14-3-11,11>>^ The overall length of the wings of the cherubs was 20 cubits; one wing of the first cherub was five cubits long and touched the wall of the house, and its other wing was five cubits long and touched one of the other cherub’s wings.
+
+[[v14-3-12]]
+
+^<<v14-3-12,12>>^ And one wing of the other cherub was five cubits long and touched the other wall of the house, and its other wing was five cubits long and touched one of the first cherub’s wings.
+
+[[v14-3-13]]
+
+^<<v14-3-13,13>>^ The wings of these cherubs were spread out 20 cubits; and they stood on their feet, and they faced inward.^&#42;1^
+
+[NOTE]
+====
+. That is, toward the Holy.
+====
+
+[[v14-3-14]]
+
+^<<v14-3-14,14>>^ He also made the curtain of blue thread, purple wool, crimson, and fine fabric, and incorporated cherub designs into it.
+
+[[v14-3-15]]
+
+^<<v14-3-15,15>>^ Then he made two pillars at the front of the house, 35 cubits in length, and the capital on top of each pillar was five cubits.
+
+[[v14-3-16]]
+
+^<<v14-3-16,16>>^ And he made chains, like necklaces, and put them on the tops of the pillars, and he made 100 pomegranates and put them on the chains.
+
+[[v14-3-17]]
+
+^<<v14-3-17,17>>^ He set up the pillars in front of the temple, one to the right^&#42;1^ and one to the left;^&#42;2^ he named the one on the right Jaʹchin^&#42;3^ and the one on the left Boʹaz.^&#42;4^
+
+[NOTE]
+====
+. Or “south.”
+. Or “north.”
+. Meaning “May He [that is, Jehovah] Firmly Establish.”
+. Possibly meaning “In Strength.”
+====
+
+'''
+
+xref:014-2-chronicles/014-2-chronicles-002.adoc#v14-2-0[&#60; Capítulo Anterior] | <<v14-3-0,Topo>> | xref:014-2-chronicles/014-2-chronicles-004.adoc#v14-4-0[Próximo Capítulo &#62;]

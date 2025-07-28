@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== The First of Samuel, 27
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ However, David said in his heart: “One day I will perish by Saul’s hand. The best thing for me is to escape to the land of the Phi·lisʹtines; then Saul will give up looking for me in all the territory of Israel, and I will escape from his hand.”
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ So David rose up with the 600 men who were with him and went over to Aʹchish the son of Maʹoch, the king of Gath.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ David stayed with Aʹchish in Gath, he and his men, each man with his household. With David were his two wives, A·hinʹo·am of Jezʹre·el and Abʹi·gail the Carʹmel·ite, Naʹbal’s widow.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ When report was made to Saul that David had run away to Gath, he stopped searching for him.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ Then David said to Aʹchish: “If I have found favor in your eyes, let them give me a place in one of the cities of the countryside, so that I may live there. Why should your servant live in the royal city with you?”
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ So Aʹchish gave him Zikʹlag on that day. That is why Zikʹlag belongs to the kings of Judah down to this day.
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ The length of time^&#42;1^ that David lived in the countryside of the Phi·lisʹtines was a year and four months.
+
+[NOTE]
+====
+. Lit., “number of days.”
+====
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ David would go up with his men to raid the Geshʹur·ites, the Girʹzites, and the A·malʹek·ites, for they were inhabiting the land that extended from Teʹlam as far as Shur and down to the land of Egypt.
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ When David would attack the land, he preserved neither man nor woman alive, but he took the flocks, herds, donkeys, camels, and clothing, after which he would return to Aʹchish.
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ Then Aʹchish would ask: “Where did you make a raid today?” David would reply: “Against the south^&#42;1^ of Judah” or “Against the south of the Je·rahʹme·el·ites” or “Against the south of the Kenʹites.”
+
+[NOTE]
+====
+. Or “the Negeb.”
+====
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ David did not spare alive any man or woman to be brought to Gath, saying: “That they may not tell them about us and say, ‘This is what David did.’” (And that was his practice the whole time he lived in the countryside of the Phi·lisʹtines.)
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ So Aʹchish believed David, saying to himself: ‘He has certainly become a stench among his people Israel, so he will always be my servant.’
+
+'''
+
+xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

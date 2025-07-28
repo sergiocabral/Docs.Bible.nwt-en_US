@@ -1,0 +1,237 @@
+include::./index.adoc[]
+
+[[v19-104-0]]
+=== Psalm, 104
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-104-1]]
+
+^<<v19-104-1,1>>^ Let me^&#42;1^ praise Jehovah.
+O Jehovah my God, you are very great.
+With majesty^&#42;2^ and splendor you are clothed.
+
+[NOTE]
+====
+. Or “my soul.”
+. Or “dignity.”
+====
+
+[[v19-104-2]]
+
+^<<v19-104-2,2>>^ You are wrapped in light as with a garment;
+You stretch out the heavens like a tent cloth.
+
+[[v19-104-3]]
+
+^<<v19-104-3,3>>^ He lays beams of his upper rooms in the waters above,^&#42;1^
+Making the clouds his chariot,
+Moving on the wings of the wind.
+
+[NOTE]
+====
+. Lit., “in the waters.”
+====
+
+[[v19-104-4]]
+
+^<<v19-104-4,4>>^ He makes his angels spirits,
+His ministers a consuming fire.
+
+[[v19-104-5]]
+
+^<<v19-104-5,5>>^ He has established the earth on its foundations;
+It will not be moved from its place^&#42;1^ forever and ever.
+
+[NOTE]
+====
+. Or “will not totter.”
+====
+
+[[v19-104-6]]
+
+^<<v19-104-6,6>>^ You covered it with deep waters as with a garment.
+The waters stood above the mountains.
+
+[[v19-104-7]]
+
+^<<v19-104-7,7>>^ At your rebuke they fled;
+At the sound of your thunder they ran away in panic
+
+[[v19-104-8]]
+
+^<<v19-104-8,8>>^ —Mountains ascended and valleys descended—
+To the place you established for them.
+
+[[v19-104-9]]
+
+^<<v19-104-9,9>>^ You set a boundary that they should not pass,
+That they should never again cover the earth.
+
+[[v19-104-10]]
+
+^<<v19-104-10,10>>^ He sends springs into the valleys;^&#42;1^
+Between the mountains they flow.
+
+[NOTE]
+====
+. Or “wadis.”
+====
+
+[[v19-104-11]]
+
+^<<v19-104-11,11>>^ They provide water for all the wild beasts of the field;
+The wild donkeys quench their thirst.
+
+[[v19-104-12]]
+
+^<<v19-104-12,12>>^ Above them roost the birds of the sky;
+They sing among the thick foliage.
+
+[[v19-104-13]]
+
+^<<v19-104-13,13>>^ He is watering the mountains from his upper rooms.
+With the fruitage of your works the earth is satisfied.
+
+[[v19-104-14]]
+
+^<<v19-104-14,14>>^ He is making grass grow for the cattle
+And vegetation for mankind’s use,
+To grow food from the land
+
+[[v19-104-15]]
+
+^<<v19-104-15,15>>^ And wine that makes man’s heart rejoice,
+Oil that makes the face shine,
+And bread that sustains the heart of mortal man.
+
+[[v19-104-16]]
+
+^<<v19-104-16,16>>^ The trees of Jehovah are satisfied,
+The cedars of Lebʹa·non that he planted,
+
+[[v19-104-17]]
+
+^<<v19-104-17,17>>^ Where the birds make nests.
+The home of the stork is in the juniper trees.
+
+[[v19-104-18]]
+
+^<<v19-104-18,18>>^ The high mountains are for the mountain goats;
+The crags are a refuge for the rock badgers.
+
+[[v19-104-19]]
+
+^<<v19-104-19,19>>^ He has made the moon to mark the appointed times;
+The sun well knows when to set.
+
+[[v19-104-20]]
+
+^<<v19-104-20,20>>^ You bring darkness, and night falls,
+When all the wild animals of the forest roam about.
+
+[[v19-104-21]]
+
+^<<v19-104-21,21>>^ The young lions^&#42;1^ roar for their prey
+And seek their food from God.
+
+[NOTE]
+====
+. Or “maned young lions.”
+====
+
+[[v19-104-22]]
+
+^<<v19-104-22,22>>^ When the sun rises,
+They withdraw and lie down in their dens.
+
+[[v19-104-23]]
+
+^<<v19-104-23,23>>^ Man goes to his work,
+And he labors until evening.
+
+[[v19-104-24]]
+
+^<<v19-104-24,24>>^ How many your works are, O Jehovah!
+You have made all of them in wisdom.
+The earth is full of what you have made.
+
+[[v19-104-25]]
+
+^<<v19-104-25,25>>^ There is the sea, so great and wide,
+Teeming with countless living things, both small and great.
+
+[[v19-104-26]]
+
+^<<v19-104-26,26>>^ There the ships travel,
+And Le·viʹa·than,^&#42;1^ which you formed to play in it.
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v19-104-27]]
+
+^<<v19-104-27,27>>^ All of them wait for you
+To give them their food in its season.
+
+[[v19-104-28]]
+
+^<<v19-104-28,28>>^ What you give them, they gather.
+When you open your hand, they are satisfied with good things.
+
+[[v19-104-29]]
+
+^<<v19-104-29,29>>^ When you hide your face, they are disturbed.
+If you take away their spirit, they die and return to the dust.
+
+[[v19-104-30]]
+
+^<<v19-104-30,30>>^ If you send out your spirit, they are created,
+And you renew the surface of the ground.
+
+[[v19-104-31]]
+
+^<<v19-104-31,31>>^ The glory of Jehovah will last forever.
+Jehovah will rejoice in his works.
+
+[[v19-104-32]]
+
+^<<v19-104-32,32>>^ He looks at the earth, and it trembles;
+He touches the mountains, and they smoke.
+
+[[v19-104-33]]
+
+^<<v19-104-33,33>>^ I will sing to Jehovah throughout my life;
+I will sing praises^&#42;1^ to my God as long as I live.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-104-34]]
+
+^<<v19-104-34,34>>^ Let my thoughts be pleasing to him.^&#42;1^
+I will rejoice in Jehovah.
+
+[NOTE]
+====
+. Or possibly, “Let my meditation about him be pleasurable.”
+====
+
+[[v19-104-35]]
+
+^<<v19-104-35,35>>^ The sinners will vanish from the earth,
+And the wicked will no longer exist.
+Let me^&#42;1^ praise Jehovah. Praise Jah!^&#42;2^
+
+[NOTE]
+====
+. Or “my soul.”
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-103.adoc#v19-103-0[&#60; Capítulo Anterior] | <<v19-104-0,Topo>> | xref:019-psalm/019-psalm-105.adoc#v19-105-0[Próximo Capítulo &#62;]

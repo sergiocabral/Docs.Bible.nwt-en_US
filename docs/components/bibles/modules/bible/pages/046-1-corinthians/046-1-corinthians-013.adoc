@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v46-13-0]]
+=== The First to the Corinthians, 13
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v46-13-1]]
+
+^<<v46-13-1,1>>^ If I speak in the tongues of men and of angels but do not have love, I have become a clanging gong or a clashing cymbal.
+
+[[v46-13-2]]
+
+^<<v46-13-2,2>>^ And if I have the gift of prophecy and understand all the sacred secrets and all knowledge, and if I have all the faith so as to move^&#42;1^ mountains, but do not have love, I am nothing.^&#42;2^
+
+[NOTE]
+====
+. Or “transplant.”
+. Or “useless.”
+====
+
+[[v46-13-3]]
+
+^<<v46-13-3,3>>^ And if I give all my belongings to feed others, and if I hand over my body so that I may boast, but do not have love, I do not benefit at all.
+
+[[v46-13-4]]
+
+^<<v46-13-4,4>>^ Love is patient^&#42;1^ and kind. Love is not jealous. It does not brag, does not get puffed up,
+
+[NOTE]
+====
+. Or “long-suffering.”
+====
+
+[[v46-13-5]]
+
+^<<v46-13-5,5>>^ does not behave indecently,^&#42;1^ does not look for its own interests, does not become provoked. It does not keep account of the injury.^&#42;2^
+
+[NOTE]
+====
+. Or “is not rude.”
+. Or “of wrongs.”
+====
+
+[[v46-13-6]]
+
+^<<v46-13-6,6>>^ It does not rejoice over unrighteousness, but rejoices with the truth.
+
+[[v46-13-7]]
+
+^<<v46-13-7,7>>^ It bears all things, believes all things, hopes all things, endures all things.
+
+[[v46-13-8]]
+
+^<<v46-13-8,8>>^ Love never fails. But if there are gifts of prophecy, they will be done away with; if there are tongues,^&#42;1^ they will cease; if there is knowledge, it will be done away with.
+
+[NOTE]
+====
+. That is, miraculous speaking in other languages.
+====
+
+[[v46-13-9]]
+
+^<<v46-13-9,9>>^ For we have partial knowledge and we prophesy partially,
+
+[[v46-13-10]]
+
+^<<v46-13-10,10>>^ but when what is complete comes, what is partial will be done away with.
+
+[[v46-13-11]]
+
+^<<v46-13-11,11>>^ When I was a child, I used to speak as a child, to think as a child, to reason as a child; but now that I have become a man, I have done away with the traits of a child.
+
+[[v46-13-12]]
+
+^<<v46-13-12,12>>^ For now we see in hazy outline^&#42;1^ by means of a metal mirror, but then it will be face-to-face. At present I know partially, but then I will know accurately,^&#42;2^ just as I am accurately known.
+
+[NOTE]
+====
+. Or “indistinctly.”
+. Or “fully.”
+====
+
+[[v46-13-13]]
+
+^<<v46-13-13,13>>^ Now, however, these three remain: faith, hope, love; but the greatest of these is love.
+
+'''
+
+xref:046-1-corinthians/046-1-corinthians-012.adoc#v46-12-0[&#60; Capítulo Anterior] | <<v46-13-0,Topo>> | xref:046-1-corinthians/046-1-corinthians-014.adoc#v46-14-0[Próximo Capítulo &#62;]

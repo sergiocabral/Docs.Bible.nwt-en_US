@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v19-60-0]]
+=== Psalm, 60
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; set to “The Lily of Reminder.” Mikʹtam.^&#42;1^ Of David. For teaching. When he fought with Aʹram-na·ha·raʹim and Aʹram-Zoʹbah, and Joʹab returned and struck down 12,000 Eʹdom·ites in the Valley of Salt._
+
+[[v19-60-1]]
+
+^<<v19-60-1,1>>^ O God, you rejected us; you broke through our defenses.
+You were angry with us; but now accept us back!
+
+[[v19-60-2]]
+
+^<<v19-60-2,2>>^ You caused the earth to quake; you split it open.
+Repair its breaches, for it is falling.
+
+[[v19-60-3]]
+
+^<<v19-60-3,3>>^ You caused your people to suffer hardship.
+You made us drink wine that makes us stagger.
+
+[[v19-60-4]]
+
+^<<v19-60-4,4>>^ Give^&#42;1^ a signal to those fearing you
+To flee and dodge the bow. (Selah)
+
+[NOTE]
+====
+. Or possibly, “You have given.”
+====
+
+[[v19-60-5]]
+
+^<<v19-60-5,5>>^ So that your loved ones may be rescued,
+Save us with your right hand and answer us.
+
+[[v19-60-6]]
+
+^<<v19-60-6,6>>^ God has spoken in his holiness:^&#42;1^
+“I will exult, I will give out Sheʹchem as an inheritance,
+And I will measure off the Valley^&#42;2^ of Sucʹcoth.
+
+[NOTE]
+====
+. Or possibly, “in his holy place.”
+. Or “Low Plain.”
+====
+
+[[v19-60-7]]
+
+^<<v19-60-7,7>>^ Gilʹe·ad belongs to me, as does Ma·nasʹseh,
+And Eʹphra·im is the helmet^&#42;1^ for my head;
+Judah is my commander’s staff.
+
+[NOTE]
+====
+. Lit., “stronghold.”
+====
+
+[[v19-60-8]]
+
+^<<v19-60-8,8>>^ Moʹab is my washbasin.
+Over Eʹdom I will throw my sandal.
+Over Phi·lisʹti·a I will shout in triumph.”
+
+[[v19-60-9]]
+
+^<<v19-60-9,9>>^ Who will bring me to the besieged^&#42;1^ city?
+Who will lead me as far as Eʹdom?
+
+[NOTE]
+====
+. Or possibly, “fortified.”
+====
+
+[[v19-60-10]]
+
+^<<v19-60-10,10>>^ Is it not you, O God, who have rejected us,
+Our God, who no longer goes out with our armies?
+
+[[v19-60-11]]
+
+^<<v19-60-11,11>>^ Help us in our distress,
+For salvation by humans is worthless.
+
+[[v19-60-12]]
+
+^<<v19-60-12,12>>^ By God we will gain power,
+And he will trample on our adversaries.
+
+'''
+
+xref:019-psalm/019-psalm-059.adoc#v19-59-0[&#60; Capítulo Anterior] | <<v19-60-0,Topo>> | xref:019-psalm/019-psalm-061.adoc#v19-61-0[Próximo Capítulo &#62;]

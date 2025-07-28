@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v41-16-0]]
+=== According to Mark, 16
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v41-16-1]]
+
+^<<v41-16-1,1>>^ So when the Sabbath was over, Mary Magʹda·lene, Mary the mother of James, and Sa·loʹme bought spices in order to come and apply them to his body.
+
+[[v41-16-2]]
+
+^<<v41-16-2,2>>^ And very early on the first day of the week when the sun had risen, they came to the tomb.^&#42;1^
+
+[NOTE]
+====
+. Or “memorial tomb.”
+====
+
+[[v41-16-3]]
+
+^<<v41-16-3,3>>^ They were saying to one another: “Who will roll the stone away from the entrance of the tomb for us?”
+
+[[v41-16-4]]
+
+^<<v41-16-4,4>>^ But when they looked up, they saw that the stone had been rolled away, although it was very large.
+
+[[v41-16-5]]
+
+^<<v41-16-5,5>>^ When they entered into the tomb, they saw a young man sitting on the right side, clothed in a white robe, and they were stunned.
+
+[[v41-16-6]]
+
+^<<v41-16-6,6>>^ He said to them: “Do not be stunned. You are looking for Jesus the Naz·a·reneʹ who was executed on the stake. He was raised up. He is not here. Look, here is the place where they laid him.
+
+[[v41-16-7]]
+
+^<<v41-16-7,7>>^ But go, tell his disciples and Peter, ‘He is going ahead of you into Galʹi·lee. You will see him there, just as he told you.’”
+
+[[v41-16-8]]
+
+^<<v41-16-8,8>>^ So when they came out, they fled from the tomb, trembling and overwhelmed with emotion. And they said nothing to anyone, for they were in fear.^&#42;1^
+
+[NOTE]
+====
+. According to reliable early manuscripts, the Gospel of Mark ends with the words found in vs. 8. See App. A3.
+====
+
+'''
+
+xref:041-mark/041-mark-015.adoc#v41-15-0[&#60; Capítulo Anterior] | <<v41-16-0,Topo>> | xref:042-luke/042-luke-001.adoc#v42-1-0[Próximo Capítulo &#62;]

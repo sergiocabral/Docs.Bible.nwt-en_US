@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentations, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ Remember, O Jehovah, what has befallen us.
+Look and see our disgrace.
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ Our inheritance has been turned over to strangers, our houses to foreigners.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ We have become orphans without a father; our mothers are like widows.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ We must pay to drink our own water, and our own wood comes at a price.
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Those pursuing us are at our neck;
+We are weary, but we are given no rest.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ We hold out our hand to Egypt and to As·syrʹi·a, to get enough bread to eat.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Our forefathers who sinned are no more, but we must bear their errors.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Servants now rule over us; there is no one to snatch us from their hand.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ We bring in our bread at the risk of our life,^&#42;1^ because of the sword of the wilderness.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ Our skin has become as hot as a furnace, because of the pangs of hunger.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ The wives in Zion they have humiliated,^&#42;1^ the virgins in the cities of Judah.
+
+[NOTE]
+====
+. Or “raped.”
+====
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Princes were hanged by their hand, and elders were shown no respect.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Young men carry the hand mill, and boys stumble under loads of wood.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ The elders are gone from the city gate; young men do not play their music.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ The joy is gone from our heart; our dancing has turned into mourning.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ The crown has fallen from our head. Woe to us, because we have sinned!
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ Because of this our heart is sick,
+And because of these things our eyes have grown dim,
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ Because of Mount Zion, which is desolate; foxes now roam on it.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ As for you, O Jehovah, you sit enthroned forever.
+Your throne is for generation after generation.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Why do you forget us forever and abandon us for so long a time?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Bring us back to yourself, O Jehovah, and we will readily return to you.
+Renew our days as in those of old.
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ However, you have utterly rejected us.
+You remain intensely angry with us.
+
+'''
+
+xref:025-lamentations/025-lamentations-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezekiel/026-ezekiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

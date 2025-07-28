@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v19-53-0]]
+=== Psalm, 53
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; in the style of Maʹha·lath.^&#42;1^ Masʹkil.^&#42;2^ Of David._
+
+[[v19-53-1]]
+
+^<<v19-53-1,1>>^ The foolish^&#42;1^ one says in his heart:
+“There is no Jehovah.”
+Their unrighteous actions are corrupt and detestable;
+No one is doing good.
+
+[NOTE]
+====
+. Or “senseless.”
+====
+
+[[v19-53-2]]
+
+^<<v19-53-2,2>>^ But God looks down from heaven on the sons of men
+To see whether anyone has insight, whether anyone is seeking Jehovah.
+
+[[v19-53-3]]
+
+^<<v19-53-3,3>>^ They have all turned away;
+They are all alike corrupt.
+No one is doing good,
+Not even one.
+
+[[v19-53-4]]
+
+^<<v19-53-4,4>>^ Do none of the wrongdoers understand?
+They devour my people as if they were eating bread.
+They do not call on Jehovah.
+
+[[v19-53-5]]
+
+^<<v19-53-5,5>>^ But they will be filled with great terror,
+Terror they have never felt before,^&#42;1^
+For God will scatter the bones of those attacking you.^&#42;2^
+You will put them to shame, for Jehovah has rejected them.
+
+[NOTE]
+====
+. Or possibly, “Fear where there was nothing to fear.”
+. Lit., “camping against you.”
+====
+
+[[v19-53-6]]
+
+^<<v19-53-6,6>>^ O that Israel’s salvation may come from Zion!
+When Jehovah gathers back his captive people,
+Let Jacob be joyful, let Israel rejoice.
+
+'''
+
+xref:019-psalm/019-psalm-052.adoc#v19-52-0[&#60; Capítulo Anterior] | <<v19-53-0,Topo>> | xref:019-psalm/019-psalm-054.adoc#v19-54-0[Próximo Capítulo &#62;]

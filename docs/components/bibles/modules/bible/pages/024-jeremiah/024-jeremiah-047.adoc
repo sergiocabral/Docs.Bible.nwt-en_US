@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v24-47-0]]
+=== Jeremiah, 47
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v24-47-1]]
+
+^<<v24-47-1,1>>^ This is the word of Jehovah to Jeremiah the prophet concerning the Phi·lisʹtines, before Pharʹaoh struck down Gazʹa.
+
+[[v24-47-2]]
+
+^<<v24-47-2,2>>^ This is what Jehovah says:
+“Look! Waters are coming from the north.
+They will become a flooding torrent.
+And they will flood the land and everything in it,
+The city and those inhabiting it.
+The men will cry out,
+And everyone dwelling in the land will wail.
+
+[[v24-47-3]]
+
+^<<v24-47-3,3>>^ At the sound of the pounding hooves of his stallions,
+At the rattling of his war chariots
+And the rumbling of his wheels,
+Fathers will not even turn around for their sons,
+For their hands fall limp,
+
+[[v24-47-4]]
+
+^<<v24-47-4,4>>^ Because the day that is coming will destroy all the Phi·lisʹtines;
+It will cut off from Tyre and Siʹdon every remaining ally.
+For Jehovah will destroy the Phi·lisʹtines,
+Who are the remaining ones from the island of Caphʹtor.^&#42;1^
+
+[NOTE]
+====
+. That is, Crete.
+====
+
+[[v24-47-5]]
+
+^<<v24-47-5,5>>^ Baldness^&#42;1^ will come to Gazʹa.
+Ashʹke·lon has been silenced.
+O remnant of their valley plain,^&#42;2^
+How long will you keep making cuts on yourself?
+
+[NOTE]
+====
+. That is, they will shave their heads in mourning and shame.
+. Or “low plain.”
+====
+
+[[v24-47-6]]
+
+^<<v24-47-6,6>>^ Ah! The sword of Jehovah!
+How long will you not be quiet?
+Go back into your sheath.
+Take your rest and be silent.
+
+[[v24-47-7]]
+
+^<<v24-47-7,7>>^ How can it be quiet
+When Jehovah has given it a command?
+Against Ashʹke·lon and the seacoast,
+There is where he has assigned it.”
+
+'''
+
+xref:024-jeremiah/024-jeremiah-046.adoc#v24-46-0[&#60; Capítulo Anterior] | <<v24-47-0,Topo>> | xref:024-jeremiah/024-jeremiah-048.adoc#v24-48-0[Próximo Capítulo &#62;]

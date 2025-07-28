@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Genesis, 11
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ Now all the earth continued to be of one language and of one set of words.^&#42;1^
+
+[NOTE]
+====
+. Or “of one vocabulary.”
+====
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ As they traveled eastward, they discovered a valley plain in the land of Shiʹnar, and they began dwelling there.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ Then they said to one another: “Come! Let us make bricks and bake them with fire.” So they used bricks instead of stone, and bitumen as mortar.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ They now said: “Come! Let us build a city for ourselves and a tower with its top in the heavens, and let us make a celebrated name for ourselves, so that we will not be scattered over the entire face of the earth.”
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ Then Jehovah went down to see the city and the tower that the sons of men had built.
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ Jehovah then said: “Look! They are one people with one language, and this is what they have started to do. Now there is nothing that they may have in mind to do that will be impossible for them.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Come! Let us go down there and confuse their language in order that they may not understand one another’s language.”
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ So Jehovah scattered them from there over the entire face of the earth, and they gradually left off building the city.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ That is why it was named Baʹbel,^&#42;1^ because there Jehovah confused the language of all the earth, and Jehovah scattered them from there over the entire face of the earth.
+
+[NOTE]
+====
+. Meaning “Confusion.”
+====
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ This is the history of Shem.
+Shem was 100 years old when he became father to Ar·pachʹshad two years after the Flood.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ After becoming father to Ar·pachʹshad, Shem continued to live 500 years. And he became father to sons and daughters.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ Ar·pachʹshad lived for 35 years and then became father to Sheʹlah.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ After becoming father to Sheʹlah, Ar·pachʹshad continued to live 403 years. And he became father to sons and daughters.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ Sheʹlah lived for 30 years and then became father to Eʹber.
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ After becoming father to Eʹber, Sheʹlah continued to live 403 years. And he became father to sons and daughters.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ Eʹber lived for 34 years and then became father to Peʹleg.
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ After becoming father to Peʹleg, Eʹber continued to live 430 years. And he became father to sons and daughters.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ Peʹleg lived for 30 years and then became father to Reʹu.
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ After becoming father to Reʹu, Peʹleg continued to live 209 years. And he became father to sons and daughters.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ Reʹu lived for 32 years and then became father to Seʹrug.
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ After becoming father to Seʹrug, Reʹu continued to live 207 years. And he became father to sons and daughters.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ Seʹrug lived for 30 years and then became father to Naʹhor.
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ After becoming father to Naʹhor, Seʹrug continued to live 200 years. And he became father to sons and daughters.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ Naʹhor lived for 29 years and then became father to Teʹrah.
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ After becoming father to Teʹrah, Naʹhor continued to live 119 years. And he became father to sons and daughters.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ Teʹrah lived for 70 years, after which he became father to Aʹbram, Naʹhor, and Haʹran.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ This is the history of Teʹrah.
+Teʹrah became father to Aʹbram, Naʹhor, and Haʹran; and Haʹran became father to Lot.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ While his father Teʹrah was still alive, Haʹran died in the land of his birth, in Ur of the Chal·deʹans.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ Aʹbram and Naʹhor took wives for themselves. The name of Aʹbram’s wife was Sarʹai, and the name of Naʹhor’s wife was Milʹcah, the daughter of Haʹran, the father of Milʹcah and Isʹcah.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Now Sarʹai was barren; she had no child.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Teʹrah then took Aʹbram his son and Lot his grandson, the son of Haʹran, and Sarʹai his daughter-in-law, the wife of Aʹbram his son, and they went with him out of Ur of the Chal·deʹans to go to the land of Caʹnaan. In time they came to Haʹran and began dwelling there.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ The days of Teʹrah were 205 years. Then Teʹrah died in Haʹran.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

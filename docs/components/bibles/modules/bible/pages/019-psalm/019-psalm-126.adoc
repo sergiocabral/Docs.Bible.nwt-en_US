@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-126-0]]
+=== Psalm, 126
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-126-1]]
+
+^<<v19-126-1,1>>^ When Jehovah gathered back the captives of Zion,
+We thought we were dreaming.
+
+[[v19-126-2]]
+
+^<<v19-126-2,2>>^ At that time our mouth was filled with laughter
+And our tongue with a joyful shout.
+At that time they said among the nations:
+“Jehovah has done great things for them.”
+
+[[v19-126-3]]
+
+^<<v19-126-3,3>>^ Jehovah has done great things for us,
+And we are overjoyed.
+
+[[v19-126-4]]
+
+^<<v19-126-4,4>>^ Do gather back^&#42;1^ our captives, O Jehovah,
+Like streams in the Negʹeb.^&#42;2^
+
+[NOTE]
+====
+. Or “restore.”
+. Or “wadis in the south.”
+====
+
+[[v19-126-5]]
+
+^<<v19-126-5,5>>^ Those sowing seed with tears
+Will reap with a joyful shout.
+
+[[v19-126-6]]
+
+^<<v19-126-6,6>>^ The one who does go out, though weeping,
+Carrying his bag of seed,
+Will surely return with a joyful shout,
+Carrying in his sheaves.
+
+'''
+
+xref:019-psalm/019-psalm-125.adoc#v19-125-0[&#60; Capítulo Anterior] | <<v19-126-0,Topo>> | xref:019-psalm/019-psalm-127.adoc#v19-127-0[Próximo Capítulo &#62;]

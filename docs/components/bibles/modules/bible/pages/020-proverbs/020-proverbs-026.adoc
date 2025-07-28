@@ -1,0 +1,202 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Proverbs, 26
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Like snow in summer and rain at harvesttime,
+Honor is not fitting for someone stupid.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ Just as a bird has reason to flee and a swallow to fly,
+So a curse does not come without a real reason.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “So an undeserved curse does not come to pass.”
+====
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ A whip is for the horse, a bridle is for the donkey,
+And the rod is for the back of stupid people.
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Do not answer the stupid one according to his foolishness,
+So that you do not put yourself on his level.^&#42;1^
+
+[NOTE]
+====
+. Or “So that you do not make yourself his equal.”
+====
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Answer the stupid one according to his foolishness,
+So that he does not think he is wise.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Like someone who cripples his own feet and harms himself^&#42;1^
+Is the one who entrusts matters to someone stupid.
+
+[NOTE]
+====
+. Lit., “drinks violence.”
+====
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Like the limp^&#42;1^ legs of the lame,
+So is a proverb in the mouth of stupid people.
+
+[NOTE]
+====
+. Or “dangling.”
+====
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Like tying a stone to a sling,
+So is giving glory to someone stupid.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Like a thorn plant that comes into the hand of a drunkard,
+So is a proverb in the mouth of stupid people.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ Like an archer who wounds at random,^&#42;1^
+So is the one who hires the stupid one or those passing by.
+
+[NOTE]
+====
+. Or “who wounds everyone.”
+====
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ Like a dog that returns to its vomit,
+The stupid one repeats his foolishness.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Have you seen a man who thinks he is wise?
+There is more hope for someone stupid than for him.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ The lazy one says: “There is a young lion in the road,
+A lion in the public square!”
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ A door keeps turning on its hinges,^&#42;1^
+And the lazy one on his bed.
+
+[NOTE]
+====
+. Or “pivot.”
+====
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ The lazy one buries his hand in the banquet bowl,
+But he is too tired to bring it back to his mouth.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ The lazy one thinks he is wiser
+Than seven people who give a sensible reply.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ Like someone grabbing hold of a dog’s ears
+Is the one passing by who becomes furious about^&#42;1^ a quarrel that is not his.
+
+[NOTE]
+====
+. Or possibly, “who meddles in.”
+====
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ Like a madman who shoots fiery missiles, arrows, and death^&#42;1^
+
+[NOTE]
+====
+. Or “deadly arrows.”
+====
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ Is the man who plays a trick on his neighbor and says, “I was only joking!”
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Where there is no wood, the fire goes out,
+And where there is no slanderer, quarreling ceases.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ As charcoal for the embers and wood for the fire,
+So a contentious man kindles a quarrel.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ The words of a slanderer are like tasty morsels;^&#42;1^
+They are gulped right down into the stomach.
+
+[NOTE]
+====
+. Or “like things to be swallowed greedily.”
+====
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Like a silver glazing over a piece of earthenware
+Are affectionate words from^&#42;1^ an evil heart.
+
+[NOTE]
+====
+. Lit., “fervent lips with.”
+====
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ The one who hates others disguises it with his lips,
+But inside he harbors deceit.
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ Although he speaks graciously, do not trust him,
+For there are seven detestable things in his heart.^&#42;1^
+
+[NOTE]
+====
+. Or “For his heart is completely detestable.”
+====
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ Though his hatred is concealed by deceit,
+His evil will be exposed in the congregation.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ The one who digs a pit will fall into it,
+And whoever rolls away a stone—it will come back on him.
+
+[[v20-26-28]]
+
+^<<v20-26-28,28>>^ A lying tongue hates those crushed by it,
+And a flattering mouth causes ruin.
+
+'''
+
+xref:020-proverbs/020-proverbs-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbs/020-proverbs-027.adoc#v20-27-0[Próximo Capítulo &#62;]

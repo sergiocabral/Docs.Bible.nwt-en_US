@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v2-33-0]]
+=== Exodus, 33
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v2-33-1]]
+
+^<<v2-33-1,1>>^ Jehovah said further to Moses: “Go on your way from here with the people whom you led up out of the land of Egypt. Journey to the land about which I swore to Abraham, Isaac, and Jacob, saying, ‘To your offspring^&#42;1^ I will give it.’
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v2-33-2]]
+
+^<<v2-33-2,2>>^ I will send an angel ahead of you and drive out the Caʹnaan·ites, the Amʹor·ites, the Hitʹtites, the Perʹiz·zites, the Hiʹvites, and the Jebʹu·sites.
+
+[[v2-33-3]]
+
+^<<v2-33-3,3>>^ Go up to a land flowing with milk and honey. But I will not go in the midst of you, for you are an obstinate^&#42;1^ people, and I might exterminate you on the way.”
+
+[NOTE]
+====
+. Lit., “stiff-necked.”
+====
+
+[[v2-33-4]]
+
+^<<v2-33-4,4>>^ When the people heard this harsh word, they began to mourn, and not one of them put on his ornaments.
+
+[[v2-33-5]]
+
+^<<v2-33-5,5>>^ Jehovah said to Moses: “Say to the Israelites, ‘You are an obstinate^&#42;1^ people. In one moment I could go through the midst of you and exterminate you. So now keep your ornaments off while I consider what to do to you.’”
+
+[NOTE]
+====
+. Lit., “stiff-necked.”
+====
+
+[[v2-33-6]]
+
+^<<v2-33-6,6>>^ So from Mount Horʹeb onward, the Israelites refrained from wearing^&#42;1^ their ornaments.
+
+[NOTE]
+====
+. Lit., “stripped off.”
+====
+
+[[v2-33-7]]
+
+^<<v2-33-7,7>>^ Now Moses took his tent and pitched it outside the camp, at some distance from the camp, and he called it a tent of meeting. Everyone inquiring of Jehovah would go out to the tent of meeting, which was outside the camp.
+
+[[v2-33-8]]
+
+^<<v2-33-8,8>>^ As soon as Moses went out to the tent, all the people would rise and stand at the entrance of their own tents, and they would gaze after Moses until he entered into the tent.
+
+[[v2-33-9]]
+
+^<<v2-33-9,9>>^ As soon as Moses would go into the tent, the pillar of cloud would come down and stand at the entrance of the tent while God spoke with Moses.
+
+[[v2-33-10]]
+
+^<<v2-33-10,10>>^ When all the people saw the pillar of cloud standing at the entrance of the tent, each of them rose and bowed down at the entrance of his own tent.
+
+[[v2-33-11]]
+
+^<<v2-33-11,11>>^ Jehovah spoke to Moses face-to-face, just as one man would speak to another man. When he returned to the camp, Joshua the son of Nun, his minister and attendant, would not depart from the tent.
+
+[[v2-33-12]]
+
+^<<v2-33-12,12>>^ Now Moses said to Jehovah: “See, you are saying to me, ‘Lead this people up,’ but you have not let me know whom you will send with me. Moreover, you have said, ‘I know you by name,^&#42;1^ and you have also found favor in my eyes.’
+
+[NOTE]
+====
+. Or “I have chosen you.”
+====
+
+[[v2-33-13]]
+
+^<<v2-33-13,13>>^ Please, if I have found favor in your eyes, make me know your ways, so that I may know you and continue to find favor in your eyes. Consider, too, that this nation is your people.”
+
+[[v2-33-14]]
+
+^<<v2-33-14,14>>^ So he said: “I myself^&#42;1^ will go with you, and I will give you rest.”
+
+[NOTE]
+====
+. Lit., “My face.”
+====
+
+[[v2-33-15]]
+
+^<<v2-33-15,15>>^ Then Moses said to him: “If you yourself are^&#42;1^ not going along, do not lead us up from here.
+
+[NOTE]
+====
+. Lit., “If your face is.”
+====
+
+[[v2-33-16]]
+
+^<<v2-33-16,16>>^ How will it be known that I have found favor in your eyes, I and your people? Is it not by your going along with us, so that I and your people will be distinguished from every other people on the face of the earth?”
+
+[[v2-33-17]]
+
+^<<v2-33-17,17>>^ Jehovah went on to say to Moses: “I will also do this thing that you request, because you have found favor in my eyes and I know you by name.”
+
+[[v2-33-18]]
+
+^<<v2-33-18,18>>^ Then he said: “Please show me your glory.”
+
+[[v2-33-19]]
+
+^<<v2-33-19,19>>^ But he said: “I will make all my goodness pass before your face, and I will declare before you the name of Jehovah; and I will favor the one whom I favor, and I will show mercy to the one to whom I show mercy.”
+
+[[v2-33-20]]
+
+^<<v2-33-20,20>>^ But he added: “You cannot see my face, for no man can see me and live.”
+
+[[v2-33-21]]
+
+^<<v2-33-21,21>>^ Jehovah said further: “Here is a place near me. Station yourself on the rock.
+
+[[v2-33-22]]
+
+^<<v2-33-22,22>>^ When my glory is passing by, I will place you in a crevice of the rock, and I will shield you with my hand until I have passed by.
+
+[[v2-33-23]]
+
+^<<v2-33-23,23>>^ After that I will take my hand away, and you will see my back. But my face may not be seen.”
+
+'''
+
+xref:002-exodus/002-exodus-032.adoc#v2-32-0[&#60; Capítulo Anterior] | <<v2-33-0,Topo>> | xref:002-exodus/002-exodus-034.adoc#v2-34-0[Próximo Capítulo &#62;]

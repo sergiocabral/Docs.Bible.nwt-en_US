@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v26-34-0]]
+=== Ezekiel, 34
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v26-34-1]]
+
+^<<v26-34-1,1>>^ The word of Jehovah again came to me, saying:
+
+[[v26-34-2]]
+
+^<<v26-34-2,2>>^ “Son of man, prophesy against the shepherds of Israel. Prophesy, and say to the shepherds, ‘This is what the Sovereign Lord Jehovah says: “Woe to the shepherds of Israel, who have been feeding themselves! Is it not the flock that the shepherds should feed?
+
+[[v26-34-3]]
+
+^<<v26-34-3,3>>^ You eat the fat, you clothe yourselves with the wool, and you slaughter the fattest animal, but you do not feed the flock.
+
+[[v26-34-4]]
+
+^<<v26-34-4,4>>^ You have not strengthened the weak or healed the sick or bandaged the injured or brought back the strays or looked for the lost; rather, you have ruled them with harshness and tyranny.
+
+[[v26-34-5]]
+
+^<<v26-34-5,5>>^ So they were scattered because there was no shepherd; they were scattered and became food for every wild beast of the field.
+
+[[v26-34-6]]
+
+^<<v26-34-6,6>>^ My sheep were straying on all the mountains and on every high hill; my sheep were scattered over all the surface of the earth, with no one searching for them or seeking to find them.
+
+[[v26-34-7]]
+
+^<<v26-34-7,7>>^ “‘“Therefore, you shepherds, hear the word of Jehovah:
+
+[[v26-34-8]]
+
+^<<v26-34-8,8>>^ ‘“As surely as I am alive,” declares the Sovereign Lord Jehovah, “because my sheep have become prey, food for every wild beast of the field, for there was no shepherd, and my shepherds did not search for my sheep; rather, they kept feeding themselves and did not feed my sheep,”’
+
+[[v26-34-9]]
+
+^<<v26-34-9,9>>^ therefore, you shepherds, hear the word of Jehovah.
+
+[[v26-34-10]]
+
+^<<v26-34-10,10>>^ This is what the Sovereign Lord Jehovah says: ‘I am against the shepherds, and I will demand an accounting of them for my sheep,^&#42;1^ and I will dismiss them from feeding^&#42;2^ my sheep, and the shepherds will no longer feed themselves. I will rescue my sheep from their mouth, and they will no longer be food for them.’”
+
+[NOTE]
+====
+. Or “I will ask back my sheep from their hand.”
+. Or “tending.”
+====
+
+[[v26-34-11]]
+
+^<<v26-34-11,11>>^ “‘For this is what the Sovereign Lord Jehovah says: “Here I am, and I myself will search for my sheep, and I will care for them.
+
+[[v26-34-12]]
+
+^<<v26-34-12,12>>^ I will care for my sheep like a shepherd who has found his scattered sheep and is feeding them. I will rescue them from all the places where they were scattered in the day of clouds and thick gloom.
+
+[[v26-34-13]]
+
+^<<v26-34-13,13>>^ I will bring them out from the peoples and collect them together from the lands and bring them into their land and feed them on the mountains of Israel, by the streams and by all the dwelling places of the land.
+
+[[v26-34-14]]
+
+^<<v26-34-14,14>>^ In a good pasture I will feed them, and the land where they graze will be on Israel’s high mountains. They will lie down there in a good grazing land, and they will feed on choice pastures on the mountains of Israel.”
+
+[[v26-34-15]]
+
+^<<v26-34-15,15>>^ “‘“I myself will feed my sheep, and I myself will make them lie down,” declares the Sovereign Lord Jehovah.
+
+[[v26-34-16]]
+
+^<<v26-34-16,16>>^ “The lost one I will search for, the stray I will bring back, the injured I will bandage, and the weak I will strengthen; but the fat one and the strong one I will annihilate. I will feed that one with judgment.”
+
+[[v26-34-17]]
+
+^<<v26-34-17,17>>^ “‘As for you, my sheep, this is what the Sovereign Lord Jehovah says: “I am about to judge between one sheep and another sheep, between the rams and the male goats.
+
+[[v26-34-18]]
+
+^<<v26-34-18,18>>^ Is it not enough for you to feed on the very best pastures? Must you also trample the rest of your pastures with your feet? And after drinking the clearest water, must you foul the water by stamping with your feet?
+
+[[v26-34-19]]
+
+^<<v26-34-19,19>>^ Should my sheep now feed on the pasture trampled by your feet and drink the water befouled by the stamping of your feet?”
+
+[[v26-34-20]]
+
+^<<v26-34-20,20>>^ “‘Therefore this is what the Sovereign Lord Jehovah says to them: “Here I am, and I myself will judge between a fat sheep and a lean sheep,
+
+[[v26-34-21]]
+
+^<<v26-34-21,21>>^ for with your flank and shoulder you kept pushing, and with your horns you kept shoving all the sick ones until you had scattered them abroad.
+
+[[v26-34-22]]
+
+^<<v26-34-22,22>>^ And I will save my sheep, and they will no longer become something to prey upon; and I will judge between a sheep and a sheep.
+
+[[v26-34-23]]
+
+^<<v26-34-23,23>>^ I will raise up one shepherd over them, my servant David, and he will feed them. He himself will feed them and become their shepherd.
+
+[[v26-34-24]]
+
+^<<v26-34-24,24>>^ And I, Jehovah, will become their God, and my servant David a chieftain among them. I myself, Jehovah, have spoken.
+
+[[v26-34-25]]
+
+^<<v26-34-25,25>>^ “‘“And I will make a covenant of peace with them, and I will rid the land of vicious wild beasts, so that they may dwell securely in the wilderness and sleep in the forests.
+
+[[v26-34-26]]
+
+^<<v26-34-26,26>>^ I will make them and the area around my hill a blessing, and I will cause the rain to fall at the proper time. Blessings will pour down like the rains.
+
+[[v26-34-27]]
+
+^<<v26-34-27,27>>^ The trees of the field will yield their fruit, and the soil will give its produce, and they will dwell securely on the land. And they will have to know that I am Jehovah when I break their yoke bars and rescue them from those who enslaved them.
+
+[[v26-34-28]]
+
+^<<v26-34-28,28>>^ They will no longer become something for the nations to prey upon, and the wild beasts of the earth will not devour them, and they will dwell in security, with no one to make them afraid.
+
+[[v26-34-29]]
+
+^<<v26-34-29,29>>^ “‘“I will establish for them a plantation of fame,^&#42;1^ and they will no longer die from famine in the land, and they will no longer be humiliated by the nations.
+
+[NOTE]
+====
+. Lit., “for a name.”
+====
+
+[[v26-34-30]]
+
+^<<v26-34-30,30>>^ ‘Then they will have to know that I, Jehovah their God, am with them and that they, the house of Israel, are my people,’ declares the Sovereign Lord Jehovah.”’
+
+[[v26-34-31]]
+
+^<<v26-34-31,31>>^ “‘As for you, my sheep, the sheep that I care for, you are but men, and I am your God,’ declares the Sovereign Lord Jehovah.”
+
+'''
+
+xref:026-ezekiel/026-ezekiel-033.adoc#v26-33-0[&#60; Capítulo Anterior] | <<v26-34-0,Topo>> | xref:026-ezekiel/026-ezekiel-035.adoc#v26-35-0[Próximo Capítulo &#62;]

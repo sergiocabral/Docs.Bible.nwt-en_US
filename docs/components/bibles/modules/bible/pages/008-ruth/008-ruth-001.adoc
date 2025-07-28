@@ -1,0 +1,128 @@
+include::./index.adoc[]
+
+[[v8-1-0]]
+=== Ruth, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v8-1-1]]
+
+^<<v8-1-1,1>>^ Now in the days when the judges administered justice,^&#42;1^ a famine occurred in the land; and a man went from Bethʹle·hem in Judah to reside as a foreigner in the fields^&#42;2^ of Moʹab, he along with his wife and his two sons.
+
+[NOTE]
+====
+. Lit., “judged.”
+. Or “region.”
+====
+
+[[v8-1-2]]
+
+^<<v8-1-2,2>>^ The man’s name was E·limʹe·lech,^&#42;1^ his wife’s name was Na·oʹmi,^&#42;2^ and the names of his two sons were Mahʹlon^&#42;3^ and Chilʹi·on.^&#42;4^ They were Ephʹrath·ites from Bethʹle·hem in Judah. And they came to the fields of Moʹab and remained there.
+
+[NOTE]
+====
+. Meaning “My God Is King.”
+. Meaning “My Pleasantness.”
+. Possibly from a Hebrew word meaning “grow weak; fall sick.”
+. Meaning “One Failing; One Coming to an End.”
+====
+
+[[v8-1-3]]
+
+^<<v8-1-3,3>>^ After some time E·limʹe·lech, Na·oʹmi’s husband, died, and she was left with her two sons.
+
+[[v8-1-4]]
+
+^<<v8-1-4,4>>^ The men later married Moʹab·ite women; one was named Orʹpah, and the other was named Ruth. They remained there for about ten years.
+
+[[v8-1-5]]
+
+^<<v8-1-5,5>>^ Then the two sons, Mahʹlon and Chilʹi·on, also died, and the woman was left without her two children and her husband.
+
+[[v8-1-6]]
+
+^<<v8-1-6,6>>^ So she started out with her daughters-in-law to return from the fields of Moʹab, for she had heard in Moʹab that Jehovah had turned his attention to his people by giving them food.^&#42;1^
+
+[NOTE]
+====
+. Lit., “bread.”
+====
+
+[[v8-1-7]]
+
+^<<v8-1-7,7>>^ She left the place where she had been living with both of her daughters-in-law. As they were walking on the road to return to the land of Judah,
+
+[[v8-1-8]]
+
+^<<v8-1-8,8>>^ Na·oʹmi said to both of her daughters-in-law: “Go, return, each of you to your mother’s home. May Jehovah show loyal love to you, just as you have shown it to the men who have died and to me.
+
+[[v8-1-9]]
+
+^<<v8-1-9,9>>^ May Jehovah grant^&#42;1^ that each of you finds security^&#42;2^ in the home of your husband.” Then she kissed them, and they wept loudly.
+
+[NOTE]
+====
+. Or “make a gift.”
+. Lit., “a resting-place.”
+====
+
+[[v8-1-10]]
+
+^<<v8-1-10,10>>^ They kept saying to her: “No, but we will go with you to your people.”
+
+[[v8-1-11]]
+
+^<<v8-1-11,11>>^ But Na·oʹmi said: “Return, my daughters. Why should you go with me? Can I still give birth to sons who could become your husbands?
+
+[[v8-1-12]]
+
+^<<v8-1-12,12>>^ Return, my daughters. Go, for I have grown too old to marry. Even if I could hope to find a husband tonight and could also bear sons,
+
+[[v8-1-13]]
+
+^<<v8-1-13,13>>^ would you keep waiting for them until they could grow up? Would you refrain from getting remarried for their sakes? No, my daughters, I feel very bitter for you, because the hand of Jehovah has turned against me.”
+
+[[v8-1-14]]
+
+^<<v8-1-14,14>>^ Again they wept loudly, after which Orʹpah kissed her mother-in-law and departed. But Ruth stuck with her.
+
+[[v8-1-15]]
+
+^<<v8-1-15,15>>^ So Na·oʹmi said: “Look! Your widowed sister-in-law has returned to her people and her gods. Return with your sister-in-law.”
+
+[[v8-1-16]]
+
+^<<v8-1-16,16>>^ But Ruth said: “Do not plead with me to abandon you, to turn back from accompanying you; for where you go I will go, and where you spend the night, I will spend the night. Your people will be my people, and your God my God.
+
+[[v8-1-17]]
+
+^<<v8-1-17,17>>^ Where you die I will die, and there I will be buried. May Jehovah do so to me and add to it if anything but death should separate me from you.”
+
+[[v8-1-18]]
+
+^<<v8-1-18,18>>^ When Na·oʹmi saw that Ruth insisted on going with her, she stopped trying to convince her.
+
+[[v8-1-19]]
+
+^<<v8-1-19,19>>^ And they both continued on their way until they came to Bethʹle·hem. As soon as they arrived in Bethʹle·hem, the whole city became stirred up over them, and women were saying: “Is this Na·oʹmi?”
+
+[[v8-1-20]]
+
+^<<v8-1-20,20>>^ She would say to the women: “Do not call me Na·oʹmi.^&#42;1^ Call me Maʹra,^&#42;2^ for the Almighty has made life very bitter for me.
+
+[NOTE]
+====
+. Meaning “My Pleasantness.”
+. Meaning “Bitter.”
+====
+
+[[v8-1-21]]
+
+^<<v8-1-21,21>>^ I was full when I went, but Jehovah made me return empty-handed. Why should you call me Na·oʹmi, when it is Jehovah who opposed me and the Almighty who caused me calamity?”
+
+[[v8-1-22]]
+
+^<<v8-1-22,22>>^ This is how Na·oʹmi returned from the fields of Moʹab, along with her Moʹab·ite daughter-in-law Ruth. They came to Bethʹle·hem at the beginning of the barley harvest.
+
+'''
+
+xref:007-judges/007-judges-021.adoc#v7-21-0[&#60; Capítulo Anterior] | <<v8-1-0,Topo>> | xref:008-ruth/008-ruth-002.adoc#v8-2-0[Próximo Capítulo &#62;]

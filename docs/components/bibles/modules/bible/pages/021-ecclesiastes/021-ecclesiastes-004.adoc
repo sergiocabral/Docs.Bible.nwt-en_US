@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-4-0]]
+=== Ecclesiastes, 4
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v21-4-1]]
+
+^<<v21-4-1,1>>^ Again I turned my attention to all the acts of oppression that go on under the sun. I saw the tears of the oppressed, and there was no one to comfort them. And their oppressors had the power, and there was no one to comfort them.
+
+[[v21-4-2]]
+
+^<<v21-4-2,2>>^ And I congratulated the dead who had already died rather than the living who were still alive.
+
+[[v21-4-3]]
+
+^<<v21-4-3,3>>^ And better off than both of them is the one who has not yet been born, who has not seen the distressing deeds that are done under the sun.
+
+[[v21-4-4]]
+
+^<<v21-4-4,4>>^ And I have seen how much effort^&#42;1^ and skillful work spring from rivalry between people; this too is futility, a chasing after the wind.
+
+[NOTE]
+====
+. Or “hard work.”
+====
+
+[[v21-4-5]]
+
+^<<v21-4-5,5>>^ The stupid one folds his hands while his flesh wastes away.^&#42;1^
+
+[NOTE]
+====
+. Lit., “and is eating his own flesh.”
+====
+
+[[v21-4-6]]
+
+^<<v21-4-6,6>>^ Better is a handful of rest than two handfuls of hard work and chasing after the wind.
+
+[[v21-4-7]]
+
+^<<v21-4-7,7>>^ I turned my attention to another example of futility under the sun:
+
+[[v21-4-8]]
+
+^<<v21-4-8,8>>^ There is a man who is all alone, without any companion; he has no son or brother, but there is no end to all his hard work. His eyes are never satisfied with riches. But does he ask himself, ‘For whom am I working hard and depriving myself^&#42;1^ of good things’? This too is futility and a miserable occupation.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v21-4-9]]
+
+^<<v21-4-9,9>>^ Two are better than one because they have a good reward^&#42;1^ for their hard work.
+
+[NOTE]
+====
+. Or “greater benefit.”
+====
+
+[[v21-4-10]]
+
+^<<v21-4-10,10>>^ For if one of them falls, the other can help his partner up. But what will happen to the one who falls with no one to help him up?
+
+[[v21-4-11]]
+
+^<<v21-4-11,11>>^ Moreover, if two lie down together, they will stay warm, but how can just one keep warm?
+
+[[v21-4-12]]
+
+^<<v21-4-12,12>>^ And someone may overpower one alone, but two together can take a stand against him. And a threefold cord cannot quickly^&#42;1^ be torn apart.
+
+[NOTE]
+====
+. Or “easily.”
+====
+
+[[v21-4-13]]
+
+^<<v21-4-13,13>>^ Better is a poor but wise child than an old but stupid king, who no longer has enough sense to heed a warning.
+
+[[v21-4-14]]
+
+^<<v21-4-14,14>>^ For he^&#42;1^ went out from prison to become king, although in that one’s kingship he was born poor.
+
+[NOTE]
+====
+. Perhaps referring to the wise child.
+====
+
+[[v21-4-15]]
+
+^<<v21-4-15,15>>^ I considered all those alive who walk about under the sun, as well as how it goes with the young successor who stands up in the other’s place.
+
+[[v21-4-16]]
+
+^<<v21-4-16,16>>^ Although there is no end to all his supporters, those who come later will not be happy with him. This too is futility, a chasing after the wind.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-003.adoc#v21-3-0[&#60; Capítulo Anterior] | <<v21-4-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-005.adoc#v21-5-0[Próximo Capítulo &#62;]

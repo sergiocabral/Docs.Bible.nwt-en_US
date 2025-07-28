@@ -1,0 +1,87 @@
+include::./index.adoc[]
+
+[[v58-5-0]]
+=== To the Hebrews, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v58-5-1]]
+
+^<<v58-5-1,1>>^ For every high priest taken from among men is appointed in their behalf over the things relating to God, so that he may offer gifts and sacrifices for sins.
+
+[[v58-5-2]]
+
+^<<v58-5-2,2>>^ He is able to deal compassionately^&#42;1^ with the ignorant and erring^&#42;2^ ones, since he too is confronted with^&#42;3^ his own weakness,
+
+[NOTE]
+====
+. Or “gently; moderately.”
+. Or “wayward.”
+. Or “subject to.”
+====
+
+[[v58-5-3]]
+
+^<<v58-5-3,3>>^ and because of that he must make offerings for his own sins just as he does for those of the people.
+
+[[v58-5-4]]
+
+^<<v58-5-4,4>>^ A man does not take this honor of his own accord, but he receives it only when he is called by God, just as Aaron was.
+
+[[v58-5-5]]
+
+^<<v58-5-5,5>>^ So, too, the Christ did not glorify himself by becoming a high priest, but was glorified by the One who said to him: “You are my son; today I have become your father.”
+
+[[v58-5-6]]
+
+^<<v58-5-6,6>>^ As he also says in another place, “You are a priest forever in the manner of Mel·chizʹe·dek.”
+
+[[v58-5-7]]
+
+^<<v58-5-7,7>>^ During his life on earth,^&#42;1^ Christ offered up supplications and also petitions, with strong outcries and tears, to the One who was able to save him out of death, and he was favorably heard for his godly fear.
+
+[NOTE]
+====
+. Lit., “In the days of his flesh.”
+====
+
+[[v58-5-8]]
+
+^<<v58-5-8,8>>^ Although he was a son, he learned obedience from the things he suffered.
+
+[[v58-5-9]]
+
+^<<v58-5-9,9>>^ And after he had been made perfect, he became responsible for everlasting salvation to all those obeying him,
+
+[[v58-5-10]]
+
+^<<v58-5-10,10>>^ because he has been designated by God a high priest in the manner of Mel·chizʹe·dek.
+
+[[v58-5-11]]
+
+^<<v58-5-11,11>>^ We have much to say about him, and it is difficult to explain, because you have become dull in your hearing.
+
+[[v58-5-12]]
+
+^<<v58-5-12,12>>^ For although by now^&#42;1^ you should be teachers, you again need someone to teach you from the beginning the elementary things of the sacred pronouncements of God, and you have gone back to needing milk, not solid food.
+
+[NOTE]
+====
+. Lit., “in view of the time.”
+====
+
+[[v58-5-13]]
+
+^<<v58-5-13,13>>^ For everyone who continues to feed on milk is unacquainted with the word of righteousness, for he is a young child.
+
+[[v58-5-14]]
+
+^<<v58-5-14,14>>^ But solid food belongs to mature people, to those who through use have their powers of discernment^&#42;1^ trained to distinguish both right and wrong.
+
+[NOTE]
+====
+. Or “their perceptive powers.”
+====
+
+'''
+
+xref:058-hebrews/058-hebrews-004.adoc#v58-4-0[&#60; Capítulo Anterior] | <<v58-5-0,Topo>> | xref:058-hebrews/058-hebrews-006.adoc#v58-6-0[Próximo Capítulo &#62;]

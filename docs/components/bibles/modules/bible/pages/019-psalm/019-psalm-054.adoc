@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v19-54-0]]
+=== Psalm, 54
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; to be accompanied with stringed instruments. Masʹkil.^&#42;1^ Of David, when the Ziphʹites came in and said to Saul: “David is hiding among us.”_
+
+[[v19-54-1]]
+
+^<<v19-54-1,1>>^ O God, save me by your name,
+And defend me^&#42;1^ with your power.
+
+[NOTE]
+====
+. Or “plead my cause.”
+====
+
+[[v19-54-2]]
+
+^<<v19-54-2,2>>^ O God, hear my prayer;
+Pay attention to the words of my mouth.
+
+[[v19-54-3]]
+
+^<<v19-54-3,3>>^ For strangers rise up against me,
+And ruthless men seek my life.^&#42;1^
+They have no regard for God.^&#42;2^ (Selah)
+
+[NOTE]
+====
+. Or “soul.”
+. Or “They do not keep God before them.”
+====
+
+[[v19-54-4]]
+
+^<<v19-54-4,4>>^ Look! God is my helper;
+Jehovah is with those supporting me.^&#42;1^
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-54-5]]
+
+^<<v19-54-5,5>>^ He will repay my foes with their own evil;
+In your faithfulness, put an end to^&#42;1^ them.
+
+[NOTE]
+====
+. Lit., “silence.”
+====
+
+[[v19-54-6]]
+
+^<<v19-54-6,6>>^ I will sacrifice to you willingly.
+I will praise your name, O Jehovah, for it is good.
+
+[[v19-54-7]]
+
+^<<v19-54-7,7>>^ For he saves me from every distress,
+And I will look in triumph on my enemies.
+
+'''
+
+xref:019-psalm/019-psalm-053.adoc#v19-53-0[&#60; Capítulo Anterior] | <<v19-54-0,Topo>> | xref:019-psalm/019-psalm-055.adoc#v19-55-0[Próximo Capítulo &#62;]

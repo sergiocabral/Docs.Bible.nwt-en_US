@@ -1,0 +1,51 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Psalm, 13
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. A melody of David._
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ How long, O Jehovah, will you forget me? Forever?
+How long will you hide your face from me?
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ How long will I^&#42;1^ have anxious concern,
+With grief in my heart each day?
+How long will my enemy triumph over me?
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Look upon me and answer me, O Jehovah my God.
+Give light to my eyes, so that I may not fall asleep in death,
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ So that my enemy will not say: “I have defeated him!”
+Do not let my opponents rejoice over my downfall.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ As for me, I trust in your loyal love;
+My heart will rejoice in your acts of salvation.
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ I will sing to Jehovah, for he has richly rewarded me.^&#42;1^
+
+[NOTE]
+====
+. Or “he has dealt rewardingly with me.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-psalm/019-psalm-014.adoc#v19-14-0[Próximo Capítulo &#62;]

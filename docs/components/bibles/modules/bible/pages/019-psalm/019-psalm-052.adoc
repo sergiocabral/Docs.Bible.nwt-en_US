@@ -1,0 +1,66 @@
+include::./index.adoc[]
+
+[[v19-52-0]]
+=== Psalm, 52
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Masʹkil.^&#42;1^ Of David, when Doʹeg the Eʹdom·ite came and told Saul that David had come to the house of A·himʹe·lech._
+
+[[v19-52-1]]
+
+^<<v19-52-1,1>>^ Why do you boast about your evil acts, you mighty one?
+The loyal love of God lasts all day long.
+
+[[v19-52-2]]
+
+^<<v19-52-2,2>>^ Your tongue, as sharp as a razor,
+Schemes harm and works deceitfully.
+
+[[v19-52-3]]
+
+^<<v19-52-3,3>>^ You love evil more than what is good,
+Lying more than speaking what is right. (Selah)
+
+[[v19-52-4]]
+
+^<<v19-52-4,4>>^ You love every harmful word,
+O you deceitful tongue!
+
+[[v19-52-5]]
+
+^<<v19-52-5,5>>^ That is why God will pull you down once and for all;
+He will snatch you up and tear you away from your tent;
+He will uproot you from the land of the living. (Selah)
+
+[[v19-52-6]]
+
+^<<v19-52-6,6>>^ The righteous ones will see it and be filled with awe,
+And they will laugh at him.
+
+[[v19-52-7]]
+
+^<<v19-52-7,7>>^ “Here is a man who did not make God his refuge,^&#42;1^
+But he trusted in his great riches
+And relied on^&#42;2^ his own evil plots.”^&#42;3^
+
+[NOTE]
+====
+. Or “fortress.”
+. Or “took shelter in.”
+. Lit., “adversities by him.”
+====
+
+[[v19-52-8]]
+
+^<<v19-52-8,8>>^ But I will be like a luxuriant olive tree in God’s house;
+My trust is in God’s loyal love, forever and ever.
+
+[[v19-52-9]]
+
+^<<v19-52-9,9>>^ I will praise you forever because you have taken action;
+In the presence of your loyal ones,
+I will hope in your name, for it is good.
+
+'''
+
+xref:019-psalm/019-psalm-051.adoc#v19-51-0[&#60; Capítulo Anterior] | <<v19-52-0,Topo>> | xref:019-psalm/019-psalm-053.adoc#v19-53-0[Próximo Capítulo &#62;]

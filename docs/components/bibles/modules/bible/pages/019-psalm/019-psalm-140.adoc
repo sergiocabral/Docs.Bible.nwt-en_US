@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v19-140-0]]
+=== Psalm, 140
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_For the director. A melody of David._
+
+[[v19-140-1]]
+
+^<<v19-140-1,1>>^ Rescue me, O Jehovah, from evil men;
+Protect me from violent men,
+
+[[v19-140-2]]
+
+^<<v19-140-2,2>>^ Those who scheme evil in their hearts
+And stir up conflict all day long.
+
+[[v19-140-3]]
+
+^<<v19-140-3,3>>^ They sharpen their tongue like that of a serpent;
+Venom of vipers is behind their lips. (Selah)
+
+[[v19-140-4]]
+
+^<<v19-140-4,4>>^ Protect me, O Jehovah, from the hands of the wicked;
+Safeguard me from violent men,
+Those who scheme to trip me.
+
+[[v19-140-5]]
+
+^<<v19-140-5,5>>^ The haughty ones hide a trap for me;
+With ropes they spread out a net beside the path.
+They set snares for me. (Selah)
+
+[[v19-140-6]]
+
+^<<v19-140-6,6>>^ I say to Jehovah: “You are my God.
+Listen, O Jehovah, to my pleas for help.”
+
+[[v19-140-7]]
+
+^<<v19-140-7,7>>^ O Jehovah the Sovereign Lord, my strong Savior,
+You shield my head in the day of battle.
+
+[[v19-140-8]]
+
+^<<v19-140-8,8>>^ Do not grant, O Jehovah, the desires of the wicked.
+Do not let their plots succeed, so that they are not exalted. (Selah)
+
+[[v19-140-9]]
+
+^<<v19-140-9,9>>^ May the heads of those surrounding me
+Be covered with the evil spoken by their lips.
+
+[[v19-140-10]]
+
+^<<v19-140-10,10>>^ May burning coals rain down on them.
+May they be hurled into the fire,
+Into deep pits,^&#42;1^ never to rise again.
+
+[NOTE]
+====
+. Or “Into watery pits.”
+====
+
+[[v19-140-11]]
+
+^<<v19-140-11,11>>^ May the slanderer find no place on the earth.^&#42;1^
+May evil pursue men of violence and strike them down.
+
+[NOTE]
+====
+. Or “in the land.”
+====
+
+[[v19-140-12]]
+
+^<<v19-140-12,12>>^ I know that Jehovah will defend the lowly
+And give justice to the poor.
+
+[[v19-140-13]]
+
+^<<v19-140-13,13>>^ Surely the righteous will give thanks to your name;
+The upright will dwell before your face.^&#42;1^
+
+[NOTE]
+====
+. Or “in your presence.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-139.adoc#v19-139-0[&#60; Capítulo Anterior] | <<v19-140-0,Topo>> | xref:019-psalm/019-psalm-141.adoc#v19-141-0[Próximo Capítulo &#62;]

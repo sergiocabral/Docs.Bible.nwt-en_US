@@ -1,0 +1,256 @@
+include::./index.adoc[]
+
+[[v20-23-0]]
+=== Proverbs, 23
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-23-1]]
+
+^<<v20-23-1,1>>^ When you sit down to eat with a king,
+Carefully consider what is before you;
+
+[[v20-23-2]]
+
+^<<v20-23-2,2>>^ Put a knife to your throat^&#42;1^
+If you have a large appetite.^&#42;2^
+
+[NOTE]
+====
+. Or “Restrain yourself.”
+. Or “a soul full of desire.”
+====
+
+[[v20-23-3]]
+
+^<<v20-23-3,3>>^ Do not crave his delicacies,
+For it is deceptive food.
+
+[[v20-23-4]]
+
+^<<v20-23-4,4>>^ Do not wear yourself out to gain wealth.
+Stop and show understanding.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “Cease from your own understanding.”
+====
+
+[[v20-23-5]]
+
+^<<v20-23-5,5>>^ When you cast your eyes on it, it is not there,
+For it will surely sprout wings like an eagle and fly off into the sky.
+
+[[v20-23-6]]
+
+^<<v20-23-6,6>>^ Do not eat the food of a stingy person;^&#42;1^
+Do not crave his delicacies,
+
+[NOTE]
+====
+. Or “of anyone whose eye is evil.”
+====
+
+[[v20-23-7]]
+
+^<<v20-23-7,7>>^ For he is like one keeping accounts.^&#42;1^
+“Eat and drink,” he says to you, but he does not mean it.^&#42;2^
+
+[NOTE]
+====
+. Or “calculating in his soul.”
+. Lit., “his heart is not with you.”
+====
+
+[[v20-23-8]]
+
+^<<v20-23-8,8>>^ You will vomit up the morsels you have eaten
+And will have wasted your compliments.
+
+[[v20-23-9]]
+
+^<<v20-23-9,9>>^ Do not speak in the ears of the stupid one,
+For he will despise the wisdom of your words.
+
+[[v20-23-10]]
+
+^<<v20-23-10,10>>^ Do not move an ancient boundary marker
+Or encroach on the field of the fatherless.
+
+[[v20-23-11]]
+
+^<<v20-23-11,11>>^ For their Defender^&#42;1^ is strong;
+He will take up their cause against you.
+
+[NOTE]
+====
+. Lit., “Redeemer.”
+====
+
+[[v20-23-12]]
+
+^<<v20-23-12,12>>^ Apply your heart to discipline
+And your ear to the sayings of knowledge.
+
+[[v20-23-13]]
+
+^<<v20-23-13,13>>^ Do not hold back discipline from a boy.^&#42;1^
+If you strike him with the rod, he will not die.
+
+[NOTE]
+====
+. Or “child; youth.”
+====
+
+[[v20-23-14]]
+
+^<<v20-23-14,14>>^ With the rod you should strike him,
+In order to save him^&#42;1^ from the Grave.^&#42;2^
+
+[NOTE]
+====
+. Or “his soul.”
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v20-23-15]]
+
+^<<v20-23-15,15>>^ My son, if your heart becomes wise,
+Then my own heart will rejoice.
+
+[[v20-23-16]]
+
+^<<v20-23-16,16>>^ My innermost being^&#42;1^ will find joy
+When your lips speak what is right.
+
+[NOTE]
+====
+. Lit., “My kidneys.”
+====
+
+[[v20-23-17]]
+
+^<<v20-23-17,17>>^ Let your heart not envy sinners,
+But be in the fear of Jehovah all day long,
+
+[[v20-23-18]]
+
+^<<v20-23-18,18>>^ For then you will have a future
+And your hope will not be cut off.
+
+[[v20-23-19]]
+
+^<<v20-23-19,19>>^ Listen, my son, and become wise,
+And direct your heart in the right way.
+
+[[v20-23-20]]
+
+^<<v20-23-20,20>>^ Do not be among those who drink too much wine,
+Among those who gorge themselves on meat,
+
+[[v20-23-21]]
+
+^<<v20-23-21,21>>^ For a drunkard and a glutton will come to poverty,
+And drowsiness will clothe one with rags.
+
+[[v20-23-22]]
+
+^<<v20-23-22,22>>^ Listen to your father who caused your birth,
+And do not despise your mother just because she has grown old.
+
+[[v20-23-23]]
+
+^<<v20-23-23,23>>^ Buy^&#42;1^ truth and never sell it,
+Also wisdom and discipline and understanding.
+
+[NOTE]
+====
+. Or “Acquire.”
+====
+
+[[v20-23-24]]
+
+^<<v20-23-24,24>>^ The father of a righteous one will surely be joyful;
+Whoever fathers a wise son will rejoice in him.
+
+[[v20-23-25]]
+
+^<<v20-23-25,25>>^ Your father and your mother will rejoice,
+And she who gave birth to you will be joyful.
+
+[[v20-23-26]]
+
+^<<v20-23-26,26>>^ My son, do give your heart to me,
+And may your eyes take pleasure in my ways.
+
+[[v20-23-27]]
+
+^<<v20-23-27,27>>^ For a prostitute is a deep pit,
+And an immoral^&#42;1^ woman is a narrow well.
+
+[NOTE]
+====
+. Lit., “foreign.” See Pr 2:16.
+====
+
+[[v20-23-28]]
+
+^<<v20-23-28,28>>^ She lies in wait like a robber;
+She increases the number of unfaithful men.
+
+[[v20-23-29]]
+
+^<<v20-23-29,29>>^ Who has woe? Who has uneasiness?
+Who has quarrels? Who has complaints?
+Who has wounds for no reason? Who has bleary^&#42;1^ eyes?
+
+[NOTE]
+====
+. Or “dullness of.”
+====
+
+[[v20-23-30]]
+
+^<<v20-23-30,30>>^ Those lingering long over wine;
+Those searching out^&#42;1^ mixed wine.
+
+[NOTE]
+====
+. Or “who gather to try out.”
+====
+
+[[v20-23-31]]
+
+^<<v20-23-31,31>>^ Do not look at the wine’s red color
+As it sparkles in the cup and goes down smoothly,
+
+[[v20-23-32]]
+
+^<<v20-23-32,32>>^ For in the end it bites like a serpent,
+And it secretes poison like a viper.
+
+[[v20-23-33]]
+
+^<<v20-23-33,33>>^ Your eyes will see strange things,
+And your heart will speak perverse things.
+
+[[v20-23-34]]
+
+^<<v20-23-34,34>>^ And you will be like one lying down in the middle of the sea,
+Like one lying at the top of a ship’s mast.
+
+[[v20-23-35]]
+
+^<<v20-23-35,35>>^ You will say: “They have struck me, but I did not feel it.^&#42;1^
+They beat me, but I did not know it.
+When will I wake up?
+I need another drink.”^&#42;2^
+
+[NOTE]
+====
+. Or “I felt no pain.”
+. Or “I will seek it again.”
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-022.adoc#v20-22-0[&#60; Capítulo Anterior] | <<v20-23-0,Topo>> | xref:020-proverbs/020-proverbs-024.adoc#v20-24-0[Próximo Capítulo &#62;]

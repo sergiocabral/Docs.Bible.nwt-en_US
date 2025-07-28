@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v21-9-0]]
+=== Ecclesiastes, 9
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v21-9-1]]
+
+^<<v21-9-1,1>>^ So I took all of this to heart and concluded that the righteous and the wise, as well as their works, are in the hands of the true God. Men are not aware of the love and the hate that took place prior to them.
+
+[[v21-9-2]]
+
+^<<v21-9-2,2>>^ All have the very same outcome,^&#42;1^ the righteous and the wicked, the good and the clean and the unclean, those sacrificing and those not sacrificing. The good one is the same as the sinner; the one who swears an oath is the same as the one who is cautious about swearing an oath.
+
+[NOTE]
+====
+. Or “eventuality.”
+====
+
+[[v21-9-3]]
+
+^<<v21-9-3,3>>^ This is a distressing thing that happens under the sun: Because all have the same outcome,^&#42;1^ the heart of humans is also full of bad; and there is madness in their heart during their life, and then they die!^&#42;2^
+
+[NOTE]
+====
+. Or “eventuality.”
+. Lit., “and after it—​to the dead ones!”
+====
+
+[[v21-9-4]]
+
+^<<v21-9-4,4>>^ There is hope for whoever is among the living, because a live dog is better off than a dead lion.
+
+[[v21-9-5]]
+
+^<<v21-9-5,5>>^ For the living know^&#42;1^ that they will die, but the dead know nothing at all, nor do they have any more reward,^&#42;2^ because all memory of them is forgotten.
+
+[NOTE]
+====
+. Or “are conscious.”
+. Or “wages.”
+====
+
+[[v21-9-6]]
+
+^<<v21-9-6,6>>^ Also, their love and their hate and their jealousy have already perished, and they no longer have any share in what is done under the sun.
+
+[[v21-9-7]]
+
+^<<v21-9-7,7>>^ Go, eat your food with rejoicing, and drink your wine with a cheerful heart, for already the true God has found pleasure in your works.
+
+[[v21-9-8]]
+
+^<<v21-9-8,8>>^ May your clothing always be white,^&#42;1^ and do not fail to put oil on your head.
+
+[NOTE]
+====
+. That is, bright clothing reflecting a joyful mood, not clothing of mourning.
+====
+
+[[v21-9-9]]
+
+^<<v21-9-9,9>>^ Enjoy life with your beloved wife all the days of your futile life, which He has given you under the sun, all the days of your futility, for that is your lot^&#42;1^ in life and in your hard work at which you toil under the sun.
+
+[NOTE]
+====
+. Or “portion.”
+====
+
+[[v21-9-10]]
+
+^<<v21-9-10,10>>^ Whatever your hand finds to do, do with all your might, for there is no work nor planning nor knowledge nor wisdom in the Grave,^&#42;1^ where you are going.
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v21-9-11]]
+
+^<<v21-9-11,11>>^ I have seen something further under the sun, that the swift do not always win the race, nor do the mighty win the battle, nor do the wise always have the food, nor do the intelligent always have the riches, nor do those with knowledge always have success, because time and unexpected events^&#42;1^ overtake them all.
+
+[NOTE]
+====
+. Or “unforeseen occurrence.”
+====
+
+[[v21-9-12]]
+
+^<<v21-9-12,12>>^ For man does not know his time. Just as fish are caught in an evil net and birds are caught in a trap, so the sons of men are ensnared in a time of disaster,^&#42;1^ when it suddenly overtakes them.
+
+[NOTE]
+====
+. Or “calamity.”
+====
+
+[[v21-9-13]]
+
+^<<v21-9-13,13>>^ I also observed this about wisdom under the sun—and it impressed me:
+
+[[v21-9-14]]
+
+^<<v21-9-14,14>>^ There was a small city with a few men in it; and a mighty king came against it and surrounded it and built great siegeworks against it.
+
+[[v21-9-15]]
+
+^<<v21-9-15,15>>^ In it was found a poor but wise man, and he saved the city by his wisdom. But no one remembered that poor man.
+
+[[v21-9-16]]
+
+^<<v21-9-16,16>>^ And I said to myself: ‘Wisdom is better than mightiness; yet a poor man’s wisdom is despised, and his words are not heeded.’
+
+[[v21-9-17]]
+
+^<<v21-9-17,17>>^ Better to heed the calm words of the wise than the shouts of the one ruling among fools.
+
+[[v21-9-18]]
+
+^<<v21-9-18,18>>^ Wisdom is better than weapons of war, but just one sinner can destroy much good.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-008.adoc#v21-8-0[&#60; Capítulo Anterior] | <<v21-9-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-010.adoc#v21-10-0[Próximo Capítulo &#62;]

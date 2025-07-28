@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v21-12-0]]
+=== Ecclesiastes, 12
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v21-12-1]]
+
+^<<v21-12-1,1>>^ Remember, then, your Grand Creator in the days of your youth, before the days of distress^&#42;1^ come and the years arrive when you will say: “I have no pleasure in them”;
+
+[NOTE]
+====
+. Or “the calamitous days.”
+====
+
+[[v21-12-2]]
+
+^<<v21-12-2,2>>^ before the sun and the light and the moon and the stars grow dark, and the clouds return after^&#42;1^ the downpour;
+
+[NOTE]
+====
+. Or possibly, “with.”
+====
+
+[[v21-12-3]]
+
+^<<v21-12-3,3>>^ in the day when the guards^&#42;1^ of the house become shaky,^&#42;2^ and the strong men stoop over, and the women quit grinding because they have become few, and the ladies looking out the windows find it dark;
+
+[NOTE]
+====
+. Or “keepers.”
+. Or “tremble.”
+====
+
+[[v21-12-4]]
+
+^<<v21-12-4,4>>^ when the doors to the street have been closed, when the sound of the grinding mill becomes low, when one gets up at the sound of a bird, and all the daughters of song grow faint.
+
+[[v21-12-5]]
+
+^<<v21-12-5,5>>^ Also, one is afraid of heights, and there are terrors in the street. And the almond tree blossoms, and the grasshopper drags itself along, and the caper berry bursts, because man is walking to his lasting house and the mourners walk about in the street;
+
+[[v21-12-6]]
+
+^<<v21-12-6,6>>^ before the silver cord is removed, and the golden bowl is crushed, and the jar at the spring is broken, and the waterwheel for the cistern is crushed.
+
+[[v21-12-7]]
+
+^<<v21-12-7,7>>^ Then the dust returns to the earth, just as it was, and the spirit^&#42;1^ returns to the true God who gave it.
+
+[NOTE]
+====
+. Or “life force.”
+====
+
+[[v21-12-8]]
+
+^<<v21-12-8,8>>^ “The greatest futility!”^&#42;1^ says the congregator. “Everything is futile.”
+
+[NOTE]
+====
+. Or “vanity.”
+====
+
+[[v21-12-9]]
+
+^<<v21-12-9,9>>^ Not only had the congregator become wise but he continually taught the people what he knew, and he pondered and made a thorough search in order to compile^&#42;1^ many proverbs.
+
+[NOTE]
+====
+. Or “arrange in order.”
+====
+
+[[v21-12-10]]
+
+^<<v21-12-10,10>>^ The congregator sought to find delightful words and to record accurate words of truth.
+
+[[v21-12-11]]
+
+^<<v21-12-11,11>>^ The words of the wise are like oxgoads, and their collected sayings are like firmly embedded nails; they have been given from one shepherd.
+
+[[v21-12-12]]
+
+^<<v21-12-12,12>>^ As for anything besides these, my son, be warned: To the making of many books there is no end, and much devotion to them is wearisome to the flesh.
+
+[[v21-12-13]]
+
+^<<v21-12-13,13>>^ The conclusion of the matter, everything having been heard, is: Fear the true God and keep his commandments, for this is the whole obligation of man.
+
+[[v21-12-14]]
+
+^<<v21-12-14,14>>^ For the true God will judge every deed, including every hidden thing, as to whether it is good or bad.
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-011.adoc#v21-11-0[&#60; Capítulo Anterior] | <<v21-12-0,Topo>> | xref:022-song-of-solomon/022-song-of-solomon-001.adoc#v22-1-0[Próximo Capítulo &#62;]

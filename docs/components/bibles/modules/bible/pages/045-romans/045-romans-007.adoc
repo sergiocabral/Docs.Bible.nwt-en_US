@@ -1,0 +1,120 @@
+include::./index.adoc[]
+
+[[v45-7-0]]
+=== To the Romans, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v45-7-1]]
+
+^<<v45-7-1,1>>^ Can it be that you do not know, brothers, (for I am speaking to those who know law) that the Law is master over a man as long as he lives?
+
+[[v45-7-2]]
+
+^<<v45-7-2,2>>^ For instance, a married woman is bound by law to her husband while he is alive; but if her husband dies, she is released from the law of her husband.
+
+[[v45-7-3]]
+
+^<<v45-7-3,3>>^ So, then, while her husband is living, she would be called an adulteress if she became another man’s. But if her husband dies, she is free from his law, so that she is not an adulteress if she becomes another man’s.
+
+[[v45-7-4]]
+
+^<<v45-7-4,4>>^ So, my brothers, you also were made dead to the Law through the body of the Christ, that you might become another’s, the one who was raised up from the dead, so that we should bear fruit to God.
+
+[[v45-7-5]]
+
+^<<v45-7-5,5>>^ For when we were living according to the flesh, the sinful passions that were awakened by the Law were at work in our bodies^&#42;1^ to produce fruit for death.
+
+[NOTE]
+====
+. Lit., “members.”
+====
+
+[[v45-7-6]]
+
+^<<v45-7-6,6>>^ But now we have been released from the Law, because we have died to that which restrained us, in order that we might be slaves in a new sense by the spirit and not in the old sense by the written code.
+
+[[v45-7-7]]
+
+^<<v45-7-7,7>>^ What, then, are we to say? Is the Law sin? Certainly not! Really, I would not have come to know sin had it not been for the Law. For example, I would not have known covetousness if the Law had not said: “You must not covet.”
+
+[[v45-7-8]]
+
+^<<v45-7-8,8>>^ But sin, finding the opportunity afforded by the commandment, worked out in me covetousness of every sort, for apart from law sin was dead.
+
+[[v45-7-9]]
+
+^<<v45-7-9,9>>^ In fact, I was once alive apart from law. But when the commandment arrived, sin came to life again, but I died.
+
+[[v45-7-10]]
+
+^<<v45-7-10,10>>^ And the commandment that was to lead to life, this I found led to death.
+
+[[v45-7-11]]
+
+^<<v45-7-11,11>>^ For sin, finding the opportunity afforded by the commandment, seduced me and killed me through it.
+
+[[v45-7-12]]
+
+^<<v45-7-12,12>>^ So the Law in itself is holy, and the commandment is holy and righteous and good.
+
+[[v45-7-13]]
+
+^<<v45-7-13,13>>^ Therefore, did what is good result in my death? Certainly not! But sin did, that it might be shown to be sin working out death in me through what is good, so that through the commandment sin might become far more sinful.
+
+[[v45-7-14]]
+
+^<<v45-7-14,14>>^ For we know that the Law is spiritual, but I am fleshly, sold under sin.
+
+[[v45-7-15]]
+
+^<<v45-7-15,15>>^ For I do not understand what I am doing. For I do not practice what I wish, but I do what I hate.
+
+[[v45-7-16]]
+
+^<<v45-7-16,16>>^ However, if I do what I do not wish, I agree that the Law is fine.
+
+[[v45-7-17]]
+
+^<<v45-7-17,17>>^ But now I am no longer the one doing it, but it is the sin that resides in me.
+
+[[v45-7-18]]
+
+^<<v45-7-18,18>>^ For I know that in me, that is, in my flesh, there dwells nothing good; for I have the desire to do what is fine but not the ability to carry it out.
+
+[[v45-7-19]]
+
+^<<v45-7-19,19>>^ For I do not do the good that I wish, but the bad that I do not wish is what I practice.
+
+[[v45-7-20]]
+
+^<<v45-7-20,20>>^ If, then, I do what I do not wish, I am no longer the one carrying it out, but it is the sin dwelling in me.
+
+[[v45-7-21]]
+
+^<<v45-7-21,21>>^ I find, then, this law in my case: When I wish to do what is right, what is bad is present with me.
+
+[[v45-7-22]]
+
+^<<v45-7-22,22>>^ I really delight in the law of God according to the man I am within,
+
+[[v45-7-23]]
+
+^<<v45-7-23,23>>^ but I see in my body^&#42;1^ another law warring against the law of my mind and leading me captive to sin’s law that is in my body.^&#42;2^
+
+[NOTE]
+====
+. Lit., “members.”
+. Lit., “members.”
+====
+
+[[v45-7-24]]
+
+^<<v45-7-24,24>>^ Miserable man that I am! Who will rescue me from the body undergoing this death?
+
+[[v45-7-25]]
+
+^<<v45-7-25,25>>^ Thanks to God through Jesus Christ our Lord! So, then, with my mind I myself am a slave to God’s law, but with my flesh to sin’s law.
+
+'''
+
+xref:045-romans/045-romans-006.adoc#v45-6-0[&#60; Capítulo Anterior] | <<v45-7-0,Topo>> | xref:045-romans/045-romans-008.adoc#v45-8-0[Próximo Capítulo &#62;]

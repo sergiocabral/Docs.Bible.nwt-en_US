@@ -1,0 +1,30 @@
+include::./index.adoc[]
+
+[[v19-133-0]]
+=== Psalm, 133
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents. Of David._
+
+[[v19-133-1]]
+
+^<<v19-133-1,1>>^ Look! How good and how pleasant it is
+For brothers to dwell together in unity!
+
+[[v19-133-2]]
+
+^<<v19-133-2,2>>^ It is like fine oil poured on the head
+That runs down the beard,
+Aaron’s beard,
+And runs down onto the collar of his garments.
+
+[[v19-133-3]]
+
+^<<v19-133-3,3>>^ It is like the dew of Herʹmon
+That descends on the mountains of Zion.
+That is where Jehovah decreed his blessing
+—Life everlasting.
+
+'''
+
+xref:019-psalm/019-psalm-132.adoc#v19-132-0[&#60; Capítulo Anterior] | <<v19-133-0,Topo>> | xref:019-psalm/019-psalm-134.adoc#v19-134-0[Próximo Capítulo &#62;]

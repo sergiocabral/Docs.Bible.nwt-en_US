@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v46-3-0]]
+=== The First to the Corinthians, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v46-3-1]]
+
+^<<v46-3-1,1>>^ So, brothers, I was not able to speak to you as to spiritual men, but as to fleshly men, as to infants in Christ.
+
+[[v46-3-2]]
+
+^<<v46-3-2,2>>^ I fed you milk, not solid food, for you were not yet strong enough. In fact, neither are you strong enough now,
+
+[[v46-3-3]]
+
+^<<v46-3-3,3>>^ for you are still fleshly. Since there are jealousy and strife among you, are you not fleshly and are you not walking as men do?
+
+[[v46-3-4]]
+
+^<<v46-3-4,4>>^ For when one says, “I belong to Paul,” but another says, “I to A·polʹlos,” are you not acting like mere men?
+
+[[v46-3-5]]
+
+^<<v46-3-5,5>>^ What, then, is A·polʹlos? Yes, what is Paul? Ministers through whom you became believers, just as the Lord granted each one.
+
+[[v46-3-6]]
+
+^<<v46-3-6,6>>^ I planted, A·polʹlos watered, but God kept making it grow,
+
+[[v46-3-7]]
+
+^<<v46-3-7,7>>^ so that neither is the one who plants anything nor is the one who waters, but God who makes it grow.
+
+[[v46-3-8]]
+
+^<<v46-3-8,8>>^ Now the one who plants and the one who waters are one,^&#42;1^ but each person will receive his own reward according to his own work.
+
+[NOTE]
+====
+. Or “have one purpose.”
+====
+
+[[v46-3-9]]
+
+^<<v46-3-9,9>>^ For we are God’s fellow workers. You are God’s field under cultivation, God’s building.
+
+[[v46-3-10]]
+
+^<<v46-3-10,10>>^ According to the undeserved kindness of God that was given to me, I laid a foundation as a skilled master builder,^&#42;1^ but someone else is building on it. But let each one keep watching how he is building on it.
+
+[NOTE]
+====
+. Or “wise director of works.”
+====
+
+[[v46-3-11]]
+
+^<<v46-3-11,11>>^ For no one can lay any other foundation than what is laid, which is Jesus Christ.
+
+[[v46-3-12]]
+
+^<<v46-3-12,12>>^ Now if anyone builds on the foundation gold, silver, precious stones, wood, hay, or straw,
+
+[[v46-3-13]]
+
+^<<v46-3-13,13>>^ each one’s work will be shown for what it is,^&#42;1^ for the day will show it up, because it will be revealed by means of fire, and the fire itself will prove what sort of work each one has built.
+
+[NOTE]
+====
+. Lit., “will be made manifest.”
+====
+
+[[v46-3-14]]
+
+^<<v46-3-14,14>>^ If anyone’s work that he has built on it remains, he will receive a reward;
+
+[[v46-3-15]]
+
+^<<v46-3-15,15>>^ if anyone’s work is burned up, he will suffer loss, but he himself will be saved; yet, if so, it will be as through fire.
+
+[[v46-3-16]]
+
+^<<v46-3-16,16>>^ Do you not know that you yourselves are God’s temple and that the spirit of God dwells in you?
+
+[[v46-3-17]]
+
+^<<v46-3-17,17>>^ If anyone destroys the temple of God, God will destroy him; for the temple of God is holy, and you are that temple.
+
+[[v46-3-18]]
+
+^<<v46-3-18,18>>^ Let no one deceive himself: If anyone among you thinks he is wise in this system of things,^&#42;1^ let him become a fool, so that he may become wise.
+
+[NOTE]
+====
+. Or “this age.” See Glossary.
+====
+
+[[v46-3-19]]
+
+^<<v46-3-19,19>>^ For the wisdom of this world is foolishness with God, for it is written: “He catches the wise in their own cunning.”
+
+[[v46-3-20]]
+
+^<<v46-3-20,20>>^ And again: “Jehovah^&#42;1^ knows that the reasonings of the wise men are futile.”
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v46-3-21]]
+
+^<<v46-3-21,21>>^ So let no one boast in men; for all things belong to you,
+
+[[v46-3-22]]
+
+^<<v46-3-22,22>>^ whether Paul or A·polʹlos or Ceʹphas^&#42;1^ or the world or life or death or things now here or things to come, all things belong to you;
+
+[NOTE]
+====
+. Also called Peter.
+====
+
+[[v46-3-23]]
+
+^<<v46-3-23,23>>^ in turn you belong to Christ; Christ, in turn, belongs to God.
+
+'''
+
+xref:046-1-corinthians/046-1-corinthians-002.adoc#v46-2-0[&#60; Capítulo Anterior] | <<v46-3-0,Topo>> | xref:046-1-corinthians/046-1-corinthians-004.adoc#v46-4-0[Próximo Capítulo &#62;]

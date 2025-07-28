@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v47-13-0]]
+=== The Second to the Corinthians, 13
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v47-13-1]]
+
+^<<v47-13-1,1>>^ This is the third time I am coming to you. “On the testimony^&#42;1^ of two or three witnesses every matter must be established.”
+
+[NOTE]
+====
+. Lit., “mouth.”
+====
+
+[[v47-13-2]]
+
+^<<v47-13-2,2>>^ Although I am absent now, it is as if I were present for the second time, and I give my warning in advance to those who sinned previously and to all the rest, that if ever I come again I will not spare them,
+
+[[v47-13-3]]
+
+^<<v47-13-3,3>>^ since you are seeking proof that Christ, who is not weak toward you but strong among you, is really speaking through me.
+
+[[v47-13-4]]
+
+^<<v47-13-4,4>>^ For, indeed, he was executed on the stake because of weakness, but he is alive because of God’s power. True, we also are weak with him, but we will live together with him because of God’s power toward you.
+
+[[v47-13-5]]
+
+^<<v47-13-5,5>>^ Keep testing whether you are in the faith; keep proving what you yourselves are. Or do you not recognize that Jesus Christ is in union with you? Unless you are disapproved.
+
+[[v47-13-6]]
+
+^<<v47-13-6,6>>^ I truly hope you will recognize that we are not disapproved.
+
+[[v47-13-7]]
+
+^<<v47-13-7,7>>^ Now we pray to God that you may do nothing wrong, not that we may appear approved, but that you may do what is fine, even if we may appear disapproved.
+
+[[v47-13-8]]
+
+^<<v47-13-8,8>>^ For we can do nothing against the truth, but only for the truth.
+
+[[v47-13-9]]
+
+^<<v47-13-9,9>>^ We certainly rejoice whenever we are weak but you are powerful. And this is what we are praying for, your being readjusted.
+
+[[v47-13-10]]
+
+^<<v47-13-10,10>>^ That is why I write these things while absent, so that when I am present, I may not have to be severe in using the authority that the Lord gave me, to build up and not to tear down.
+
+[[v47-13-11]]
+
+^<<v47-13-11,11>>^ Finally, brothers, continue to rejoice, to be readjusted, to be comforted, to think in agreement, to live peaceably; and the God of love and of peace will be with you.
+
+[[v47-13-12]]
+
+^<<v47-13-12,12>>^ Greet one another with a holy kiss.
+
+[[v47-13-13]]
+
+^<<v47-13-13,13>>^ All the holy ones send you their greetings.
+
+[[v47-13-14]]
+
+^<<v47-13-14,14>>^ The undeserved kindness of the Lord Jesus Christ and the love of God and the sharing in the holy spirit be with all of you.
+
+'''
+
+xref:047-2-corinthians/047-2-corinthians-012.adoc#v47-12-0[&#60; Capítulo Anterior] | <<v47-13-0,Topo>> | xref:048-galatians/048-galatians-001.adoc#v48-1-0[Próximo Capítulo &#62;]

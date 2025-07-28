@@ -1,0 +1,205 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Nehemiah, 10
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ Those who attested it by putting their seal to it were:
+Ne·he·miʹah the governor,^&#42;1^ the son of Hac·a·liʹah,
+And Zed·e·kiʹah,
+
+[NOTE]
+====
+. Or “the Tirshatha,” a Persian title for a governor of a province.
+====
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Se·raiʹah, Az·a·riʹah, Jeremiah,
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Pashʹhur, Am·a·riʹah, Mal·chiʹjah,
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Hatʹtush, Sheb·a·niʹah, Malʹluch,
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Haʹrim, Merʹe·moth, O·ba·diʹah,
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Daniel, Ginʹne·thon, Barʹuch,
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Me·shulʹlam, A·biʹjah, Mijʹa·min,
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Ma·a·ziʹah, Bilʹgai, and She·maiʹah; these are the priests.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ Also the Levites: Jeshʹu·a the son of Az·a·niʹah, Binʹnu·i of the sons of Henʹa·dad, Kadʹmi·el,
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ and their brothers Sheb·a·niʹah, Ho·diʹah, Ke·liʹta, Pe·laʹiah, Haʹnan,
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Miʹca, Reʹhob, Hash·a·biʹah,
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Zacʹcur, She·re·biʹah, Sheb·a·niʹah,
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Ho·diʹah, Baʹni, and Be·niʹnu.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ The heads of the people: Paʹrosh, Paʹhath-moʹab, Eʹlam, Zatʹtu, Baʹni,
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Bunʹni, Azʹgad, Beʹbai,
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Ad·o·niʹjah, Bigʹvai, Aʹdin,
+
+[[v16-10-17]]
+
+^<<v16-10-17,17>>^ Aʹter, Hez·e·kiʹah, Azʹzur,
+
+[[v16-10-18]]
+
+^<<v16-10-18,18>>^ Ho·diʹah, Haʹshum, Beʹzai,
+
+[[v16-10-19]]
+
+^<<v16-10-19,19>>^ Haʹriph, Anʹa·thoth, Neʹbai,
+
+[[v16-10-20]]
+
+^<<v16-10-20,20>>^ Magʹpi·ash, Me·shulʹlam, Heʹzir,
+
+[[v16-10-21]]
+
+^<<v16-10-21,21>>^ Me·shezʹa·bel, Zaʹdok, Jadʹdu·a,
+
+[[v16-10-22]]
+
+^<<v16-10-22,22>>^ Pel·a·tiʹah, Haʹnan, A·naiʹah,
+
+[[v16-10-23]]
+
+^<<v16-10-23,23>>^ Ho·sheʹa, Han·a·niʹah, Hasʹshub,
+
+[[v16-10-24]]
+
+^<<v16-10-24,24>>^ Hal·loʹhesh, Pilʹha, Shoʹbek,
+
+[[v16-10-25]]
+
+^<<v16-10-25,25>>^ Reʹhum, Ha·shabʹnah, Ma·a·seiʹah,
+
+[[v16-10-26]]
+
+^<<v16-10-26,26>>^ A·hiʹjah, Haʹnan, Aʹnan,
+
+[[v16-10-27]]
+
+^<<v16-10-27,27>>^ Malʹluch, Haʹrim, and Baʹa·nah.
+
+[[v16-10-28]]
+
+^<<v16-10-28,28>>^ The rest of the people—the priests, the Levites, the gatekeepers, the singers, the temple servants,^&#42;1^ and everyone who separated himself from the peoples of the lands to follow the Law of the true God, along with their wives, their sons, and their daughters, all those with knowledge and understanding^&#42;2^—
+
+[NOTE]
+====
+. Or “the Nethinim.” Lit., “the given ones.”
+. Or possibly, “all those old enough to understand.”
+====
+
+[[v16-10-29]]
+
+^<<v16-10-29,29>>^ joined their brothers, their prominent men, and bound themselves with a curse and an oath, to walk in the Law of the true God, which had been given through Moses the servant of the true God, and to observe carefully all the commandments of Jehovah our Lord, his judgments, and his regulations.
+
+[[v16-10-30]]
+
+^<<v16-10-30,30>>^ We will not give our daughters to the peoples of the land, and we will not take their daughters for our sons.
+
+[[v16-10-31]]
+
+^<<v16-10-31,31>>^ If the peoples of the land bring in their wares and every kind of grain to sell on the Sabbath day, we will not buy anything from them on the Sabbath or on a holy day. We will also forgo the produce of the seventh year and every outstanding debt.
+
+[[v16-10-32]]
+
+^<<v16-10-32,32>>^ Also, we imposed the obligation on ourselves for each of us to give a third of a shekel^&#42;1^ yearly for the service of the house^&#42;2^ of our God,
+
+[NOTE]
+====
+. A shekel equaled 11.4 g (0.367 oz t). See App. B14.
+. Or “temple.”
+====
+
+[[v16-10-33]]
+
+^<<v16-10-33,33>>^ for the layer bread,^&#42;1^ the regular grain offering, the regular burnt offering of the Sabbaths and the new moons, and for the appointed feasts, for the holy things, for the sin offerings to make atonement for Israel, and for all the work of the house of our God.
+
+[NOTE]
+====
+. That is, the showbread.
+====
+
+[[v16-10-34]]
+
+^<<v16-10-34,34>>^ Also, we cast lots concerning the supply of the wood that the priests, the Levites, and the people should bring to the house of our God by our paternal houses, at the appointed times, year by year, to burn on the altar of Jehovah our God, according to what is written in the Law.
+
+[[v16-10-35]]
+
+^<<v16-10-35,35>>^ We will also bring the first ripe fruits of our land and the first ripe fruits of every sort of fruit tree, year by year, to the house of Jehovah,
+
+[[v16-10-36]]
+
+^<<v16-10-36,36>>^ as well as the firstborn of our sons and of our livestock—according to what is written in the Law—and the firstborn of our herds and of our flocks. We will bring them to the house of our God, to the priests who minister at the house of our God.
+
+[[v16-10-37]]
+
+^<<v16-10-37,37>>^ Also, the firstfruits of our coarse meal, our contributions, the fruitage of every sort of tree, new wine, and oil, we should bring to the priests to the storerooms^&#42;1^ of the house of our God, along with the tenth^&#42;2^ from our land to the Levites, for the Levites are the ones who collect the tenths in all our agricultural cities.
+
+[NOTE]
+====
+. Or “dining halls.”
+. Or “tithes.”
+====
+
+[[v16-10-38]]
+
+^<<v16-10-38,38>>^ And the priest, the son of Aaron, must be with the Levites when the Levites collect the tenth; and the Levites should offer up a tenth of the tenth to the house of our God, to the rooms^&#42;1^ of the storehouse.
+
+[NOTE]
+====
+. Or “dining halls.”
+====
+
+[[v16-10-39]]
+
+^<<v16-10-39,39>>^ For it is to the storerooms^&#42;1^ that the Israelites and the sons of the Levites should bring the contribution of the grain, the new wine, and the oil, and that is where the utensils of the sanctuary are, as well as the priests who minister, the gatekeepers, and the singers. We will not neglect the house of our God.
+
+[NOTE]
+====
+. Or “dining halls.”
+====
+
+'''
+
+xref:016-nehemiah/016-nehemiah-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-nehemiah/016-nehemiah-011.adoc#v16-11-0[Próximo Capítulo &#62;]

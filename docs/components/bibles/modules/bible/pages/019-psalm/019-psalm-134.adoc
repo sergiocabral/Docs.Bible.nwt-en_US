@@ -1,0 +1,32 @@
+include::./index.adoc[]
+
+[[v19-134-0]]
+=== Psalm, 134
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-134-1]]
+
+^<<v19-134-1,1>>^ Praise Jehovah,
+All you servants of Jehovah,
+You who stand in the house of Jehovah during the nights.
+
+[[v19-134-2]]
+
+^<<v19-134-2,2>>^ Raise your hands in holiness^&#42;1^
+And praise Jehovah.
+
+[NOTE]
+====
+. Or possibly, “in the sanctuary.”
+====
+
+[[v19-134-3]]
+
+^<<v19-134-3,3>>^ May Jehovah, the Maker of heaven and earth,
+Bless you from Zion.
+
+'''
+
+xref:019-psalm/019-psalm-133.adoc#v19-133-0[&#60; Capítulo Anterior] | <<v19-134-0,Topo>> | xref:019-psalm/019-psalm-135.adoc#v19-135-0[Próximo Capítulo &#62;]

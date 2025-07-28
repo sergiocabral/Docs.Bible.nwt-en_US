@@ -1,0 +1,261 @@
+include::./index.adoc[]
+
+[[v9-25-0]]
+=== The First of Samuel, 25
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v9-25-1]]
+
+^<<v9-25-1,1>>^ In time Samuel died; and all Israel gathered together to mourn for him and to bury him at his house in Raʹmah. Then David rose and went down to the wilderness of Paʹran.
+
+[[v9-25-2]]
+
+^<<v9-25-2,2>>^ Now there was a man in Maʹon whose work was in Carʹmel.^&#42;1^ The man was very wealthy; he had 3,000 sheep and 1,000 goats, and he was then shearing his sheep at Carʹmel.
+
+[NOTE]
+====
+. A city in Judah; not the same as Mount Carmel.
+====
+
+[[v9-25-3]]
+
+^<<v9-25-3,3>>^ The man’s name was Naʹbal, and his wife’s name was Abʹi·gail. The wife was discerning and beautiful, but the husband, a Caʹleb·ite, was harsh, and he behaved badly.
+
+[[v9-25-4]]
+
+^<<v9-25-4,4>>^ David heard in the wilderness that Naʹbal was shearing his sheep.
+
+[[v9-25-5]]
+
+^<<v9-25-5,5>>^ So David sent ten young men to him, and David told the young men: “Go up to Carʹmel, and when you come to Naʹbal, ask him in my name about his welfare.
+
+[[v9-25-6]]
+
+^<<v9-25-6,6>>^ Then say, ‘May you live long and may you be well^&#42;1^ and may your household be well and may all that you have be well.
+
+[NOTE]
+====
+. Or “may you have peace.”
+====
+
+[[v9-25-7]]
+
+^<<v9-25-7,7>>^ Now I hear that you are doing your shearing. When your shepherds were with us, we did not harm them, and they found nothing missing the whole time they were in Carʹmel.
+
+[[v9-25-8]]
+
+^<<v9-25-8,8>>^ Ask your young men, and they will tell you. May my young men find favor in your eyes, because we have come at a joyous time.^&#42;1^ Please give to your servants and to your son David whatever you can spare.’”
+
+[NOTE]
+====
+. Lit., “a good day.”
+====
+
+[[v9-25-9]]
+
+^<<v9-25-9,9>>^ So David’s young men went and told all of this to Naʹbal in David’s name. When they finished,
+
+[[v9-25-10]]
+
+^<<v9-25-10,10>>^ Naʹbal answered David’s servants: “Who is David, and who is the son of Jesʹse? Nowadays many servants are breaking away from their masters.
+
+[[v9-25-11]]
+
+^<<v9-25-11,11>>^ Do I have to take my bread and my water and the meat that I butchered for my shearers and give it to men who come from who knows where?”
+
+[[v9-25-12]]
+
+^<<v9-25-12,12>>^ At that David’s young men returned and reported all these words to him.
+
+[[v9-25-13]]
+
+^<<v9-25-13,13>>^ David immediately said to his men: “Everyone strap on your sword!” So they all strapped on their swords, and David also strapped on his own sword, and about 400 men went up with David, while 200 men stayed with the baggage.
+
+[[v9-25-14]]
+
+^<<v9-25-14,14>>^ Meanwhile, one of the servants reported to Abʹi·gail, Naʹbal’s wife: “Look! David sent messengers from the wilderness to wish our master well, but he screamed insults at them.
+
+[[v9-25-15]]
+
+^<<v9-25-15,15>>^ Those men were very good to us. They never harmed us, and we did not miss a single thing the whole time we were together with them in the fields.
+
+[[v9-25-16]]
+
+^<<v9-25-16,16>>^ They were like a protective wall around us, both by night and by day, the whole time we were with them shepherding the flock.
+
+[[v9-25-17]]
+
+^<<v9-25-17,17>>^ Now decide what you are going to do, for disaster has been determined against our master and against all his house, and he is such a worthless^&#42;1^ man that no one can speak to him.”
+
+[NOTE]
+====
+. Or “good-for-nothing.”
+====
+
+[[v9-25-18]]
+
+^<<v9-25-18,18>>^ So Abʹi·gail quickly took 200 loaves of bread, two large jars of wine, five dressed sheep, five seah measures^&#42;1^ of roasted grain, 100 cakes of raisins, and 200 cakes of pressed figs and put all of it on the donkeys.
+
+[NOTE]
+====
+. A seah equaled 7.33 L (6.66 dry qt). See App. B14.
+====
+
+[[v9-25-19]]
+
+^<<v9-25-19,19>>^ Then she said to her servants: “Go on ahead of me; I will follow you.” But she said nothing to her husband Naʹbal.
+
+[[v9-25-20]]
+
+^<<v9-25-20,20>>^ While she was riding on the donkey and going down under cover of the mountain, just then David and his men were coming down toward her, and she met them.
+
+[[v9-25-21]]
+
+^<<v9-25-21,21>>^ Now David had been saying: “It was for nothing that I guarded everything that belongs to this fellow in the wilderness. Not a single thing belonging to him went missing, and yet he repays me evil for good.
+
+[[v9-25-22]]
+
+^<<v9-25-22,22>>^ May God do the same and more to the enemies of David^&#42;1^ if I allow a single male^&#42;2^ of his to survive until the morning.”
+
+[NOTE]
+====
+. Or possibly, “to David.”
+. Lit., “anyone urinating against a wall.” A Hebrew expression of contempt referring to males.
+====
+
+[[v9-25-23]]
+
+^<<v9-25-23,23>>^ When Abʹi·gail caught sight of David, she hurried down off the donkey and threw herself facedown before David, bowing to the ground.
+
+[[v9-25-24]]
+
+^<<v9-25-24,24>>^ She then fell at his feet and said: “My lord, let the blame be on me; let your servant girl speak to you, and listen to the words of your servant girl.
+
+[[v9-25-25]]
+
+^<<v9-25-25,25>>^ Please, do not let my lord pay attention to this worthless Naʹbal, for he is just like his name. Naʹbal^&#42;1^ is his name, and senselessness is with him. But I, your servant girl, did not see my lord’s young men whom you sent.
+
+[NOTE]
+====
+. Meaning “Senseless; Stupid.”
+====
+
+[[v9-25-26]]
+
+^<<v9-25-26,26>>^ And now, my lord, as surely as Jehovah is living and as you are^&#42;1^ living, it is Jehovah who has held you back from incurring bloodguilt and from taking revenge^&#42;2^ with your own hand. May your enemies and those seeking injury to my lord become like Naʹbal.
+
+[NOTE]
+====
+. Or “your soul is.”
+. Or “bringing salvation.”
+====
+
+[[v9-25-27]]
+
+^<<v9-25-27,27>>^ Now let this gift^&#42;1^ that your servant girl has brought to my lord be given to the young men who are following my lord.
+
+[NOTE]
+====
+. Lit., “blessing.”
+====
+
+[[v9-25-28]]
+
+^<<v9-25-28,28>>^ Pardon, please, the transgression of your servant girl, for Jehovah will without fail make for my lord a lasting house, because my lord is fighting the wars of Jehovah, and no evil has been found in you all your days.
+
+[[v9-25-29]]
+
+^<<v9-25-29,29>>^ When someone rises up to pursue you and seeks your life,^&#42;1^ the life^&#42;2^ of my lord will be wrapped securely in the bag of life with Jehovah your God, but the lives^&#42;3^ of your enemies he will hurl away like stones from a sling.^&#42;4^
+
+[NOTE]
+====
+. Or “soul.”
+. Or “soul.”
+. Or “souls.”
+. Or “as from the hollow of a sling.”
+====
+
+[[v9-25-30]]
+
+^<<v9-25-30,30>>^ And when Jehovah has done for my lord all the good things he has promised and he appoints you as leader over Israel,
+
+[[v9-25-31]]
+
+^<<v9-25-31,31>>^ you will have no remorse or regret^&#42;1^ in your heart for shedding blood without cause and for letting the hand of my lord take revenge.^&#42;2^ When Jehovah confers good upon my lord, remember your servant girl.”
+
+[NOTE]
+====
+. Lit., “staggering or stumbling.”
+. Or “bring salvation.”
+====
+
+[[v9-25-32]]
+
+^<<v9-25-32,32>>^ At this David said to Abʹi·gail: “Praise Jehovah the God of Israel, who sent you this day to meet me!
+
+[[v9-25-33]]
+
+^<<v9-25-33,33>>^ And blessed be your good sense! May you be blessed for restraining me this day from incurring bloodguilt and from taking revenge^&#42;1^ with my own hands.
+
+[NOTE]
+====
+. Or “bringing salvation.”
+====
+
+[[v9-25-34]]
+
+^<<v9-25-34,34>>^ Otherwise, as surely as Jehovah the God of Israel who held me back from harming you is living, if you had not come quickly to meet me, by morning there would not have remained a single male^&#42;1^ belonging to Naʹbal.”
+
+[NOTE]
+====
+. Lit., “anyone urinating against a wall.” A Hebrew expression of contempt referring to males.
+====
+
+[[v9-25-35]]
+
+^<<v9-25-35,35>>^ With that David accepted from her what she had brought him and said to her: “Go up in peace to your house. See, I have listened to you, and I will grant your request.”
+
+[[v9-25-36]]
+
+^<<v9-25-36,36>>^ Abʹi·gail later went back to Naʹbal, who was feasting like a king in his house, and Naʹbal^&#42;1^ was in a good mood and was as drunk as could be. She did not tell him a single thing until the morning light.
+
+[NOTE]
+====
+. Lit., “Nabal’s heart.”
+====
+
+[[v9-25-37]]
+
+^<<v9-25-37,37>>^ In the morning, when Naʹbal was sober, his wife told him these things. And his heart became like a dead man’s, and he lay paralyzed like a stone.
+
+[[v9-25-38]]
+
+^<<v9-25-38,38>>^ About ten days later, Jehovah struck Naʹbal, and he died.
+
+[[v9-25-39]]
+
+^<<v9-25-39,39>>^ When David heard that Naʹbal had died, he said: “Praise Jehovah, who has pleaded my case of reproach from Naʹbal and has kept his servant from doing anything bad, and Jehovah has brought the badness of Naʹbal back on his own head!” Then David sent word to propose to Abʹi·gail to take her as his wife.
+
+[[v9-25-40]]
+
+^<<v9-25-40,40>>^ So David’s servants came to Abʹi·gail at Carʹmel and said to her: “David has sent us to you to take you as his wife.”
+
+[[v9-25-41]]
+
+^<<v9-25-41,41>>^ She immediately rose up and bowed with her face to the ground and said: “Here is your slave as a servant to wash the feet of the servants of my lord.”
+
+[[v9-25-42]]
+
+^<<v9-25-42,42>>^ Then Abʹi·gail quickly rose up and rode on her donkey with five of her female servants walking behind her; she accompanied the messengers of David and became his wife.
+
+[[v9-25-43]]
+
+^<<v9-25-43,43>>^ David had also married A·hinʹo·am from Jezʹre·el, and both women became his wives.
+
+[[v9-25-44]]
+
+^<<v9-25-44,44>>^ But Saul had given his daughter Miʹchal, David’s wife, to Palʹti the son of Laʹish, who was from Galʹlim.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-024.adoc#v9-24-0[&#60; Capítulo Anterior] | <<v9-25-0,Topo>> | xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[Próximo Capítulo &#62;]

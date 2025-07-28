@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v59-1-0]]
+=== The Letter of James, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v59-1-1]]
+
+^<<v59-1-1,1>>^ James, a slave of God and of the Lord Jesus Christ, to the 12 tribes that are scattered about:
+Greetings!
+
+[[v59-1-2]]
+
+^<<v59-1-2,2>>^ Consider it all joy, my brothers, when you meet with various trials,
+
+[[v59-1-3]]
+
+^<<v59-1-3,3>>^ knowing as you do that this tested quality of your faith produces endurance.
+
+[[v59-1-4]]
+
+^<<v59-1-4,4>>^ But let endurance complete its work, so that you may be complete and sound in all respects, not lacking in anything.
+
+[[v59-1-5]]
+
+^<<v59-1-5,5>>^ So if any one of you is lacking in wisdom, let him keep asking God, for he gives generously to all and without reproaching,^&#42;1^ and it will be given him.
+
+[NOTE]
+====
+. Or “finding fault.”
+====
+
+[[v59-1-6]]
+
+^<<v59-1-6,6>>^ But let him keep asking in faith, not doubting at all, for the one who doubts is like a wave of the sea driven by the wind and blown about.
+
+[[v59-1-7]]
+
+^<<v59-1-7,7>>^ In fact, that man should not expect to receive anything from Jehovah;^&#42;1^
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v59-1-8]]
+
+^<<v59-1-8,8>>^ he is an indecisive man, unsteady in all his ways.
+
+[[v59-1-9]]
+
+^<<v59-1-9,9>>^ But let the lowly brother rejoice^&#42;1^ over his exaltation,
+
+[NOTE]
+====
+. Lit., “boast.”
+====
+
+[[v59-1-10]]
+
+^<<v59-1-10,10>>^ and the rich one over his humiliation, because like a flower of the field he will pass away.
+
+[[v59-1-11]]
+
+^<<v59-1-11,11>>^ For just as the sun rises with its scorching heat and withers the plant, and its flower falls off and its outward beauty perishes, so too the rich man will fade away in the midst of his pursuits.
+
+[[v59-1-12]]
+
+^<<v59-1-12,12>>^ Happy is the man who keeps on enduring trial, because on becoming approved he will receive the crown of life, which Jehovah^&#42;1^ promised to those who continue loving Him.
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v59-1-13]]
+
+^<<v59-1-13,13>>^ When under trial, let no one say: “I am being tried by God.” For with evil things God cannot be tried, nor does he himself try anyone.
+
+[[v59-1-14]]
+
+^<<v59-1-14,14>>^ But each one is tried by being drawn out and enticed^&#42;1^ by his own desire.
+
+[NOTE]
+====
+. Or “caught as by bait.”
+====
+
+[[v59-1-15]]
+
+^<<v59-1-15,15>>^ Then the desire, when it has become fertile,^&#42;1^ gives birth to sin; in turn sin, when it has been carried out, brings forth death.
+
+[NOTE]
+====
+. Lit., “has conceived.”
+====
+
+[[v59-1-16]]
+
+^<<v59-1-16,16>>^ Do not be misled, my beloved brothers.
+
+[[v59-1-17]]
+
+^<<v59-1-17,17>>^ Every good gift and every perfect present is from above, coming down from the Father of the celestial lights, who does not vary or change like the shifting shadows.^&#42;1^
+
+[NOTE]
+====
+. Or “with whom there is not a variation of the turning of the shadow.”
+====
+
+[[v59-1-18]]
+
+^<<v59-1-18,18>>^ It was his will to bring us forth by the word of truth, so that we would become a kind of firstfruits of his creatures.
+
+[[v59-1-19]]
+
+^<<v59-1-19,19>>^ Know this, my beloved brothers: Everyone must be quick to listen, slow to speak, slow to anger,
+
+[[v59-1-20]]
+
+^<<v59-1-20,20>>^ for man’s anger does not bring about God’s righteousness.
+
+[[v59-1-21]]
+
+^<<v59-1-21,21>>^ Therefore, put away all filthiness and every trace of badness,^&#42;1^ and accept with mildness the implanting of the word that is able to save you.^&#42;2^
+
+[NOTE]
+====
+. Or possibly, “and the abundance of badness.”
+. Or “your souls.”
+====
+
+[[v59-1-22]]
+
+^<<v59-1-22,22>>^ However, become doers of the word and not hearers only, deceiving yourselves with false reasoning.
+
+[[v59-1-23]]
+
+^<<v59-1-23,23>>^ For if anyone is a hearer of the word and not a doer, this one is like a man looking at his own face^&#42;1^ in a mirror.
+
+[NOTE]
+====
+. Or “his natural face.”
+====
+
+[[v59-1-24]]
+
+^<<v59-1-24,24>>^ For he looks at himself, and he goes away and immediately forgets what sort of person he is.
+
+[[v59-1-25]]
+
+^<<v59-1-25,25>>^ But the one who peers into the perfect law that belongs to freedom and continues in it has become, not a forgetful hearer, but a doer of the work; and he will be happy in what he does.
+
+[[v59-1-26]]
+
+^<<v59-1-26,26>>^ If any man thinks he is a worshipper of God^&#42;1^ but does not keep a tight rein on^&#42;2^ his tongue, he is deceiving his own heart, and his worship is futile.
+
+[NOTE]
+====
+. Or “is religious.”
+. Or “does not bridle.”
+====
+
+[[v59-1-27]]
+
+^<<v59-1-27,27>>^ The form of worship^&#42;1^ that is clean and undefiled from the standpoint of our God and Father is this: to look after orphans and widows in their tribulation, and to keep oneself without spot from the world.
+
+[NOTE]
+====
+. Or “The religion.”
+====
+
+'''
+
+xref:058-hebrews/058-hebrews-013.adoc#v58-13-0[&#60; Capítulo Anterior] | <<v59-1-0,Topo>> | xref:059-james/059-james-002.adoc#v59-2-0[Próximo Capítulo &#62;]

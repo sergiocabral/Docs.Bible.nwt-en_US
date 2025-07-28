@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v23-11-0]]
+=== Isaiah, 11
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-11-1]]
+
+^<<v23-11-1,1>>^ A twig will grow out of the stump of Jesʹse,
+And a sprout from his roots will bear fruit.
+
+[[v23-11-2]]
+
+^<<v23-11-2,2>>^ And the spirit of Jehovah will settle upon him,
+The spirit of wisdom and of understanding,
+The spirit of counsel and of mightiness,
+The spirit of knowledge and of the fear of Jehovah.
+
+[[v23-11-3]]
+
+^<<v23-11-3,3>>^ And he will find delight in the fear of Jehovah.
+He will not judge by what appears to his eyes,
+Nor reprove simply according to what his ears hear.
+
+[[v23-11-4]]
+
+^<<v23-11-4,4>>^ He will judge the lowly with fairness,^&#42;1^
+And with uprightness he will give reproof in behalf of the meek ones of the earth.
+He will strike the earth with the rod of his mouth
+And put the wicked to death with the breath^&#42;2^ of his lips.
+
+[NOTE]
+====
+. Or “righteousness.”
+. Or “spirit.”
+====
+
+[[v23-11-5]]
+
+^<<v23-11-5,5>>^ Righteousness will be the belt around his waist,
+And faithfulness the belt of his hips.
+
+[[v23-11-6]]
+
+^<<v23-11-6,6>>^ The wolf will reside for a while with the lamb,
+And with the young goat the leopard will lie down,
+And the calf and the lion^&#42;1^ and the fattened animal will all be together;^&#42;2^
+And a little boy will lead them.
+
+[NOTE]
+====
+. Or “the maned young lion.”
+. Or possibly, “And the calf and the lion will feed together.”
+====
+
+[[v23-11-7]]
+
+^<<v23-11-7,7>>^ The cow and the bear will feed together,
+And their young will lie down together.
+The lion will eat straw like the bull.
+
+[[v23-11-8]]
+
+^<<v23-11-8,8>>^ The nursing child will play over the lair of a cobra,
+And a weaned child will put his hand over the den of a poisonous snake.
+
+[[v23-11-9]]
+
+^<<v23-11-9,9>>^ They will not cause any harm
+Or any ruin in all my holy mountain,
+Because the earth will certainly be filled with the knowledge of Jehovah
+As the waters cover the sea.
+
+[[v23-11-10]]
+
+^<<v23-11-10,10>>^ In that day the root of Jesʹse will stand up as a signal^&#42;1^ for the peoples.
+To him the nations will turn for guidance,^&#42;2^
+And his resting-place will become glorious.
+
+[NOTE]
+====
+. Or “signal pole.”
+. Or “The nations will search for him.”
+====
+
+[[v23-11-11]]
+
+^<<v23-11-11,11>>^ In that day Jehovah will again offer his hand, a second time, to reclaim the remnant of his people who are left from As·syrʹi·a, from Egypt, from Pathʹros, from Cush, from Eʹlam, from Shiʹnar,^&#42;1^ from Haʹmath, and from the islands of the sea.
+
+[NOTE]
+====
+. That is, Babylonia.
+====
+
+[[v23-11-12]]
+
+^<<v23-11-12,12>>^ He will raise up a signal^&#42;1^ for the nations and gather the dispersed ones of Israel, and he will gather together the scattered ones of Judah from the four corners of the earth.
+
+[NOTE]
+====
+. Or “signal pole.”
+====
+
+[[v23-11-13]]
+
+^<<v23-11-13,13>>^ The jealousy of Eʹphra·im will be gone,
+And those who show hostility to Judah will be done away with.
+Eʹphra·im will not be jealous of Judah,
+Nor will Judah show hostility toward Eʹphra·im.
+
+[[v23-11-14]]
+
+^<<v23-11-14,14>>^ And they will swoop down on the slopes^&#42;1^ of the Phi·lisʹtines to the west;
+Together they will plunder the people of the East.
+They will thrust out their hand against^&#42;2^ Eʹdom and Moʹab,
+And the Amʹmon·ites will become their subjects.
+
+[NOTE]
+====
+. Lit., “shoulder.”
+. Or “extend their power over.”
+====
+
+[[v23-11-15]]
+
+^<<v23-11-15,15>>^ Jehovah will divide^&#42;1^ the gulf^&#42;2^ of the Egyptian sea
+And wave his hand over the River.^&#42;3^
+With his scorching breath^&#42;4^ he will strike it in its^&#42;5^ seven torrents,
+And he will cause people to walk across in their sandals.
+
+[NOTE]
+====
+. Or possibly, “dry up.”
+. Lit., “tongue.”
+. That is, the Euphrates.
+. Or “spirit.”
+. Or possibly, “strike it into.”
+====
+
+[[v23-11-16]]
+
+^<<v23-11-16,16>>^ And there will be a highway out of As·syrʹi·a for the remnant of his people who are left,
+As there was for Israel in the day he came out of the land of Egypt.
+
+'''
+
+xref:023-isaiah/023-isaiah-010.adoc#v23-10-0[&#60; Capítulo Anterior] | <<v23-11-0,Topo>> | xref:023-isaiah/023-isaiah-012.adoc#v23-12-0[Próximo Capítulo &#62;]

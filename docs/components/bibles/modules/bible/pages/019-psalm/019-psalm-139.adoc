@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Psalm, 139
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_For the director. Of David. A melody._
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ O Jehovah, you have searched through me, and you know me.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ You know when I sit down and when I rise up.
+You discern my thoughts from afar.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ You observe^&#42;1^ me when I travel and when I lie down;
+You are familiar with all my ways.
+
+[NOTE]
+====
+. Lit., “measure.”
+====
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ There is not a word on my tongue,
+But look! O Jehovah, you already know it well.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Behind and before me, you surround me;
+And you lay your hand upon me.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ Such knowledge is beyond my comprehension.^&#42;1^
+It is too high for me to reach.^&#42;2^
+
+[NOTE]
+====
+. Or “is too amazing for me.”
+. Or “too much for me to fathom.”
+====
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Where can I escape from your spirit,
+And where can I run away from your face?
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ If I were to ascend to heaven, you would be there,
+And if I were to make my bed in the Grave,^&#42;1^ look! you would be there.
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ If I would fly away with the wings of the dawn
+To reside by the most remote sea,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ Even there your hand would lead me
+And your right hand would take hold of me.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ If I say: “Surely darkness will conceal me!”
+Then the night around me would become light.
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ Even the darkness would not be too dark for you,
+But night would be as bright as the day;
+Darkness is the same as light to you.
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ For you produced my kidneys;
+You kept me screened off^&#42;1^ in my mother’s womb.
+
+[NOTE]
+====
+. Or possibly, “wove me together.”
+====
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ I praise you because in an awe-inspiring way I am wonderfully made.
+Your works are wonderful,
+I know^&#42;1^ this very well.
+
+[NOTE]
+====
+. Or “My soul knows.”
+====
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ My bones were not hidden from you
+When I was made in secret,
+When I was woven in the depths of the earth.
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Your eyes even saw me as an embryo;
+All its parts were written in your book
+Regarding the days when they were formed,
+Before any of them existed.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ So to me, how precious your thoughts are!
+O God, how vast is the sum of them!
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ If I try to count them, they outnumber the grains of sand.
+When I awake, I am still with you.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “I would still be counting them.”
+====
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ O God, if only you would slay the wicked!
+Then the violent^&#42;1^ men would depart from me,
+
+[NOTE]
+====
+. Or “bloodguilty.”
+====
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Those who say things against you with evil intent;^&#42;1^
+They are your adversaries who take up your name in a worthless way.
+
+[NOTE]
+====
+. Or “according to their idea.”
+====
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Do I not hate those who hate you, O Jehovah,
+And loathe those who revolt against you?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ I have nothing but hatred for them;
+They have become real enemies to me.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Search through me, O God, and know my heart.
+Examine me, and know my anxious^&#42;1^ thoughts.
+
+[NOTE]
+====
+. Or “disquieting.”
+====
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ See whether there is in me any harmful way,
+And lead me in the way of eternity.
+
+'''
+
+xref:019-psalm/019-psalm-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-psalm/019-psalm-140.adoc#v19-140-0[Próximo Capítulo &#62;]

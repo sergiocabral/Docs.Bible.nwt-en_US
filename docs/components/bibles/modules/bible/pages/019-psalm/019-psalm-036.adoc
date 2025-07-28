@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v19-36-0]]
+=== Psalm, 36
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of Jehovah’s servant, David._
+
+[[v19-36-1]]
+
+^<<v19-36-1,1>>^ Transgression speaks to the wicked one deep within his heart;
+There is no fear of God before his eyes.
+
+[[v19-36-2]]
+
+^<<v19-36-2,2>>^ For in his own eyes he flatters himself too much
+To detect and hate his error.
+
+[[v19-36-3]]
+
+^<<v19-36-3,3>>^ The words of his mouth are hurtful and deceptive;
+He shows no insight for doing what is good.
+
+[[v19-36-4]]
+
+^<<v19-36-4,4>>^ He plots hurtful schemes even on his bed.
+He is set on a path that is not good;
+He does not reject what is bad.
+
+[[v19-36-5]]
+
+^<<v19-36-5,5>>^ O Jehovah, your loyal love reaches to the heavens,
+Your faithfulness up to the clouds.
+
+[[v19-36-6]]
+
+^<<v19-36-6,6>>^ Your righteousness is like majestic mountains;^&#42;1^
+Your judgments are like vast, deep waters.
+Man and beast you preserve,^&#42;2^ O Jehovah.
+
+[NOTE]
+====
+. Lit., “like mountains of God.”
+. Or “save.”
+====
+
+[[v19-36-7]]
+
+^<<v19-36-7,7>>^ How precious your loyal love is, O God!
+In the shadow of your wings, the sons of men take refuge.
+
+[[v19-36-8]]
+
+^<<v19-36-8,8>>^ They drink their fill of the rich bounty^&#42;1^ of your house,
+And you cause them to drink of the torrent of your delights.
+
+[NOTE]
+====
+. Lit., “the fatness.”
+====
+
+[[v19-36-9]]
+
+^<<v19-36-9,9>>^ With you is the source of life;
+By your light we can see light.
+
+[[v19-36-10]]
+
+^<<v19-36-10,10>>^ Continue showing your loyal love to those who know you,
+And your righteousness, to the upright in heart.
+
+[[v19-36-11]]
+
+^<<v19-36-11,11>>^ Do not let the foot of the haughty tread on me
+Or the hand of the wicked drive me away.
+
+[[v19-36-12]]
+
+^<<v19-36-12,12>>^ There the wrongdoers have fallen;
+They have been knocked down and cannot get up.
+
+'''
+
+xref:019-psalm/019-psalm-035.adoc#v19-35-0[&#60; Capítulo Anterior] | <<v19-36-0,Topo>> | xref:019-psalm/019-psalm-037.adoc#v19-37-0[Próximo Capítulo &#62;]

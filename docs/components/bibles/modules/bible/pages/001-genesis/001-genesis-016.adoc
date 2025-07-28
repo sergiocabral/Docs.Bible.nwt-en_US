@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Genesis, 16
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ Now Aʹbram’s wife Sarʹai had borne him no children, but she had an Egyptian servant whose name was Haʹgar.
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ So Sarʹai said to Aʹbram: “Please now! Jehovah has prevented me from bearing children. Please, have relations with my servant. Perhaps I can have children by means of her.” So Aʹbram listened to what Sarʹai said.
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ After Aʹbram had lived for ten years in the land of Caʹnaan, Aʹbram’s wife Sarʹai took her Egyptian servant Haʹgar and gave her to her husband Aʹbram as his wife.
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ So he had relations with Haʹgar, and she became pregnant. When she realized that she was pregnant, she began to despise her mistress.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ At this Sarʹai said to Aʹbram: “The injury done to me is your fault. I was the one who put my servant in your arms,^&#42;1^ but when she realized that she was pregnant, she began to despise me. May Jehovah judge between me and you.”
+
+[NOTE]
+====
+. Lit., “in your bosom.”
+====
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ So Aʹbram said to Sarʹai: “Look! Your servant is under your authority. Do to her whatever you think is best.” Then Sarʹai humiliated her, and she ran away from her.
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ Later Jehovah’s angel found her at a spring of waters in the wilderness, the spring on the way to Shur.
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ And he said: “Haʹgar, servant of Sarʹai, where have you come from and where are you going?” To this she said: “I am running away from my mistress Sarʹai.”
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ Jehovah’s angel then said to her: “Return to your mistress and humble yourself under her hand.”
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ Then Jehovah’s angel said: “I will greatly multiply your offspring,^&#42;1^ so that they will be too numerous to count.”
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ Jehovah’s angel added: “Here you are pregnant, and you will give birth to a son, and you must name him Ishʹma·el,^&#42;1^ for Jehovah has heard your affliction.
+
+[NOTE]
+====
+. Meaning “God Hears.”
+====
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ He will be a wild donkey^&#42;1^ of a man. His hand will be against everyone, and everyone’s hand will be against him, and he will dwell opposite all his brothers.”^&#42;2^
+
+[NOTE]
+====
+. Or “an onager,” a kind of wild donkey, though some think that it refers to a zebra. Likely a reference to an independent disposition.
+. Or possibly, “and he will live in hostility to all his brothers.”
+====
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ Then she called on the name of Jehovah, who was speaking to her: “You are a God of sight,” for she said: “Have I here actually looked upon the one who sees me?”
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ That is why the well was called Beʹer-laʹhai-roi.^&#42;1^ (It is between Kaʹdesh and Beʹred.)
+
+[NOTE]
+====
+. Meaning “Well of the Living One Who Sees Me.”
+====
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ So Haʹgar bore to Aʹbram a son, and Aʹbram named his son, whom Haʹgar bore, Ishʹma·el.
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ Aʹbram was 86 years old when Haʹgar bore Ishʹma·el to him.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

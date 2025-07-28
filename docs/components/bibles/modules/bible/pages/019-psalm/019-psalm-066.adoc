@@ -1,0 +1,142 @@
+include::./index.adoc[]
+
+[[v19-66-0]]
+=== Psalm, 66
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. A song. A melody._
+
+[[v19-66-1]]
+
+^<<v19-66-1,1>>^ Shout in triumph to God, all the earth.
+
+[[v19-66-2]]
+
+^<<v19-66-2,2>>^ Sing praises^&#42;1^ to his glorious name.
+Make his praise glorious.
+
+[NOTE]
+====
+. Or “Make music.”
+====
+
+[[v19-66-3]]
+
+^<<v19-66-3,3>>^ Say to God: “How awe-inspiring your works are!
+Because of your great power,
+Your enemies will cringe before you.
+
+[[v19-66-4]]
+
+^<<v19-66-4,4>>^ All the earth will bow down to you;
+They will sing praises to you;
+They will sing praises to your name.” (Selah)
+
+[[v19-66-5]]
+
+^<<v19-66-5,5>>^ Come and see the works of God.
+His deeds toward the sons of men are awe-inspiring.
+
+[[v19-66-6]]
+
+^<<v19-66-6,6>>^ He changed the sea into dry land;
+They crossed the river on foot.
+There we rejoiced in him.
+
+[[v19-66-7]]
+
+^<<v19-66-7,7>>^ He rules forever by his might.
+His eyes keep watch on the nations.
+Those who are stubborn should not exalt themselves. (Selah)
+
+[[v19-66-8]]
+
+^<<v19-66-8,8>>^ Praise our God, you peoples,
+And let the sound of his praise be heard.
+
+[[v19-66-9]]
+
+^<<v19-66-9,9>>^ He preserves us alive;^&#42;1^
+He does not allow our feet to stumble.^&#42;2^
+
+[NOTE]
+====
+. Or “sets our soul in life.”
+. Or “stagger; totter.”
+====
+
+[[v19-66-10]]
+
+^<<v19-66-10,10>>^ For you have examined us, O God;
+As silver is refined, so you have refined us.
+
+[[v19-66-11]]
+
+^<<v19-66-11,11>>^ You brought us into a hunting net;
+You put a crushing burden upon us.^&#42;1^
+
+[NOTE]
+====
+. Lit., “on our hips.”
+====
+
+[[v19-66-12]]
+
+^<<v19-66-12,12>>^ You allowed mortal man to ride over us;^&#42;1^
+We came through fire and through water;
+Then you brought us to a place of relief.
+
+[NOTE]
+====
+. Lit., “our head.”
+====
+
+[[v19-66-13]]
+
+^<<v19-66-13,13>>^ I will come into your house with whole burnt offerings;
+I will pay my vows to you
+
+[[v19-66-14]]
+
+^<<v19-66-14,14>>^ That my lips promised
+And my mouth spoke when I was in distress.
+
+[[v19-66-15]]
+
+^<<v19-66-15,15>>^ I will offer burnt offerings of fattened animals to you
+With the smoke of sacrificial rams.
+I will offer bulls along with male goats. (Selah)
+
+[[v19-66-16]]
+
+^<<v19-66-16,16>>^ Come and listen, all you who fear God,
+And I will tell you what he has done for me.^&#42;1^
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-66-17]]
+
+^<<v19-66-17,17>>^ I called to him with my mouth
+And glorified him with my tongue.
+
+[[v19-66-18]]
+
+^<<v19-66-18,18>>^ If I had harbored anything hurtful in my heart,
+Jehovah would not have heard me.
+
+[[v19-66-19]]
+
+^<<v19-66-19,19>>^ But God did hear;
+He paid attention to my prayer.
+
+[[v19-66-20]]
+
+^<<v19-66-20,20>>^ Praise to God, who did not reject my prayer
+Or withhold his loyal love from me.
+
+'''
+
+xref:019-psalm/019-psalm-065.adoc#v19-65-0[&#60; Capítulo Anterior] | <<v19-66-0,Topo>> | xref:019-psalm/019-psalm-067.adoc#v19-67-0[Próximo Capítulo &#62;]

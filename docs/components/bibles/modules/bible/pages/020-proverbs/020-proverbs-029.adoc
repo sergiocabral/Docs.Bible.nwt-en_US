@@ -1,0 +1,199 @@
+include::./index.adoc[]
+
+[[v20-29-0]]
+=== Proverbs, 29
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-29-1]]
+
+^<<v20-29-1,1>>^ A man who stiffens his neck^&#42;1^ after much reproof
+Will suddenly be broken beyond healing.
+
+[NOTE]
+====
+. Or “who remains stubborn.”
+====
+
+[[v20-29-2]]
+
+^<<v20-29-2,2>>^ When the righteous are many, the people rejoice,
+But when the wicked one rules, the people groan.
+
+[[v20-29-3]]
+
+^<<v20-29-3,3>>^ A man who loves wisdom makes his father rejoice,
+But the one who keeps company with prostitutes squanders his wealth.
+
+[[v20-29-4]]
+
+^<<v20-29-4,4>>^ By justice a king brings stability to a land,
+But a man seeking bribes brings it to ruin.
+
+[[v20-29-5]]
+
+^<<v20-29-5,5>>^ A man who flatters his neighbor
+Spreads out a net for his feet.
+
+[[v20-29-6]]
+
+^<<v20-29-6,6>>^ A bad man’s transgression ensnares him,
+But the righteous one cries out joyfully and rejoices.
+
+[[v20-29-7]]
+
+^<<v20-29-7,7>>^ The righteous one is concerned about the legal rights of the poor,
+But the wicked one has no such concern.
+
+[[v20-29-8]]
+
+^<<v20-29-8,8>>^ Boastful men inflame a town,
+But those who are wise turn away anger.
+
+[[v20-29-9]]
+
+^<<v20-29-9,9>>^ When a wise man enters into a controversy with a fool,
+There will be ranting and ridicule, but no satisfaction.
+
+[[v20-29-10]]
+
+^<<v20-29-10,10>>^ Bloodthirsty men hate anyone innocent,^&#42;1^
+And they seek to take the life^&#42;2^ of the upright.^&#42;3^
+
+[NOTE]
+====
+. Or “blameless.”
+. Or “soul.”
+. Or possibly, “But the upright seeks to protect his life.”
+====
+
+[[v20-29-11]]
+
+^<<v20-29-11,11>>^ A stupid person gives vent to all his feelings,^&#42;1^
+But the wise one calmly keeps them in check.
+
+[NOTE]
+====
+. Lit., “spirit.”
+====
+
+[[v20-29-12]]
+
+^<<v20-29-12,12>>^ When a ruler pays attention to lies,
+All his servants will be wicked.
+
+[[v20-29-13]]
+
+^<<v20-29-13,13>>^ The poor man and the oppressor have this in common:^&#42;1^
+Jehovah gives light to the eyes of both.^&#42;2^
+
+[NOTE]
+====
+. Lit., “meet together.”
+. That is, He gives them life.
+====
+
+[[v20-29-14]]
+
+^<<v20-29-14,14>>^ When a king judges the poor fairly,
+His throne will always be secure.
+
+[[v20-29-15]]
+
+^<<v20-29-15,15>>^ The rod^&#42;1^ and reproof impart wisdom,
+But a child left unrestrained brings shame on his mother.
+
+[NOTE]
+====
+. Or “discipline; punishment.”
+====
+
+[[v20-29-16]]
+
+^<<v20-29-16,16>>^ When the wicked increase, transgression increases,
+But the righteous will see their downfall.
+
+[[v20-29-17]]
+
+^<<v20-29-17,17>>^ Discipline your son and he will bring you rest;
+And he will give you^&#42;1^ great pleasure.
+
+[NOTE]
+====
+. Or “your soul.”
+====
+
+[[v20-29-18]]
+
+^<<v20-29-18,18>>^ Where there is no vision,^&#42;1^ the people go unrestrained,
+But happy are those who observe the law.
+
+[NOTE]
+====
+. Or “prophetic vision; revelation.”
+====
+
+[[v20-29-19]]
+
+^<<v20-29-19,19>>^ A servant will not let himself be corrected by words,
+For though he understands, he does not obey.
+
+[[v20-29-20]]
+
+^<<v20-29-20,20>>^ Have you seen a man hasty with his words?
+There is more hope for a fool than for him.
+
+[[v20-29-21]]
+
+^<<v20-29-21,21>>^ If a servant is pampered from his youth,
+He will become thankless later on.
+
+[[v20-29-22]]
+
+^<<v20-29-22,22>>^ A man prone to anger stirs up strife;
+Anyone disposed to rage commits many transgressions.
+
+[[v20-29-23]]
+
+^<<v20-29-23,23>>^ The haughtiness of a man will humble him,
+But whoever is humble in spirit will obtain glory.
+
+[[v20-29-24]]
+
+^<<v20-29-24,24>>^ The partner of a thief hates himself.^&#42;1^
+He may hear the call to testify,^&#42;2^ but he reports nothing.
+
+[NOTE]
+====
+. Or “his own soul.”
+. Or “an oath involving a curse.”
+====
+
+[[v20-29-25]]
+
+^<<v20-29-25,25>>^ Trembling at^&#42;1^ men is^&#42;2^ a snare,
+But the one trusting in Jehovah will be protected.
+
+[NOTE]
+====
+. Or “Fear of.”
+. Or “lays.”
+====
+
+[[v20-29-26]]
+
+^<<v20-29-26,26>>^ Many seek an audience with^&#42;1^ a ruler,
+But it is from Jehovah that a man gets justice.
+
+[NOTE]
+====
+. Or possibly, “seek the favor of.” Lit., “seek the face of.”
+====
+
+[[v20-29-27]]
+
+^<<v20-29-27,27>>^ An unjust man is detestable to the righteous,
+But the one whose way is upright is detestable to the wicked one.
+
+'''
+
+xref:020-proverbs/020-proverbs-028.adoc#v20-28-0[&#60; Capítulo Anterior] | <<v20-29-0,Topo>> | xref:020-proverbs/020-proverbs-030.adoc#v20-30-0[Próximo Capítulo &#62;]

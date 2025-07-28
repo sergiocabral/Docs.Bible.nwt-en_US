@@ -1,0 +1,136 @@
+include::./index.adoc[]
+
+[[v17-8-0]]
+=== Esther, 8
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v17-8-1]]
+
+^<<v17-8-1,1>>^ On that day King A·has·u·eʹrus gave the house of Haʹman, the enemy of the Jews, to Queen Esther; and Morʹde·cai came in before the king, because Esther had revealed how he was related to her.
+
+[[v17-8-2]]
+
+^<<v17-8-2,2>>^ Then the king removed his signet ring that he had taken away from Haʹman and gave it to Morʹde·cai. And Esther put Morʹde·cai in charge of the house of Haʹman.
+
+[[v17-8-3]]
+
+^<<v17-8-3,3>>^ Moreover, Esther spoke again to the king. She fell down at his feet and wept and pleaded with him to undo the harm done by Haʹman the Agʹag·ite and his scheme against the Jews.
+
+[[v17-8-4]]
+
+^<<v17-8-4,4>>^ The king held the golden scepter out to Esther, at which Esther rose and stood before the king.
+
+[[v17-8-5]]
+
+^<<v17-8-5,5>>^ She said: “If it pleases the king and if I have his favor, and if it seems proper to the king and I am pleasing in his eyes, let an order be written to annul the documents of that schemer Haʹman the son of Ham·me·daʹtha the Agʹag·ite, which he wrote to destroy the Jews in all the king’s provinces.^&#42;1^
+
+[NOTE]
+====
+. Or “jurisdictional districts.”
+====
+
+[[v17-8-6]]
+
+^<<v17-8-6,6>>^ For how can I bear to look upon the disaster that will come upon my people, and how can I bear to see the destruction of my relatives?”
+
+[[v17-8-7]]
+
+^<<v17-8-7,7>>^ So King A·has·u·eʹrus said to Queen Esther and to Morʹde·cai the Jew: “Look! I have given the house of Haʹman to Esther and have had him hanged on the stake, because of his plot to attack^&#42;1^ the Jews.
+
+[NOTE]
+====
+. Lit., “because he thrust out his hand against.”
+====
+
+[[v17-8-8]]
+
+^<<v17-8-8,8>>^ You may now write in the king’s name whatever you see fit in behalf of the Jews and seal it with the king’s signet ring, for a decree that is written in the king’s name and sealed with the king’s signet ring cannot be revoked.”
+
+[[v17-8-9]]
+
+^<<v17-8-9,9>>^ So the secretaries of the king were summoned at that time in the third month, that is, the month of Siʹvan,^&#42;1^ on the 23rd day, and they wrote all that Morʹde·cai commanded to the Jews, as well as to the satraps, the governors, and the princes of the provinces^&#42;2^ from Inʹdi·a to E·thi·oʹpi·a, 127 provinces,^&#42;3^ to each province^&#42;4^ in its own script^&#42;5^ and to each people in its own language and to the Jews in their own script^&#42;6^ and language.
+
+[NOTE]
+====
+. See App. B15.
+. Or “jurisdictional districts.”
+. Or “jurisdictional districts.”
+. Or “jurisdictional district.”
+. Or “style of writing.”
+. Or “style of writing.”
+====
+
+[[v17-8-10]]
+
+^<<v17-8-10,10>>^ He wrote it in the name of King A·has·u·eʹrus and sealed it with the king’s signet ring and sent the written documents by the hand of couriers on horses; they rode on swift post-horses, bred for royal service.
+
+[[v17-8-11]]
+
+^<<v17-8-11,11>>^ In these documents the king granted permission to the Jews in all the different cities to gather together and defend their lives^&#42;1^ and to annihilate, kill, and destroy any forces of any people or province^&#42;2^ that might attack them, including women and children, and to seize their possessions.
+
+[NOTE]
+====
+. Or “souls.”
+. Or “jurisdictional district.”
+====
+
+[[v17-8-12]]
+
+^<<v17-8-12,12>>^ This was to occur on the same day in all the provinces^&#42;1^ of King A·has·u·eʹrus, on the 13th day of the 12th month, that is, the month of Aʹdar.^&#42;2^
+
+[NOTE]
+====
+. Or “jurisdictional districts.”
+. See App. B15.
+====
+
+[[v17-8-13]]
+
+^<<v17-8-13,13>>^ The text^&#42;1^ of the document was to be issued as law throughout all the provinces.^&#42;2^ It was to be proclaimed to all the peoples, so that the Jews would be ready on that day to take vengeance on their enemies.
+
+[NOTE]
+====
+. Or “copy.”
+. Or “jurisdictional districts.”
+====
+
+[[v17-8-14]]
+
+^<<v17-8-14,14>>^ The couriers riding the post-horses used in the royal service went out urgently and speedily at the king’s order. The law was also issued in Shuʹshan^&#42;1^ the citadel.^&#42;2^
+
+[NOTE]
+====
+. Or “Susa.”
+. Or “palace; fortress.”
+====
+
+[[v17-8-15]]
+
+^<<v17-8-15,15>>^ Now Morʹde·cai left the king’s presence in royal apparel of blue and white, wearing a great golden crown and a fine-fabric cloak of purple wool. And the city of Shuʹshan^&#42;1^ shouted for joy.
+
+[NOTE]
+====
+. Or “Susa.”
+====
+
+[[v17-8-16]]
+
+^<<v17-8-16,16>>^ For the Jews there was relief^&#42;1^ and rejoicing and exultation and honor.
+
+[NOTE]
+====
+. Lit., “light.”
+====
+
+[[v17-8-17]]
+
+^<<v17-8-17,17>>^ And in all the provinces^&#42;1^ and all the cities, wherever the decree of the king and his law reached, the Jews were rejoicing and exulting, holding banquets and celebrations. Many of the peoples of the land were declaring themselves Jews, for the dread of the Jews had fallen upon them.
+
+[NOTE]
+====
+. Or “jurisdictional districts.”
+====
+
+'''
+
+xref:017-esther/017-esther-007.adoc#v17-7-0[&#60; Capítulo Anterior] | <<v17-8-0,Topo>> | xref:017-esther/017-esther-009.adoc#v17-9-0[Próximo Capítulo &#62;]

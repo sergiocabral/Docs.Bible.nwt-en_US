@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v22-8-0]]
+=== The Song of Solomon, 8
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v22-8-1]]
+
+^<<v22-8-1,1>>^ “If only you were like my brother,
+Who nursed at my mother’s breasts!
+Then if I found you outside, I would kiss you,
+And no one would despise me.
+
+[[v22-8-2]]
+
+^<<v22-8-2,2>>^ I would lead you;
+I would bring you into the house of my mother,
+She who taught me.
+I would give you spiced wine to drink,
+The fresh juice of pomegranates.
+
+[[v22-8-3]]
+
+^<<v22-8-3,3>>^ His left hand would be under my head,
+And his right hand would embrace me.
+
+[[v22-8-4]]
+
+^<<v22-8-4,4>>^ I put you under oath, O daughters of Jerusalem:
+Do not try to awaken or arouse love in me until it feels inclined.”
+
+[[v22-8-5]]
+
+^<<v22-8-5,5>>^ “Who is this coming up from the wilderness,
+Leaning upon her dear one?”
+“Under the apple tree I awakened you.
+There your mother was in labor with you.
+There she who gave birth to you was in labor.
+
+[[v22-8-6]]
+
+^<<v22-8-6,6>>^ Place me as a seal upon your heart,
+As a seal upon your arm,
+For love is as strong as death is,
+And exclusive devotion is as unyielding as the Grave.^&#42;1^
+Its flames are a blazing fire, the flame of Jah.^&#42;2^
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+. “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v22-8-7]]
+
+^<<v22-8-7,7>>^ Surging waters cannot extinguish love,
+Nor can rivers wash it away.
+If a man would offer all the wealth of his house for love,
+It^&#42;1^ would be utterly despised.”
+
+[NOTE]
+====
+. Or possibly, “He.”
+====
+
+[[v22-8-8]]
+
+^<<v22-8-8,8>>^ “We have a little sister,
+And she has no breasts.
+What will we do for our sister
+On the day when she is spoken for?”
+
+[[v22-8-9]]
+
+^<<v22-8-9,9>>^ “If she is a wall,
+We will build upon her a battlement of silver,
+But if she is a door,
+We will board her up with a cedar plank.”
+
+[[v22-8-10]]
+
+^<<v22-8-10,10>>^ “I am a wall,
+And my breasts are like towers.
+So in his eyes I have become
+As one who finds peace.
+
+[[v22-8-11]]
+
+^<<v22-8-11,11>>^ Solʹo·mon had a vineyard in Baʹal-haʹmon.
+He entrusted the vineyard to caretakers.
+Each one would bring in a thousand pieces of silver for its fruit.
+
+[[v22-8-12]]
+
+^<<v22-8-12,12>>^ I have my own vineyard at my disposal.
+The thousand pieces of silver^&#42;1^ belong to you, O Solʹo·mon,
+And two hundred to those who care for its fruit.”
+
+[NOTE]
+====
+. Lit., “The thousand.”
+====
+
+[[v22-8-13]]
+
+^<<v22-8-13,13>>^ “O you who are dwelling in the gardens,
+The companions listen for your voice.
+Let me hear it.”
+
+[[v22-8-14]]
+
+^<<v22-8-14,14>>^ “Hurry, my dear one,
+And be swift like a gazelle
+Or a young stag
+Upon the mountains of spices.”
+
+'''
+
+xref:022-song-of-solomon/022-song-of-solomon-007.adoc#v22-7-0[&#60; Capítulo Anterior] | <<v22-8-0,Topo>> | xref:023-isaiah/023-isaiah-001.adoc#v23-1-0[Próximo Capítulo &#62;]

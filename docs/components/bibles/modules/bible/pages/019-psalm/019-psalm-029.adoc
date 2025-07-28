@@ -1,0 +1,83 @@
+include::./index.adoc[]
+
+[[v19-29-0]]
+=== Psalm, 29
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of David._
+
+[[v19-29-1]]
+
+^<<v19-29-1,1>>^ Give Jehovah his due, you sons of mighty ones,
+Give Jehovah his due for his glory and strength.
+
+[[v19-29-2]]
+
+^<<v19-29-2,2>>^ Give Jehovah the glory due his name.
+Bow down to^&#42;1^ Jehovah in holy adornment.^&#42;2^
+
+[NOTE]
+====
+. Or “Worship.”
+. Or possibly, “because of the splendor of his holiness.”
+====
+
+[[v19-29-3]]
+
+^<<v19-29-3,3>>^ The voice of Jehovah is heard over the waters;
+The glorious God thunders.
+Jehovah is over many waters.
+
+[[v19-29-4]]
+
+^<<v19-29-4,4>>^ The voice of Jehovah is powerful;
+The voice of Jehovah is splendid.
+
+[[v19-29-5]]
+
+^<<v19-29-5,5>>^ The voice of Jehovah is breaking the cedars;
+Yes, Jehovah shatters the cedars of Lebʹa·non.
+
+[[v19-29-6]]
+
+^<<v19-29-6,6>>^ He makes Lebʹa·non^&#42;1^ skip like a calf,
+And Sirʹi·on like a young wild bull.
+
+[NOTE]
+====
+. Evidently, the Lebanon mountain range.
+====
+
+[[v19-29-7]]
+
+^<<v19-29-7,7>>^ The voice of Jehovah strikes with flames of fire;
+
+[[v19-29-8]]
+
+^<<v19-29-8,8>>^ The voice of Jehovah makes the wilderness shudder;
+Jehovah makes the wilderness of Kaʹdesh shudder.
+
+[[v19-29-9]]
+
+^<<v19-29-9,9>>^ The voice of Jehovah makes the deer shudder and give birth
+And strips bare the forests.
+And all in his temple say: “Glory!”
+
+[[v19-29-10]]
+
+^<<v19-29-10,10>>^ Jehovah sits enthroned above the flooding waters;^&#42;1^
+Jehovah sits enthroned as King forever.
+
+[NOTE]
+====
+. Or “the heavenly ocean.”
+====
+
+[[v19-29-11]]
+
+^<<v19-29-11,11>>^ Jehovah will give strength to his people.
+Jehovah will bless his people with peace.
+
+'''
+
+xref:019-psalm/019-psalm-028.adoc#v19-28-0[&#60; Capítulo Anterior] | <<v19-29-0,Topo>> | xref:019-psalm/019-psalm-030.adoc#v19-30-0[Próximo Capítulo &#62;]

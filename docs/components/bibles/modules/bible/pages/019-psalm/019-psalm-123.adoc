@@ -1,0 +1,38 @@
+include::./index.adoc[]
+
+[[v19-123-0]]
+=== Psalm, 123
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-123-1]]
+
+^<<v19-123-1,1>>^ To you I raise my eyes,
+You who are enthroned in the heavens.
+
+[[v19-123-2]]
+
+^<<v19-123-2,2>>^ As the eyes of servants look to the hand of their master,
+And the eyes of a servant girl to the hand of her mistress,
+So our eyes look to Jehovah our God
+Until he shows us favor.
+
+[[v19-123-3]]
+
+^<<v19-123-3,3>>^ Show us favor, O Jehovah, show us favor,
+For we have had our full share of contempt.
+
+[[v19-123-4]]
+
+^<<v19-123-4,4>>^ We have had our full share of^&#42;1^ ridicule from the self-assured
+And the contempt of the arrogant.
+
+[NOTE]
+====
+. Or “Our soul has had more than enough.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-122.adoc#v19-122-0[&#60; Capítulo Anterior] | <<v19-123-0,Topo>> | xref:019-psalm/019-psalm-124.adoc#v19-124-0[Próximo Capítulo &#62;]

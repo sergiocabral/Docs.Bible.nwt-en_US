@@ -1,0 +1,337 @@
+include::./index.adoc[]
+
+[[v19-37-0]]
+=== Psalm, 37
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David._
+
+_א &#91;Aleph&#93;_
+
+[[v19-37-1]]
+
+^<<v19-37-1,1>>^ Do not be upset^&#42;1^ because of evil men
+Or envious of wrongdoers.
+
+[NOTE]
+====
+. Or “show yourself heated up.”
+====
+
+[[v19-37-2]]
+
+^<<v19-37-2,2>>^ They will quickly wither like grass
+And shrivel like green new grass.
+
+_ב &#91;Beth&#93;_
+
+[[v19-37-3]]
+
+^<<v19-37-3,3>>^ Trust in Jehovah and do what is good;
+Reside in the earth,^&#42;1^ and act with faithfulness.
+
+[NOTE]
+====
+. Or “land.”
+====
+
+[[v19-37-4]]
+
+^<<v19-37-4,4>>^ Find exquisite delight^&#42;1^ in Jehovah,
+And he will grant you the desires of your heart.
+
+[NOTE]
+====
+. Or “Find your greatest joy.”
+====
+
+_ג &#91;Gimel&#93;_
+
+[[v19-37-5]]
+
+^<<v19-37-5,5>>^ Commit your way to^&#42;1^ Jehovah;
+Rely on him, and he will act in your behalf.
+
+[NOTE]
+====
+. Lit., “Roll your way upon.”
+====
+
+[[v19-37-6]]
+
+^<<v19-37-6,6>>^ He will make your righteousness shine like daybreak,
+And your justice like the midday sun.
+
+_ד &#91;Daleth&#93;_
+
+[[v19-37-7]]
+
+^<<v19-37-7,7>>^ Keep silent before Jehovah
+And wait expectantly^&#42;1^ for him.
+Do not be upset by the man
+Who succeeds in carrying out his schemes.
+
+[NOTE]
+====
+. Or “patiently.”
+====
+
+_ה &#91;He&#93;_
+
+[[v19-37-8]]
+
+^<<v19-37-8,8>>^ Let go of anger and abandon rage;
+Do not become upset and turn to doing evil.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “Do not become upset, for it can only lead to harm.”
+====
+
+[[v19-37-9]]
+
+^<<v19-37-9,9>>^ For evil men will be done away with,
+But those hoping in Jehovah will possess the earth.
+
+_ו &#91;Waw&#93;_
+
+[[v19-37-10]]
+
+^<<v19-37-10,10>>^ Just a little while longer, and the wicked will be no more;
+You will look at where they were,
+And they will not be there.
+
+[[v19-37-11]]
+
+^<<v19-37-11,11>>^ But the meek will possess the earth,
+And they will find exquisite delight in the abundance of peace.
+
+_ז &#91;Zayin&#93;_
+
+[[v19-37-12]]
+
+^<<v19-37-12,12>>^ The wicked man plots against the righteous;
+He grinds his teeth at him.
+
+[[v19-37-13]]
+
+^<<v19-37-13,13>>^ But Jehovah will laugh at him,
+For He knows that his day will come.
+
+_ח &#91;Heth&#93;_
+
+[[v19-37-14]]
+
+^<<v19-37-14,14>>^ The wicked draw their swords and bend^&#42;1^ their bows
+To bring down the oppressed and the poor,
+To slaughter those whose way is upright.
+
+[NOTE]
+====
+. Or “string.”
+====
+
+[[v19-37-15]]
+
+^<<v19-37-15,15>>^ But their sword will pierce their own heart;
+Their bows will be broken.
+
+_ט &#91;Teth&#93;_
+
+[[v19-37-16]]
+
+^<<v19-37-16,16>>^ Better is the little of the righteous one
+Than the abundance of many wicked ones.
+
+[[v19-37-17]]
+
+^<<v19-37-17,17>>^ For the arms of the wicked will be broken,
+But Jehovah will support the righteous.
+
+_י &#91;Yod&#93;_
+
+[[v19-37-18]]
+
+^<<v19-37-18,18>>^ Jehovah is aware of what the blameless go through,^&#42;1^
+And their inheritance will last forever.
+
+[NOTE]
+====
+. Lit., “the days of the blameless.”
+====
+
+[[v19-37-19]]
+
+^<<v19-37-19,19>>^ They will not be put to shame in the time of disaster;
+In the time of famine they will have plenty.
+
+_כ &#91;Kaph&#93;_
+
+[[v19-37-20]]
+
+^<<v19-37-20,20>>^ But the wicked will perish;
+The enemies of Jehovah will vanish like glorious pastures;
+They will vanish like smoke.
+
+_ל &#91;Lamed&#93;_
+
+[[v19-37-21]]
+
+^<<v19-37-21,21>>^ The wicked one borrows and does not repay,
+But the righteous one is generous^&#42;1^ and giving.
+
+[NOTE]
+====
+. Or “showing favor.”
+====
+
+[[v19-37-22]]
+
+^<<v19-37-22,22>>^ Those blessed by Him will possess the earth,
+But those cursed by Him will be done away with.
+
+_מ &#91;Mem&#93;_
+
+[[v19-37-23]]
+
+^<<v19-37-23,23>>^ Jehovah guides^&#42;1^ the steps of a man
+When He finds pleasure in his way.
+
+[NOTE]
+====
+. Or “makes firm.”
+====
+
+[[v19-37-24]]
+
+^<<v19-37-24,24>>^ Although he may fall, he will not be hurled down,
+For Jehovah supports him by the hand.^&#42;1^
+
+[NOTE]
+====
+. Or “with His hand.”
+====
+
+_נ &#91;Nun&#93;_
+
+[[v19-37-25]]
+
+^<<v19-37-25,25>>^ I was once young and now I am old,
+But I have not seen anyone righteous abandoned,
+Nor his children looking for bread.^&#42;1^
+
+[NOTE]
+====
+. Or “food.”
+====
+
+[[v19-37-26]]
+
+^<<v19-37-26,26>>^ He always lends freely,
+And his children are in line for a blessing.
+
+_ס &#91;Samekh&#93;_
+
+[[v19-37-27]]
+
+^<<v19-37-27,27>>^ Turn away from bad and do what is good,
+And you will remain forever.
+
+[[v19-37-28]]
+
+^<<v19-37-28,28>>^ For Jehovah loves justice,
+And he will not abandon his loyal ones.
+
+_ע &#91;Ayin&#93;_
+
+They will always be guarded;
+But the descendants of the wicked will be done away with.
+
+[[v19-37-29]]
+
+^<<v19-37-29,29>>^ The righteous will possess the earth,
+And they will live forever on it.
+
+_פ &#91;Pe&#93;_
+
+[[v19-37-30]]
+
+^<<v19-37-30,30>>^ The mouth of the righteous one imparts wisdom,^&#42;1^
+And his tongue speaks about justice.
+
+[NOTE]
+====
+. Or “utters wisdom in an undertone.”
+====
+
+[[v19-37-31]]
+
+^<<v19-37-31,31>>^ The law of his God is in his heart;
+His steps will not falter.
+
+_צ &#91;Tsade&#93;_
+
+[[v19-37-32]]
+
+^<<v19-37-32,32>>^ The wicked watches the righteous,
+Seeking to put him to death.
+
+[[v19-37-33]]
+
+^<<v19-37-33,33>>^ But Jehovah will not abandon him to the hand of that one
+Or find him guilty when he is judged.
+
+_ק &#91;Qoph&#93;_
+
+[[v19-37-34]]
+
+^<<v19-37-34,34>>^ Hope in Jehovah and follow his way,
+And he will exalt you to take possession of the earth.
+When the wicked are done away with, you will see it.
+
+_ר &#91;Resh&#93;_
+
+[[v19-37-35]]
+
+^<<v19-37-35,35>>^ I have seen the ruthless, evil man
+Spreading out like a luxuriant tree in its native soil.
+
+[[v19-37-36]]
+
+^<<v19-37-36,36>>^ But he suddenly passed away and was gone;
+I kept searching for him, and he could not be found.
+
+_ש &#91;Shin&#93;_
+
+[[v19-37-37]]
+
+^<<v19-37-37,37>>^ Take note of the blameless one,^&#42;1^
+And keep the upright one in sight,
+For the future of that man will be peaceful.
+
+[NOTE]
+====
+. Or “the one who keeps integrity.”
+====
+
+[[v19-37-38]]
+
+^<<v19-37-38,38>>^ But all the transgressors will be destroyed;
+The future of wicked people will be cut off.
+
+_ת &#91;Taw&#93;_
+
+[[v19-37-39]]
+
+^<<v19-37-39,39>>^ The salvation of the righteous is from Jehovah;
+He is their fortress in the time of distress.
+
+[[v19-37-40]]
+
+^<<v19-37-40,40>>^ Jehovah will help them and rescue them.
+He will rescue them from the wicked and save them,
+Because they take refuge in him.
+
+'''
+
+xref:019-psalm/019-psalm-036.adoc#v19-36-0[&#60; Capítulo Anterior] | <<v19-37-0,Topo>> | xref:019-psalm/019-psalm-038.adoc#v19-38-0[Próximo Capítulo &#62;]

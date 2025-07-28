@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v23-61-0]]
+=== Isaiah, 61
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-61-1]]
+
+^<<v23-61-1,1>>^ The spirit of the Sovereign Lord Jehovah is upon me,
+Because Jehovah anointed me to declare good news to the meek.
+He sent me to bind up the brokenhearted,
+To proclaim liberty to the captives
+And the wide opening of the eyes to the prisoners,
+
+[[v23-61-2]]
+
+^<<v23-61-2,2>>^ To proclaim the year of Jehovah’s goodwill^&#42;1^
+And the day of vengeance of our God,
+To comfort all who mourn,
+
+[NOTE]
+====
+. Or “favor.”
+====
+
+[[v23-61-3]]
+
+^<<v23-61-3,3>>^ To provide for those mourning over Zion,
+To give them a headdress instead of ashes,
+The oil of exultation instead of mourning,
+The garment of praise instead of a despondent spirit.
+And they will be called big trees of righteousness,
+The planting of Jehovah, in order to glorify^&#42;1^ him.
+
+[NOTE]
+====
+. Or “beautify.”
+====
+
+[[v23-61-4]]
+
+^<<v23-61-4,4>>^ They will rebuild the ancient ruins;
+They will raise up the desolated places of the past,
+And they will restore the devastated cities,
+The places that lay desolate for generation after generation.
+
+[[v23-61-5]]
+
+^<<v23-61-5,5>>^ “Strangers will stand and shepherd your flocks,
+And foreigners will be your farmers and your vinedressers.
+
+[[v23-61-6]]
+
+^<<v23-61-6,6>>^ As for you, you will be called the priests of Jehovah;
+They will call you the ministers of our God.
+You will eat the resources of the nations,
+And about their glory^&#42;1^ you will boast.
+
+[NOTE]
+====
+. Or “riches.”
+====
+
+[[v23-61-7]]
+
+^<<v23-61-7,7>>^ Instead of shame you will have a double portion,
+And instead of humiliation they will shout joyfully over their share.
+Yes, they will possess a double portion in their land.
+Everlasting rejoicing will be theirs.
+
+[[v23-61-8]]
+
+^<<v23-61-8,8>>^ For I, Jehovah, love justice;
+I hate robbery and unrighteousness.
+I will faithfully give them their wages,
+And I will make an everlasting covenant with them.
+
+[[v23-61-9]]
+
+^<<v23-61-9,9>>^ Their offspring^&#42;1^ will be known among the nations
+And their descendants among the peoples.
+All who see them will recognize them,
+That they are the offspring^&#42;2^ whom Jehovah has blessed.”
+
+[NOTE]
+====
+. Lit., “seed.”
+. Lit., “seed.”
+====
+
+[[v23-61-10]]
+
+^<<v23-61-10,10>>^ I will greatly exult in Jehovah.
+My whole being^&#42;1^ will rejoice in my God.
+For he has clothed me with the garments of salvation;
+He has wrapped me with the robe^&#42;2^ of righteousness,
+Just like a bridegroom who wears a turban like that of a priest,
+And like a bride who adorns herself with her ornaments.
+
+[NOTE]
+====
+. Or “My soul.”
+. Or “sleeveless coat.”
+====
+
+[[v23-61-11]]
+
+^<<v23-61-11,11>>^ For as the earth brings forth its sprouts
+And as the garden makes what is sown in it sprout,
+So will the Sovereign Lord Jehovah
+Cause righteousness and praise to sprout before all the nations.
+
+'''
+
+xref:023-isaiah/023-isaiah-060.adoc#v23-60-0[&#60; Capítulo Anterior] | <<v23-61-0,Topo>> | xref:023-isaiah/023-isaiah-062.adoc#v23-62-0[Próximo Capítulo &#62;]

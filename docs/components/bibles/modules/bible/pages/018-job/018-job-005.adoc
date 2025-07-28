@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v18-5-0]]
+=== Job, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-5-1]]
+
+^<<v18-5-1,1>>^ “Call, please! Is there anyone answering you?
+To which of the holy ones will you turn?
+
+[[v18-5-2]]
+
+^<<v18-5-2,2>>^ For resentment will kill the foolish one,
+And envy will put the simpleminded to death.
+
+[[v18-5-3]]
+
+^<<v18-5-3,3>>^ I have seen the foolish one taking root,
+But suddenly his dwelling place is cursed.
+
+[[v18-5-4]]
+
+^<<v18-5-4,4>>^ His sons are far from safety,
+And they are crushed at the city gate, with no one to save them.
+
+[[v18-5-5]]
+
+^<<v18-5-5,5>>^ The hungry one eats what he harvests,
+Taking it even from among the thorns,
+And their possessions are ensnared.
+
+[[v18-5-6]]
+
+^<<v18-5-6,6>>^ For harmful things do not sprout from the dust,
+And trouble does not spring from the ground.
+
+[[v18-5-7]]
+
+^<<v18-5-7,7>>^ For man is born for trouble,
+As surely as sparks fly upward.
+
+[[v18-5-8]]
+
+^<<v18-5-8,8>>^ But I would appeal to God,
+And to God I would submit my case,
+
+[[v18-5-9]]
+
+^<<v18-5-9,9>>^ To the One doing great and unsearchable things,
+Wonderful things without number.
+
+[[v18-5-10]]
+
+^<<v18-5-10,10>>^ He gives rain to the earth
+And sends waters upon the fields.
+
+[[v18-5-11]]
+
+^<<v18-5-11,11>>^ He raises the lowly up high,
+And he raises up the dejected one to salvation.
+
+[[v18-5-12]]
+
+^<<v18-5-12,12>>^ He frustrates the schemes of the crafty,
+So that the work of their hands does not succeed.
+
+[[v18-5-13]]
+
+^<<v18-5-13,13>>^ He catches the wise in their own cunning,
+So that the plans of the shrewd are thwarted.
+
+[[v18-5-14]]
+
+^<<v18-5-14,14>>^ They meet with darkness during the day,
+And they grope about at midday as if it were night.
+
+[[v18-5-15]]
+
+^<<v18-5-15,15>>^ He saves from the sword of their mouth,
+Saving the poor from the hand of the strong,
+
+[[v18-5-16]]
+
+^<<v18-5-16,16>>^ So that there is hope for the lowly,
+But the mouth of unrighteousness is shut.
+
+[[v18-5-17]]
+
+^<<v18-5-17,17>>^ Look! Happy is the man whom God reproves;
+So do not reject the discipline of the Almighty!
+
+[[v18-5-18]]
+
+^<<v18-5-18,18>>^ For he causes pain, but binds up the wound;
+He breaks apart, but heals with his own hands.
+
+[[v18-5-19]]
+
+^<<v18-5-19,19>>^ He will save you from six calamities,
+Even the seventh will not harm you.
+
+[[v18-5-20]]
+
+^<<v18-5-20,20>>^ During famine he will redeem you from death,
+And from the power of a sword during war.
+
+[[v18-5-21]]
+
+^<<v18-5-21,21>>^ You will be protected from the lash of the tongue,
+And you will not fear devastation when it comes.
+
+[[v18-5-22]]
+
+^<<v18-5-22,22>>^ You will laugh at destruction and hunger,
+And you will not fear the wild beasts of the earth.
+
+[[v18-5-23]]
+
+^<<v18-5-23,23>>^ For the stones of the field will not harm you,^&#42;1^
+And the wild beasts of the field will be at peace with you.
+
+[NOTE]
+====
+. Or “will have a covenant (an agreement) with you.”
+====
+
+[[v18-5-24]]
+
+^<<v18-5-24,24>>^ You will know that your tent is secure,^&#42;1^
+And nothing will be missing when you inspect your pasture.
+
+[NOTE]
+====
+. Lit., “peace.”
+====
+
+[[v18-5-25]]
+
+^<<v18-5-25,25>>^ You will enjoy many children,
+And your descendants will be as plentiful as the vegetation of the earth.
+
+[[v18-5-26]]
+
+^<<v18-5-26,26>>^ You will still be strong when you go to the grave,
+Like sheaves of grain gathered in their season.
+
+[[v18-5-27]]
+
+^<<v18-5-27,27>>^ Look! We have investigated this, and it is so.
+Listen and accept it.”
+
+'''
+
+xref:018-job/018-job-004.adoc#v18-4-0[&#60; Capítulo Anterior] | <<v18-5-0,Topo>> | xref:018-job/018-job-006.adoc#v18-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,146 @@
+include::./index.adoc[]
+
+[[v19-40-0]]
+=== Psalm, 40
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of David. A melody._
+
+[[v19-40-1]]
+
+^<<v19-40-1,1>>^ I earnestly hoped in^&#42;1^ Jehovah,
+And he inclined his ear^&#42;2^ to me and heard my cry for help.
+
+[NOTE]
+====
+. Or “waited patiently for.”
+. Or “bent down to listen.”
+====
+
+[[v19-40-2]]
+
+^<<v19-40-2,2>>^ He brought me up out of a roaring pit,
+Out of the slimy mire.
+And he set my feet upon a crag;
+He made my footing secure.
+
+[[v19-40-3]]
+
+^<<v19-40-3,3>>^ Then he put a new song in my mouth,
+Praise to our God.
+Many will look on in awe
+And put their trust in Jehovah.
+
+[[v19-40-4]]
+
+^<<v19-40-4,4>>^ Happy is the man who trusts in Jehovah
+And who does not look to the defiant or to those who are false.^&#42;1^
+
+[NOTE]
+====
+. Or “to liars.”
+====
+
+[[v19-40-5]]
+
+^<<v19-40-5,5>>^ How many things you have done,
+O Jehovah my God,
+Your wonderful works and your thoughts toward us.
+None can compare to you;
+If I were to try to tell and speak of them,
+They would be too numerous to recount!
+
+[[v19-40-6]]
+
+^<<v19-40-6,6>>^ Sacrifice and offering you did not desire,^&#42;1^
+But you opened up my ears to hear.
+You did not ask for burnt offerings and sin offerings.
+
+[NOTE]
+====
+. Or “delight in.”
+====
+
+[[v19-40-7]]
+
+^<<v19-40-7,7>>^ Then I said: “Look, I have come.
+In the scroll^&#42;1^ it is written about me.
+
+[NOTE]
+====
+. Lit., “the scroll of the book.”
+====
+
+[[v19-40-8]]
+
+^<<v19-40-8,8>>^ To do your will, O my God, is my delight,^&#42;1^
+And your law is deep within me.
+
+[NOTE]
+====
+. Or “desire.”
+====
+
+[[v19-40-9]]
+
+^<<v19-40-9,9>>^ I proclaim the good news of righteousness in the great congregation.
+Look! I do not restrain my lips,
+O Jehovah, as you well know.
+
+[[v19-40-10]]
+
+^<<v19-40-10,10>>^ I do not cover over your righteousness in my heart.
+I declare your faithfulness and salvation.
+I do not hide your loyal love and your truth in the great congregation.”
+
+[[v19-40-11]]
+
+^<<v19-40-11,11>>^ O Jehovah, do not withhold your mercy from me.
+May your loyal love and your truth constantly safeguard me.
+
+[[v19-40-12]]
+
+^<<v19-40-12,12>>^ The calamities surrounding me are too many to count.
+So many of my errors overwhelm me that I cannot see my way;
+They are more numerous than the hairs of my head,
+And I have lost heart.
+
+[[v19-40-13]]
+
+^<<v19-40-13,13>>^ Please be willing, O Jehovah, to save me.
+O Jehovah, hurry to help me.
+
+[[v19-40-14]]
+
+^<<v19-40-14,14>>^ May all those seeking to take my life^&#42;1^
+Be put to shame and disgraced.
+May those who delight in my calamity
+Retreat in humiliation.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v19-40-15]]
+
+^<<v19-40-15,15>>^ May those who are saying to me: “Aha! Aha!”
+Be appalled because of their own shame.
+
+[[v19-40-16]]
+
+^<<v19-40-16,16>>^ But let those seeking you
+Exult and rejoice in you.
+May those who love your acts of salvation always say:
+“May Jehovah be magnified.”
+
+[[v19-40-17]]
+
+^<<v19-40-17,17>>^ But I am helpless and poor;
+May Jehovah pay attention to me.
+You are my helper and my rescuer;
+My God, do not delay.
+
+'''
+
+xref:019-psalm/019-psalm-039.adoc#v19-39-0[&#60; Capítulo Anterior] | <<v19-40-0,Topo>> | xref:019-psalm/019-psalm-041.adoc#v19-41-0[Próximo Capítulo &#62;]

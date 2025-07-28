@@ -1,0 +1,24 @@
+include::../index.adoc[]
+
+[[v45-0-0]]
+== Romans
+
+[cols="8*^"]
+|===
+| xref:045-romans/045-romans-001.adoc#v45-1-0[1]
+| xref:045-romans/045-romans-002.adoc#v45-2-0[2]
+| xref:045-romans/045-romans-003.adoc#v45-3-0[3]
+| xref:045-romans/045-romans-004.adoc#v45-4-0[4]
+| xref:045-romans/045-romans-005.adoc#v45-5-0[5]
+| xref:045-romans/045-romans-006.adoc#v45-6-0[6]
+| xref:045-romans/045-romans-007.adoc#v45-7-0[7]
+| xref:045-romans/045-romans-008.adoc#v45-8-0[8]
+| xref:045-romans/045-romans-009.adoc#v45-9-0[9]
+| xref:045-romans/045-romans-010.adoc#v45-10-0[10]
+| xref:045-romans/045-romans-011.adoc#v45-11-0[11]
+| xref:045-romans/045-romans-012.adoc#v45-12-0[12]
+| xref:045-romans/045-romans-013.adoc#v45-13-0[13]
+| xref:045-romans/045-romans-014.adoc#v45-14-0[14]
+| xref:045-romans/045-romans-015.adoc#v45-15-0[15]
+| xref:045-romans/045-romans-016.adoc#v45-16-0[16]
+|===

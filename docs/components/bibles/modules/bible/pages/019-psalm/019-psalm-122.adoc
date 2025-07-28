@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v19-122-0]]
+=== Psalm, 122
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents. Of David._
+
+[[v19-122-1]]
+
+^<<v19-122-1,1>>^ I rejoiced when they said to me:
+“Let us go to the house of Jehovah.”
+
+[[v19-122-2]]
+
+^<<v19-122-2,2>>^ And now our feet are standing
+Within your gates, O Jerusalem.
+
+[[v19-122-3]]
+
+^<<v19-122-3,3>>^ Jerusalem is built as a city
+That is joined together as one.
+
+[[v19-122-4]]
+
+^<<v19-122-4,4>>^ The tribes have gone up to it,
+The tribes of Jah,^&#42;1^
+According to the reminder to Israel,
+To give thanks to the name of Jehovah.
+
+[NOTE]
+====
+. “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-122-5]]
+
+^<<v19-122-5,5>>^ For thrones for judgment were set up there,
+Thrones of the house of David.
+
+[[v19-122-6]]
+
+^<<v19-122-6,6>>^ Ask for the peace of Jerusalem.
+Those who love you, O city, will be secure.
+
+[[v19-122-7]]
+
+^<<v19-122-7,7>>^ May peace continue within your ramparts,^&#42;1^
+Security within your fortified towers.
+
+[NOTE]
+====
+. Or “fortified walls.”
+====
+
+[[v19-122-8]]
+
+^<<v19-122-8,8>>^ For the sake of my brothers and my companions I will say:
+“May there be peace within you.”
+
+[[v19-122-9]]
+
+^<<v19-122-9,9>>^ For the sake of the house of Jehovah our God,
+I will seek good for you.
+
+'''
+
+xref:019-psalm/019-psalm-121.adoc#v19-121-0[&#60; Capítulo Anterior] | <<v19-122-0,Topo>> | xref:019-psalm/019-psalm-123.adoc#v19-123-0[Próximo Capítulo &#62;]

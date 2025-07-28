@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v19-2-0]]
+=== Psalm, 2
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-2-1]]
+
+^<<v19-2-1,1>>^ Why are the nations agitated
+And the peoples muttering^&#42;1^ an empty thing?
+
+[NOTE]
+====
+. Or “meditating on.”
+====
+
+[[v19-2-2]]
+
+^<<v19-2-2,2>>^ The kings of the earth take their stand
+And high officials gather together^&#42;1^ as one
+Against Jehovah and against his anointed one.^&#42;2^
+
+[NOTE]
+====
+. Or “take counsel together.”
+. Or “his Christ.”
+====
+
+[[v19-2-3]]
+
+^<<v19-2-3,3>>^ They say: “Let us tear off their shackles
+And throw off their ropes!”
+
+[[v19-2-4]]
+
+^<<v19-2-4,4>>^ The One enthroned in the heavens will laugh;
+Jehovah will scoff at them.
+
+[[v19-2-5]]
+
+^<<v19-2-5,5>>^ At that time he will speak to them in his anger
+And terrify them in his burning anger,
+
+[[v19-2-6]]
+
+^<<v19-2-6,6>>^ Saying: “I myself have installed my king
+On Zion, my holy mountain.”
+
+[[v19-2-7]]
+
+^<<v19-2-7,7>>^ Let me proclaim the decree of Jehovah;
+He said to me: “You are my son;
+Today I have become your father.
+
+[[v19-2-8]]
+
+^<<v19-2-8,8>>^ Ask of me, and I will give nations as your inheritance
+And the ends of the earth as your possession.
+
+[[v19-2-9]]
+
+^<<v19-2-9,9>>^ You will break them with an iron scepter,
+And you will smash them like a piece of pottery.”
+
+[[v19-2-10]]
+
+^<<v19-2-10,10>>^ So now, you kings, show insight;
+Accept correction,^&#42;1^ you judges of the earth.
+
+[NOTE]
+====
+. Or “Be warned.”
+====
+
+[[v19-2-11]]
+
+^<<v19-2-11,11>>^ Serve Jehovah with fear,
+And rejoice with trembling.
+
+[[v19-2-12]]
+
+^<<v19-2-12,12>>^ Honor^&#42;1^ the son, or God^&#42;2^ will become indignant
+And you will perish from the way,
+For His anger flares up quickly.
+Happy are all those taking refuge in Him.
+
+[NOTE]
+====
+. Lit., “Kiss.”
+. Lit., “he.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-001.adoc#v19-1-0[&#60; Capítulo Anterior] | <<v19-2-0,Topo>> | xref:019-psalm/019-psalm-003.adoc#v19-3-0[Próximo Capítulo &#62;]

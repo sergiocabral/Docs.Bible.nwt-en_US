@@ -1,0 +1,250 @@
+include::./index.adoc[]
+
+[[v3-25-0]]
+=== Leviticus, 25
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v3-25-1]]
+
+^<<v3-25-1,1>>^ Jehovah spoke further to Moses on Mount Siʹnai, saying:
+
+[[v3-25-2]]
+
+^<<v3-25-2,2>>^ “Speak to the Israelites and tell them, ‘When you eventually come into the land that I am giving you, then the land will observe a sabbath to Jehovah.
+
+[[v3-25-3]]
+
+^<<v3-25-3,3>>^ Six years you should sow your field with seed, and six years you should prune your vineyard, and you will gather the land’s produce.
+
+[[v3-25-4]]
+
+^<<v3-25-4,4>>^ But in the seventh year, there should be a sabbath of complete rest for the land, a sabbath to Jehovah. You should not sow your field with seed or prune your vineyard.
+
+[[v3-25-5]]
+
+^<<v3-25-5,5>>^ You must not reap what grows on its own from the grain left after the harvest, and the grapes of your unpruned vine you must not gather. There should be a year of complete rest for the land.
+
+[[v3-25-6]]
+
+^<<v3-25-6,6>>^ However, you may eat the food that grows in the land during its sabbath; you, your male and female slaves, your hired worker, and the foreign settlers who are residing with you may eat it,
+
+[[v3-25-7]]
+
+^<<v3-25-7,7>>^ as well as the domestic and the wild animals in your land. Everything the land produces may be eaten.
+
+[[v3-25-8]]
+
+^<<v3-25-8,8>>^ “‘You will count off seven sabbath years, seven times seven years, and the days of the seven sabbath years will amount to 49 years.
+
+[[v3-25-9]]
+
+^<<v3-25-9,9>>^ You will then sound the horn loudly in the seventh month, on the tenth of the month; on the Day of Atonement, you should cause the sound of the horn to be heard in all your land.
+
+[[v3-25-10]]
+
+^<<v3-25-10,10>>^ You must sanctify the 50th year and proclaim liberty in the land to all its inhabitants. It will become a Jubilee for you, and each of you will return to his property and each of you should return to his family.
+
+[[v3-25-11]]
+
+^<<v3-25-11,11>>^ A Jubilee is what that 50th year will become for you. You will not sow seed or reap what grew on its own from leftover grain nor gather the grapes of unpruned vines.
+
+[[v3-25-12]]
+
+^<<v3-25-12,12>>^ For it is a Jubilee. It is to be holy to you. You may eat only what the land produces by itself.
+
+[[v3-25-13]]
+
+^<<v3-25-13,13>>^ “‘In this year of the Jubilee, each of you should return to his property.
+
+[[v3-25-14]]
+
+^<<v3-25-14,14>>^ If you sell anything to your fellow man or if you buy from him, do not exploit one another.
+
+[[v3-25-15]]
+
+^<<v3-25-15,15>>^ You should buy from your fellow man, taking into account the number of the years after the Jubilee, and he should sell to you according to the remaining years for crops.
+
+[[v3-25-16]]
+
+^<<v3-25-16,16>>^ If there are many years remaining, he may increase its purchase price, and when there are few years left, he should reduce its purchase price, because he is selling you the number of crops to be produced.
+
+[[v3-25-17]]
+
+^<<v3-25-17,17>>^ No one among you should exploit his fellow man, and you must be in fear of your God, for I am Jehovah your God.
+
+[[v3-25-18]]
+
+^<<v3-25-18,18>>^ By your carrying out my statutes and keeping my judicial decisions, you will dwell in security in the land.
+
+[[v3-25-19]]
+
+^<<v3-25-19,19>>^ The land will give its fruitage, and you will eat to satisfaction and dwell there in security.
+
+[[v3-25-20]]
+
+^<<v3-25-20,20>>^ “‘But if you should say: “What will we eat in the seventh year if we may not sow seed or gather our crops?”
+
+[[v3-25-21]]
+
+^<<v3-25-21,21>>^ I will command my blessing for you in the sixth year, and the land will yield a crop sufficient for three years.
+
+[[v3-25-22]]
+
+^<<v3-25-22,22>>^ Then you will sow seed in the eighth year and eat from the old crop until the ninth year. Until its crop arrives, you will eat from the old.
+
+[[v3-25-23]]
+
+^<<v3-25-23,23>>^ “‘The land should not be sold on a permanent basis, because the land is mine. For you are foreign residents and settlers from my standpoint.
+
+[[v3-25-24]]
+
+^<<v3-25-24,24>>^ Throughout the land of your possession, you should grant the right of buying back the land.
+
+[[v3-25-25]]
+
+^<<v3-25-25,25>>^ “‘If your brother becomes poor and has to sell some of his property, a repurchaser who is closely related to him must come and buy back what his brother sold.
+
+[[v3-25-26]]
+
+^<<v3-25-26,26>>^ If anyone has no repurchaser but he becomes prosperous and finds the means to repurchase it,
+
+[[v3-25-27]]
+
+^<<v3-25-27,27>>^ he should calculate its value for the years since he sold it and refund the difference to the man whom he sold it to. Then he may return to his property.
+
+[[v3-25-28]]
+
+^<<v3-25-28,28>>^ “‘But if he does not find the means to get it back from him, what he sold will remain with the purchaser until the Jubilee year; and it will revert to him in the Jubilee, and he will return to his property.
+
+[[v3-25-29]]
+
+^<<v3-25-29,29>>^ “‘Now if a man should sell a home in a walled city, his right of repurchase will also continue until the end of the year from the time of his completing the sale; his right of repurchase will be valid a whole year.
+
+[[v3-25-30]]
+
+^<<v3-25-30,30>>^ But if it is not bought back by the end of one full year, the house within the walled city will become the permanent property of its purchaser throughout his generations. It should not be released in the Jubilee.
+
+[[v3-25-31]]
+
+^<<v3-25-31,31>>^ However, the houses of settlements with no surrounding wall should be considered to be part of the field of the countryside. The right of repurchase should continue for it, and it should be released in the Jubilee.
+
+[[v3-25-32]]
+
+^<<v3-25-32,32>>^ “‘As for the houses of the Levites within their cities, the Levites will have the permanent right to repurchase them.
+
+[[v3-25-33]]
+
+^<<v3-25-33,33>>^ When the property of the Levites is not bought back, the house sold in the city belonging to them will also be released in the Jubilee, because the houses of the cities of the Levites are their property among the Israelites.
+
+[[v3-25-34]]
+
+^<<v3-25-34,34>>^ Moreover, the field of pasture ground surrounding their cities may not be sold, for it is their permanent possession.
+
+[[v3-25-35]]
+
+^<<v3-25-35,35>>^ “‘If your brother who is nearby becomes poor and cannot support himself, you must sustain him as you would a foreign resident and a settler, so that he may keep alive with you.
+
+[[v3-25-36]]
+
+^<<v3-25-36,36>>^ Do not take interest or make a profit^&#42;1^ from him. You must be in fear of your God, and your brother will keep alive with you.
+
+[NOTE]
+====
+. Or “take usury.”
+====
+
+[[v3-25-37]]
+
+^<<v3-25-37,37>>^ You must not lend him your money on interest or give out your food for profit.
+
+[[v3-25-38]]
+
+^<<v3-25-38,38>>^ I am Jehovah your God, who brought you out of the land of Egypt to give you the land of Caʹnaan, to prove myself your God.
+
+[[v3-25-39]]
+
+^<<v3-25-39,39>>^ “‘If your brother who lives nearby becomes poor and he has to sell himself to you, you must not force him to do slave labor.
+
+[[v3-25-40]]
+
+^<<v3-25-40,40>>^ He should be treated like a hired worker, like a settler. He should serve with you until the Jubilee year.
+
+[[v3-25-41]]
+
+^<<v3-25-41,41>>^ Then he will leave you, he and his children^&#42;1^ with him, and return to his family. He should return to the property of his forefathers.
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v3-25-42]]
+
+^<<v3-25-42,42>>^ For they are my slaves whom I brought out of the land of Egypt. They should not sell themselves the way a slave is sold.
+
+[[v3-25-43]]
+
+^<<v3-25-43,43>>^ You must not treat him cruelly, and you must be in fear of your God.
+
+[[v3-25-44]]
+
+^<<v3-25-44,44>>^ Your male and female slaves are to come from the nations around you, from them you may buy a male or a female slave.
+
+[[v3-25-45]]
+
+^<<v3-25-45,45>>^ Also from the sons of the foreign settlers who are residing with you, from them and from their families that are born to them in your land you may buy slaves, and they will become your possession.
+
+[[v3-25-46]]
+
+^<<v3-25-46,46>>^ You may pass them on as an inheritance to your sons after you to inherit as a permanent possession. You may use them as workers, but you must not subject your Israelite brothers to cruel treatment.
+
+[[v3-25-47]]
+
+^<<v3-25-47,47>>^ “‘But if a foreign resident or a settler among you becomes wealthy and your brother has become poor alongside him and must sell himself to the foreign resident or the settler who lives among you, or to a member of the family of the foreign resident,
+
+[[v3-25-48]]
+
+^<<v3-25-48,48>>^ he will continue to have the right of repurchase after he has sold himself. One of his brothers may buy him back,
+
+[[v3-25-49]]
+
+^<<v3-25-49,49>>^ or his uncle or the son of his uncle may buy him back, or any close relative,^&#42;1^ one of his family, may buy him back.
+“‘Or if he himself has become wealthy, he may also buy himself back.
+
+[NOTE]
+====
+. Or “any blood relative.”
+====
+
+[[v3-25-50]]
+
+^<<v3-25-50,50>>^ He should calculate with his purchaser the time from the year he sold himself to him until the Jubilee year, and the money of his sale will correspond to the number of years. His workdays during that time will be assessed at the rate of a hired worker.
+
+[[v3-25-51]]
+
+^<<v3-25-51,51>>^ If there are many years remaining, he should pay his repurchase price in proportion to the years that are left.
+
+[[v3-25-52]]
+
+^<<v3-25-52,52>>^ But if only a few years remain until the Jubilee year, he should then calculate for himself and pay his repurchase price in proportion to the years remaining.
+
+[[v3-25-53]]
+
+^<<v3-25-53,53>>^ He should continue to serve him year by year as a hired worker; and you should see to it that he does not treat him cruelly.
+
+[[v3-25-54]]
+
+^<<v3-25-54,54>>^ However, if he cannot buy himself back on these terms, he will then go free in the year of Jubilee, he and his children^&#42;1^ with him.
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v3-25-55]]
+
+^<<v3-25-55,55>>^ “‘For the Israelites are my own slaves. They are my slaves whom I brought out of the land of Egypt. I am Jehovah your God.
+
+'''
+
+xref:003-leviticus/003-leviticus-024.adoc#v3-24-0[&#60; Capítulo Anterior] | <<v3-25-0,Topo>> | xref:003-leviticus/003-leviticus-026.adoc#v3-26-0[Próximo Capítulo &#62;]

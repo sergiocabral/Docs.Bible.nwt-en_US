@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-11-0]]
+=== Psalm, 11
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of David._
+
+[[v19-11-1]]
+
+^<<v19-11-1,1>>^ In Jehovah I have taken refuge.
+So how can you say to me:^&#42;1^
+“Flee like a bird to your mountain!
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-11-2]]
+
+^<<v19-11-2,2>>^ See how the wicked bend the bow;
+They set their arrow on the bowstring,
+To shoot from the darkness those upright in heart.
+
+[[v19-11-3]]
+
+^<<v19-11-3,3>>^ When the foundations^&#42;1^ are torn down,
+What can the righteous do?”
+
+[NOTE]
+====
+. Or “the foundations of justice.”
+====
+
+[[v19-11-4]]
+
+^<<v19-11-4,4>>^ Jehovah is in his holy temple.
+Jehovah’s throne is in the heavens.
+His own eyes see, his watchful^&#42;1^ eyes examine the sons of men.
+
+[NOTE]
+====
+. Or “beaming.”
+====
+
+[[v19-11-5]]
+
+^<<v19-11-5,5>>^ Jehovah examines the righteous one as well as the wicked one;
+He^&#42;1^ hates anyone who loves violence.
+
+[NOTE]
+====
+. Or “His soul; His very being.”
+====
+
+[[v19-11-6]]
+
+^<<v19-11-6,6>>^ Upon the wicked, he will rain down snares;^&#42;1^
+Fire and sulfur and a scorching wind will be the portion of their cup.
+
+[NOTE]
+====
+. Or possibly, “burning coals.”
+====
+
+[[v19-11-7]]
+
+^<<v19-11-7,7>>^ For Jehovah is righteous; he loves righteous acts.
+The upright will see his face.^&#42;1^
+
+[NOTE]
+====
+. Or “experience his favor.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-010.adoc#v19-10-0[&#60; Capítulo Anterior] | <<v19-11-0,Topo>> | xref:019-psalm/019-psalm-012.adoc#v19-12-0[Próximo Capítulo &#62;]

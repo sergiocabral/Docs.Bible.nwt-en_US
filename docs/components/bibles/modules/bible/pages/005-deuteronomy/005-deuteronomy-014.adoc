@@ -1,0 +1,162 @@
+include::./index.adoc[]
+
+[[v5-14-0]]
+=== Deuteronomy, 14
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v5-14-1]]
+
+^<<v5-14-1,1>>^ “You are sons of Jehovah your God. Do not cut yourselves or shave your foreheads bald^&#42;1^ for a dead person.
+
+[NOTE]
+====
+. Lit., “put (make) baldness between your eyes.”
+====
+
+[[v5-14-2]]
+
+^<<v5-14-2,2>>^ For you are a holy people to Jehovah your God, and Jehovah has chosen you to become his people, his special property,^&#42;1^ out of all the peoples who are on the face of the earth.
+
+[NOTE]
+====
+. Or “treasured possession.”
+====
+
+[[v5-14-3]]
+
+^<<v5-14-3,3>>^ “You must not eat anything that is detestable.
+
+[[v5-14-4]]
+
+^<<v5-14-4,4>>^ These are the animals that you may eat: the bull, the sheep, the goat,
+
+[[v5-14-5]]
+
+^<<v5-14-5,5>>^ the deer, the gazelle, the roebuck, the wild goat, the antelope, the wild sheep, and the mountain sheep.
+
+[[v5-14-6]]
+
+^<<v5-14-6,6>>^ You may eat any animal that has a split hoof divided into two and that chews the cud.
+
+[[v5-14-7]]
+
+^<<v5-14-7,7>>^ However, you must not eat the following animals that chew the cud or that have split hooves: the camel, the hare, and the rock badger, because they chew the cud but do not have split hooves. They are unclean for you.
+
+[[v5-14-8]]
+
+^<<v5-14-8,8>>^ Also the pig because it has a split hoof but does not chew the cud. It is unclean for you. You must not eat their flesh or touch their carcasses.
+
+[[v5-14-9]]
+
+^<<v5-14-9,9>>^ “Of everything that is living in the waters, you may eat these: Anything with fins and scales, you may eat.
+
+[[v5-14-10]]
+
+^<<v5-14-10,10>>^ But you must not eat anything that has no fins and scales. It is unclean for you.
+
+[[v5-14-11]]
+
+^<<v5-14-11,11>>^ “You may eat any clean bird.
+
+[[v5-14-12]]
+
+^<<v5-14-12,12>>^ But you must not eat these: the eagle, the osprey, the black vulture,
+
+[[v5-14-13]]
+
+^<<v5-14-13,13>>^ the red kite, the black kite, every kind of glede,
+
+[[v5-14-14]]
+
+^<<v5-14-14,14>>^ every kind of raven,
+
+[[v5-14-15]]
+
+^<<v5-14-15,15>>^ the ostrich, the owl, the gull, every kind of falcon,
+
+[[v5-14-16]]
+
+^<<v5-14-16,16>>^ the little owl, the long-eared owl, the swan,
+
+[[v5-14-17]]
+
+^<<v5-14-17,17>>^ the pelican, the vulture, the cormorant,
+
+[[v5-14-18]]
+
+^<<v5-14-18,18>>^ the stork, every kind of heron, the hoopoe, and the bat.
+
+[[v5-14-19]]
+
+^<<v5-14-19,19>>^ Every winged swarming creature^&#42;1^ also is unclean for you. They should not be eaten.
+
+[NOTE]
+====
+. Or “insect.”
+====
+
+[[v5-14-20]]
+
+^<<v5-14-20,20>>^ Any clean flying creature you may eat.
+
+[[v5-14-21]]
+
+^<<v5-14-21,21>>^ “You must not eat any animal that was found dead. You may give it to the foreign resident who is inside your cities,^&#42;1^ and he may eat it, or it may be sold to a foreigner. For you are a holy people to Jehovah your God.
+“You must not boil a young goat in its mother’s milk.
+
+[NOTE]
+====
+. Lit., “gates.”
+====
+
+[[v5-14-22]]
+
+^<<v5-14-22,22>>^ “You must without fail give a tenth^&#42;1^ of everything your seed produces in the field year by year.
+
+[NOTE]
+====
+. Or “a tithe.”
+====
+
+[[v5-14-23]]
+
+^<<v5-14-23,23>>^ You will eat the tenth part of your grain, your new wine, your oil, and the firstborn of your herd and your flock before Jehovah your God in the place that he chooses to have his name reside, so that you may learn to fear Jehovah your God always.
+
+[[v5-14-24]]
+
+^<<v5-14-24,24>>^ “But if the journey should be too long for you and you are not able to carry it to the place that Jehovah your God chooses as the place for his name because it is far away from you (because Jehovah your God will bless you),
+
+[[v5-14-25]]
+
+^<<v5-14-25,25>>^ you may then convert it into money, and with your money in hand, travel to the place that Jehovah your God will choose.
+
+[[v5-14-26]]
+
+^<<v5-14-26,26>>^ You may then spend the money on whatever you desire^&#42;1^—cattle, sheep, goats, wine and other alcoholic beverages, and anything you please;^&#42;2^ and you will eat there before Jehovah your God and rejoice, you and your household.
+
+[NOTE]
+====
+. Or “your soul desires.”
+. Or “anything your soul may ask of you.”
+====
+
+[[v5-14-27]]
+
+^<<v5-14-27,27>>^ And do not neglect the Levite who is inside your cities, for he has not been given a share or an inheritance with you.
+
+[[v5-14-28]]
+
+^<<v5-14-28,28>>^ “At the end of every three years, you should bring out the entire tenth part of your produce for that year and deposit it inside your cities.
+
+[[v5-14-29]]
+
+^<<v5-14-29,29>>^ Then the Levite, who has not been given a share or an inheritance with you, the foreign resident, the fatherless child,^&#42;1^ and the widow who are in your cities will come and eat their fill, so that Jehovah your God may bless you in all that you do.
+
+[NOTE]
+====
+. Or “the orphan.”
+====
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-013.adoc#v5-13-0[&#60; Capítulo Anterior] | <<v5-14-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-015.adoc#v5-15-0[Próximo Capítulo &#62;]

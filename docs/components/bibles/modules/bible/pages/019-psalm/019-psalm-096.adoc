@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-96-0]]
+=== Psalm, 96
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-96-1]]
+
+^<<v19-96-1,1>>^ Sing to Jehovah a new song.
+Sing to Jehovah, all the earth!
+
+[[v19-96-2]]
+
+^<<v19-96-2,2>>^ Sing to Jehovah; praise his name.
+Proclaim the good news of his salvation day after day.
+
+[[v19-96-3]]
+
+^<<v19-96-3,3>>^ Declare his glory among the nations,
+His wonderful works among all the peoples.
+
+[[v19-96-4]]
+
+^<<v19-96-4,4>>^ Jehovah is great and most worthy of praise.
+He is more awe-inspiring than all other gods.
+
+[[v19-96-5]]
+
+^<<v19-96-5,5>>^ All the gods of the peoples are worthless gods,
+But Jehovah is the one who made the heavens.
+
+[[v19-96-6]]
+
+^<<v19-96-6,6>>^ In his presence are majesty^&#42;1^ and splendor;
+Strength and beauty are in his sanctuary.
+
+[NOTE]
+====
+. Or “dignity.”
+====
+
+[[v19-96-7]]
+
+^<<v19-96-7,7>>^ Give Jehovah his due, you families of the peoples,
+Give Jehovah his due for his glory and strength.
+
+[[v19-96-8]]
+
+^<<v19-96-8,8>>^ Give Jehovah the glory due his name;
+Bring a gift and come into his courtyards.
+
+[[v19-96-9]]
+
+^<<v19-96-9,9>>^ Bow down to^&#42;1^ Jehovah in holy adornment;^&#42;2^
+Tremble before him, all the earth!
+
+[NOTE]
+====
+. Or “Worship.”
+. Or possibly, “because of the splendor of his holiness.”
+====
+
+[[v19-96-10]]
+
+^<<v19-96-10,10>>^ Declare among the nations: “Jehovah has become King!
+The earth^&#42;1^ is firmly established, it cannot be moved.^&#42;2^
+He will judge^&#42;3^ the peoples fairly.”
+
+[NOTE]
+====
+. Or “productive land.”
+. Or “cannot totter.”
+. Or “plead the cause of.”
+====
+
+[[v19-96-11]]
+
+^<<v19-96-11,11>>^ Let the heavens rejoice, and let the earth be joyful;
+Let the sea thunder and all that fills it;
+
+[[v19-96-12]]
+
+^<<v19-96-12,12>>^ Let the fields and everything in them rejoice.
+At the same time let all the trees of the forest shout joyfully
+
+[[v19-96-13]]
+
+^<<v19-96-13,13>>^ Before Jehovah, for he is coming,^&#42;1^
+He is coming to judge the earth.
+He will judge the inhabited earth^&#42;2^ with righteousness
+And the peoples with his faithfulness.
+
+[NOTE]
+====
+. Or “has come.”
+. Or “the productive land.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-095.adoc#v19-95-0[&#60; Capítulo Anterior] | <<v19-96-0,Topo>> | xref:019-psalm/019-psalm-097.adoc#v19-97-0[Próximo Capítulo &#62;]

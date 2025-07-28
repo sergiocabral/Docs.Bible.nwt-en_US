@@ -1,0 +1,144 @@
+include::./index.adoc[]
+
+[[v19-72-0]]
+=== Psalm, 72
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Regarding Solomon._
+
+[[v19-72-1]]
+
+^<<v19-72-1,1>>^ O God, give your judgments to the king,
+And endow the son of the king with your righteousness.
+
+[[v19-72-2]]
+
+^<<v19-72-2,2>>^ May he plead the cause of your people with righteousness,
+And of your lowly ones with justice.
+
+[[v19-72-3]]
+
+^<<v19-72-3,3>>^ May the mountains bring peace to the people,
+And may the hills bring righteousness.
+
+[[v19-72-4]]
+
+^<<v19-72-4,4>>^ Let him defend^&#42;1^ the lowly among the people,
+Let him save the sons of the poor,
+And let him crush the defrauder.
+
+[NOTE]
+====
+. Lit., “judge.”
+====
+
+[[v19-72-5]]
+
+^<<v19-72-5,5>>^ They will fear you as long as there is a sun
+And as long as the moon remains,
+For generation after generation.
+
+[[v19-72-6]]
+
+^<<v19-72-6,6>>^ He will be like the rain that falls on the mown grass,
+Like showers of rain that water the earth.
+
+[[v19-72-7]]
+
+^<<v19-72-7,7>>^ In his days the righteous will flourish,^&#42;1^
+And peace will abound until the moon is no more.
+
+[NOTE]
+====
+. Lit., “sprout.”
+====
+
+[[v19-72-8]]
+
+^<<v19-72-8,8>>^ He will have subjects^&#42;1^ from sea to sea
+And from the River^&#42;2^ to the ends of the earth.
+
+[NOTE]
+====
+. Or “will rule.”
+. That is, the Euphrates.
+====
+
+[[v19-72-9]]
+
+^<<v19-72-9,9>>^ The desert dwellers will bow down before him,
+And his enemies will lick the dust.
+
+[[v19-72-10]]
+
+^<<v19-72-10,10>>^ The kings of Tarʹshish and of the islands will pay tribute.
+The kings of Sheʹba and of Seʹba will present gifts.
+
+[[v19-72-11]]
+
+^<<v19-72-11,11>>^ All the kings will bow down before him,
+And all the nations will serve him.
+
+[[v19-72-12]]
+
+^<<v19-72-12,12>>^ For he will rescue the poor who cry for help,
+Also the lowly one and whoever has no helper.
+
+[[v19-72-13]]
+
+^<<v19-72-13,13>>^ He will have pity on the lowly and the poor,
+And the lives^&#42;1^ of the poor he will save.
+
+[NOTE]
+====
+. Or “souls.”
+====
+
+[[v19-72-14]]
+
+^<<v19-72-14,14>>^ From oppression and from violence he will rescue them,^&#42;1^
+And their blood will be precious in his eyes.
+
+[NOTE]
+====
+. Or “redeem their souls.”
+====
+
+[[v19-72-15]]
+
+^<<v19-72-15,15>>^ May he live and be given the gold of Sheʹba.
+May prayers be said for him continually,
+And may he be blessed all day long.
+
+[[v19-72-16]]
+
+^<<v19-72-16,16>>^ There will be an abundance of grain on the earth;
+On the top of the mountains it will overflow.
+His fruit will flourish as in Lebʹa·non,
+And in the cities people will blossom like the vegetation of the earth.
+
+[[v19-72-17]]
+
+^<<v19-72-17,17>>^ May his name endure forever,
+And may it prosper as long as the sun.
+May people obtain a blessing for themselves by means of him;
+May all nations pronounce him happy.
+
+[[v19-72-18]]
+
+^<<v19-72-18,18>>^ May Jehovah God be praised, Israel’s God,
+Who alone does wonderful things.
+
+[[v19-72-19]]
+
+^<<v19-72-19,19>>^ May his glorious name be praised forever,
+And may his glory fill the whole earth.
+Amen and Amen.
+
+[[v19-72-20]]
+
+^<<v19-72-20,20>>^ This completes the prayers of David, the son of Jesʹse.
+
+'''
+
+xref:019-psalm/019-psalm-071.adoc#v19-71-0[&#60; Capítulo Anterior] | <<v19-72-0,Topo>> | xref:019-psalm/019-psalm-073.adoc#v19-73-0[Próximo Capítulo &#62;]

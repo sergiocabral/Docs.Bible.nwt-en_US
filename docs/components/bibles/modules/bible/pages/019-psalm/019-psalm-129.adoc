@@ -1,0 +1,52 @@
+include::./index.adoc[]
+
+[[v19-129-0]]
+=== Psalm, 129
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-129-1]]
+
+^<<v19-129-1,1>>^ “Since my youth they have constantly attacked me”
+—Let Israel now say—
+
+[[v19-129-2]]
+
+^<<v19-129-2,2>>^ “Since my youth they have constantly attacked me;
+But they have not defeated me.
+
+[[v19-129-3]]
+
+^<<v19-129-3,3>>^ Plowmen have plowed across my back;
+They have made their furrows long.”
+
+[[v19-129-4]]
+
+^<<v19-129-4,4>>^ But Jehovah is righteous;
+He has cut up the ropes of the wicked.
+
+[[v19-129-5]]
+
+^<<v19-129-5,5>>^ They will be put to shame and will retreat in disgrace,
+All those who hate Zion.
+
+[[v19-129-6]]
+
+^<<v19-129-6,6>>^ They will become like grass on the rooftops
+That withers before it is pulled up,
+
+[[v19-129-7]]
+
+^<<v19-129-7,7>>^ That cannot fill the reaper’s hand
+Nor the arms of the one gathering sheaves.
+
+[[v19-129-8]]
+
+^<<v19-129-8,8>>^ Those passing by will not say:
+“May the blessing of Jehovah be upon you;
+We bless you in the name of Jehovah.”
+
+'''
+
+xref:019-psalm/019-psalm-128.adoc#v19-128-0[&#60; Capítulo Anterior] | <<v19-129-0,Topo>> | xref:019-psalm/019-psalm-130.adoc#v19-130-0[Próximo Capítulo &#62;]

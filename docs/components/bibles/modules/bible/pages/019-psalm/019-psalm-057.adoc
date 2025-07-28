@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v19-57-0]]
+=== Psalm, 57
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; set to “Do Not Bring to Ruin.” Of David. Mikʹtam.^&#42;1^ When he ran away from Saul into the cave._
+
+[[v19-57-1]]
+
+^<<v19-57-1,1>>^ Show me favor, O God, show me favor,
+For I take^&#42;1^ refuge in you,
+And in the shadow of your wings I take refuge until the troubles pass.
+
+[NOTE]
+====
+. Or “my soul takes.”
+====
+
+[[v19-57-2]]
+
+^<<v19-57-2,2>>^ I call to God the Most High,
+To the true God, who brings them to an end for me.
+
+[[v19-57-3]]
+
+^<<v19-57-3,3>>^ He will send help from heaven and save me.
+He will frustrate the one snapping at me. (Selah)
+God will send his loyal love and his faithfulness.
+
+[[v19-57-4]]
+
+^<<v19-57-4,4>>^ I am^&#42;1^ surrounded by lions;
+I must lie among men who want to devour me,
+Whose teeth are spears and arrows
+And whose tongue is a sharp sword.
+
+[NOTE]
+====
+. Or “My soul is.”
+====
+
+[[v19-57-5]]
+
+^<<v19-57-5,5>>^ Be exalted above the heavens, O God;
+May your glory be over all the earth.
+
+[[v19-57-6]]
+
+^<<v19-57-6,6>>^ They have prepared a net to ensnare my feet;
+I am^&#42;1^ bowed down with distress.
+They have dug a pit ahead of me,
+But they fell into it themselves. (Selah)
+
+[NOTE]
+====
+. Or “My soul is.”
+====
+
+[[v19-57-7]]
+
+^<<v19-57-7,7>>^ My heart is steadfast, O God,
+My heart is steadfast.
+I will sing and make music.
+
+[[v19-57-8]]
+
+^<<v19-57-8,8>>^ Do awake, my glory.
+Do awake, O stringed instrument; you too, O harp.
+I will awaken the dawn.
+
+[[v19-57-9]]
+
+^<<v19-57-9,9>>^ I will praise you among the peoples, O Jehovah;
+I will sing praises^&#42;1^ to you among the nations.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-57-10]]
+
+^<<v19-57-10,10>>^ For your loyal love is great, as high as the heavens,
+And your faithfulness, up to the skies.
+
+[[v19-57-11]]
+
+^<<v19-57-11,11>>^ Be exalted above the heavens, O God;
+May your glory be over all the earth.
+
+'''
+
+xref:019-psalm/019-psalm-056.adoc#v19-56-0[&#60; Capítulo Anterior] | <<v19-57-0,Topo>> | xref:019-psalm/019-psalm-058.adoc#v19-58-0[Próximo Capítulo &#62;]

@@ -1,0 +1,27 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Esther, 10
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ King A·has·u·eʹrus imposed forced labor on the land and the islands of the sea.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ And all his powerful and mighty accomplishments, as well as the detailed account of Morʹde·cai’s greatness to which the king exalted him, are they not written in the book of the history of the times of the kings of Meʹdi·a and Persia?
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ For Morʹde·cai the Jew was second only to King A·has·u·eʹrus. He was great^&#42;1^ among the Jews and respected by the multitude of his brothers, working for the good of his people and advocating the welfare of^&#42;2^ all their descendants.
+
+[NOTE]
+====
+. Or “highly regarded.”
+. Lit., “and speaking peace for.”
+====
+
+'''
+
+xref:017-esther/017-esther-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-job/018-job-001.adoc#v18-1-0[Próximo Capítulo &#62;]

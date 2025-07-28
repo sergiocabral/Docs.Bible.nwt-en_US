@@ -1,0 +1,255 @@
+include::./index.adoc[]
+
+[[v42-7-0]]
+=== According to Luke, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v42-7-1]]
+
+^<<v42-7-1,1>>^ When he had completed what he had to say to the people, he entered Ca·perʹna·um.
+
+[[v42-7-2]]
+
+^<<v42-7-2,2>>^ Now an army officer’s slave, who was dear to him, was seriously ill and about to pass away.
+
+[[v42-7-3]]
+
+^<<v42-7-3,3>>^ When he heard about Jesus, he sent some elders of the Jews to him to ask him to come and make his slave well.
+
+[[v42-7-4]]
+
+^<<v42-7-4,4>>^ They came up to Jesus and began to plead with him earnestly, saying: “He is worthy of your granting him this,
+
+[[v42-7-5]]
+
+^<<v42-7-5,5>>^ for he loves our nation and he himself built our synagogue.”
+
+[[v42-7-6]]
+
+^<<v42-7-6,6>>^ So Jesus went with them. But when he was not far from the house, the army officer had already sent friends to say to him: “Sir, do not bother, for I am not worthy to have you come under my roof.
+
+[[v42-7-7]]
+
+^<<v42-7-7,7>>^ That is why I did not consider myself worthy to come to you. But say the word, and let my servant be healed.
+
+[[v42-7-8]]
+
+^<<v42-7-8,8>>^ For I too am a man placed under authority, having soldiers under me, and I say to this one, ‘Go!’ and he goes, and to another, ‘Come!’ and he comes, and to my slave, ‘Do this!’ and he does it.”
+
+[[v42-7-9]]
+
+^<<v42-7-9,9>>^ When Jesus heard these things, he was amazed at him, and he turned to the crowd following him and said: “I tell you, not even in Israel have I found so great a faith.”
+
+[[v42-7-10]]
+
+^<<v42-7-10,10>>^ And when those who had been sent returned to the house, they found the slave in good health.
+
+[[v42-7-11]]
+
+^<<v42-7-11,11>>^ Soon afterward he traveled to a city called Naʹin, and his disciples and a large crowd were traveling with him.
+
+[[v42-7-12]]
+
+^<<v42-7-12,12>>^ As he got near the gate of the city, why look! there was a dead man being carried out, the only^&#42;1^ son of his mother. Besides, she was a widow. A considerable crowd from the city was also with her.
+
+[NOTE]
+====
+. Lit., “only-begotten.”
+====
+
+[[v42-7-13]]
+
+^<<v42-7-13,13>>^ When the Lord caught sight of her, he was moved with pity for her, and he said to her: “Stop weeping.”
+
+[[v42-7-14]]
+
+^<<v42-7-14,14>>^ With that he approached and touched the bier,^&#42;1^ and the bearers stood still. Then he said: “Young man, I say to you, get up!”
+
+[NOTE]
+====
+. Or “funeral stretcher.”
+====
+
+[[v42-7-15]]
+
+^<<v42-7-15,15>>^ And the dead man sat up and started to speak, and Jesus gave him to his mother.
+
+[[v42-7-16]]
+
+^<<v42-7-16,16>>^ Now fear seized them all, and they began to glorify God, saying: “A great prophet has been raised up among us,” and, “God has turned his attention to his people.”
+
+[[v42-7-17]]
+
+^<<v42-7-17,17>>^ And this news concerning him spread out into all Ju·deʹa and all the surrounding country.
+
+[[v42-7-18]]
+
+^<<v42-7-18,18>>^ Now John’s disciples reported to him all these things.
+
+[[v42-7-19]]
+
+^<<v42-7-19,19>>^ So John summoned two of his disciples and sent them to the Lord to ask: “Are you the Coming One, or are we to expect a different one?”
+
+[[v42-7-20]]
+
+^<<v42-7-20,20>>^ When they came to him, the men said: “John the Baptist sent us to you to ask, ‘Are you the Coming One, or are we to expect another?’”
+
+[[v42-7-21]]
+
+^<<v42-7-21,21>>^ In that hour he cured many people of sicknesses, serious diseases, and wicked spirits, and he granted many blind people the gift of sight.
+
+[[v42-7-22]]
+
+^<<v42-7-22,22>>^ In reply he said to them: “Go and report to John what you have seen and heard: The blind are now seeing, the lame are walking, the lepers are being cleansed, the deaf are hearing, the dead are being raised up, and the poor are being told the good news.
+
+[[v42-7-23]]
+
+^<<v42-7-23,23>>^ Happy is the one who finds no cause for stumbling in me.”
+
+[[v42-7-24]]
+
+^<<v42-7-24,24>>^ When the messengers of John had gone away, Jesus began to speak to the crowds about John: “What did you go out into the wilderness to see? A reed being tossed by the wind?
+
+[[v42-7-25]]
+
+^<<v42-7-25,25>>^ What, then, did you go out to see? A man dressed in soft garments?^&#42;1^ Why, those wearing splendid dress and living in luxury are in royal houses.
+
+[NOTE]
+====
+. Or “fine clothing?”
+====
+
+[[v42-7-26]]
+
+^<<v42-7-26,26>>^ Really, then, what did you go out to see? A prophet? Yes, I tell you, and far more than a prophet.
+
+[[v42-7-27]]
+
+^<<v42-7-27,27>>^ This is the one about whom it is written: ‘Look! I am sending my messenger ahead of you,^&#42;1^ who will prepare your way ahead of you.’
+
+[NOTE]
+====
+. Lit., “before your face.”
+====
+
+[[v42-7-28]]
+
+^<<v42-7-28,28>>^ I tell you, among those born of women there is no one greater than John, but a lesser person in the Kingdom of God is greater than he is.”
+
+[[v42-7-29]]
+
+^<<v42-7-29,29>>^ (When all the people and the tax collectors heard this, they declared God to be righteous, for they had been baptized with the baptism of John.
+
+[[v42-7-30]]
+
+^<<v42-7-30,30>>^ But the Pharisees and those versed in the Law disregarded the counsel^&#42;1^ of God to them, since they had not been baptized by him.)
+
+[NOTE]
+====
+. Or “direction.”
+====
+
+[[v42-7-31]]
+
+^<<v42-7-31,31>>^ “With whom, therefore, should I compare the men of this generation, and whom are they like?
+
+[[v42-7-32]]
+
+^<<v42-7-32,32>>^ They are like young children sitting in a marketplace and calling out to one another, saying: ‘We played the flute for you, but you did not dance; we wailed, but you did not weep.’
+
+[[v42-7-33]]
+
+^<<v42-7-33,33>>^ Likewise, John the Baptist has come neither eating bread nor drinking wine, but you say: ‘He has a demon.’
+
+[[v42-7-34]]
+
+^<<v42-7-34,34>>^ The Son of man has come eating and drinking, but you say: ‘Look! A man who is a glutton and is given to drinking wine, a friend of tax collectors and sinners!’
+
+[[v42-7-35]]
+
+^<<v42-7-35,35>>^ All the same, wisdom is proved righteous^&#42;1^ by all its children.”^&#42;2^
+
+[NOTE]
+====
+. Or “is vindicated.”
+. Or “its results.”
+====
+
+[[v42-7-36]]
+
+^<<v42-7-36,36>>^ Now one of the Pharisees kept asking him to dine with him. So he entered the house of the Pharisee and reclined at the table.
+
+[[v42-7-37]]
+
+^<<v42-7-37,37>>^ And look! a woman who was known in the city to be a sinner learned that he was dining^&#42;1^ in the house of the Pharisee, and she brought an alabaster jar of perfumed oil.
+
+[NOTE]
+====
+. Or “reclining at the table.”
+====
+
+[[v42-7-38]]
+
+^<<v42-7-38,38>>^ Taking a position behind him at his feet, she wept and began to wet his feet with her tears, and she wiped them off with the hair of her head. Also, she tenderly kissed his feet and poured the perfumed oil on them.
+
+[[v42-7-39]]
+
+^<<v42-7-39,39>>^ Seeing this, the Pharisee who had invited him said to himself: “If this man were really a prophet, he would know who and what kind of woman it is who is touching him, that she is a sinner.”
+
+[[v42-7-40]]
+
+^<<v42-7-40,40>>^ But in reply Jesus said to him: “Simon, I have something to say to you.” He said: “Teacher, say it!”
+
+[[v42-7-41]]
+
+^<<v42-7-41,41>>^ “Two men were debtors to a certain lender; the one was in debt for 500 de·narʹi·i,^&#42;1^ but the other for 50.
+
+[NOTE]
+====
+. See App. B14.
+====
+
+[[v42-7-42]]
+
+^<<v42-7-42,42>>^ When they did not have anything to pay him back with, he freely forgave them both. Therefore, which one of them will love him more?”
+
+[[v42-7-43]]
+
+^<<v42-7-43,43>>^ In answer Simon said: “I suppose it is the one whom he forgave more.” He said to him: “You judged correctly.”
+
+[[v42-7-44]]
+
+^<<v42-7-44,44>>^ With that he turned to the woman and said to Simon: “Do you see this woman? I entered your house; you gave me no water for my feet. But this woman wet my feet with her tears and wiped them off with her hair.
+
+[[v42-7-45]]
+
+^<<v42-7-45,45>>^ You gave me no kiss, but this woman, from the hour that I came in, did not stop tenderly kissing my feet.
+
+[[v42-7-46]]
+
+^<<v42-7-46,46>>^ You did not pour oil on my head, but this woman poured perfumed oil on my feet.
+
+[[v42-7-47]]
+
+^<<v42-7-47,47>>^ Because of this, I tell you, her sins, many^&#42;1^ though they are, are forgiven, because she loved much. But the one who is forgiven little, loves little.”
+
+[NOTE]
+====
+. Or “great.”
+====
+
+[[v42-7-48]]
+
+^<<v42-7-48,48>>^ Then he said to her: “Your sins are forgiven.”
+
+[[v42-7-49]]
+
+^<<v42-7-49,49>>^ Those reclining at the table with him started to say among themselves: “Who is this man who even forgives sins?”
+
+[[v42-7-50]]
+
+^<<v42-7-50,50>>^ But he said to the woman: “Your faith has saved you; go in peace.”
+
+'''
+
+xref:042-luke/042-luke-006.adoc#v42-6-0[&#60; Capítulo Anterior] | <<v42-7-0,Topo>> | xref:042-luke/042-luke-008.adoc#v42-8-0[Próximo Capítulo &#62;]

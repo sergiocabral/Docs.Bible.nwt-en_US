@@ -1,0 +1,234 @@
+include::./index.adoc[]
+
+[[v16-9-0]]
+=== Nehemiah, 9
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v16-9-1]]
+
+^<<v16-9-1,1>>^ On the 24th day of this month the Israelites assembled; they were fasting with sackcloth and dust on themselves.
+
+[[v16-9-2]]
+
+^<<v16-9-2,2>>^ Those of Israelite descent then separated themselves from all the foreigners, and they stood and confessed their own sins and the errors of their fathers.
+
+[[v16-9-3]]
+
+^<<v16-9-3,3>>^ Then they stood up at their place and read aloud from the book of the Law of Jehovah their God for a fourth of the day;^&#42;1^ and for another fourth of it they were confessing and bowing down to Jehovah their God.
+
+[NOTE]
+====
+. Or “for three hours.”
+====
+
+[[v16-9-4]]
+
+^<<v16-9-4,4>>^ Jeshʹu·a, Baʹni, Kadʹmi·el, Sheb·a·niʹah, Bunʹni, She·re·biʹah, Baʹni, and Che·naʹni stood on the raised platform of the Levites, and they cried out with a loud voice to Jehovah their God.
+
+[[v16-9-5]]
+
+^<<v16-9-5,5>>^ And the Levites Jeshʹu·a, Kadʹmi·el, Baʹni, Hash·ab·neiʹah, She·re·biʹah, Ho·diʹah, Sheb·a·niʹah, and Peth·a·hiʹah said: “Stand up and praise Jehovah your God throughout all eternity.^&#42;1^ And let them praise your glorious name, which is exalted above all blessing and praise.
+
+[NOTE]
+====
+. Or “from eternity to eternity.”
+====
+
+[[v16-9-6]]
+
+^<<v16-9-6,6>>^ “You alone are Jehovah; you made the heavens, yes, the heaven of the heavens and all their army, the earth and all that is on it, the seas and all that is in them. And you preserve all of them alive, and the army of the heavens are bowing down to you.
+
+[[v16-9-7]]
+
+^<<v16-9-7,7>>^ You are Jehovah the true God, who chose Aʹbram and brought him out of Ur of the Chal·deʹans and gave him the name Abraham.
+
+[[v16-9-8]]
+
+^<<v16-9-8,8>>^ You found his heart faithful before you, so you made a covenant with him to give him the land of the Caʹnaan·ites, the Hitʹtites, the Amʹor·ites, the Perʹiz·zites, the Jebʹu·sites, and the Girʹga·shites, to give it to his offspring;^&#42;1^ and you kept your promises, because you are righteous.
+
+[NOTE]
+====
+. Lit., “seed.”
+====
+
+[[v16-9-9]]
+
+^<<v16-9-9,9>>^ “So you saw the affliction of our forefathers in Egypt, and you heard their outcry at the Red Sea.
+
+[[v16-9-10]]
+
+^<<v16-9-10,10>>^ Then you performed signs and miracles against Pharʹaoh and all his servants and all the people of his land, for you knew that they acted presumptuously against them. You made a name for yourself that remains to this day.
+
+[[v16-9-11]]
+
+^<<v16-9-11,11>>^ And you split the sea before them, so that they crossed through the sea on the dry land, and you hurled their pursuers into the depths like a stone thrown into the turbulent waters.
+
+[[v16-9-12]]
+
+^<<v16-9-12,12>>^ You led them by day with a pillar of cloud, and by night with a pillar of fire, to light up for them the way they should go.
+
+[[v16-9-13]]
+
+^<<v16-9-13,13>>^ And you came down on Mount Siʹnai and spoke with them from heaven and gave them righteous judgments, laws of truth,^&#42;1^ good regulations and commandments.
+
+[NOTE]
+====
+. Or “reliable laws.”
+====
+
+[[v16-9-14]]
+
+^<<v16-9-14,14>>^ You made known to them your holy Sabbath, and you gave them commandments, regulations, and a law through your servant Moses.
+
+[[v16-9-15]]
+
+^<<v16-9-15,15>>^ You gave them bread from heaven when they were hungry, and you brought water out of the crag when they were thirsty, and you told them to enter and take possession of the land that you had sworn^&#42;1^ to give to them.
+
+[NOTE]
+====
+. Lit., “lifted your hand.”
+====
+
+[[v16-9-16]]
+
+^<<v16-9-16,16>>^ “But they, our forefathers, acted presumptuously and became stubborn,^&#42;1^ and they would not listen to your commandments.
+
+[NOTE]
+====
+. Lit., “hardened their neck.”
+====
+
+[[v16-9-17]]
+
+^<<v16-9-17,17>>^ They refused to listen, and they did not remember your extraordinary acts that you performed among them, but they became stubborn^&#42;1^ and appointed a head to return to their slavery in Egypt. But you are a God ready to forgive,^&#42;2^ compassionate^&#42;3^ and merciful, slow to anger and abundant in loyal love,^&#42;4^ and you did not abandon them.
+
+[NOTE]
+====
+. Lit., “hardened their neck.”
+. Or “a God of acts of forgiveness.”
+. Or “gracious.”
+. Or “loving-kindness.”
+====
+
+[[v16-9-18]]
+
+^<<v16-9-18,18>>^ Even when they made for themselves a metal statue^&#42;1^ of a calf and were saying, ‘This is your God who led you up out of Egypt,’ and they committed great acts of disrespect,
+
+[NOTE]
+====
+. Or “molten statue.”
+====
+
+[[v16-9-19]]
+
+^<<v16-9-19,19>>^ even then you, in your great mercy, did not abandon them in the wilderness. The pillar of cloud did not depart from over them by day to lead them in the way, nor the pillar of fire by night to light up for them the way they should go.
+
+[[v16-9-20]]
+
+^<<v16-9-20,20>>^ And you gave your good spirit to give them insight, and you did not hold back your manna from their mouth, and you gave them water when they were thirsty.
+
+[[v16-9-21]]
+
+^<<v16-9-21,21>>^ For 40 years you provided them with food in the wilderness. They lacked nothing. Their garments did not wear out, and their feet did not become swollen.
+
+[[v16-9-22]]
+
+^<<v16-9-22,22>>^ “You gave them kingdoms and peoples, apportioning them piece by piece, so that they took possession of the land of Siʹhon, that is, the land of the king of Heshʹbon, as well as the land of Og the king of Baʹshan.
+
+[[v16-9-23]]
+
+^<<v16-9-23,23>>^ And you made their sons as numerous as the stars of the heavens. Then you brought them into the land that you had promised their forefathers that they should enter and possess.
+
+[[v16-9-24]]
+
+^<<v16-9-24,24>>^ So their sons went in and took possession of the land, and you subdued before them the Caʹnaan·ites, who were the inhabitants of the land, and you gave them into their hand, both their kings and the peoples of the land, to do with them as they pleased.
+
+[[v16-9-25]]
+
+^<<v16-9-25,25>>^ And they captured fortified cities and a fertile^&#42;1^ land, and they took possession of houses full of all sorts of good things, cisterns already dug, vineyards, olive groves, and fruit trees in abundance. So they ate and grew satisfied and fat, and they basked in your great goodness.
+
+[NOTE]
+====
+. Or “rich.”
+====
+
+[[v16-9-26]]
+
+^<<v16-9-26,26>>^ “However, they became disobedient and rebelled against you and turned their back on your Law.^&#42;1^ They killed your prophets who warned them so as to bring them back to you, and they committed acts of great disrespect.
+
+[NOTE]
+====
+. Lit., “and cast your Law behind their back.”
+====
+
+[[v16-9-27]]
+
+^<<v16-9-27,27>>^ For this you gave them into the hand of their adversaries, who kept causing them distress. But they would cry out to you in the time of their distress, and you would hear from the heavens; and because of your great mercy, you would give them saviors to rescue them out of the hand of their adversaries.
+
+[[v16-9-28]]
+
+^<<v16-9-28,28>>^ “But as soon as they had relief, they would again do what is bad before you, and you would abandon them to the hand of their enemies, who would dominate them.^&#42;1^ Then they would return and call to you for help, and you would hear from the heavens and rescue them time and again because of your great mercy.
+
+[NOTE]
+====
+. Or “crush them.”
+====
+
+[[v16-9-29]]
+
+^<<v16-9-29,29>>^ Although you would warn them so as to bring them back to your Law, they behaved presumptuously and refused to listen to your commandments; and they sinned against your regulations, by which a man will live if he observes them. But they stubbornly turned their back and stiffened their neck, and they refused to listen.
+
+[[v16-9-30]]
+
+^<<v16-9-30,30>>^ You extended patience to them for many years and kept warning them by your spirit through your prophets, but they refused to listen. Finally you gave them into the hand of the peoples of the lands.
+
+[[v16-9-31]]
+
+^<<v16-9-31,31>>^ And in your great mercy, you did not exterminate them or abandon them, for you are a compassionate^&#42;1^ and merciful God.
+
+[NOTE]
+====
+. Or “gracious.”
+====
+
+[[v16-9-32]]
+
+^<<v16-9-32,32>>^ “And now, O our God, the God great, mighty, and awe-inspiring, who has kept his covenant and shown loyal love, do not treat lightly all the hardship that has found us, our kings, our princes, our priests, our prophets, our forefathers, and all your people from the days of the kings of As·syrʹi·a down to this day.
+
+[[v16-9-33]]
+
+^<<v16-9-33,33>>^ You have been righteous in all that has come upon us, for you have acted faithfully; but we are the ones who have acted wickedly.
+
+[[v16-9-34]]
+
+^<<v16-9-34,34>>^ As for our kings, our princes, our priests, and our forefathers, they have not observed your Law nor paid attention to your commandments or to your reminders^&#42;1^ by which you warned them.
+
+[NOTE]
+====
+. Or “warnings.”
+====
+
+[[v16-9-35]]
+
+^<<v16-9-35,35>>^ Even when they were in their kingdom and enjoying the abundant goodness that you gave them and they were in the broad and fertile^&#42;1^ land that you bestowed on them, they did not serve you and did not turn away from their bad practices.
+
+[NOTE]
+====
+. Or “rich.”
+====
+
+[[v16-9-36]]
+
+^<<v16-9-36,36>>^ So here we are today, slaves—yes, slaves in the land that you gave to our forefathers to eat its fruitage and its good things.
+
+[[v16-9-37]]
+
+^<<v16-9-37,37>>^ Its abundant produce is for the kings whom you have put over us because of our sins. They rule over our bodies and over our livestock as they see fit, and we are in great distress.
+
+[[v16-9-38]]
+
+^<<v16-9-38,38>>^ “So in view of all this, we are making a binding agreement in writing, and it is attested by the seal of our princes, our Levites, and our priests.”
+
+'''
+
+xref:016-nehemiah/016-nehemiah-008.adoc#v16-8-0[&#60; Capítulo Anterior] | <<v16-9-0,Topo>> | xref:016-nehemiah/016-nehemiah-010.adoc#v16-10-0[Próximo Capítulo &#62;]

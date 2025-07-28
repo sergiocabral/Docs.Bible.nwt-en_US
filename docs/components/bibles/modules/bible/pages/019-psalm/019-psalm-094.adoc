@@ -1,0 +1,166 @@
+include::./index.adoc[]
+
+[[v19-94-0]]
+=== Psalm, 94
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-94-1]]
+
+^<<v19-94-1,1>>^ O God of vengeance, Jehovah,
+O God of vengeance, shine forth!
+
+[[v19-94-2]]
+
+^<<v19-94-2,2>>^ Rise up, O Judge of the earth.
+Repay to the haughty what they deserve.
+
+[[v19-94-3]]
+
+^<<v19-94-3,3>>^ How long will the wicked, O Jehovah,
+How long will the wicked continue to exult?
+
+[[v19-94-4]]
+
+^<<v19-94-4,4>>^ They babble and speak arrogantly;
+All the wrongdoers brag about themselves.
+
+[[v19-94-5]]
+
+^<<v19-94-5,5>>^ They crush your people, O Jehovah,
+And oppress your inheritance.
+
+[[v19-94-6]]
+
+^<<v19-94-6,6>>^ They kill the widow and the foreign resident,
+And they murder the fatherless children.
+
+[[v19-94-7]]
+
+^<<v19-94-7,7>>^ They say: “Jah does not see;
+The God of Jacob does not take notice of it.”
+
+[[v19-94-8]]
+
+^<<v19-94-8,8>>^ Understand this, you who are unreasoning;
+You foolish ones, when will you ever show insight?
+
+[[v19-94-9]]
+
+^<<v19-94-9,9>>^ The One who made^&#42;1^ the ear, can he not hear?
+The One who formed the eye, can he not see?
+
+[NOTE]
+====
+. Lit., “planted.”
+====
+
+[[v19-94-10]]
+
+^<<v19-94-10,10>>^ The One correcting the nations, can he not reprove?
+He is the One who imparts knowledge to people!
+
+[[v19-94-11]]
+
+^<<v19-94-11,11>>^ Jehovah knows the thoughts of men,
+That they are but a mere breath.
+
+[[v19-94-12]]
+
+^<<v19-94-12,12>>^ Happy is the man whom you correct, O Jah,
+Whom you teach from your law,
+
+[[v19-94-13]]
+
+^<<v19-94-13,13>>^ To give him tranquility during days of calamity,
+Until a pit is dug for the wicked.
+
+[[v19-94-14]]
+
+^<<v19-94-14,14>>^ For Jehovah will not forsake his people,
+Nor will he abandon his inheritance.
+
+[[v19-94-15]]
+
+^<<v19-94-15,15>>^ For judgment will once again be righteous,
+And all the upright in heart will follow it.
+
+[[v19-94-16]]
+
+^<<v19-94-16,16>>^ Who will rise up for me against the wicked?
+Who will take a stand for me against the wrongdoers?
+
+[[v19-94-17]]
+
+^<<v19-94-17,17>>^ If Jehovah had not been my helper,
+I^&#42;1^ would soon have perished.^&#42;2^
+
+[NOTE]
+====
+. Or “My soul.”
+. Lit., “resided in silence.”
+====
+
+[[v19-94-18]]
+
+^<<v19-94-18,18>>^ When I said: “My foot is slipping,”
+Your loyal love, O Jehovah, kept supporting me.
+
+[[v19-94-19]]
+
+^<<v19-94-19,19>>^ When anxieties^&#42;1^ overwhelmed me,^&#42;2^
+You comforted and soothed me.^&#42;3^
+
+[NOTE]
+====
+. Or “disquieting thoughts.”
+. Or “became many inside of me.”
+. Or “Your consolations soothed my soul.”
+====
+
+[[v19-94-20]]
+
+^<<v19-94-20,20>>^ Can a throne^&#42;1^ of corruption be allied with you
+While it is framing trouble in the name of the law?^&#42;2^
+
+[NOTE]
+====
+. Or “rulers; judges.”
+. Or “by decree.”
+====
+
+[[v19-94-21]]
+
+^<<v19-94-21,21>>^ They make vicious attacks on the righteous one^&#42;1^
+And condemn the innocent one to death.^&#42;2^
+
+[NOTE]
+====
+. Or “the soul of the righteous one.”
+. Lit., “And the blood of the innocent they declare guilty (wicked).”
+====
+
+[[v19-94-22]]
+
+^<<v19-94-22,22>>^ But Jehovah will become a secure refuge^&#42;1^ for me,
+My God is my rock of refuge.
+
+[NOTE]
+====
+. Or “secure height.”
+====
+
+[[v19-94-23]]
+
+^<<v19-94-23,23>>^ He will make their wicked deeds come back upon them.
+He will do away with^&#42;1^ them by means of their own evil.
+Jehovah our God will do away with^&#42;2^ them.
+
+[NOTE]
+====
+. Lit., “will silence.”
+. Lit., “will silence.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-093.adoc#v19-93-0[&#60; Capítulo Anterior] | <<v19-94-0,Topo>> | xref:019-psalm/019-psalm-095.adoc#v19-95-0[Próximo Capítulo &#62;]

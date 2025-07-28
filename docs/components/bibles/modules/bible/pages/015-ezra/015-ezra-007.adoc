@@ -1,0 +1,194 @@
+include::./index.adoc[]
+
+[[v15-7-0]]
+=== Ezra, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v15-7-1]]
+
+^<<v15-7-1,1>>^ After these things, during the reign of King Ar·ta·xerxʹes of Persia, Ezʹra^&#42;1^ returned. He was the son of Se·raiʹah, son of Az·a·riʹah, son of Hil·kiʹah,
+
+[NOTE]
+====
+. Meaning “Help.”
+====
+
+[[v15-7-2]]
+
+^<<v15-7-2,2>>^ son of Shalʹlum, son of Zaʹdok, son of A·hiʹtub,
+
+[[v15-7-3]]
+
+^<<v15-7-3,3>>^ son of Am·a·riʹah, son of Az·a·riʹah, son of Me·raʹioth,
+
+[[v15-7-4]]
+
+^<<v15-7-4,4>>^ son of Zer·a·hiʹah, son of Uzʹzi, son of Bukʹki,
+
+[[v15-7-5]]
+
+^<<v15-7-5,5>>^ son of Ab·i·shuʹa, son of Phinʹe·has, son of El·e·aʹzar, son of Aaron the chief priest.
+
+[[v15-7-6]]
+
+^<<v15-7-6,6>>^ This Ezʹra came up from Babylon. He was a copyist^&#42;1^ who was well-versed in^&#42;2^ the Law of Moses, which Jehovah the God of Israel had given. The king granted everything he requested, for the hand of Jehovah his God was upon him.
+
+[NOTE]
+====
+. Or “scribe.”
+. Or “He was a skilled copyist of.”
+====
+
+[[v15-7-7]]
+
+^<<v15-7-7,7>>^ Some of the Israelites, the priests, the Levites, the singers, the gatekeepers, and the temple servants,^&#42;1^ went up to Jerusalem in the seventh year of King Ar·ta·xerxʹes.
+
+[NOTE]
+====
+. Or “the Nethinim.” Lit., “the given ones.”
+====
+
+[[v15-7-8]]
+
+^<<v15-7-8,8>>^ And Ezʹra came to Jerusalem in the fifth month, in the seventh year of the king.
+
+[[v15-7-9]]
+
+^<<v15-7-9,9>>^ On the first day of the first month, he began the journey from Babylon, and he arrived in Jerusalem on the first day of the fifth month, for the good hand of his God was upon him.
+
+[[v15-7-10]]
+
+^<<v15-7-10,10>>^ Ezʹra had prepared his heart^&#42;1^ to consult the Law of Jehovah and to practice it, and to teach its regulations and judgments in Israel.
+
+[NOTE]
+====
+. Or “had determined in his heart.”
+====
+
+[[v15-7-11]]
+
+^<<v15-7-11,11>>^ This is a copy of the letter that King Ar·ta·xerxʹes gave to Ezʹra the priest and copyist,^&#42;1^ an expert in the study^&#42;2^ of the commandments of Jehovah and of his regulations to Israel:
+
+[NOTE]
+====
+. Or “scribe.”
+. Or “a copyist of the words.”
+====
+
+[[v15-7-12]]
+
+^<<v15-7-12,12>>^ ^&#42;1^ “Ar·ta·xerxʹes, the king of kings, to Ezʹra the priest, the copyist^&#42;2^ of the Law of the God of the heavens: May you have perfect peace. And now
+
+[NOTE]
+====
+. Ezr 7:12 through 7:26 was originally written in Aramaic.
+. Or “scribe.”
+====
+
+[[v15-7-13]]
+
+^<<v15-7-13,13>>^ I have issued an order that everyone in my realm of the people of Israel and their priests and Levites who is willing to go with you to Jerusalem should go.
+
+[[v15-7-14]]
+
+^<<v15-7-14,14>>^ For you are sent by the king and his seven advisers to investigate whether the Law of your God, which is with you,^&#42;1^ is being applied in Judah and Jerusalem,
+
+[NOTE]
+====
+. Lit., “in your hand.”
+====
+
+[[v15-7-15]]
+
+^<<v15-7-15,15>>^ and to take the silver and the gold that the king and his advisers have voluntarily given to the God of Israel, whose residence is in Jerusalem,
+
+[[v15-7-16]]
+
+^<<v15-7-16,16>>^ with all the silver and the gold that you receive^&#42;1^ in all the province^&#42;2^ of Babylon, along with the gift that the people and the priests voluntarily give to the house of their God, which is in Jerusalem.
+
+[NOTE]
+====
+. Lit., “find.”
+. Or “jurisdictional district.”
+====
+
+[[v15-7-17]]
+
+^<<v15-7-17,17>>^ And you are to buy promptly with this money bulls, rams, lambs, along with their grain offerings and their drink offerings, and you are to present them on the altar of the house of your God in Jerusalem.
+
+[[v15-7-18]]
+
+^<<v15-7-18,18>>^ “And whatever seems good to you and to your brothers to do, you may do with the rest of the silver and the gold, according to the will of your God.
+
+[[v15-7-19]]
+
+^<<v15-7-19,19>>^ And all the vessels that are given to you for the service of the house of your God, you are to deliver before God at Jerusalem.
+
+[[v15-7-20]]
+
+^<<v15-7-20,20>>^ And the rest of the necessities of the house of your God that you are required to give, you will give out of the royal treasury.
+
+[[v15-7-21]]
+
+^<<v15-7-21,21>>^ “I, King Ar·ta·xerxʹes, have issued an order to all the treasurers in the region Beyond the River,^&#42;1^ that everything that Ezʹra the priest, the copyist^&#42;2^ of the Law of the God of the heavens, requests of you is to be done promptly,
+
+[NOTE]
+====
+. Or “in Trans-Euphrates.”
+. Or “scribe.”
+====
+
+[[v15-7-22]]
+
+^<<v15-7-22,22>>^ up to 100 talents^&#42;1^ of silver, 100 cor measures^&#42;2^ of wheat, 100 bath measures^&#42;3^ of wine, 100 bath measures of oil, and salt without limit.
+
+[NOTE]
+====
+. A talent equaled 34.2 kg (1,101 oz t). See App. B14.
+. A cor equaled 220 L (200 dry qt). See App. B14.
+. A bath equaled 22 L (5.81 gal). See App. B14.
+====
+
+[[v15-7-23]]
+
+^<<v15-7-23,23>>^ Let everything that is ordered by the God of the heavens be done with zeal for the house of the God of the heavens, so that there may be no wrath against the king’s realm and his sons.
+
+[[v15-7-24]]
+
+^<<v15-7-24,24>>^ And you are further advised that it is not permitted to impose any tax, tribute, or toll on any of the priests and Levites, musicians, doorkeepers, temple servants,^&#42;1^ and workers of this house of God.
+
+[NOTE]
+====
+. Or “Nethinim.” Lit., “given ones.”
+====
+
+[[v15-7-25]]
+
+^<<v15-7-25,25>>^ “And you, Ezʹra, according to the wisdom that you possess from your God,^&#42;1^ appoint magistrates and judges to judge all the people in the region Beyond the River, all those who know the laws of your God; and you should instruct anyone who does not know them.
+
+[NOTE]
+====
+. Lit., “according to the wisdom of your God that is in your hand.”
+====
+
+[[v15-7-26]]
+
+^<<v15-7-26,26>>^ And everyone who does not observe the Law of your God and the law of the king should have judgment executed on him promptly, whether it is death, banishment, a fine, or imprisonment.”
+
+[[v15-7-27]]
+
+^<<v15-7-27,27>>^ May Jehovah the God of our forefathers be praised, who put it into the heart of the king to beautify the house of Jehovah in Jerusalem!
+
+[[v15-7-28]]
+
+^<<v15-7-28,28>>^ And he has shown me loyal love before the king and his advisers and all the mighty princes of the king. So I took courage^&#42;1^ because the hand of Jehovah my God was upon me, and I gathered out of Israel leading men^&#42;2^ to go up with me.
+
+[NOTE]
+====
+. Or “strengthened myself.”
+. Lit., “heads.”
+====
+
+'''
+
+xref:015-ezra/015-ezra-006.adoc#v15-6-0[&#60; Capítulo Anterior] | <<v15-7-0,Topo>> | xref:015-ezra/015-ezra-008.adoc#v15-8-0[Próximo Capítulo &#62;]

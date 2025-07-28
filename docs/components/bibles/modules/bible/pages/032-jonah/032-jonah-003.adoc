@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v32-3-0]]
+=== Jonah, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v32-3-1]]
+
+^<<v32-3-1,1>>^ Then the word of Jehovah came to Joʹnah a second time, saying:
+
+[[v32-3-2]]
+
+^<<v32-3-2,2>>^ “Get up, go to Ninʹe·veh the great city, and proclaim to her the message that I tell you.”
+
+[[v32-3-3]]
+
+^<<v32-3-3,3>>^ So Joʹnah got up and went to Ninʹe·veh in obedience to the word of Jehovah. Now Ninʹe·veh was a very large city^&#42;1^—a walking distance of three days.
+
+[NOTE]
+====
+. Lit., “a city great to God.”
+====
+
+[[v32-3-4]]
+
+^<<v32-3-4,4>>^ Then Joʹnah entered the city, and walking a day’s journey, he was proclaiming: “In just 40 days more, Ninʹe·veh will be overthrown.”
+
+[[v32-3-5]]
+
+^<<v32-3-5,5>>^ And the men of Ninʹe·veh put faith in God, and they proclaimed a fast and put on sackcloth, from the greatest to the least of them.
+
+[[v32-3-6]]
+
+^<<v32-3-6,6>>^ When the message reached the king of Ninʹe·veh, he rose up from his throne and took off his royal garment and covered himself with sackcloth and sat down in the ashes.
+
+[[v32-3-7]]
+
+^<<v32-3-7,7>>^ Furthermore, he issued a proclamation throughout Ninʹe·veh,
+“By the decree of the king and his nobles: No man or beast, herd or flock, should eat anything at all. They should not take food, nor should they drink any water.
+
+[[v32-3-8]]
+
+^<<v32-3-8,8>>^ Let them be covered with sackcloth, both man and beast; and let them call out earnestly to God and turn from their evil ways and from the violence they practice.
+
+[[v32-3-9]]
+
+^<<v32-3-9,9>>^ Who knows whether the true God may reconsider^&#42;1^ what he intends to do and turn from his burning anger, so that we may not perish?”
+
+[NOTE]
+====
+. Or “feel regret over.”
+====
+
+[[v32-3-10]]
+
+^<<v32-3-10,10>>^ When the true God saw what they did, how they had turned back from their evil ways, he reconsidered^&#42;1^ the calamity that he said he would bring on them, and he did not bring it.
+
+[NOTE]
+====
+. Or “felt regret over.”
+====
+
+'''
+
+xref:032-jonah/032-jonah-002.adoc#v32-2-0[&#60; Capítulo Anterior] | <<v32-3-0,Topo>> | xref:032-jonah/032-jonah-004.adoc#v32-4-0[Próximo Capítulo &#62;]

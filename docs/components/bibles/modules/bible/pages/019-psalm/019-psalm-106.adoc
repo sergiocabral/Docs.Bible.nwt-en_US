@@ -1,0 +1,344 @@
+include::./index.adoc[]
+
+[[v19-106-0]]
+=== Psalm, 106
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-106-1]]
+
+^<<v19-106-1,1>>^ Praise Jah!^&#42;1^
+Give thanks to Jehovah, for he is good;
+His loyal love endures forever.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-106-2]]
+
+^<<v19-106-2,2>>^ Who can fully declare Jehovah’s mighty acts
+Or proclaim all his praiseworthy deeds?
+
+[[v19-106-3]]
+
+^<<v19-106-3,3>>^ Happy are those who act with justice,
+Who always do what is right.
+
+[[v19-106-4]]
+
+^<<v19-106-4,4>>^ Remember me, O Jehovah, when you show favor^&#42;1^ toward your people.
+Take care of me with your acts of salvation,
+
+[NOTE]
+====
+. Or “goodwill.”
+====
+
+[[v19-106-5]]
+
+^<<v19-106-5,5>>^ So that I may enjoy the goodness you show your chosen ones,
+That I may rejoice along with your nation,
+That I may proudly praise^&#42;1^ you along with your inheritance.
+
+[NOTE]
+====
+. Or “may boast about.”
+====
+
+[[v19-106-6]]
+
+^<<v19-106-6,6>>^ We have sinned just as our forefathers did;
+We have done wrong; we have acted wickedly.
+
+[[v19-106-7]]
+
+^<<v19-106-7,7>>^ Our forefathers in Egypt did not appreciate^&#42;1^ your wonderful works.
+They did not remember your abundant loyal love,
+But they rebelled at the sea, by the Red Sea.
+
+[NOTE]
+====
+. Or “grasp the meaning of.”
+====
+
+[[v19-106-8]]
+
+^<<v19-106-8,8>>^ But he saved them for the sake of his name,
+To make his mightiness known.
+
+[[v19-106-9]]
+
+^<<v19-106-9,9>>^ He rebuked the Red Sea, and it dried up;
+He led them through its depths as through a desert;^&#42;1^
+
+[NOTE]
+====
+. Or “wilderness.”
+====
+
+[[v19-106-10]]
+
+^<<v19-106-10,10>>^ He saved them from the hand of their foe
+And reclaimed them from the hand of the enemy.
+
+[[v19-106-11]]
+
+^<<v19-106-11,11>>^ The waters covered their adversaries;
+Not one of them survived.^&#42;1^
+
+[NOTE]
+====
+. Or “was left.”
+====
+
+[[v19-106-12]]
+
+^<<v19-106-12,12>>^ Then they had faith in his promise;
+They began to sing his praise.
+
+[[v19-106-13]]
+
+^<<v19-106-13,13>>^ But they quickly forgot what he did;
+They did not wait for his counsel.
+
+[[v19-106-14]]
+
+^<<v19-106-14,14>>^ They gave way to their selfish desires in the wilderness;
+They tested God in the desert.
+
+[[v19-106-15]]
+
+^<<v19-106-15,15>>^ He gave them what they requested,
+But then struck them with disease that made them^&#42;1^ waste away.
+
+[NOTE]
+====
+. Or “their soul.”
+====
+
+[[v19-106-16]]
+
+^<<v19-106-16,16>>^ In the camp they grew jealous of Moses
+And of Aaron, the holy one of Jehovah.
+
+[[v19-106-17]]
+
+^<<v19-106-17,17>>^ The earth then opened up and swallowed Daʹthan
+And covered those assembled with A·biʹram.
+
+[[v19-106-18]]
+
+^<<v19-106-18,18>>^ A fire blazed among their group;
+A flame consumed the wicked.
+
+[[v19-106-19]]
+
+^<<v19-106-19,19>>^ They made a calf in Horʹeb
+And bowed down to a statue of metal;^&#42;1^
+
+[NOTE]
+====
+. Or “molten statue.”
+====
+
+[[v19-106-20]]
+
+^<<v19-106-20,20>>^ They exchanged my glory
+For the representation of a grass-eating bull.
+
+[[v19-106-21]]
+
+^<<v19-106-21,21>>^ They forgot God their Savior,
+Who did great things in Egypt,
+
+[[v19-106-22]]
+
+^<<v19-106-22,22>>^ Wonderful works in the land of Ham,
+Awe-inspiring deeds at the Red Sea.
+
+[[v19-106-23]]
+
+^<<v19-106-23,23>>^ He was about to order their annihilation,
+But Moses his chosen one interceded with him^&#42;1^
+To avert his destructive anger.
+
+[NOTE]
+====
+. Lit., “stood in the breach before him.”
+====
+
+[[v19-106-24]]
+
+^<<v19-106-24,24>>^ Then they despised the desirable land;
+They had no faith in his promise.
+
+[[v19-106-25]]
+
+^<<v19-106-25,25>>^ They kept grumbling in their tents;
+They did not listen to the voice of Jehovah.
+
+[[v19-106-26]]
+
+^<<v19-106-26,26>>^ So he raised his hand in an oath concerning them
+That he would make them fall in the wilderness;
+
+[[v19-106-27]]
+
+^<<v19-106-27,27>>^ He would make their descendants fall among the nations,
+And he would scatter them throughout the lands.
+
+[[v19-106-28]]
+
+^<<v19-106-28,28>>^ Then they joined in worship of^&#42;1^ Baʹal of Peʹor,
+And they ate sacrifices offered to the dead.^&#42;2^
+
+[NOTE]
+====
+. Or “attached themselves to.”
+. That is, sacrifices offered either to dead people or to lifeless gods.
+====
+
+[[v19-106-29]]
+
+^<<v19-106-29,29>>^ They provoked Him by their actions,
+And a scourge broke out among them.
+
+[[v19-106-30]]
+
+^<<v19-106-30,30>>^ But when Phinʹe·has stood up and intervened,
+The scourge was halted.
+
+[[v19-106-31]]
+
+^<<v19-106-31,31>>^ And it was counted to him as righteousness
+Through all generations forever.
+
+[[v19-106-32]]
+
+^<<v19-106-32,32>>^ They provoked Him at the waters of Merʹi·bah,^&#42;1^
+And it went badly for Moses because of them.
+
+[NOTE]
+====
+. Meaning “Quarreling.”
+====
+
+[[v19-106-33]]
+
+^<<v19-106-33,33>>^ They embittered his spirit,
+And he spoke rashly with his lips.
+
+[[v19-106-34]]
+
+^<<v19-106-34,34>>^ They did not annihilate the peoples,
+As Jehovah had commanded them.
+
+[[v19-106-35]]
+
+^<<v19-106-35,35>>^ But they mingled with the nations
+And adopted^&#42;1^ their ways.
+
+[NOTE]
+====
+. Or “learned.”
+====
+
+[[v19-106-36]]
+
+^<<v19-106-36,36>>^ They kept serving their idols,
+And these became a snare to them.
+
+[[v19-106-37]]
+
+^<<v19-106-37,37>>^ They would sacrifice their sons
+And their daughters to demons.
+
+[[v19-106-38]]
+
+^<<v19-106-38,38>>^ They kept spilling innocent blood,
+The blood of their own sons and daughters
+Whom they sacrificed to the idols of Caʹnaan;
+And the land was polluted with bloodshed.
+
+[[v19-106-39]]
+
+^<<v19-106-39,39>>^ They became unclean by their works;
+They committed spiritual prostitution by their deeds.
+
+[[v19-106-40]]
+
+^<<v19-106-40,40>>^ So the anger of Jehovah blazed against his people,
+And he grew to detest his inheritance.
+
+[[v19-106-41]]
+
+^<<v19-106-41,41>>^ He repeatedly handed them over to the nations,
+So that those who hated them might rule over them.
+
+[[v19-106-42]]
+
+^<<v19-106-42,42>>^ Their enemies oppressed them,
+And they were subject to their power.^&#42;1^
+
+[NOTE]
+====
+. Lit., “hand.”
+====
+
+[[v19-106-43]]
+
+^<<v19-106-43,43>>^ Many times he rescued them,
+But they would rebel and disobey,
+And they would be brought low for their error.
+
+[[v19-106-44]]
+
+^<<v19-106-44,44>>^ But he would see their distress
+And hear their cry for help.
+
+[[v19-106-45]]
+
+^<<v19-106-45,45>>^ For their sake he would remember his covenant,
+And he would feel pity,^&#42;1^ moved by his great^&#42;2^ loyal love.
+
+[NOTE]
+====
+. Or “feel regret.”
+. Or “abundant.”
+====
+
+[[v19-106-46]]
+
+^<<v19-106-46,46>>^ He would cause them to be pitied
+By all who held them captive.
+
+[[v19-106-47]]
+
+^<<v19-106-47,47>>^ Save us, O Jehovah our God,
+And gather us from the nations
+So that we may give thanks to your holy name
+And exult in praising you.^&#42;1^
+
+[NOTE]
+====
+. Or “exult in your praise.”
+====
+
+[[v19-106-48]]
+
+^<<v19-106-48,48>>^ May Jehovah, the God of Israel, be praised
+Throughout all eternity.^&#42;1^
+And let all the people say, “Amen!”^&#42;2^
+Praise Jah!^&#42;3^
+
+[NOTE]
+====
+. Or “From eternity to eternity.”
+. Or “So be it!”
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-105.adoc#v19-105-0[&#60; Capítulo Anterior] | <<v19-106-0,Topo>> | xref:019-psalm/019-psalm-107.adoc#v19-107-0[Próximo Capítulo &#62;]

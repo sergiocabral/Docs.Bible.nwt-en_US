@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v18-1-0]]
+=== Job, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-1-1]]
+
+^<<v18-1-1,1>>^ There was a man in the land of Uz whose name was Job.^&#42;1^ He was an upright man of integrity;^&#42;2^ he feared God and shunned what was bad.
+
+[NOTE]
+====
+. Possibly meaning “Object of Hostility.”
+. Or “a blameless and upright man.”
+====
+
+[[v18-1-2]]
+
+^<<v18-1-2,2>>^ Seven sons and three daughters were born to him.
+
+[[v18-1-3]]
+
+^<<v18-1-3,3>>^ His livestock amounted to 7,000 sheep, 3,000 camels, 1,000 cattle,^&#42;1^ and 500 donkeys,^&#42;2^ along with a very large number of servants, so that he became the greatest of all the people of the East.
+
+[NOTE]
+====
+. Lit., “500 pairs of cattle.”
+. Lit., “female donkeys.”
+====
+
+[[v18-1-4]]
+
+^<<v18-1-4,4>>^ Each of his sons would hold a banquet at his house on his own set day.^&#42;1^ They would invite their three sisters to eat and drink with them.
+
+[NOTE]
+====
+. Or “at the house of each one in his turn.”
+====
+
+[[v18-1-5]]
+
+^<<v18-1-5,5>>^ After a series of banquet days was complete, Job would send for them in order to sanctify them. Then he would get up early in the morning and offer up burnt sacrifices for each of them. For Job said: “Maybe my sons have sinned and have cursed God in their heart.” That is what Job would always do.
+
+[[v18-1-6]]
+
+^<<v18-1-6,6>>^ Now the day came when the sons of the true God^&#42;1^ entered to take their station before Jehovah, and Satan also entered among them.
+
+[NOTE]
+====
+. A Hebrew idiom that refers to angelic sons of God.
+====
+
+[[v18-1-7]]
+
+^<<v18-1-7,7>>^ Then Jehovah said to Satan: “Where have you come from?” Satan answered Jehovah: “From roving about on the earth and from walking about in it.”
+
+[[v18-1-8]]
+
+^<<v18-1-8,8>>^ And Jehovah said to Satan: “Have you taken note of^&#42;1^ my servant Job? There is no one like him on the earth. He is an upright man of integrity,^&#42;2^ fearing God and shunning what is bad.”
+
+[NOTE]
+====
+. Lit., “set your heart upon.”
+. Or “a blameless and upright man.”
+====
+
+[[v18-1-9]]
+
+^<<v18-1-9,9>>^ At that Satan answered Jehovah: “Is it for nothing that Job has feared God?
+
+[[v18-1-10]]
+
+^<<v18-1-10,10>>^ Have you not put up a protective hedge around him and his house and everything he has? You have blessed the work of his hands, and his livestock has spread out in the land.
+
+[[v18-1-11]]
+
+^<<v18-1-11,11>>^ But, for a change, stretch out your hand and strike everything he has, and he will surely curse you to your very face.”
+
+[[v18-1-12]]
+
+^<<v18-1-12,12>>^ Then Jehovah said to Satan: “Look! Everything that he has is in your hand.^&#42;1^ Only do not lay your hand on the man himself!” So Satan went out from the presence^&#42;2^ of Jehovah.
+
+[NOTE]
+====
+. Or “under your control.”
+. Lit., “face.”
+====
+
+[[v18-1-13]]
+
+^<<v18-1-13,13>>^ Now on the day when his sons and daughters were eating and drinking wine in their oldest brother’s house,
+
+[[v18-1-14]]
+
+^<<v18-1-14,14>>^ a messenger came to Job and said: “The cattle were plowing and the donkeys were grazing beside them
+
+[[v18-1-15]]
+
+^<<v18-1-15,15>>^ when the Sa·beʹans attacked and took them, and they killed the servants with the sword. I am the only one who escaped to tell you.”
+
+[[v18-1-16]]
+
+^<<v18-1-16,16>>^ While he was still speaking, another one came and said: “Fire from God^&#42;1^ fell from the heavens and blazed among the sheep and the servants and consumed them! I am the only one who escaped to tell you.”
+
+[NOTE]
+====
+. Or possibly, “Lightning.”
+====
+
+[[v18-1-17]]
+
+^<<v18-1-17,17>>^ While he was still speaking, another one came and said: “The Chal·deʹans formed three bands and made a raid on the camels and took them, and they killed the servants with the sword. I am the only one who escaped to tell you.”
+
+[[v18-1-18]]
+
+^<<v18-1-18,18>>^ While he was still speaking, yet another one came and said: “Your sons and your daughters were eating and drinking wine in their oldest brother’s house.
+
+[[v18-1-19]]
+
+^<<v18-1-19,19>>^ Suddenly a great wind came from the wilderness, and it struck the four corners of the house, so that it fell on the young people and they were killed. I am the only one who escaped to tell you.”
+
+[[v18-1-20]]
+
+^<<v18-1-20,20>>^ At that Job got up and ripped apart his garment and cut the hair off his head; then he fell to the ground and bowed down
+
+[[v18-1-21]]
+
+^<<v18-1-21,21>>^ and said:
+“Naked I came out of my mother’s womb,
+And naked I will return.
+Jehovah has given, and Jehovah has taken away.
+Let the name of Jehovah continue to be praised.”
+
+[[v18-1-22]]
+
+^<<v18-1-22,22>>^ In all of this, Job did not sin or accuse God of doing anything wrong.^&#42;1^
+
+[NOTE]
+====
+. Or “ascribe anything improper to God.”
+====
+
+'''
+
+xref:017-esther/017-esther-010.adoc#v17-10-0[&#60; Capítulo Anterior] | <<v18-1-0,Topo>> | xref:018-job/018-job-002.adoc#v18-2-0[Próximo Capítulo &#62;]

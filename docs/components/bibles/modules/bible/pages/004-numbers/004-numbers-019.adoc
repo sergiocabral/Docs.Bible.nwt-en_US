@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Numbers, 19
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ Jehovah spoke again to Moses and Aaron, saying:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ “This is a statute of the law that Jehovah has commanded, ‘Tell the Israelites that they should take for you a sound red cow in which there is no defect and upon which no yoke has come.
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ You are to give it to El·e·aʹzar the priest, and he will lead it outside the camp, and it will be slaughtered before him.
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ Then El·e·aʹzar the priest will take some of its blood with his finger and spatter its blood seven times straight toward the front of the tent of meeting.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ The cow will then be burned before his eyes. Its skin and its flesh and its blood together with its dung will be burned.
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ And the priest will take cedarwood, hyssop, and scarlet material and throw them into the fire where the cow is being burned.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ The priest will then wash his garments and bathe himself^&#42;1^ in water, and afterward he may come into the camp; but the priest will be unclean until the evening.
+
+[NOTE]
+====
+. Lit., “his flesh.”
+====
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ “‘The one who burned the cow will wash his garments in water and bathe himself^&#42;1^ in water, and he will be unclean until the evening.
+
+[NOTE]
+====
+. Lit., “his flesh.”
+====
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ “‘A clean man will gather up the ashes of the cow and deposit them outside the camp in a clean place, and they should be kept by the assembly of the Israelites to prepare water that will be used for cleansing. It is a sin offering.
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ The one gathering the ashes of the cow will wash his garments and be unclean until the evening.
+“‘This will serve the Israelites and the foreigner who is residing in their midst as a lasting statute.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ Anyone touching any dead person^&#42;1^ will be unclean for seven days.
+
+[NOTE]
+====
+. Or “the corpse of any human soul.” See Glossary.
+====
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ Such one should purify himself with the water^&#42;1^ on the third day, and on the seventh day he will be clean. But if he does not purify himself on the third day, on the seventh day he will not be clean.
+
+[NOTE]
+====
+. Lit., “it.”
+====
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Everyone who touches the corpse of any dead person^&#42;1^ and does not purify himself has defiled Jehovah’s tabernacle, and that person^&#42;2^ must be cut off^&#42;3^ from Israel. Because the water for cleansing has not been sprinkled on him, he continues unclean. His uncleanness remains upon him.
+
+[NOTE]
+====
+. Or “a corpse, the soul of any human who has died.” See Glossary.
+. Or “soul.”
+. Or “put to death.”
+====
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ “‘This is the law that applies when a man dies in a tent: Everyone who enters the tent and everyone who was already in the tent will be unclean for seven days.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ Every opened container with no lid tied on it is unclean.
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ Everyone in the open field who touches someone killed with the sword or a corpse or the bone of a man or a burial place will be unclean for seven days.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ They should take for the unclean one some of the ashes of the sin offering that was burned and pour running water on them in a container.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ Then a clean man will take hyssop and dip it into the water and spatter it on the tent and on all the containers and on the people^&#42;1^ who were there and on the one who touched the bone or the slain one or the corpse or the burial place.
+
+[NOTE]
+====
+. Or “souls.”
+====
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ The clean person will spatter it on the unclean one on the third day and on the seventh day, and he will purify him from sin on the seventh day; then he should wash his garments and bathe in water, and he will become clean in the evening.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ “‘But the man who is unclean and who will not purify himself, that person^&#42;1^ must be cut off^&#42;2^ from the congregation, because he has defiled Jehovah’s sanctuary. The water for cleansing was not sprinkled on him, so he is unclean.
+
+[NOTE]
+====
+. Or “soul.”
+. Or “put to death.”
+====
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ “‘This will serve as a lasting statute for them: The one spattering the water for cleansing should wash his garments, and the one touching the water for cleansing will be unclean until the evening.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ Anything the unclean one touches will be unclean, and the person^&#42;1^ who touches it will be unclean until the evening.’”
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+'''
+
+xref:004-numbers/004-numbers-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numbers/004-numbers-020.adoc#v4-20-0[Próximo Capítulo &#62;]

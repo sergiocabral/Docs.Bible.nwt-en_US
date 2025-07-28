@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-41-0]]
+=== Psalm, 41
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. A melody of David._
+
+[[v19-41-1]]
+
+^<<v19-41-1,1>>^ Happy is anyone who shows consideration to the lowly one;
+Jehovah will rescue him in the day of calamity.
+
+[[v19-41-2]]
+
+^<<v19-41-2,2>>^ Jehovah will guard him and keep him alive.
+He will be pronounced happy in the earth;
+You will never turn him over to the will^&#42;1^ of his enemies.
+
+[NOTE]
+====
+. Or “desire; soul.” See Glossary.
+====
+
+[[v19-41-3]]
+
+^<<v19-41-3,3>>^ Jehovah will sustain him on his sickbed;
+During his sickness you will completely change his bed.
+
+[[v19-41-4]]
+
+^<<v19-41-4,4>>^ For I said: “O Jehovah, show me favor.
+Heal me,^&#42;1^ for I have sinned against you.”
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-41-5]]
+
+^<<v19-41-5,5>>^ But my enemies speak evil about me:
+“When will he die and his name perish?”
+
+[[v19-41-6]]
+
+^<<v19-41-6,6>>^ If one of them comes to see me, his heart speaks falsely.
+He gathers something harmful to say;
+Then he goes out and spreads it abroad.
+
+[[v19-41-7]]
+
+^<<v19-41-7,7>>^ All those who hate me whisper to one another;
+They are scheming something bad against me:
+
+[[v19-41-8]]
+
+^<<v19-41-8,8>>^ “A dreadful thing has overtaken him;
+Now that he is down, he will not rise again.”
+
+[[v19-41-9]]
+
+^<<v19-41-9,9>>^ Even the man at peace with me, one whom I trusted,
+Who was eating my bread, has lifted his heel against me.^&#42;1^
+
+[NOTE]
+====
+. Or “turned against me.”
+====
+
+[[v19-41-10]]
+
+^<<v19-41-10,10>>^ But you, O Jehovah, show me favor and raise me up,
+So that I may repay them.
+
+[[v19-41-11]]
+
+^<<v19-41-11,11>>^ By this I will know that you are pleased with me:
+When my enemy cannot shout in triumph over me.
+
+[[v19-41-12]]
+
+^<<v19-41-12,12>>^ As for me, you uphold me because of my integrity;
+You will keep me in your presence forever.
+
+[[v19-41-13]]
+
+^<<v19-41-13,13>>^ May Jehovah, the God of Israel, be praised
+Throughout all eternity.^&#42;1^
+Amen and Amen.
+
+[NOTE]
+====
+. Or “From eternity to eternity.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-040.adoc#v19-40-0[&#60; Capítulo Anterior] | <<v19-41-0,Topo>> | xref:019-psalm/019-psalm-042.adoc#v19-42-0[Próximo Capítulo &#62;]

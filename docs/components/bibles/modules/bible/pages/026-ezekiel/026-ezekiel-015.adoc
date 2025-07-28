@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v26-15-0]]
+=== Ezekiel, 15
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v26-15-1]]
+
+^<<v26-15-1,1>>^ The word of Jehovah again came to me, saying:
+
+[[v26-15-2]]
+
+^<<v26-15-2,2>>^ “Son of man, how does the wood of the vine compare with that of any other tree or branch from the trees of the forest?
+
+[[v26-15-3]]
+
+^<<v26-15-3,3>>^ Can a pole from it be used to do work? Or do people make a peg from it to hang utensils on?
+
+[[v26-15-4]]
+
+^<<v26-15-4,4>>^ Look! It is thrown into the fire for fuel, and the fire consumes both ends and scorches the middle. Is it now fit for any work?
+
+[[v26-15-5]]
+
+^<<v26-15-5,5>>^ Even when it was whole, it could not be used for anything. How much less useful it will be when the fire has consumed and scorched it!”
+
+[[v26-15-6]]
+
+^<<v26-15-6,6>>^ “Therefore this is what the Sovereign Lord Jehovah says: ‘Just like the wood of the vine among the trees of the forest, which I have given as fuel for the fire, so I will deal with the inhabitants of Jerusalem.
+
+[[v26-15-7]]
+
+^<<v26-15-7,7>>^ I have set my face against them. They have escaped from the fire, but fire will consume them. And you will have to know that I am Jehovah when I set my face against them.’”
+
+[[v26-15-8]]
+
+^<<v26-15-8,8>>^ “‘And I will make the land desolate because they have acted unfaithfully,’ declares the Sovereign Lord Jehovah.”
+
+'''
+
+xref:026-ezekiel/026-ezekiel-014.adoc#v26-14-0[&#60; Capítulo Anterior] | <<v26-15-0,Topo>> | xref:026-ezekiel/026-ezekiel-016.adoc#v26-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,275 @@
+include::./index.adoc[]
+
+[[v20-15-0]]
+=== Proverbs, 15
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-15-1]]
+
+^<<v20-15-1,1>>^ A mild^&#42;1^ answer turns away rage,
+But a harsh^&#42;2^ word stirs up anger.
+
+[NOTE]
+====
+. Or “gentle.”
+. Or “painful.”
+====
+
+[[v20-15-2]]
+
+^<<v20-15-2,2>>^ The tongue of the wise makes good use of knowledge,
+But the mouth of the stupid blurts out foolishness.
+
+[[v20-15-3]]
+
+^<<v20-15-3,3>>^ The eyes of Jehovah are everywhere,
+Watching both the bad and the good.
+
+[[v20-15-4]]
+
+^<<v20-15-4,4>>^ A calm tongue^&#42;1^ is a tree of life,
+But twisted speech causes despair.^&#42;2^
+
+[NOTE]
+====
+. Or “A tongue of healing.”
+. Lit., “the crushing of the spirit.”
+====
+
+[[v20-15-5]]
+
+^<<v20-15-5,5>>^ A fool disrespects his father’s discipline,
+But a shrewd person accepts correction.^&#42;1^
+
+[NOTE]
+====
+. Or “reproof.”
+====
+
+[[v20-15-6]]
+
+^<<v20-15-6,6>>^ In the house of the righteous one there is abundant treasure,
+But the produce^&#42;1^ of the wicked one brings him trouble.
+
+[NOTE]
+====
+. Or “income.”
+====
+
+[[v20-15-7]]
+
+^<<v20-15-7,7>>^ The lips of the wise spread knowledge,
+But not so the heart of the stupid one.
+
+[[v20-15-8]]
+
+^<<v20-15-8,8>>^ The sacrifice of the wicked is detestable to Jehovah,
+But the prayer of the upright is a pleasure to Him.
+
+[[v20-15-9]]
+
+^<<v20-15-9,9>>^ Jehovah detests the way of the wicked one,
+But he loves the one who pursues righteousness.
+
+[[v20-15-10]]
+
+^<<v20-15-10,10>>^ Discipline seems bad^&#42;1^ to one forsaking the way,
+But whoever hates reproof will die.
+
+[NOTE]
+====
+. Or “severe.”
+====
+
+[[v20-15-11]]
+
+^<<v20-15-11,11>>^ The Grave^&#42;1^ and the place of destruction^&#42;2^ are in full view of Jehovah.
+How much more so the hearts of men!
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+. Or “and Abaddon.”
+====
+
+[[v20-15-12]]
+
+^<<v20-15-12,12>>^ The scoffer does not love the one correcting^&#42;1^ him.
+He will not consult the wise.
+
+[NOTE]
+====
+. Or “reproving.”
+====
+
+[[v20-15-13]]
+
+^<<v20-15-13,13>>^ A joyful heart makes for a cheerful countenance,
+But heartache crushes the spirit.
+
+[[v20-15-14]]
+
+^<<v20-15-14,14>>^ The understanding heart seeks knowledge,
+But the mouth of the stupid feeds on^&#42;1^ foolishness.
+
+[NOTE]
+====
+. Or “pursues.”
+====
+
+[[v20-15-15]]
+
+^<<v20-15-15,15>>^ All the days of the afflicted one are bad,
+But the one with a cheerful^&#42;1^ heart has a continual feast.
+
+[NOTE]
+====
+. Or “good.”
+====
+
+[[v20-15-16]]
+
+^<<v20-15-16,16>>^ Better is a little in the fear of Jehovah
+Than great wealth along with anxiety.^&#42;1^
+
+[NOTE]
+====
+. Or “confusion.”
+====
+
+[[v20-15-17]]
+
+^<<v20-15-17,17>>^ Better is a dish of vegetables where there is love
+Than a fattened^&#42;1^ bull where there is hatred.
+
+[NOTE]
+====
+. Lit., “manger-fed.”
+====
+
+[[v20-15-18]]
+
+^<<v20-15-18,18>>^ A hot-tempered man stirs up strife,
+But one who is slow to anger calms a quarrel.
+
+[[v20-15-19]]
+
+^<<v20-15-19,19>>^ The way of the lazy one is like a hedge of thorns,
+But the path of the upright is like a level highway.
+
+[[v20-15-20]]
+
+^<<v20-15-20,20>>^ A wise son makes his father rejoice,
+But a stupid man despises his mother.
+
+[[v20-15-21]]
+
+^<<v20-15-21,21>>^ Foolishness is a joy to one lacking good sense,^&#42;1^
+But the man of discernment walks straight ahead.
+
+[NOTE]
+====
+. Lit., “in want of heart.”
+====
+
+[[v20-15-22]]
+
+^<<v20-15-22,22>>^ Plans fail when there is no consultation,^&#42;1^
+But there is accomplishment through many advisers.^&#42;2^
+
+[NOTE]
+====
+. Or “confidential talk.”
+. Or “counselors.”
+====
+
+[[v20-15-23]]
+
+^<<v20-15-23,23>>^ A man rejoices in giving the right answer,^&#42;1^
+And a word spoken at the right time—how good it is!
+
+[NOTE]
+====
+. Lit., “in the answer of his mouth.”
+====
+
+[[v20-15-24]]
+
+^<<v20-15-24,24>>^ The path of life leads upward to one with insight,
+To turn him away from the Grave^&#42;1^ below.
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+====
+
+[[v20-15-25]]
+
+^<<v20-15-25,25>>^ Jehovah will tear down the house of the haughty,
+But he will preserve the boundary of the widow.
+
+[[v20-15-26]]
+
+^<<v20-15-26,26>>^ Jehovah detests the schemes of the wicked one,
+But pleasant sayings are pure to Him.
+
+[[v20-15-27]]
+
+^<<v20-15-27,27>>^ The one making dishonest profit brings trouble^&#42;1^ on his own household,
+But the one hating bribes will keep living.
+
+[NOTE]
+====
+. Or “disgrace.”
+====
+
+[[v20-15-28]]
+
+^<<v20-15-28,28>>^ The heart of the righteous one meditates before answering,^&#42;1^
+But the mouth of the wicked blurts out bad things.
+
+[NOTE]
+====
+. Or “carefully considers how to answer; thinks before speaking.”
+====
+
+[[v20-15-29]]
+
+^<<v20-15-29,29>>^ Jehovah is far away from the wicked,
+But he hears the prayer of the righteous.
+
+[[v20-15-30]]
+
+^<<v20-15-30,30>>^ Bright eyes make^&#42;1^ the heart rejoice;
+A good report invigorates the bones.^&#42;2^
+
+[NOTE]
+====
+. Or “A cheerful glance makes.”
+. Lit., “makes the bones fat.”
+====
+
+[[v20-15-31]]
+
+^<<v20-15-31,31>>^ The one who listens to life-giving reproof
+Is at home among the wise.
+
+[[v20-15-32]]
+
+^<<v20-15-32,32>>^ Anyone refusing discipline despises his life,^&#42;1^
+But whoever listens to reproof acquires understanding.^&#42;2^
+
+[NOTE]
+====
+. Or “soul.”
+. Lit., “heart.”
+====
+
+[[v20-15-33]]
+
+^<<v20-15-33,33>>^ The fear of Jehovah is a training in wisdom,
+And before glory there is humility.
+
+'''
+
+xref:020-proverbs/020-proverbs-014.adoc#v20-14-0[&#60; Capítulo Anterior] | <<v20-15-0,Topo>> | xref:020-proverbs/020-proverbs-016.adoc#v20-16-0[Próximo Capítulo &#62;]

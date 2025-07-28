@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v19-71-0]]
+=== Psalm, 71
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-71-1]]
+
+^<<v19-71-1,1>>^ In you, O Jehovah, I have taken refuge.
+May I never be put to shame.
+
+[[v19-71-2]]
+
+^<<v19-71-2,2>>^ In your righteousness save me and rescue me.
+Incline your ear^&#42;1^ to me and save me.
+
+[NOTE]
+====
+. Or “Bend down and listen.”
+====
+
+[[v19-71-3]]
+
+^<<v19-71-3,3>>^ Become for me a rock fortress
+Where I can always enter.
+Give the command to save me,
+For you are my crag and my stronghold.
+
+[[v19-71-4]]
+
+^<<v19-71-4,4>>^ O my God, rescue me from the hand of the wicked,
+From the grasp of the unjust oppressor.
+
+[[v19-71-5]]
+
+^<<v19-71-5,5>>^ For you are my hope, O Sovereign Lord Jehovah;
+I have trusted in you^&#42;1^ since my youth.
+
+[NOTE]
+====
+. Or “You are my confidence.”
+====
+
+[[v19-71-6]]
+
+^<<v19-71-6,6>>^ I have depended on you from birth;
+It was you who took me from my mother’s womb.
+I praise you constantly.
+
+[[v19-71-7]]
+
+^<<v19-71-7,7>>^ I have become like a miracle to many,
+But you are my strong refuge.
+
+[[v19-71-8]]
+
+^<<v19-71-8,8>>^ My mouth is filled with your praise;
+All day long I tell about your splendor.
+
+[[v19-71-9]]
+
+^<<v19-71-9,9>>^ Do not cast me off in my old age;
+Do not abandon me when my strength fails.
+
+[[v19-71-10]]
+
+^<<v19-71-10,10>>^ My enemies speak against me,
+And those seeking to take my life^&#42;1^ conspire together,
+
+[NOTE]
+====
+. Or “seeking my soul.”
+====
+
+[[v19-71-11]]
+
+^<<v19-71-11,11>>^ Saying: “God has abandoned him.
+Chase after him and seize him, for there is no one to save him.”
+
+[[v19-71-12]]
+
+^<<v19-71-12,12>>^ O God, do not remain far away from me.
+O my God, hurry to help me.
+
+[[v19-71-13]]
+
+^<<v19-71-13,13>>^ May those who are resisting me^&#42;1^
+Be put to shame and perish.
+May those seeking my calamity
+Be covered with disgrace and humiliation.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-71-14]]
+
+^<<v19-71-14,14>>^ But as for me, I will continue to wait;
+I will add to your praise.
+
+[[v19-71-15]]
+
+^<<v19-71-15,15>>^ My mouth will recount your righteousness,
+All day long your acts of salvation,
+Though they are too many for me to grasp.^&#42;1^
+
+[NOTE]
+====
+. Or “number.”
+====
+
+[[v19-71-16]]
+
+^<<v19-71-16,16>>^ I will come and tell about your mighty acts,
+O Sovereign Lord Jehovah;
+I will mention your righteousness, yours alone.
+
+[[v19-71-17]]
+
+^<<v19-71-17,17>>^ O God, you have taught me from my youth,
+And until now I keep declaring your wonderful works.
+
+[[v19-71-18]]
+
+^<<v19-71-18,18>>^ Even when I am old and gray, O God, do not abandon me.
+Let me tell the next generation about your power^&#42;1^
+And about your mightiness to all those who are to come.
+
+[NOTE]
+====
+. Lit., “arm.”
+====
+
+[[v19-71-19]]
+
+^<<v19-71-19,19>>^ Your righteousness, O God, reaches to the heights;
+You have done great things;
+O God, who is like you?
+
+[[v19-71-20]]
+
+^<<v19-71-20,20>>^ Though you have made me experience much distress and calamity,
+Revive me again;
+Bring me up from the depths^&#42;1^ of the earth.
+
+[NOTE]
+====
+. Or “watery deeps.”
+====
+
+[[v19-71-21]]
+
+^<<v19-71-21,21>>^ May you increase my greatness
+And surround and comfort me.
+
+[[v19-71-22]]
+
+^<<v19-71-22,22>>^ Then I will praise you on a stringed instrument
+Because of your faithfulness, O my God.
+I will sing your praises^&#42;1^ with the harp,
+O Holy One of Israel.
+
+[NOTE]
+====
+. Or “make music to you.”
+====
+
+[[v19-71-23]]
+
+^<<v19-71-23,23>>^ My lips will shout joyfully as I sing praises to you,
+For you have saved my life.^&#42;1^
+
+[NOTE]
+====
+. Or “redeemed my soul.”
+====
+
+[[v19-71-24]]
+
+^<<v19-71-24,24>>^ My tongue will speak about^&#42;1^ your righteousness all day long,
+For those seeking my destruction will be ashamed and disgraced.
+
+[NOTE]
+====
+. Or “meditate on.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-070.adoc#v19-70-0[&#60; Capítulo Anterior] | <<v19-71-0,Topo>> | xref:019-psalm/019-psalm-072.adoc#v19-72-0[Próximo Capítulo &#62;]

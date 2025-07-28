@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-43-0]]
+=== Psalm, 43
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-43-1]]
+
+^<<v19-43-1,1>>^ Judge me, O God,
+Defend my legal case against a disloyal nation.
+Rescue me from the man of deception and unrighteousness.
+
+[[v19-43-2]]
+
+^<<v19-43-2,2>>^ For you are my God, my fortress.
+Why have you cast me off?
+Why must I walk about sad because of the oppression by my enemy?
+
+[[v19-43-3]]
+
+^<<v19-43-3,3>>^ Send out your light and your truth.
+May these lead me;
+May they guide me to your holy mountain and to your grand tabernacle.
+
+[[v19-43-4]]
+
+^<<v19-43-4,4>>^ Then I will come to the altar of God,
+To God, my exceeding joy.
+And I will praise you with the harp, O God, my God.
+
+[[v19-43-5]]
+
+^<<v19-43-5,5>>^ Why am I^&#42;1^ in despair?
+Why is this turmoil within me?
+Wait for God,
+For I will yet praise him as my Grand Savior and my God.
+
+[NOTE]
+====
+. Or “is my soul.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-042.adoc#v19-42-0[&#60; Capítulo Anterior] | <<v19-43-0,Topo>> | xref:019-psalm/019-psalm-044.adoc#v19-44-0[Próximo Capítulo &#62;]

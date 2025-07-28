@@ -1,0 +1,76 @@
+include::./index.adoc[]
+
+[[v19-142-0]]
+=== Psalm, 142
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Masʹkil.^&#42;1^ Of David when he was in the cave. A prayer._
+
+[[v19-142-1]]
+
+^<<v19-142-1,1>>^ With my voice I call to Jehovah for help;
+With my voice I plead with Jehovah for favor.
+
+[[v19-142-2]]
+
+^<<v19-142-2,2>>^ Before him I pour out my concern;
+Before him I tell about my distress
+
+[[v19-142-3]]
+
+^<<v19-142-3,3>>^ When my spirit^&#42;1^ fails within me.
+Then you watch my roadway.
+In the path where I walk,
+They hide a trap for me.
+
+[NOTE]
+====
+. Or “strength.”
+====
+
+[[v19-142-4]]
+
+^<<v19-142-4,4>>^ Look at my right hand and see
+That no one cares about^&#42;1^ me.
+There is nowhere I can flee;
+No one is concerned about me.^&#42;2^
+
+[NOTE]
+====
+. Lit., “recognizes.”
+. Or “my soul.”
+====
+
+[[v19-142-5]]
+
+^<<v19-142-5,5>>^ I call to you, O Jehovah, for help.
+I say: “You are my refuge,
+All I have^&#42;1^ in the land of the living.”
+
+[NOTE]
+====
+. Lit., “My share.”
+====
+
+[[v19-142-6]]
+
+^<<v19-142-6,6>>^ Pay attention to my cry for help,
+For I have been brought very low.
+Rescue me from my persecutors,
+For they are stronger than I am.
+
+[[v19-142-7]]
+
+^<<v19-142-7,7>>^ Bring me^&#42;1^ out of the dungeon
+To praise your name.
+May the righteous gather around me
+Because you deal kindly with me.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-141.adoc#v19-141-0[&#60; Capítulo Anterior] | <<v19-142-0,Topo>> | xref:019-psalm/019-psalm-143.adoc#v19-143-0[Próximo Capítulo &#62;]

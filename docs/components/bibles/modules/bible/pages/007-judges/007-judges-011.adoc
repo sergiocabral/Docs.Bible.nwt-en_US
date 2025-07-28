@@ -1,0 +1,200 @@
+include::./index.adoc[]
+
+[[v7-11-0]]
+=== Judges, 11
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v7-11-1]]
+
+^<<v7-11-1,1>>^ Now Jephʹthah the Gilʹe·ad·ite was a mighty warrior; he was the son of a prostitute, and Gilʹe·ad was Jephʹthah’s father.
+
+[[v7-11-2]]
+
+^<<v7-11-2,2>>^ But Gilʹe·ad’s wife also bore him sons. When the sons of his wife grew up, they drove Jephʹthah out and said to him: “You will have no inheritance in our father’s household, for you are the son of another woman.”
+
+[[v7-11-3]]
+
+^<<v7-11-3,3>>^ So Jephʹthah fled from his brothers and settled in the land of Tob. And idle men joined company with Jephʹthah, and they followed him.
+
+[[v7-11-4]]
+
+^<<v7-11-4,4>>^ After a while, the Amʹmon·ites fought against Israel.
+
+[[v7-11-5]]
+
+^<<v7-11-5,5>>^ And when the Amʹmon·ites fought against Israel, the elders of Gilʹe·ad immediately went to bring Jephʹthah back from the land of Tob.
+
+[[v7-11-6]]
+
+^<<v7-11-6,6>>^ They said to Jephʹthah: “Come and serve as our commander, so that we can fight against the Amʹmon·ites.”
+
+[[v7-11-7]]
+
+^<<v7-11-7,7>>^ But Jephʹthah said to the elders of Gilʹe·ad: “Was it not you who hated me so much that you drove me out of my father’s house? Why have you come to me now when you are in distress?”
+
+[[v7-11-8]]
+
+^<<v7-11-8,8>>^ At this the elders of Gilʹe·ad said to Jephʹthah: “That is why now we have returned to you. If you go with us and fight against the Amʹmon·ites, you will become our leader over all the inhabitants of Gilʹe·ad.”
+
+[[v7-11-9]]
+
+^<<v7-11-9,9>>^ So Jephʹthah said to the elders of Gilʹe·ad: “If you bring me back to fight against the Amʹmon·ites and Jehovah defeats them for me, then I will indeed become your leader!”
+
+[[v7-11-10]]
+
+^<<v7-11-10,10>>^ The elders of Gilʹe·ad said to Jephʹthah: “Let Jehovah be the witness^&#42;1^ between us if we do not do as you say.”
+
+[NOTE]
+====
+. Lit., “the one who hears.”
+====
+
+[[v7-11-11]]
+
+^<<v7-11-11,11>>^ So Jephʹthah went with the elders of Gilʹe·ad, and the people made him their leader and commander. And Jephʹthah repeated all his words before Jehovah in Mizʹpah.
+
+[[v7-11-12]]
+
+^<<v7-11-12,12>>^ Jephʹthah then sent messengers to the king of the Amʹmon·ites, saying: “What do you have against me^&#42;1^ that you have come to attack my land?”
+
+[NOTE]
+====
+. Lit., “What to me and to you?”
+====
+
+[[v7-11-13]]
+
+^<<v7-11-13,13>>^ So the king of the Amʹmon·ites said to the messengers of Jephʹthah: “It is because Israel took my land when they came up out of Egypt, from the Arʹnon to the Jabʹbok and as far as the Jordan. Now return it peaceably.”
+
+[[v7-11-14]]
+
+^<<v7-11-14,14>>^ But Jephʹthah sent messengers back to the king of the Amʹmon·ites
+
+[[v7-11-15]]
+
+^<<v7-11-15,15>>^ to say to him:
+“This is what Jephʹthah says: ‘Israel did not take the land of the Moʹab·ites and the land of the Amʹmon·ites,
+
+[[v7-11-16]]
+
+^<<v7-11-16,16>>^ for when they came up out of Egypt, Israel walked through the wilderness as far as the Red Sea and came to Kaʹdesh.
+
+[[v7-11-17]]
+
+^<<v7-11-17,17>>^ Then Israel sent messengers to the king of Eʹdom, saying: “Please let us pass through your land,” but the king of Eʹdom did not listen. Also to the king of Moʹab they sent word, but he did not consent. So Israel kept dwelling in Kaʹdesh.
+
+[[v7-11-18]]
+
+^<<v7-11-18,18>>^ When they walked through the wilderness, they bypassed the land of Eʹdom and the land of Moʹab. They traveled east of the land of Moʹab and camped in the region of the Arʹnon; they did not come within the boundary of Moʹab, for the Arʹnon was the boundary of Moʹab.
+
+[[v7-11-19]]
+
+^<<v7-11-19,19>>^ “‘After that Israel sent messengers to Siʹhon king of the Amʹor·ites, king of Heshʹbon, and Israel said to him: “Please let us pass through your land to our own place.”
+
+[[v7-11-20]]
+
+^<<v7-11-20,20>>^ But Siʹhon did not trust Israel to cross through his territory, so Siʹhon gathered all his people together and encamped in Jaʹhaz and fought against Israel.
+
+[[v7-11-21]]
+
+^<<v7-11-21,21>>^ At this Jehovah the God of Israel gave Siʹhon and all his people into Israel’s hand, so that they defeated them and Israel took possession of all the land of the Amʹor·ites, the inhabitants of that land.
+
+[[v7-11-22]]
+
+^<<v7-11-22,22>>^ Thus they took possession of all the territory of the Amʹor·ites from the Arʹnon to the Jabʹbok and from the wilderness to the Jordan.
+
+[[v7-11-23]]
+
+^<<v7-11-23,23>>^ “‘It was Jehovah the God of Israel who drove out the Amʹor·ites from before his people Israel, and now would you drive them out?
+
+[[v7-11-24]]
+
+^<<v7-11-24,24>>^ Do you not possess whatever your god Cheʹmosh gives you to possess? So everyone whom Jehovah our God has driven out from before us is the one we will drive out.
+
+[[v7-11-25]]
+
+^<<v7-11-25,25>>^ Now are you any better than Baʹlak the son of Zipʹpor, the king of Moʹab? Did he ever contend with Israel, or did he ever fight against them?
+
+[[v7-11-26]]
+
+^<<v7-11-26,26>>^ While Israel was dwelling in Heshʹbon and its dependent^&#42;1^ towns and in A·roʹer and its dependent towns and in all the cities that are by the banks of the Arʹnon for 300 years, why did you never try to take them back during that time?
+
+[NOTE]
+====
+. Or “surrounding.”
+====
+
+[[v7-11-27]]
+
+^<<v7-11-27,27>>^ I have not sinned against you, but you are wrong to attack me. Let Jehovah the Judge be judge today between the people of Israel and the people of Amʹmon.’”
+
+[[v7-11-28]]
+
+^<<v7-11-28,28>>^ But the king of the Amʹmon·ites would not listen to the message that Jephʹthah sent to him.
+
+[[v7-11-29]]
+
+^<<v7-11-29,29>>^ Jehovah’s spirit came upon Jephʹthah, and he passed through Gilʹe·ad and Ma·nasʹseh to go to Mizʹpeh of Gilʹe·ad, and from Mizʹpeh of Gilʹe·ad he continued on to the Amʹmon·ites.
+
+[[v7-11-30]]
+
+^<<v7-11-30,30>>^ Then Jephʹthah made a vow to Jehovah and said: “If you give the Amʹmon·ites into my hand,
+
+[[v7-11-31]]
+
+^<<v7-11-31,31>>^ then whoever comes out of the door of my house to meet me when I return in peace from the Amʹmon·ites will become Jehovah’s, and I will offer that one up as a burnt offering.”
+
+[[v7-11-32]]
+
+^<<v7-11-32,32>>^ So Jephʹthah went to fight against the Amʹmon·ites, and Jehovah gave them into his hand.
+
+[[v7-11-33]]
+
+^<<v7-11-33,33>>^ He struck them down with a very great slaughter from A·roʹer all the way to Minʹnith—20 cities—and as far as Aʹbel-kerʹa·mim. Thus the Amʹmon·ites were subdued before the Israelites.
+
+[[v7-11-34]]
+
+^<<v7-11-34,34>>^ Finally Jephʹthah came to his home in Mizʹpah, and look! his daughter was coming out to meet him, playing the tambourine and dancing! Now she was his one and only child. Besides her, he had neither son nor daughter.
+
+[[v7-11-35]]
+
+^<<v7-11-35,35>>^ When he saw her, he ripped his garments and said: “Oh no, my daughter! You have broken my heart,^&#42;1^ for you have become the one I have banished. Now I have opened my mouth to Jehovah, and I am unable to turn back.”
+
+[NOTE]
+====
+. Lit., “You brought me very low.”
+====
+
+[[v7-11-36]]
+
+^<<v7-11-36,36>>^ But she said to him: “My father, if you have opened your mouth to Jehovah, do to me as you have promised, since Jehovah has executed vengeance for you upon your enemies, the Amʹmon·ites.”
+
+[[v7-11-37]]
+
+^<<v7-11-37,37>>^ She then said to her father: “Let this be done for me: Let me be alone for two months, and let me go away into the mountains, and let me weep over my virginity with my female companions.”^&#42;1^
+
+[NOTE]
+====
+. Or “weep with my friends because I will never marry.”
+====
+
+[[v7-11-38]]
+
+^<<v7-11-38,38>>^ At this he said: “Go!” So he sent her away for two months, and she went to the mountains with her companions to weep over her virginity.
+
+[[v7-11-39]]
+
+^<<v7-11-39,39>>^ At the end of two months, she returned to her father, after which he carried out the vow he had made regarding her. She never had relations with a man. And it became a custom^&#42;1^ in Israel:
+
+[NOTE]
+====
+. Or “regulation.”
+====
+
+[[v7-11-40]]
+
+^<<v7-11-40,40>>^ From year to year, the young women of Israel would go to give commendation to the daughter of Jephʹthah the Gilʹe·ad·ite four days in the year.
+
+'''
+
+xref:007-judges/007-judges-010.adoc#v7-10-0[&#60; Capítulo Anterior] | <<v7-11-0,Topo>> | xref:007-judges/007-judges-012.adoc#v7-12-0[Próximo Capítulo &#62;]

@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Psalm, 83
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A song. A melody of Aʹsaph._
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ O God, do not be silent;
+Do not keep quiet^&#42;1^ or still, O Divine One.
+
+[NOTE]
+====
+. Or “keep speechless.”
+====
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ For look! your enemies are in an uproar;
+Those who hate you act arrogantly.^&#42;1^
+
+[NOTE]
+====
+. Or “raise their heads.”
+====
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ With cunning they secretly plot against your people;
+They conspire against your treasured ones.^&#42;1^
+
+[NOTE]
+====
+. Lit., “concealed ones.”
+====
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ They say: “Come, let us annihilate them as a nation,
+So that the name of Israel may be remembered no more.”
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ They devise a unified strategy;^&#42;1^
+They have made an alliance^&#42;2^ against you—
+
+[NOTE]
+====
+. Lit., “They consult with a heart together.”
+. Or “a covenant.”
+====
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ The tents of Eʹdom and the Ishʹma·el·ites, Moʹab and the Hagʹrites,
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ Geʹbal and Amʹmon and Amʹa·lek,
+Phi·lisʹti·a together with the inhabitants of Tyre.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ As·syrʹi·a too has joined them;
+They give support to^&#42;1^ the sons of Lot. (Selah)
+
+[NOTE]
+====
+. Lit., “have become an arm to.”
+====
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Do to them as you did to Midʹi·an,
+As you did to Sisʹe·ra and Jaʹbin at the stream^&#42;1^ of Kiʹshon.
+
+[NOTE]
+====
+. Or “wadi.”
+====
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ They were annihilated at En-dor;
+They became manure for the ground.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ Make their nobles like Oʹreb and Zeʹeb
+And their princes^&#42;1^ like Zeʹbah and Zal·munʹna,
+
+[NOTE]
+====
+. Or “leaders.”
+====
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ For they said: “Let us take possession of the land where God dwells.”
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ O my God, make them like a whirling thistle,^&#42;1^
+Like stubble blown about by the wind.
+
+[NOTE]
+====
+. Or “like tumbleweed.”
+====
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Like a fire that burns up the forest,
+Like a flame that scorches the mountains,
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ So may you pursue them with your tempest
+And terrify them with your windstorm.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Cover^&#42;1^ their faces with dishonor,
+So that they may search for your name, O Jehovah.
+
+[NOTE]
+====
+. Lit., “Fill.”
+====
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ May they be put to shame and be terrified forever;
+May they be disgraced and perish;
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ May people know that you, whose name is Jehovah,
+You alone are the Most High over all the earth.
+
+'''
+
+xref:019-psalm/019-psalm-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-psalm/019-psalm-084.adoc#v19-84-0[Próximo Capítulo &#62;]

@@ -1,0 +1,151 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Numbers, 34
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ And Jehovah spoke further to Moses, saying:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ “Give these instructions to the Israelites: ‘When you go into the land of Caʹnaan, this is the land that will fall to you as an inheritance, the land of Caʹnaan according to its boundaries.
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ “‘Your southern border will extend from the wilderness of Zin alongside Eʹdom, and your south boundary on the east will be from the extremity of the Salt Sea.^&#42;1^
+
+[NOTE]
+====
+. That is, the Dead Sea.
+====
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ Your boundary will change direction to pass south of the ascent of A·krabʹbim and continue to Zin, and its end will be south of Kaʹdesh-barʹne·a. Then it will extend to Haʹzar-adʹdar and continue to Azʹmon.
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ The boundary will change direction at Azʹmon to the Wadi^&#42;1^ of Egypt, and its end will be at the Sea.^&#42;2^
+
+[NOTE]
+====
+. See Glossary.
+. That is, the Great Sea, the Mediterranean.
+====
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ “‘Your western boundary will be the Great Sea^&#42;1^ and the coast. This will become your western boundary.
+
+[NOTE]
+====
+. That is, the Mediterranean.
+====
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ “‘Now this will be your northern boundary: From the Great Sea you will mark your boundary out to Mount Hor.
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ From Mount Hor you will mark out the boundary to Leʹbo-haʹmath,^&#42;1^ and the end of the boundary will be at Zeʹdad.
+
+[NOTE]
+====
+. Or “the entrance of Hamath.”
+====
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ And the boundary will extend to Ziphʹron, and its end will be Haʹzar-eʹnan. This will become your northern boundary.
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ “‘Then you should mark as your boundary on the east from Haʹzar-eʹnan to Sheʹpham.
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ The boundary will extend from Sheʹpham to Ribʹlah on the east of Aʹin, and the border will go down and cross the eastern slope of the Sea of Chinʹne·reth.^&#42;1^
+
+[NOTE]
+====
+. That is, the lake of Gennesaret, or the Sea of Galilee.
+====
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ The border will extend to the Jordan, and its end will be the Salt Sea. This will be your land and the boundaries surrounding it.’”
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ So Moses instructed the Israelites, saying: “This is the land that you will apportion as your possession by lot, just as Jehovah has commanded to give to the nine and a half tribes.
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ For the tribe of the Reuʹben·ites by their paternal house, the tribe of the Gadʹites by their paternal house, and the half tribe of Ma·nasʹseh have already taken their inheritance.
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ The two and a half tribes have already taken their inheritance east of the region of the Jordan by Jerʹi·cho, toward the sunrising.”
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ Jehovah spoke further to Moses, saying:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ “These are the names of the men who will divide the land for you to possess: El·e·aʹzar the priest and Joshua the son of Nun.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ And you will take one chieftain out of each tribe to divide the land as your inheritance.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ These are the names of the men: of the tribe of Judah, Caʹleb the son of Je·phunʹneh;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ of the tribe of the sons of Simʹe·on, She·muʹel the son of Am·miʹhud;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ of the tribe of Benjamin, E·liʹdad the son of Chisʹlon;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ of the tribe of the sons of Dan, a chieftain, Bukʹki the son of Jogʹli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ of the sons of Joseph from the tribe of the sons of Ma·nasʹseh, a chieftain, Hanʹni·el the son of Eʹphod;
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ from the tribe of the sons of Eʹphra·im, a chieftain, Kem·uʹel the son of Shiphʹtan;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ of the tribe of the sons of Zebʹu·lun, a chieftain, E·li·zaʹphan the son of Parʹnach;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ of the tribe of the sons of Isʹsa·char, a chieftain, Palʹti·el the son of Azʹzan;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ of the tribe of the sons of Ashʹer, a chieftain, A·hiʹhud the son of She·loʹmi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ of the tribe of the sons of Naphʹta·li, a chieftain, Ped·ahʹel the son of Am·miʹhud.”
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ These are the ones whom Jehovah commanded to distribute the land to the Israelites in the land of Caʹnaan.
+
+'''
+
+xref:004-numbers/004-numbers-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numbers/004-numbers-035.adoc#v4-35-0[Próximo Capítulo &#62;]

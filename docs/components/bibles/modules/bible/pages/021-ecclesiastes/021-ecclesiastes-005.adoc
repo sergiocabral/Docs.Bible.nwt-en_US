@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v21-5-0]]
+=== Ecclesiastes, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v21-5-1]]
+
+^<<v21-5-1,1>>^ Watch your step whenever you go to the house of the true God; it is better to draw near to listen than to give a sacrifice as the stupid ones do, for they are not aware that what they are doing is bad.
+
+[[v21-5-2]]
+
+^<<v21-5-2,2>>^ Do not be quick with your mouth, nor let your heart speak rashly before the true God, for the true God is in the heavens but you are on the earth. That is why your words should be few.
+
+[[v21-5-3]]
+
+^<<v21-5-3,3>>^ For a dream comes from too many preoccupations,^&#42;1^ and the chatter of the stupid one comes from too many words.
+
+[NOTE]
+====
+. Or “too many cares.”
+====
+
+[[v21-5-4]]
+
+^<<v21-5-4,4>>^ Whenever you make a vow to God, do not delay to pay it, for he finds no pleasure in the stupid ones. What you vow, pay.
+
+[[v21-5-5]]
+
+^<<v21-5-5,5>>^ Better for you not to vow than to vow and not pay.
+
+[[v21-5-6]]
+
+^<<v21-5-6,6>>^ Do not allow your mouth to cause you^&#42;1^ to sin, and do not say before the angel^&#42;2^ that it was a mistake. Why make the true God indignant over what you say so that he has to destroy the work of your hands?
+
+[NOTE]
+====
+. Lit., “your flesh.”
+. Or “messenger.”
+====
+
+[[v21-5-7]]
+
+^<<v21-5-7,7>>^ For just as many preoccupations lead to dreams, so, too, many words lead to futility. But fear the true God.
+
+[[v21-5-8]]
+
+^<<v21-5-8,8>>^ If you see any oppression of the poor and a violation of justice and righteousness in your district, do not be surprised about the matter. For that high official is being watched by one who is higher than he is, and there are others who are still higher than they are.
+
+[[v21-5-9]]
+
+^<<v21-5-9,9>>^ Also, the profit of the land is divided among them all; even the king is served by the field.
+
+[[v21-5-10]]
+
+^<<v21-5-10,10>>^ A lover of silver will never be satisfied with silver, nor a lover of wealth with income. This too is futility.
+
+[[v21-5-11]]
+
+^<<v21-5-11,11>>^ When good things increase, those consuming them increase. And what advantage is it to the owner, except to look at them with his eyes?
+
+[[v21-5-12]]
+
+^<<v21-5-12,12>>^ Sweet is the sleep of the one serving, whether he eats little or much, but the plenty belonging to the rich one does not permit him to sleep.
+
+[[v21-5-13]]
+
+^<<v21-5-13,13>>^ There is a great tragedy^&#42;1^ that I have seen under the sun: riches that were hoarded by their owner to his own harm.
+
+[NOTE]
+====
+. Or “calamity.”
+====
+
+[[v21-5-14]]
+
+^<<v21-5-14,14>>^ Those riches were lost because of a disastrous venture,^&#42;1^ and when he becomes a father to a son, he has nothing left in his possession.
+
+[NOTE]
+====
+. Or “occupation.”
+====
+
+[[v21-5-15]]
+
+^<<v21-5-15,15>>^ Just as one came from his mother’s womb, naked he will go away, just as he came. And he cannot carry away anything for all his hard work.
+
+[[v21-5-16]]
+
+^<<v21-5-16,16>>^ This too is a great tragedy:^&#42;1^ Exactly as he came, so he will go away; and what profit is there to the one who keeps working hard for the wind?
+
+[NOTE]
+====
+. Or “calamity.”
+====
+
+[[v21-5-17]]
+
+^<<v21-5-17,17>>^ Also, every day he eats in darkness, with a great deal of frustration and sickness and anger.
+
+[[v21-5-18]]
+
+^<<v21-5-18,18>>^ This is what I have seen to be good and proper: that one should eat and drink and find enjoyment for all the hard work at which he toils under the sun during the few days of life that the true God has given him, for that is his reward.^&#42;1^
+
+[NOTE]
+====
+. Or “portion.”
+====
+
+[[v21-5-19]]
+
+^<<v21-5-19,19>>^ Also, when the true God gives a man riches and material possessions along with the ability to enjoy them, he should take his reward^&#42;1^ and rejoice in his hard work. This is the gift of God.
+
+[NOTE]
+====
+. Or “portion.”
+====
+
+[[v21-5-20]]
+
+^<<v21-5-20,20>>^ For he will hardly notice^&#42;1^ the passing days of his life, because the true God keeps him preoccupied with the rejoicing of his heart.
+
+[NOTE]
+====
+. Or “remember.”
+====
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-004.adoc#v21-4-0[&#60; Capítulo Anterior] | <<v21-5-0,Topo>> | xref:021-ecclesiastes/021-ecclesiastes-006.adoc#v21-6-0[Próximo Capítulo &#62;]

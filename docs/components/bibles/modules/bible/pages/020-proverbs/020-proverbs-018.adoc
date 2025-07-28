@@ -1,0 +1,174 @@
+include::./index.adoc[]
+
+[[v20-18-0]]
+=== Proverbs, 18
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-18-1]]
+
+^<<v20-18-1,1>>^ Whoever isolates himself pursues his own selfish desires;
+He rejects^&#42;1^ all practical wisdom.
+
+[NOTE]
+====
+. Or “shows contempt for.”
+====
+
+[[v20-18-2]]
+
+^<<v20-18-2,2>>^ A stupid person takes no pleasure in understanding;
+He would rather disclose what is in his heart.
+
+[[v20-18-3]]
+
+^<<v20-18-3,3>>^ When a wicked person comes, contempt also comes,
+And along with dishonor there is disgrace.
+
+[[v20-18-4]]
+
+^<<v20-18-4,4>>^ The words of a man’s mouth are deep waters.
+The fountain of wisdom is a bubbling brook.
+
+[[v20-18-5]]
+
+^<<v20-18-5,5>>^ It is not good to show partiality to the wicked one
+Or to deprive the righteous one of justice.
+
+[[v20-18-6]]
+
+^<<v20-18-6,6>>^ The speech of the stupid one leads to quarrels,
+And his mouth invites a beating.
+
+[[v20-18-7]]
+
+^<<v20-18-7,7>>^ The mouth of the stupid is his ruin,
+And his lips are a snare for his life.^&#42;1^
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v20-18-8]]
+
+^<<v20-18-8,8>>^ The words of a slanderer are like tasty morsels;^&#42;1^
+They are gulped right down into the stomach.
+
+[NOTE]
+====
+. Or “like things to be swallowed greedily.”
+====
+
+[[v20-18-9]]
+
+^<<v20-18-9,9>>^ Whoever is lazy in his work
+Is a brother to the one who causes ruin.
+
+[[v20-18-10]]
+
+^<<v20-18-10,10>>^ The name of Jehovah is a strong tower.
+Into it the righteous one runs and receives protection.^&#42;1^
+
+[NOTE]
+====
+. Lit., “is raised high,” that is, out of reach, safe.
+====
+
+[[v20-18-11]]
+
+^<<v20-18-11,11>>^ The wealth of the rich is his fortified city;
+It is like a protective wall in his imagination.
+
+[[v20-18-12]]
+
+^<<v20-18-12,12>>^ Before a crash a man’s heart is lofty,
+And before glory there is humility.
+
+[[v20-18-13]]
+
+^<<v20-18-13,13>>^ When anyone replies to a matter before he hears the facts,
+It is foolish and humiliating.
+
+[[v20-18-14]]
+
+^<<v20-18-14,14>>^ A person’s spirit can sustain him through illness,
+But who can bear a crushed spirit?^&#42;1^
+
+[NOTE]
+====
+. Or “complete despair?”
+====
+
+[[v20-18-15]]
+
+^<<v20-18-15,15>>^ The heart of the understanding one acquires knowledge,
+And the ear of the wise seeks to find knowledge.
+
+[[v20-18-16]]
+
+^<<v20-18-16,16>>^ A man’s gift opens the way for him;
+It gives him access to great people.
+
+[[v20-18-17]]
+
+^<<v20-18-17,17>>^ The first to state his case seems right,
+Until the other party comes and cross-examines him.^&#42;1^
+
+[NOTE]
+====
+. Or “searches him through.”
+====
+
+[[v20-18-18]]
+
+^<<v20-18-18,18>>^ Casting lots puts an end to disputes
+And decides between^&#42;1^ strong opponents.
+
+[NOTE]
+====
+. Lit., “separates.”
+====
+
+[[v20-18-19]]
+
+^<<v20-18-19,19>>^ A brother offended is more unyielding than a fortified city,
+And there are disputes like the bars of a fortress.
+
+[[v20-18-20]]
+
+^<<v20-18-20,20>>^ From the fruitage of a man’s speech^&#42;1^ his stomach will be filled;
+He will be satisfied with what his lips produce.
+
+[NOTE]
+====
+. Lit., “mouth.”
+====
+
+[[v20-18-21]]
+
+^<<v20-18-21,21>>^ Death and life are in the power of the tongue;
+Those who love to use it will eat its fruitage.
+
+[[v20-18-22]]
+
+^<<v20-18-22,22>>^ The one who finds a good wife has found something good,
+And he receives Jehovah’s favor.^&#42;1^
+
+[NOTE]
+====
+. Or “goodwill.”
+====
+
+[[v20-18-23]]
+
+^<<v20-18-23,23>>^ The poor man implores when speaking,
+But the rich man answers harshly.
+
+[[v20-18-24]]
+
+^<<v20-18-24,24>>^ There are companions ready to crush one another,
+But there is a friend who sticks closer than a brother.
+
+'''
+
+xref:020-proverbs/020-proverbs-017.adoc#v20-17-0[&#60; Capítulo Anterior] | <<v20-18-0,Topo>> | xref:020-proverbs/020-proverbs-019.adoc#v20-19-0[Próximo Capítulo &#62;]

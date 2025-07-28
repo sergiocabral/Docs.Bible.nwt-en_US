@@ -1,0 +1,196 @@
+include::./index.adoc[]
+
+[[v19-25-0]]
+=== Psalm, 25
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David._
+
+_א &#91;Aleph&#93;_
+
+[[v19-25-1]]
+
+^<<v19-25-1,1>>^ To you, O Jehovah, I turn.^&#42;1^
+
+[NOTE]
+====
+. Or “I raise my soul.”
+====
+
+_ב &#91;Beth&#93;_
+
+[[v19-25-2]]
+
+^<<v19-25-2,2>>^ My God, I trust in you;
+Do not let me be put to shame.
+Do not let my enemies gloat over me.
+
+_ג &#91;Gimel&#93;_
+
+[[v19-25-3]]
+
+^<<v19-25-3,3>>^ Surely none who hope in you will be put to shame,
+But shame awaits those who are treacherous without cause.
+
+_ד &#91;Daleth&#93;_
+
+[[v19-25-4]]
+
+^<<v19-25-4,4>>^ Make me know your ways, O Jehovah;
+Teach me your paths.
+
+_ה &#91;He&#93;_
+
+[[v19-25-5]]
+
+^<<v19-25-5,5>>^ Cause me to walk in your truth and teach me,
+For you are my God of salvation.
+
+_ו &#91;Waw&#93;_
+
+In you I hope all day long.
+
+_ז &#91;Zayin&#93;_
+
+[[v19-25-6]]
+
+^<<v19-25-6,6>>^ Remember your mercy, O Jehovah, and your loyal love,
+Which you have always shown.^&#42;1^
+
+[NOTE]
+====
+. Or “Which are from ancient times.”
+====
+
+_ח &#91;Heth&#93;_
+
+[[v19-25-7]]
+
+^<<v19-25-7,7>>^ Do not remember the sins of my youth and my transgressions.
+Remember me according to your loyal love,
+For the sake of your goodness, O Jehovah.
+
+_ט &#91;Teth&#93;_
+
+[[v19-25-8]]
+
+^<<v19-25-8,8>>^ Good and upright is Jehovah.
+That is why he instructs sinners in the way to live.
+
+_י &#91;Yod&#93;_
+
+[[v19-25-9]]
+
+^<<v19-25-9,9>>^ He will guide the meek in what is right,^&#42;1^
+And he will teach the meek ones his way.
+
+[NOTE]
+====
+. Lit., “in judgment.”
+====
+
+_כ &#91;Kaph&#93;_
+
+[[v19-25-10]]
+
+^<<v19-25-10,10>>^ All the paths of Jehovah are loyal love and faithfulness
+For those observing his covenant and his reminders.
+
+_ל &#91;Lamed&#93;_
+
+[[v19-25-11]]
+
+^<<v19-25-11,11>>^ For the sake of your name, O Jehovah,
+Forgive my error, though it is great.
+
+_מ &#91;Mem&#93;_
+
+[[v19-25-12]]
+
+^<<v19-25-12,12>>^ Who is the man fearing Jehovah?
+He will instruct him about the way he should choose.
+
+_נ &#91;Nun&#93;_
+
+[[v19-25-13]]
+
+^<<v19-25-13,13>>^ He^&#42;1^ will experience what is good,
+And his descendants^&#42;2^ will take possession of the earth.
+
+[NOTE]
+====
+. Or “His soul.”
+. Lit., “seed.”
+====
+
+_ס &#91;Samekh&#93;_
+
+[[v19-25-14]]
+
+^<<v19-25-14,14>>^ Close friendship with Jehovah belongs to those who fear him,
+And he makes his covenant known to them.
+
+_ע &#91;Ayin&#93;_
+
+[[v19-25-15]]
+
+^<<v19-25-15,15>>^ My eyes are always toward Jehovah,
+For he will free my feet from the net.
+
+_פ &#91;Pe&#93;_
+
+[[v19-25-16]]
+
+^<<v19-25-16,16>>^ Turn your face to me and show me favor,
+For I am alone and helpless.
+
+_צ &#91;Tsade&#93;_
+
+[[v19-25-17]]
+
+^<<v19-25-17,17>>^ The distresses of my heart have multiplied;
+Free me from my anguish.
+
+_ר &#91;Resh&#93;_
+
+[[v19-25-18]]
+
+^<<v19-25-18,18>>^ See my affliction and my trouble,
+And pardon all my sins.
+
+[[v19-25-19]]
+
+^<<v19-25-19,19>>^ See how numerous my enemies are
+And how violent their hatred is for me.
+
+_ש &#91;Shin&#93;_
+
+[[v19-25-20]]
+
+^<<v19-25-20,20>>^ Guard my life^&#42;1^ and save me.
+Do not let me be put to shame, for I have taken refuge in you.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+_ת &#91;Taw&#93;_
+
+[[v19-25-21]]
+
+^<<v19-25-21,21>>^ May integrity and uprightness safeguard me,
+For my hope is in you.
+
+[[v19-25-22]]
+
+^<<v19-25-22,22>>^ O God, rescue^&#42;1^ Israel out of all his distresses.
+
+[NOTE]
+====
+. Lit., “redeem.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-024.adoc#v19-24-0[&#60; Capítulo Anterior] | <<v19-25-0,Topo>> | xref:019-psalm/019-psalm-026.adoc#v19-26-0[Próximo Capítulo &#62;]

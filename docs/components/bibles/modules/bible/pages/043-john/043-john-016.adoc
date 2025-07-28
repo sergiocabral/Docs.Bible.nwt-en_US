@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v43-16-0]]
+=== According to John, 16
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v43-16-1]]
+
+^<<v43-16-1,1>>^ “I have said these things to you so that you may not be stumbled.
+
+[[v43-16-2]]
+
+^<<v43-16-2,2>>^ Men will expel you from the synagogue. In fact, the hour is coming when everyone who kills you will think he has offered a sacred service to God.
+
+[[v43-16-3]]
+
+^<<v43-16-3,3>>^ But they will do these things because they have not come to know either the Father or me.
+
+[[v43-16-4]]
+
+^<<v43-16-4,4>>^ Nevertheless, I have told you these things so that when the hour for them to happen arrives, you will remember that I told them to you.
+“I did not tell you these things at first, because I was with you.
+
+[[v43-16-5]]
+
+^<<v43-16-5,5>>^ But now I am going to the One who sent me; yet not one of you asks me, ‘Where are you going?’
+
+[[v43-16-6]]
+
+^<<v43-16-6,6>>^ But because I have told you these things, grief has filled your hearts.
+
+[[v43-16-7]]
+
+^<<v43-16-7,7>>^ Nevertheless, I am telling you the truth, it is for your benefit that I am going away. For if I do not go away, the helper will not come to you; but if I do go, I will send him to you.
+
+[[v43-16-8]]
+
+^<<v43-16-8,8>>^ And when that one comes, he will give the world convincing evidence concerning sin and concerning righteousness and concerning judgment:
+
+[[v43-16-9]]
+
+^<<v43-16-9,9>>^ first concerning sin, because they are not exercising faith in me;
+
+[[v43-16-10]]
+
+^<<v43-16-10,10>>^ then concerning righteousness, because I am going to the Father and you will see me no longer;
+
+[[v43-16-11]]
+
+^<<v43-16-11,11>>^ then concerning judgment, because the ruler of this world has been judged.
+
+[[v43-16-12]]
+
+^<<v43-16-12,12>>^ “I still have many things to say to you, but you are not able to bear them now.
+
+[[v43-16-13]]
+
+^<<v43-16-13,13>>^ However, when that one^&#42;1^ comes, the spirit of the truth, he will guide you into all the truth, for he will not speak of his own initiative, but what he hears he will speak, and he will declare to you the things to come.
+
+[NOTE]
+====
+. Both “that one” and “he” in vss. 13 and 14 refer back to “the helper” in vs. 7. Jesus used “the helper” (which has the masculine gender in Greek) as a personification of the holy spirit, an impersonal force, which has the neuter gender in Greek.
+====
+
+[[v43-16-14]]
+
+^<<v43-16-14,14>>^ That one will glorify me, because he will receive from what is mine and will declare it to you.
+
+[[v43-16-15]]
+
+^<<v43-16-15,15>>^ All the things that the Father has are mine. That is why I said he receives from what is mine and declares it to you.
+
+[[v43-16-16]]
+
+^<<v43-16-16,16>>^ In a little while you will see me no longer, and again, in a little while you will see me.”
+
+[[v43-16-17]]
+
+^<<v43-16-17,17>>^ At that some of his disciples said to one another: “What does he mean by saying to us, ‘In a little while you will not see me, and again, in a little while you will see me,’ and, ‘because I am going to the Father’?”
+
+[[v43-16-18]]
+
+^<<v43-16-18,18>>^ So they were saying: “What does he mean by saying, ‘a little while’? We do not know what he is talking about.”
+
+[[v43-16-19]]
+
+^<<v43-16-19,19>>^ Jesus knew they wanted to question him, so he said to them: “Are you asking one another this because I said: ‘In a little while you will not see me, and again, in a little while you will see me’?
+
+[[v43-16-20]]
+
+^<<v43-16-20,20>>^ Most truly I say to you, you will weep and wail, but the world will rejoice; you will be grieved, but your grief will be turned into joy.
+
+[[v43-16-21]]
+
+^<<v43-16-21,21>>^ When a woman is giving birth, she has grief because her hour has come, but when she has given birth to the child, she remembers the tribulation no more because of the joy that a human has been born into the world.
+
+[[v43-16-22]]
+
+^<<v43-16-22,22>>^ So you also, now you have grief; but I will see you again, and your hearts will rejoice, and no one will take away your joy.
+
+[[v43-16-23]]
+
+^<<v43-16-23,23>>^ In that day you will ask me no question at all. Most truly I say to you, if you ask the Father for anything, he will give it to you in my name.
+
+[[v43-16-24]]
+
+^<<v43-16-24,24>>^ Until now you have not asked for a single thing in my name. Ask and you will receive, so that your joy may be complete.
+
+[[v43-16-25]]
+
+^<<v43-16-25,25>>^ “I have spoken these things to you in comparisons. The hour is coming when I will no longer speak to you in comparisons, but I will tell you plainly about the Father.
+
+[[v43-16-26]]
+
+^<<v43-16-26,26>>^ In that day you will make request of the Father in my name; in saying this, I do not mean that I will make request for you.
+
+[[v43-16-27]]
+
+^<<v43-16-27,27>>^ For the Father himself has affection for you, because you have had affection for me and have believed that I came as God’s representative.
+
+[[v43-16-28]]
+
+^<<v43-16-28,28>>^ I came as the Father’s representative and have come into the world. Now I am leaving the world and am going to the Father.”
+
+[[v43-16-29]]
+
+^<<v43-16-29,29>>^ His disciples said: “See! Now you are speaking plainly and are not using comparisons.
+
+[[v43-16-30]]
+
+^<<v43-16-30,30>>^ Now we know that you know all things and you do not need to have anyone question you. By this we believe that you came from God.”
+
+[[v43-16-31]]
+
+^<<v43-16-31,31>>^ Jesus answered them: “Do you believe now?
+
+[[v43-16-32]]
+
+^<<v43-16-32,32>>^ Look! The hour is coming, indeed, it has come, when each one of you will be scattered to his own house and you will leave me alone. But I am not alone, because the Father is with me.
+
+[[v43-16-33]]
+
+^<<v43-16-33,33>>^ I have said these things to you so that by means of me you may have peace. In the world you will have tribulation, but take courage! I have conquered the world.”
+
+'''
+
+xref:043-john/043-john-015.adoc#v43-15-0[&#60; Capítulo Anterior] | <<v43-16-0,Topo>> | xref:043-john/043-john-017.adoc#v43-17-0[Próximo Capítulo &#62;]

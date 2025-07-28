@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v3-5-0]]
+=== Leviticus, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v3-5-1]]
+
+^<<v3-5-1,1>>^ “‘If someone^&#42;1^ sins because he has heard a public call to testify^&#42;2^ and he is a witness or has seen or learned about it and he does not report it, then he will answer for his error.
+
+[NOTE]
+====
+. Or “a soul.”
+. Lit., “a voice of a curse (oath).” Probably an announcement regarding a wrong­doing that included a curse pronounced against the wrongdoer or against the witness in case he failed to testify.
+====
+
+[[v3-5-2]]
+
+^<<v3-5-2,2>>^ “‘Or when a person^&#42;1^ touches anything unclean, whether the dead body of an unclean wild animal, an unclean domestic animal, or an unclean swarming creature, he is unclean and has become guilty even if he does not realize it.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v3-5-3]]
+
+^<<v3-5-3,3>>^ Or in case someone without being aware of it touches human uncleanness—anything unclean that may make him unclean—and he comes to know it, then he becomes guilty.
+
+[[v3-5-4]]
+
+^<<v3-5-4,4>>^ “‘Or if someone^&#42;1^ rashly swears to do something—whether it is to do good or to do evil, no matter what it may be—and he was unaware of it, but then he realizes that he has sworn rashly, he becomes guilty.^&#42;2^
+
+[NOTE]
+====
+. Or “a soul.”
+. The implication seems to be that he does not fulfill his vow.
+====
+
+[[v3-5-5]]
+
+^<<v3-5-5,5>>^ “‘If he becomes guilty as respects one of these things, then he must confess in what way he has sinned.
+
+[[v3-5-6]]
+
+^<<v3-5-6,6>>^ He will also bring his guilt offering to Jehovah for the sin that he committed, namely, a female from the flock, either a female lamb or a young female goat, for a sin offering. Then the priest will make atonement for him for his sin.
+
+[[v3-5-7]]
+
+^<<v3-5-7,7>>^ “‘If, though, he cannot afford a sheep, he must bring to Jehovah two turtledoves or two young pigeons as his guilt offering for the sin, one for a sin offering and one for a burnt offering.
+
+[[v3-5-8]]
+
+^<<v3-5-8,8>>^ He is to bring them to the priest, who will present first the one for the sin offering and nip off its head at the front of its neck, without severing it.
+
+[[v3-5-9]]
+
+^<<v3-5-9,9>>^ He will spatter some of the blood of the sin offering on the side of the altar, but the remainder of the blood will be drained out at the base of the altar. It is a sin offering.
+
+[[v3-5-10]]
+
+^<<v3-5-10,10>>^ He will handle the other one as a burnt offering according to the regular procedure; and the priest will make atonement for him for the sin that he has committed, and it will be forgiven him.
+
+[[v3-5-11]]
+
+^<<v3-5-11,11>>^ “‘Now if he cannot afford two turtledoves or two young pigeons, he must bring as his offering for his sin a tenth of an eʹphah^&#42;1^ of fine flour for a sin offering. He should not add oil to it or place frankincense on it, for it is a sin offering.
+
+[NOTE]
+====
+. A tenth of an ephah equaled 2.2 L (2 dry qt). See App. B14.
+====
+
+[[v3-5-12]]
+
+^<<v3-5-12,12>>^ He will bring it to the priest, and the priest will take from it his handful as a token offering^&#42;1^ and make it smoke on the altar on top of Jehovah’s offerings made by fire. It is a sin offering.
+
+[NOTE]
+====
+. Or “as a memorial (representative) portion of it.”
+====
+
+[[v3-5-13]]
+
+^<<v3-5-13,13>>^ The priest will make atonement for him for the sin that he has committed, any one of these sins, and it will be forgiven him. The remainder of the offering will become the priest’s, just like the grain offering.’”
+
+[[v3-5-14]]
+
+^<<v3-5-14,14>>^ Jehovah continued to speak to Moses, saying:
+
+[[v3-5-15]]
+
+^<<v3-5-15,15>>^ “If someone^&#42;1^ behaves unfaithfully by unintentionally sinning against the holy things of Jehovah, he is to bring to Jehovah a sound ram from the flock as a guilt offering; its value in silver shekels^&#42;2^ is set according to the standard shekel of the holy place.^&#42;3^
+
+[NOTE]
+====
+. Or “a soul.”
+. A shekel equaled 11.4 g (0.367 oz t). See App. B14.
+. Or “by the holy shekel.”
+====
+
+[[v3-5-16]]
+
+^<<v3-5-16,16>>^ And he will make compensation for the sin he has committed against the holy place and he will also add a fifth of its value. He will give it to the priest, so that the priest may make atonement for him with the ram of the guilt offering, and it will be forgiven him.
+
+[[v3-5-17]]
+
+^<<v3-5-17,17>>^ “If someone^&#42;1^ sins by doing any of the things that Jehovah commands should not be done, even if he is not aware of it, he is still guilty and will answer for his error.
+
+[NOTE]
+====
+. Or “a soul.”
+====
+
+[[v3-5-18]]
+
+^<<v3-5-18,18>>^ He should bring to the priest a sound ram from the flock according to the estimated value, for a guilt offering. Then the priest will make atonement for him for the unintentional mistake that he unknowingly committed, and it will be forgiven him.
+
+[[v3-5-19]]
+
+^<<v3-5-19,19>>^ It is a guilt offering. He has certainly become guilty of sinning against Jehovah.”
+
+'''
+
+xref:003-leviticus/003-leviticus-004.adoc#v3-4-0[&#60; Capítulo Anterior] | <<v3-5-0,Topo>> | xref:003-leviticus/003-leviticus-006.adoc#v3-6-0[Próximo Capítulo &#62;]

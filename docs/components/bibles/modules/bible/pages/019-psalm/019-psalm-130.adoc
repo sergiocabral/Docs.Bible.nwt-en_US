@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v19-130-0]]
+=== Psalm, 130
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A Song of the Ascents._
+
+[[v19-130-1]]
+
+^<<v19-130-1,1>>^ From the depths I call to you, O Jehovah.
+
+[[v19-130-2]]
+
+^<<v19-130-2,2>>^ O Jehovah, hear my voice.
+May your ears pay attention to my pleas for help.
+
+[[v19-130-3]]
+
+^<<v19-130-3,3>>^ If errors were what you watch,^&#42;1^ O Jah,^&#42;2^
+Then who, O Jehovah, could stand?
+
+[NOTE]
+====
+. Or “keep track of.”
+. “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-130-4]]
+
+^<<v19-130-4,4>>^ For with you there is true forgiveness,
+So that you may be held in awe.^&#42;1^
+
+[NOTE]
+====
+. Lit., “be feared.”
+====
+
+[[v19-130-5]]
+
+^<<v19-130-5,5>>^ I hope in Jehovah, my whole being^&#42;1^ hopes in him;
+I wait for his word.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-130-6]]
+
+^<<v19-130-6,6>>^ I eagerly wait^&#42;1^ for Jehovah,
+More than watchmen wait for the morning,
+Yes, more than watchmen wait for the morning.
+
+[NOTE]
+====
+. Or “My soul eagerly waits.”
+====
+
+[[v19-130-7]]
+
+^<<v19-130-7,7>>^ Let Israel keep waiting for Jehovah,
+For Jehovah is loyal in his love,
+And he has great power to redeem.
+
+[[v19-130-8]]
+
+^<<v19-130-8,8>>^ He will redeem Israel from all their errors.
+
+'''
+
+xref:019-psalm/019-psalm-129.adoc#v19-129-0[&#60; Capítulo Anterior] | <<v19-130-0,Topo>> | xref:019-psalm/019-psalm-131.adoc#v19-131-0[Próximo Capítulo &#62;]

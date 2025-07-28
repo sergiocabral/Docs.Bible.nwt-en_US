@@ -1,0 +1,134 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== The First of Chronicles, 24
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ Now the divisions of the descendants of Aaron were these: The sons of Aaron were Naʹdab, A·biʹhu, El·e·aʹzar, and Ithʹa·mar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ However, Naʹdab and A·biʹhu died before their father, and they did not have any sons; but El·e·aʹzar and Ithʹa·mar continued to serve as priests.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ David, along with Zaʹdok from the sons of El·e·aʹzar and A·himʹe·lech from the sons of Ithʹa·mar, made divisions of them for the office of their service.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ Since the sons of El·e·aʹzar had more headmen than the sons of Ithʹa·mar had, they divided them accordingly: The sons of El·e·aʹzar had 16 as heads of their paternal houses, and the sons of Ithʹa·mar had 8 as heads of their paternal houses.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ Further, they divided them by lots, the one group along with the other, for there were chiefs of the holy place and chiefs of the true God from both the sons of El·e·aʹzar and the sons of Ithʹa·mar.
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ Then She·maiʹah the son of Ne·thanʹel the secretary of the Levites recorded their names before the king, the princes, Zaʹdok the priest, A·himʹe·lech the son of A·biʹa·thar, and the heads of the paternal houses of the priests and of the Levites, one paternal house being selected for El·e·aʹzar and one being selected for Ithʹa·mar.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ The first lot came out to Je·hoiʹa·rib; the second to Je·daʹiah,
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ the third to Haʹrim, the fourth to Se·oʹrim,
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ the fifth to Mal·chiʹjah, the sixth to Mijʹa·min,
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ the seventh to Hakʹkoz, the eighth to A·biʹjah,
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ the ninth to Jeshʹu·a, the tenth to Shec·a·niʹah,
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ the 11th to E·liʹa·shib, the 12th to Jaʹkim,
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ the 13th to Hupʹpah, the 14th to Je·shebʹe·ab,
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ the 15th to Bilʹgah, the 16th to Imʹmer,
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ the 17th to Heʹzir, the 18th to Hapʹpiz·zez,
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ the 19th to Peth·a·hiʹah, the 20th to Je·hezʹkel,
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ the 21st to Jaʹchin, the 22nd to Gaʹmul,
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ the 23rd to De·laʹiah, the 24th to Ma·a·ziʹah.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ These were their offices for their service when they would come into the house of Jehovah according to the procedure set by their forefather Aaron, just as Jehovah the God of Israel had commanded him.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ And of the rest of the Levites: of the sons of Amʹram, there was Shuʹba·el; of the sons of Shuʹba·el, Jeh·deʹiah;
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ of Re·ha·biʹah: of the sons of Re·ha·biʹah, Is·shiʹah the head;
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ of the Izʹhar·ites, She·loʹmoth; of the sons of She·loʹmoth, Jaʹhath;
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ and of the sons of Hebʹron, Je·riʹah the head, Am·a·riʹah the second, Ja·ha·ziʹel the third, Jek·a·meʹam the fourth;
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ of the sons of Uzʹzi·el, Miʹcah; of the sons of Miʹcah, Shaʹmir.
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ The brother of Miʹcah was Is·shiʹah; of the sons of Is·shiʹah, Zech·a·riʹah.
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ The sons of Me·rarʹi were Mahʹli and Muʹshi; of the sons of Ja·a·ziʹah, Beʹno.
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ The sons of Me·rarʹi: of Ja·a·ziʹah, Beʹno, Shoʹham, Zacʹcur, and Ibʹri;
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ of Mahʹli, El·e·aʹzar, who did not have any sons;
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ of Kish: the sons of Kish, Je·rahʹme·el;
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ and the sons of Muʹshi were Mahʹli, Eʹder, and Jerʹi·moth.
+These were the sons of Leʹvi by their paternal houses.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ And they also cast lots just as their brothers the sons of Aaron did in the presence of King David, Zaʹdok, A·himʹe·lech, and the heads of the paternal houses of the priests and of the Levites. Regarding the paternal houses, the head one was just as his younger brother.
+
+'''
+
+xref:013-1-chronicles/013-1-chronicles-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-chronicles/013-1-chronicles-025.adoc#v13-25-0[Próximo Capítulo &#62;]

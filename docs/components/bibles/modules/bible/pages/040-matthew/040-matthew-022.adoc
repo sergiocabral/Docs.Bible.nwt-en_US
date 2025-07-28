@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v40-22-0]]
+=== According to Matthew, 22
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v40-22-1]]
+
+^<<v40-22-1,1>>^ Once more Jesus spoke to them with illustrations, saying:
+
+[[v40-22-2]]
+
+^<<v40-22-2,2>>^ “The Kingdom of the heavens may be likened to a king who made a marriage feast for his son.
+
+[[v40-22-3]]
+
+^<<v40-22-3,3>>^ And he sent his slaves to call those invited to the marriage feast, but they were unwilling to come.
+
+[[v40-22-4]]
+
+^<<v40-22-4,4>>^ Again he sent other slaves, saying, ‘Tell those invited: “Look! I have prepared my dinner, my bulls and fattened animals are slaughtered, and everything is ready. Come to the marriage feast.”’
+
+[[v40-22-5]]
+
+^<<v40-22-5,5>>^ But unconcerned they went off, one to his own field, another to his business;
+
+[[v40-22-6]]
+
+^<<v40-22-6,6>>^ but the rest, seizing his slaves, treated them insolently and killed them.
+
+[[v40-22-7]]
+
+^<<v40-22-7,7>>^ “The king grew wrathful and sent his armies and killed those murderers and burned their city.
+
+[[v40-22-8]]
+
+^<<v40-22-8,8>>^ Then he said to his slaves, ‘The marriage feast is ready, but those invited were not worthy.
+
+[[v40-22-9]]
+
+^<<v40-22-9,9>>^ Therefore, go to the roads leading out of the city, and invite anyone you find to the marriage feast.’
+
+[[v40-22-10]]
+
+^<<v40-22-10,10>>^ Accordingly, those slaves went out to the roads and gathered all they found, both wicked and good; and the room for the wedding ceremonies was filled with those dining.^&#42;1^
+
+[NOTE]
+====
+. Or “reclining at the table.”
+====
+
+[[v40-22-11]]
+
+^<<v40-22-11,11>>^ “When the king came in to inspect the guests, he caught sight of a man not wearing a marriage garment.
+
+[[v40-22-12]]
+
+^<<v40-22-12,12>>^ So he said to him, ‘Fellow, how did you get in here without a marriage garment?’ He was speechless.
+
+[[v40-22-13]]
+
+^<<v40-22-13,13>>^ Then the king said to his servants, ‘Bind him hand and foot and throw him into the darkness outside. There is where his weeping and the gnashing of his teeth will be.’
+
+[[v40-22-14]]
+
+^<<v40-22-14,14>>^ “For there are many invited, but few chosen.”
+
+[[v40-22-15]]
+
+^<<v40-22-15,15>>^ Then the Pharisees went and conspired together in order to trap him in his speech.
+
+[[v40-22-16]]
+
+^<<v40-22-16,16>>^ So they sent their disciples to him, together with party followers of Herod, saying: “Teacher, we know you are truthful and teach the way of God in truth, and you do not seek anyone’s favor, for you do not look at the outward appearance of people.
+
+[[v40-22-17]]
+
+^<<v40-22-17,17>>^ Tell us, then, what do you think? Is it lawful^&#42;1^ to pay head tax to Caesar or not?”
+
+[NOTE]
+====
+. Or “right.”
+====
+
+[[v40-22-18]]
+
+^<<v40-22-18,18>>^ But Jesus, knowing their wickedness, said: “Why do you put me to the test, hypocrites?
+
+[[v40-22-19]]
+
+^<<v40-22-19,19>>^ Show me the tax coin.” They brought him a de·narʹi·us.^&#42;1^
+
+[NOTE]
+====
+. See App. B14.
+====
+
+[[v40-22-20]]
+
+^<<v40-22-20,20>>^ He said to them: “Whose image and inscription is this?”
+
+[[v40-22-21]]
+
+^<<v40-22-21,21>>^ They said: “Caesar’s.” Then he said to them: “Pay back, therefore, Caesar’s things to Caesar, but God’s things to God.”
+
+[[v40-22-22]]
+
+^<<v40-22-22,22>>^ When they heard that, they were amazed, and they left him and went away.
+
+[[v40-22-23]]
+
+^<<v40-22-23,23>>^ On that day the Sadducees, who say there is no resurrection, came and asked him:
+
+[[v40-22-24]]
+
+^<<v40-22-24,24>>^ “Teacher, Moses said: ‘If any man dies without having children, his brother must marry his wife and raise up offspring for his brother.’
+
+[[v40-22-25]]
+
+^<<v40-22-25,25>>^ Now there were seven brothers with us. The first married and died, and having no offspring, he left his wife for his brother.
+
+[[v40-22-26]]
+
+^<<v40-22-26,26>>^ The same thing happened with the second and the third, through all seven.
+
+[[v40-22-27]]
+
+^<<v40-22-27,27>>^ Last of all, the woman died.
+
+[[v40-22-28]]
+
+^<<v40-22-28,28>>^ So in the resurrection, of the seven, whose wife will she be? For they all had her as a wife.”
+
+[[v40-22-29]]
+
+^<<v40-22-29,29>>^ In reply Jesus said to them: “You are mistaken, because you know neither the Scriptures nor the power of God;
+
+[[v40-22-30]]
+
+^<<v40-22-30,30>>^ for in the resurrection neither do men marry nor are women given in marriage, but they are as angels in heaven.
+
+[[v40-22-31]]
+
+^<<v40-22-31,31>>^ Regarding the resurrection of the dead, have you not read what was spoken to you by God, who said:
+
+[[v40-22-32]]
+
+^<<v40-22-32,32>>^ ‘I am the God of Abraham and the God of Isaac and the God of Jacob’? He is the God, not of the dead, but of the living.”
+
+[[v40-22-33]]
+
+^<<v40-22-33,33>>^ On hearing that, the crowds were astounded at his teaching.
+
+[[v40-22-34]]
+
+^<<v40-22-34,34>>^ After the Pharisees heard that he had silenced the Sadducees, they came together in one group.
+
+[[v40-22-35]]
+
+^<<v40-22-35,35>>^ And one of them, versed in the Law, tested him by asking:
+
+[[v40-22-36]]
+
+^<<v40-22-36,36>>^ “Teacher, which is the greatest commandment in the Law?”
+
+[[v40-22-37]]
+
+^<<v40-22-37,37>>^ He said to him: “‘You must love Jehovah^&#42;1^ your God with your whole heart and with your whole soul^&#42;2^ and with your whole mind.’
+
+[NOTE]
+====
+. See App. A5.
+. See Glossary.
+====
+
+[[v40-22-38]]
+
+^<<v40-22-38,38>>^ This is the greatest and first commandment.
+
+[[v40-22-39]]
+
+^<<v40-22-39,39>>^ The second, like it, is this: ‘You must love your neighbor as yourself.’
+
+[[v40-22-40]]
+
+^<<v40-22-40,40>>^ On these two commandments the whole Law hangs, and the Prophets.”
+
+[[v40-22-41]]
+
+^<<v40-22-41,41>>^ Now while the Pharisees were gathered together, Jesus asked them:
+
+[[v40-22-42]]
+
+^<<v40-22-42,42>>^ “What do you think about the Christ? Whose son is he?” They said to him: “David’s.”
+
+[[v40-22-43]]
+
+^<<v40-22-43,43>>^ He asked them: “How is it, then, that David under inspiration calls him Lord, saying,
+
+[[v40-22-44]]
+
+^<<v40-22-44,44>>^ ‘Jehovah^&#42;1^ said to my Lord: “Sit at my right hand until I put your enemies beneath your feet”’?
+
+[NOTE]
+====
+. See App. A5.
+====
+
+[[v40-22-45]]
+
+^<<v40-22-45,45>>^ If, then, David calls him Lord, how is he his son?”
+
+[[v40-22-46]]
+
+^<<v40-22-46,46>>^ And nobody was able to say a word in reply to him, and from that day on, no one dared to question him any further.
+
+'''
+
+xref:040-matthew/040-matthew-021.adoc#v40-21-0[&#60; Capítulo Anterior] | <<v40-22-0,Topo>> | xref:040-matthew/040-matthew-023.adoc#v40-23-0[Próximo Capítulo &#62;]

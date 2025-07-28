@@ -1,0 +1,227 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Proverbs, 20
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ Wine is a ridiculer, alcohol is unruly;
+Whoever goes astray by them is not wise.
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ The terror^&#42;1^ of a king is like the growling of a lion;^&#42;2^
+Whoever provokes his anger risks his own life.
+
+[NOTE]
+====
+. Or “fearsomeness.”
+. Or “a maned young lion.”
+====
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ It is honorable for a man to refrain from a dispute,
+But every fool will become embroiled in it.
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ The lazy one does not plow in winter,
+So he will be begging during the harvest when he has nothing.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “He will look during the harvest but find nothing.”
+====
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ The thoughts^&#42;1^ of a man’s heart are like deep waters,
+But the discerning man draws them out.
+
+[NOTE]
+====
+. Or “intentions.” Lit., “counsel.”
+====
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ Many men proclaim their loyal love,
+But who can find a faithful man?
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ The righteous one is walking in his integrity.
+Happy are his children^&#42;1^ who come after him.
+
+[NOTE]
+====
+. Lit., “sons.”
+====
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ When the king sits on the throne to judge,
+He sifts out all evil with his eyes.
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ Who can say: “I have cleansed my heart;
+I am pure from my sin”?
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ Dishonest weights and false measures^&#42;1^
+—Both are detestable to Jehovah.
+
+[NOTE]
+====
+. Or “Two different stone weights and two different measuring containers.”
+====
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Even a child^&#42;1^ is known by his actions,
+Whether his behavior is pure and right.
+
+[NOTE]
+====
+. Or “boy.”
+====
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ The hearing ear and the seeing eye
+—Jehovah has made both of them.
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ Do not love sleep, or you will come to poverty.
+Open your eyes, and you will be satisfied with bread.
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ “It is no good, it is no good!” says the buyer;
+Then he goes away and boasts about himself.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ There is gold, also much coral,^&#42;1^
+But the lips of knowledge are something precious.
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Take a man’s garment if he has given security for a stranger;
+Seize the pledge from him if he did so for a foreign woman.^&#42;1^
+
+[NOTE]
+====
+. Or “a foreigner.”
+====
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ Bread gained by deceit tastes good to a man,
+But afterward his mouth will be full of gravel.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ By consultation,^&#42;1^ plans will succeed,^&#42;2^
+And by skillful direction^&#42;3^ wage your war.
+
+[NOTE]
+====
+. Or “counsel.”
+. Or “be made firm.”
+. Or “wise guidance.”
+====
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ A slanderer goes about revealing confidential talk;
+Do not associate with one who loves to gossip.^&#42;1^
+
+[NOTE]
+====
+. Or “who entices with his lips.”
+====
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ Whoever curses his father and his mother,
+His lamp will be extinguished when darkness comes.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ An inheritance obtained first by greed
+Will not be a blessing in the end.
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ Do not say: “I will pay back evil!”
+Hope in Jehovah, and he will save you.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ Dishonest weights^&#42;1^ are detestable to Jehovah,
+And deceptive scales are not good.
+
+[NOTE]
+====
+. Or “Two different stone weights.”
+====
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ A man’s footsteps are directed by Jehovah;
+How can a man understand his own way?^&#42;1^
+
+[NOTE]
+====
+. Or “the way to go?”
+====
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ It is a snare for a man to cry out rashly, “Holy!”
+And only later to give consideration to what he vowed.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ A wise king sifts out the wicked
+And drives the threshing wheel over them.
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ The breath of a man is the lamp of Jehovah,
+Searching through his innermost being.
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Loyal love and faithfulness safeguard the king;
+By loyal love he sustains his throne.
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ The glory of young men is their strength,
+And the splendor of old men is their gray hair.
+
+[[v20-20-30]]
+
+^<<v20-20-30,30>>^ Bruises and wounds purge^&#42;1^ away evil,
+And beatings cleanse one’s innermost being.
+
+[NOTE]
+====
+. Or “scour.”
+====
+
+'''
+
+xref:020-proverbs/020-proverbs-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-proverbs/020-proverbs-021.adoc#v20-21-0[Próximo Capítulo &#62;]

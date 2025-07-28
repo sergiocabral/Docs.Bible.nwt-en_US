@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v6-24-0]]
+=== Joshua, 24
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v6-24-1]]
+
+^<<v6-24-1,1>>^ Joshua then assembled all the tribes of Israel together at Sheʹchem and summoned the elders of Israel, its heads, its judges, and its officers, and they stood before the true God.
+
+[[v6-24-2]]
+
+^<<v6-24-2,2>>^ Joshua said to all the people: “This is what Jehovah the God of Israel says, ‘It was on the other side of the River^&#42;1^ that your forefathers lived a long time ago—Teʹrah the father of Abraham and the father of Naʹhor—and they used to serve other gods.
+
+[NOTE]
+====
+. That is, the Euphrates.
+====
+
+[[v6-24-3]]
+
+^<<v6-24-3,3>>^ “‘In time I took your forefather Abraham from the other side of the River^&#42;1^ and had him walk through all the land of Caʹnaan and made his offspring^&#42;2^ many. I gave him Isaac;
+
+[NOTE]
+====
+. That is, the Euphrates.
+. Lit., “seed.”
+====
+
+[[v6-24-4]]
+
+^<<v6-24-4,4>>^ then to Isaac I gave Jacob and Eʹsau. Later to Eʹsau I gave Mount Seʹir as his possession; and Jacob and his sons went down to Egypt.
+
+[[v6-24-5]]
+
+^<<v6-24-5,5>>^ I later sent Moses and Aaron, and I plagued Egypt with what I did among them, and then I brought you out.
+
+[[v6-24-6]]
+
+^<<v6-24-6,6>>^ When I was bringing your fathers out of Egypt and you came to the sea, the Egyptians were chasing after your fathers with war chariots and cavalrymen as far as the Red Sea.
+
+[[v6-24-7]]
+
+^<<v6-24-7,7>>^ They began to cry out to Jehovah, so he placed a darkness between you and the Egyptians and brought the sea over them and covered them, and your own eyes saw what I did in Egypt. Then you dwelled in the wilderness many years.^&#42;1^
+
+[NOTE]
+====
+. Lit., “days.”
+====
+
+[[v6-24-8]]
+
+^<<v6-24-8,8>>^ “‘And I brought you to the land of the Amʹor·ites who were dwelling on the other side^&#42;1^ of the Jordan, and they fought against you. But I gave them into your hand so that you could take possession of their land, and I annihilated them from before you.
+
+[NOTE]
+====
+. That is, the east side.
+====
+
+[[v6-24-9]]
+
+^<<v6-24-9,9>>^ Then Baʹlak son of Zipʹpor, the king of Moʹab, rose up and fought against Israel. So he summoned Baʹlaam the son of Beʹor to curse you.
+
+[[v6-24-10]]
+
+^<<v6-24-10,10>>^ But I would not listen to Baʹlaam. So he blessed you repeatedly, and I rescued you from his hand.
+
+[[v6-24-11]]
+
+^<<v6-24-11,11>>^ “‘Then you crossed the Jordan and came to Jerʹi·cho. And the leaders^&#42;1^ of Jerʹi·cho, the Amʹor·ites, the Perʹiz·zites, the Caʹnaan·ites, the Hitʹtites, the Girʹga·shites, the Hiʹvites, and the Jebʹu·sites fought against you, but I gave them into your hand.
+
+[NOTE]
+====
+. Or possibly, “landowners.”
+====
+
+[[v6-24-12]]
+
+^<<v6-24-12,12>>^ So I sent the feeling of dejection^&#42;1^ ahead of you, and it drove them out from before you—two kings of the Amʹor·ites. It was not by your sword and not by your bow.
+
+[NOTE]
+====
+. Or possibly, “panic; terror.”
+====
+
+[[v6-24-13]]
+
+^<<v6-24-13,13>>^ Thus I gave you a land for which you had not toiled and cities that you had not built, and you settled in them. You are eating from vineyards and olive groves that you did not plant.’
+
+[[v6-24-14]]
+
+^<<v6-24-14,14>>^ “Therefore, fear Jehovah and serve him with integrity^&#42;1^ and faithfulness,^&#42;2^ and remove the gods that your forefathers served on the other side of the River^&#42;3^ and in Egypt, and serve Jehovah.
+
+[NOTE]
+====
+. Or “in a blameless way.”
+. Or “in truth.”
+. That is, the Euphrates.
+====
+
+[[v6-24-15]]
+
+^<<v6-24-15,15>>^ Now if it seems bad to you to serve Jehovah, choose for yourselves today whom you will serve, whether the gods that your forefathers served on the other side of the River^&#42;1^ or the gods of the Amʹor·ites in whose land you are dwelling. But as for me and my household, we will serve Jehovah.”
+
+[NOTE]
+====
+. That is, the Euphrates.
+====
+
+[[v6-24-16]]
+
+^<<v6-24-16,16>>^ At this the people answered: “It is unthinkable for us to abandon Jehovah and to serve other gods.
+
+[[v6-24-17]]
+
+^<<v6-24-17,17>>^ It is Jehovah our God who brought us and our fathers up out of the land of Egypt, out of the house of slavery, and who performed these great signs before our eyes and who kept guarding us the entire way in which we walked and among all the peoples through whom we passed.
+
+[[v6-24-18]]
+
+^<<v6-24-18,18>>^ Jehovah drove out all the peoples, including the Amʹor·ites, who lived in the land before us. Therefore, we too will serve Jehovah, because he is our God.”
+
+[[v6-24-19]]
+
+^<<v6-24-19,19>>^ Then Joshua said to the people: “You are not able to serve Jehovah, for he is a holy God; he is a God who requires exclusive devotion. He will not pardon your transgressions^&#42;1^ and your sins.
+
+[NOTE]
+====
+. Or “rebellion.”
+====
+
+[[v6-24-20]]
+
+^<<v6-24-20,20>>^ If you abandon Jehovah and serve foreign gods, he will also turn against you and exterminate you after doing good for you.”
+
+[[v6-24-21]]
+
+^<<v6-24-21,21>>^ But the people said to Joshua: “No, but we will serve Jehovah!”
+
+[[v6-24-22]]
+
+^<<v6-24-22,22>>^ So Joshua said to the people: “You are witnesses against yourselves that of your own accord, you have chosen for yourselves to serve Jehovah.” To this they said: “We are witnesses.”
+
+[[v6-24-23]]
+
+^<<v6-24-23,23>>^ “Therefore, remove the foreign gods that are among you, and incline your hearts to Jehovah the God of Israel.”
+
+[[v6-24-24]]
+
+^<<v6-24-24,24>>^ The people said to Joshua: “We will serve Jehovah our God, and we will obey his voice!”
+
+[[v6-24-25]]
+
+^<<v6-24-25,25>>^ So Joshua made a covenant with the people on that day and established a regulation and a ruling for them in Sheʹchem.
+
+[[v6-24-26]]
+
+^<<v6-24-26,26>>^ Then Joshua wrote these words in the book of God’s Law and took a great stone and set it up under the large tree that is by the sanctuary of Jehovah.
+
+[[v6-24-27]]
+
+^<<v6-24-27,27>>^ Joshua went on to say to all the people: “Look! This stone will serve as a witness against us, because it has heard everything Jehovah said to us, and it will serve as a witness against you, so that you may not deny your God.”
+
+[[v6-24-28]]
+
+^<<v6-24-28,28>>^ With that Joshua sent the people away, each one to his inheritance.
+
+[[v6-24-29]]
+
+^<<v6-24-29,29>>^ After these things, Joshua the son of Nun, the servant of Jehovah, died at the age of 110.
+
+[[v6-24-30]]
+
+^<<v6-24-30,30>>^ So they buried him in the territory of his inheritance in Timʹnath-seʹrah, which is in the mountainous region of Eʹphra·im, north of Mount Gaʹash.
+
+[[v6-24-31]]
+
+^<<v6-24-31,31>>^ Israel continued to serve Jehovah all the days of Joshua and all the days of the elders who outlived Joshua and who had known all of Jehovah’s deeds in behalf of Israel.
+
+[[v6-24-32]]
+
+^<<v6-24-32,32>>^ The bones of Joseph, which the Israelites had brought up out of Egypt, were buried in Sheʹchem in the portion of the field that Jacob had acquired from the sons of Haʹmor, Sheʹchem’s father, for 100 pieces of money; and it became the inheritance of the sons of Joseph.
+
+[[v6-24-33]]
+
+^<<v6-24-33,33>>^ Also, El·e·aʹzar the son of Aaron died. So they buried him in the Hill of Phinʹe·has his son, which had been given to him in the mountainous region of Eʹphra·im.
+
+'''
+
+xref:006-joshua/006-joshua-023.adoc#v6-23-0[&#60; Capítulo Anterior] | <<v6-24-0,Topo>> | xref:007-judges/007-judges-001.adoc#v7-1-0[Próximo Capítulo &#62;]

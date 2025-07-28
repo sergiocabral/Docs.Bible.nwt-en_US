@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v19-103-0]]
+=== Psalm, 103
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David._
+
+[[v19-103-1]]
+
+^<<v19-103-1,1>>^ Let me^&#42;1^ praise Jehovah;
+Let everything within me praise his holy name.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-103-2]]
+
+^<<v19-103-2,2>>^ Let me^&#42;1^ praise Jehovah;
+May I never forget all that he has done.
+
+[NOTE]
+====
+. Or “my soul.”
+====
+
+[[v19-103-3]]
+
+^<<v19-103-3,3>>^ He forgives all your errors
+And heals all your ailments;
+
+[[v19-103-4]]
+
+^<<v19-103-4,4>>^ He reclaims your life from the pit^&#42;1^
+And crowns you with his loyal love and mercy.
+
+[NOTE]
+====
+. Or “grave.”
+====
+
+[[v19-103-5]]
+
+^<<v19-103-5,5>>^ He satisfies you with good things all your life,
+So that your youth is renewed like that of an eagle.
+
+[[v19-103-6]]
+
+^<<v19-103-6,6>>^ Jehovah acts with righteousness and justice
+For all who are oppressed.
+
+[[v19-103-7]]
+
+^<<v19-103-7,7>>^ He made known his ways to Moses,
+His deeds to the sons of Israel.
+
+[[v19-103-8]]
+
+^<<v19-103-8,8>>^ Jehovah is merciful and compassionate,^&#42;1^
+Slow to anger and abundant in loyal love.^&#42;2^
+
+[NOTE]
+====
+. Or “gracious.”
+. Or “loving-kindness.”
+====
+
+[[v19-103-9]]
+
+^<<v19-103-9,9>>^ He will not always find fault,
+Nor will he stay resentful forever.
+
+[[v19-103-10]]
+
+^<<v19-103-10,10>>^ He has not dealt with us according to our sins,
+Nor has he repaid us what our errors deserve.
+
+[[v19-103-11]]
+
+^<<v19-103-11,11>>^ For as the heavens are higher than the earth,
+So great is his loyal love toward those who fear him.
+
+[[v19-103-12]]
+
+^<<v19-103-12,12>>^ As far off as the sunrise is from the sunset,
+So far off from us he has put our transgressions.
+
+[[v19-103-13]]
+
+^<<v19-103-13,13>>^ As a father shows mercy to his sons,
+Jehovah has shown mercy to those who fear him.
+
+[[v19-103-14]]
+
+^<<v19-103-14,14>>^ For he well knows how we are formed,
+Remembering that we are dust.
+
+[[v19-103-15]]
+
+^<<v19-103-15,15>>^ As for mortal man, his days are like those of grass;
+He blooms like a blossom of the field.
+
+[[v19-103-16]]
+
+^<<v19-103-16,16>>^ But when a wind blows, it is no more,
+As though it was never there.^&#42;1^
+
+[NOTE]
+====
+. Lit., “And its place no longer knows it.”
+====
+
+[[v19-103-17]]
+
+^<<v19-103-17,17>>^ But the loyal love of Jehovah is for all eternity^&#42;1^
+Toward those who fear him,
+And his righteousness toward their children’s children,
+
+[NOTE]
+====
+. Or “from eternity to eternity.”
+====
+
+[[v19-103-18]]
+
+^<<v19-103-18,18>>^ Toward those who keep his covenant
+And those who are careful to observe his orders.
+
+[[v19-103-19]]
+
+^<<v19-103-19,19>>^ Jehovah has firmly established his throne in the heavens;
+And his kingship rules over everything.
+
+[[v19-103-20]]
+
+^<<v19-103-20,20>>^ Praise Jehovah, all you his angels, mighty in power,
+Who carry out his word, obeying his voice.^&#42;1^
+
+[NOTE]
+====
+. Lit., “hearing the voice (sound) of his word.”
+====
+
+[[v19-103-21]]
+
+^<<v19-103-21,21>>^ Praise Jehovah, all his armies,
+His ministers who do his will.
+
+[[v19-103-22]]
+
+^<<v19-103-22,22>>^ Praise Jehovah, all his works,
+In all the places where he rules.^&#42;1^
+Let my whole being^&#42;2^ praise Jehovah.
+
+[NOTE]
+====
+. Or “the places of his sovereignty.”
+. Or “my soul.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-102.adoc#v19-102-0[&#60; Capítulo Anterior] | <<v19-103-0,Topo>> | xref:019-psalm/019-psalm-104.adoc#v19-104-0[Próximo Capítulo &#62;]

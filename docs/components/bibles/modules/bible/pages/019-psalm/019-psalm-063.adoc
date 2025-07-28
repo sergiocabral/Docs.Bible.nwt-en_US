@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-63-0]]
+=== Psalm, 63
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody of David, when he was in the wilderness of Judah._
+
+[[v19-63-1]]
+
+^<<v19-63-1,1>>^ O God, you are my God, I keep looking for you.
+I do thirst^&#42;1^ for you.
+I am^&#42;2^ faint with longing for you
+In a dry and parched land, where there is no water.
+
+[NOTE]
+====
+. Or “My soul thirsts.”
+. Lit., “My flesh is.”
+====
+
+[[v19-63-2]]
+
+^<<v19-63-2,2>>^ So I have looked upon you in the holy place;
+I have seen your strength and your glory.
+
+[[v19-63-3]]
+
+^<<v19-63-3,3>>^ Because your loyal love is better than life,
+My own lips will glorify you.
+
+[[v19-63-4]]
+
+^<<v19-63-4,4>>^ Thus I will praise you all my life;
+In your name I will lift up my hands.
+
+[[v19-63-5]]
+
+^<<v19-63-5,5>>^ I am^&#42;1^ satisfied with the best and choicest portion,^&#42;2^
+So my mouth will praise you with joy on my lips.
+
+[NOTE]
+====
+. Or “My soul is.”
+. Lit., “as with fat and fatness.”
+====
+
+[[v19-63-6]]
+
+^<<v19-63-6,6>>^ I remember you while upon my bed;
+I meditate on you during the watches of the night.
+
+[[v19-63-7]]
+
+^<<v19-63-7,7>>^ For you are my helper,
+And I shout joyfully in the shadow of your wings.
+
+[[v19-63-8]]
+
+^<<v19-63-8,8>>^ I cling^&#42;1^ to you;
+Your right hand keeps fast hold on me.
+
+[NOTE]
+====
+. Or “My soul clings.”
+====
+
+[[v19-63-9]]
+
+^<<v19-63-9,9>>^ But those who seek to destroy my life^&#42;1^
+Will descend into the depths of the earth.
+
+[NOTE]
+====
+. Or “destroy my soul; kill me.”
+====
+
+[[v19-63-10]]
+
+^<<v19-63-10,10>>^ They will be handed over to the power of the sword;
+They will become food for jackals.^&#42;1^
+
+[NOTE]
+====
+. Or “foxes.”
+====
+
+[[v19-63-11]]
+
+^<<v19-63-11,11>>^ But the king will rejoice in God.
+Every person swearing by Him will exult,^&#42;1^
+For the mouth of those speaking lies will be silenced.
+
+[NOTE]
+====
+. Or “boast.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-062.adoc#v19-62-0[&#60; Capítulo Anterior] | <<v19-63-0,Topo>> | xref:019-psalm/019-psalm-064.adoc#v19-64-0[Próximo Capítulo &#62;]

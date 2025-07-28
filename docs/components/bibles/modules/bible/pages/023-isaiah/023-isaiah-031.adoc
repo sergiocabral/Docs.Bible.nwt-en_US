@@ -1,0 +1,86 @@
+include::./index.adoc[]
+
+[[v23-31-0]]
+=== Isaiah, 31
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-31-1]]
+
+^<<v23-31-1,1>>^ Woe to those who go down to Egypt for assistance,
+Who rely on horses,
+Who trust in war chariots because they are numerous,
+And in warhorses^&#42;1^ because they are mighty.
+But they do not look to the Holy One of Israel,
+And they do not search for Jehovah.
+
+[NOTE]
+====
+. Or “in horsemen.”
+====
+
+[[v23-31-2]]
+
+^<<v23-31-2,2>>^ But he is also wise and will bring calamity,
+And he will not take back his words.
+He will rise up against the house of evildoers
+And against those who help wrongdoers.
+
+[[v23-31-3]]
+
+^<<v23-31-3,3>>^ The Egyptians, though, are mere men and not God;
+Their horses are flesh and not spirit.
+When Jehovah stretches out his hand,
+Whoever offers help will stumble
+And whoever is helped will fall;
+They will all perish at the same time.
+
+[[v23-31-4]]
+
+^<<v23-31-4,4>>^ For this is what Jehovah has said to me:
+“Just as the lion growls, a strong young lion,^&#42;1^ over its prey,
+When a whole group of shepherds is called together against it,
+And it is not terrified by their voice
+Or daunted by their commotion,
+So will Jehovah of armies come down to wage war
+Over Mount Zion and over her hill.
+
+[NOTE]
+====
+. Or “a maned young lion.”
+====
+
+[[v23-31-5]]
+
+^<<v23-31-5,5>>^ Like swooping birds, so Jehovah of armies will defend Jerusalem.
+He will defend her and save her.
+He will spare her and rescue her.”
+
+[[v23-31-6]]
+
+^<<v23-31-6,6>>^ “Return to the One against whom you have blatantly revolted, O people of Israel.
+
+[[v23-31-7]]
+
+^<<v23-31-7,7>>^ For in that day each one will reject his worthless gods of silver and his valueless gods of gold, which your own hands sinfully made.
+
+[[v23-31-8]]
+
+^<<v23-31-8,8>>^ And the As·syrʹi·an will fall by the sword, not of a man;
+And a sword, not of a human, will devour him.
+He will flee because of the sword,
+And his young men will be put to forced labor.
+
+[[v23-31-9]]
+
+^<<v23-31-9,9>>^ His crag will pass away because of sheer fright,
+And his princes will be terrified because of the signal pole,” declares Jehovah,
+Whose light^&#42;1^ is in Zion and whose furnace is in Jerusalem.
+
+[NOTE]
+====
+. Or “fire.”
+====
+
+'''
+
+xref:023-isaiah/023-isaiah-030.adoc#v23-30-0[&#60; Capítulo Anterior] | <<v23-31-0,Topo>> | xref:023-isaiah/023-isaiah-032.adoc#v23-32-0[Próximo Capítulo &#62;]

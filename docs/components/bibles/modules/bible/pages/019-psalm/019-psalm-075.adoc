@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-75-0]]
+=== Psalm, 75
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Set to the melody “Do Not Bring to Ruin.” Of Aʹsaph. A song._
+
+[[v19-75-1]]
+
+^<<v19-75-1,1>>^ We give thanks to you, O God, we give thanks to you;
+Your name is near,
+And people declare your wondrous works.
+
+[[v19-75-2]]
+
+^<<v19-75-2,2>>^ You say: “When I set a time,
+I judge with fairness.
+
+[[v19-75-3]]
+
+^<<v19-75-3,3>>^ When the earth and all its inhabitants were dissolved,
+It was I who kept its pillars firm.” (Selah)
+
+[[v19-75-4]]
+
+^<<v19-75-4,4>>^ I say to the boastful, “Do not boast,”
+And to the wicked, “Do not exalt your strength.^&#42;1^
+
+[NOTE]
+====
+. Lit., “horn.”
+====
+
+[[v19-75-5]]
+
+^<<v19-75-5,5>>^ Do not exalt your strength^&#42;1^ up high
+Or speak with arrogance.
+
+[NOTE]
+====
+. Lit., “horn.”
+====
+
+[[v19-75-6]]
+
+^<<v19-75-6,6>>^ For exaltation does not come
+From the east or the west or the south.
+
+[[v19-75-7]]
+
+^<<v19-75-7,7>>^ For God is Judge.
+He puts one man down and exalts another.
+
+[[v19-75-8]]
+
+^<<v19-75-8,8>>^ For there is a cup in Jehovah’s hand;
+The wine is foaming and is fully mixed.
+He will surely pour it out,
+And all the wicked of the earth will drink it, down to the dregs.”
+
+[[v19-75-9]]
+
+^<<v19-75-9,9>>^ But as for me, I will proclaim it forever;
+I will sing praises^&#42;1^ to the God of Jacob.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-75-10]]
+
+^<<v19-75-10,10>>^ For he says: “I will cut off all the strength^&#42;1^ of the wicked,
+But the strength^&#42;2^ of the righteous will be exalted.”
+
+[NOTE]
+====
+. Lit., “horns.”
+. Lit., “horns.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-074.adoc#v19-74-0[&#60; Capítulo Anterior] | <<v19-75-0,Topo>> | xref:019-psalm/019-psalm-076.adoc#v19-76-0[Próximo Capítulo &#62;]

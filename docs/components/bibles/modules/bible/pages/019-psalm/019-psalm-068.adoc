@@ -1,0 +1,289 @@
+include::./index.adoc[]
+
+[[v19-68-0]]
+=== Psalm, 68
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director. Of David. A melody. A song._
+
+[[v19-68-1]]
+
+^<<v19-68-1,1>>^ Let God rise up, let his enemies be scattered,
+And let those who hate him flee from before him.
+
+[[v19-68-2]]
+
+^<<v19-68-2,2>>^ As smoke is driven away, may you drive them away;
+As wax melts before the fire,
+So let the wicked perish before God.
+
+[[v19-68-3]]
+
+^<<v19-68-3,3>>^ But let the righteous rejoice;
+May they be overjoyed before God;
+May they exult with rejoicing.
+
+[[v19-68-4]]
+
+^<<v19-68-4,4>>^ Sing to God; sing praises^&#42;1^ to his name.
+Sing to the One riding through the desert plains.^&#42;2^
+Jah^&#42;3^ is his name! Rejoice before him!
+
+[NOTE]
+====
+. Or “make music.”
+. Or possibly, “on the clouds.”
+. “Jah” is a shortened form of the name Jehovah.
+====
+
+[[v19-68-5]]
+
+^<<v19-68-5,5>>^ A father of the fatherless and a protector^&#42;1^ of widows
+Is God in his holy dwelling.
+
+[NOTE]
+====
+. Lit., “judge.”
+====
+
+[[v19-68-6]]
+
+^<<v19-68-6,6>>^ God gives those who are alone a home to dwell in;
+He leads prisoners out into prosperity.
+But the stubborn^&#42;1^ must live in a parched land.
+
+[NOTE]
+====
+. Or “rebellious.”
+====
+
+[[v19-68-7]]
+
+^<<v19-68-7,7>>^ O God, when you led^&#42;1^ your people,
+When you marched through the desert, (Selah)
+
+[NOTE]
+====
+. Lit., “went out before.”
+====
+
+[[v19-68-8]]
+
+^<<v19-68-8,8>>^ The earth quaked;
+Heaven poured down rain^&#42;1^ because of God;
+This Siʹnai quaked because of God, the God of Israel.
+
+[NOTE]
+====
+. Lit., “dripped.”
+====
+
+[[v19-68-9]]
+
+^<<v19-68-9,9>>^ You made it rain in abundance, O God;
+You reinvigorated your exhausted people.^&#42;1^
+
+[NOTE]
+====
+. Lit., “inheritance.”
+====
+
+[[v19-68-10]]
+
+^<<v19-68-10,10>>^ They dwelled in your tent community;
+In your goodness, you provided for the poor, O God.
+
+[[v19-68-11]]
+
+^<<v19-68-11,11>>^ Jehovah gives the command;
+The women proclaiming the good news are a large army.
+
+[[v19-68-12]]
+
+^<<v19-68-12,12>>^ The kings of armies flee, they flee!
+She who remains at home shares in the spoil.
+
+[[v19-68-13]]
+
+^<<v19-68-13,13>>^ Although you men were lying among the campfires,^&#42;1^
+There will be the wings of a dove covered with silver,
+With pinions of fine^&#42;2^ gold.
+
+[NOTE]
+====
+. Or possibly, “the sheepfolds.”
+. Or “yellowish-green.”
+====
+
+[[v19-68-14]]
+
+^<<v19-68-14,14>>^ When the Almighty One scattered its kings,
+Snow fell in Zalʹmon.^&#42;1^
+
+[NOTE]
+====
+. Or “It was as if it snowed in Zalmon.”
+====
+
+[[v19-68-15]]
+
+^<<v19-68-15,15>>^ The mountain of Baʹshan is a mountain of God;^&#42;1^
+The mountain of Baʹshan is a mountain of peaks.
+
+[NOTE]
+====
+. Or “a majestic mountain.”
+====
+
+[[v19-68-16]]
+
+^<<v19-68-16,16>>^ Why do you look with envy, you mountains of peaks,
+Toward the mountain that God has chosen^&#42;1^ as his dwelling?
+Indeed, Jehovah will reside there forever.
+
+[NOTE]
+====
+. Or “desires.”
+====
+
+[[v19-68-17]]
+
+^<<v19-68-17,17>>^ The war chariots of God are tens of thousands, thousands upon thousands.
+Jehovah has come from Siʹnai into the holy place.
+
+[[v19-68-18]]
+
+^<<v19-68-18,18>>^ You ascended on high;
+You carried away captives;
+You took gifts in the form of men,
+Yes, even stubborn ones, to reside among them, O Jah God.
+
+[[v19-68-19]]
+
+^<<v19-68-19,19>>^ May Jehovah be praised, who daily carries our load,
+The true God of our salvation. (Selah)
+
+[[v19-68-20]]
+
+^<<v19-68-20,20>>^ The true God is for us a God who saves;
+And Jehovah the Sovereign Lord provides escape from death.
+
+[[v19-68-21]]
+
+^<<v19-68-21,21>>^ Yes, God will smash the heads of his enemies,
+The hairy crown of the head of anyone who continues^&#42;1^ in his guilt.
+
+[NOTE]
+====
+. Or “walks about.”
+====
+
+[[v19-68-22]]
+
+^<<v19-68-22,22>>^ Jehovah has said: “I will bring them back from Baʹshan;
+I will bring them back from the depths of the sea,
+
+[[v19-68-23]]
+
+^<<v19-68-23,23>>^ So that your foot may be awash in blood
+And the tongue of your dogs may have its portion from the enemies.”
+
+[[v19-68-24]]
+
+^<<v19-68-24,24>>^ They see your processions, O God,
+The processions of my God, my King, into the holy place.
+
+[[v19-68-25]]
+
+^<<v19-68-25,25>>^ The singers walk in front, the musicians playing stringed instruments after them;
+In between are the young women playing tambourines.
+
+[[v19-68-26]]
+
+^<<v19-68-26,26>>^ In congregated throngs,^&#42;1^ praise God;
+Praise Jehovah, you who are from the Source of Israel.
+
+[NOTE]
+====
+. Lit., “In assemblies.”
+====
+
+[[v19-68-27]]
+
+^<<v19-68-27,27>>^ There Benjamin, the youngest, is subduing them,
+Also the princes of Judah with their noisy crowd,
+The princes of Zebʹu·lun, the princes of Naphʹta·li.
+
+[[v19-68-28]]
+
+^<<v19-68-28,28>>^ Your God has decreed that you will be strong.
+Show your strength, O God, you who have acted in our behalf.
+
+[[v19-68-29]]
+
+^<<v19-68-29,29>>^ Because of your temple at Jerusalem,
+Kings will bring gifts to you.
+
+[[v19-68-30]]
+
+^<<v19-68-30,30>>^ Rebuke the wild beasts of the reeds,
+The assembly of bulls and their calves,
+Until the peoples bow down bringing^&#42;1^ pieces of silver.
+But he scatters the peoples who delight in war.
+
+[NOTE]
+====
+. Or possibly, “stamping down on.”
+====
+
+[[v19-68-31]]
+
+^<<v19-68-31,31>>^ Bronze articles will be brought^&#42;1^ out of Egypt;
+Cush will hasten to offer gifts to God.
+
+[NOTE]
+====
+. Or possibly, “Ambassadors will come.”
+====
+
+[[v19-68-32]]
+
+^<<v19-68-32,32>>^ O kingdoms of the earth, sing to God,
+Sing praises^&#42;1^ to Jehovah, (Selah)
+
+[NOTE]
+====
+. Or “Make music.”
+====
+
+[[v19-68-33]]
+
+^<<v19-68-33,33>>^ To the one who rides the ancient heaven of heavens.
+Look! He thunders with his voice, his mighty voice.
+
+[[v19-68-34]]
+
+^<<v19-68-34,34>>^ Acknowledge God’s strength.
+His majesty is over Israel,
+And his strength is in the skies.^&#42;1^
+
+[NOTE]
+====
+. Lit., “clouds.”
+====
+
+[[v19-68-35]]
+
+^<<v19-68-35,35>>^ God is awe-inspiring from his^&#42;1^ grand sanctuary.
+He is the God of Israel,
+Who gives strength and power to the people.
+Praise to God.
+
+[NOTE]
+====
+. Lit., “your.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-067.adoc#v19-67-0[&#60; Capítulo Anterior] | <<v19-68-0,Topo>> | xref:019-psalm/019-psalm-069.adoc#v19-69-0[Próximo Capítulo &#62;]

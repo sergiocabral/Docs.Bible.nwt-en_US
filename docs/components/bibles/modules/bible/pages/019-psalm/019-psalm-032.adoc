@@ -1,0 +1,80 @@
+include::./index.adoc[]
+
+[[v19-32-0]]
+=== Psalm, 32
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David. Masʹkil.^&#42;1^_
+
+[[v19-32-1]]
+
+^<<v19-32-1,1>>^ Happy is the one whose transgression is pardoned, whose sin is covered.^&#42;1^
+
+[NOTE]
+====
+. Or “forgiven.”
+====
+
+[[v19-32-2]]
+
+^<<v19-32-2,2>>^ Happy is the man whom Jehovah does not charge with guilt,
+In whose spirit there is no deceit.
+
+[[v19-32-3]]
+
+^<<v19-32-3,3>>^ When I kept silent, my bones wasted away because of my groaning all day long.
+
+[[v19-32-4]]
+
+^<<v19-32-4,4>>^ For day and night your hand^&#42;1^ was heavy upon me.
+My strength evaporated^&#42;2^ like water in the dry summer heat. (Selah)
+
+[NOTE]
+====
+. Or “displeasure.”
+. Or “My life’s moisture changed.”
+====
+
+[[v19-32-5]]
+
+^<<v19-32-5,5>>^ Finally I confessed my sin to you;
+I did not cover my error.
+I said: “I will confess my transgressions to Jehovah.”
+And you pardoned the error of my sins. (Selah)
+
+[[v19-32-6]]
+
+^<<v19-32-6,6>>^ This is why every loyal one will pray to you
+While you may yet be found.
+Then even the floodwaters will not reach him.
+
+[[v19-32-7]]
+
+^<<v19-32-7,7>>^ You are a hiding place for me;
+You will safeguard me from distress.
+You will surround me with joyful shouts of deliverance. (Selah)
+
+[[v19-32-8]]
+
+^<<v19-32-8,8>>^ “I will give you insight and instruct you in the way you should go.
+I will give you advice with my eye upon you.
+
+[[v19-32-9]]
+
+^<<v19-32-9,9>>^ Do not become like a horse or a mule, without understanding,
+Whose spiritedness must be controlled with a bridle or a halter
+Before it will come near to you.”
+
+[[v19-32-10]]
+
+^<<v19-32-10,10>>^ Many are the pains of the wicked;
+But the one trusting in Jehovah is surrounded by His loyal love.
+
+[[v19-32-11]]
+
+^<<v19-32-11,11>>^ Rejoice in Jehovah and be joyful, you righteous ones;
+Shout joyfully, all you who are upright in heart.
+
+'''
+
+xref:019-psalm/019-psalm-031.adoc#v19-31-0[&#60; Capítulo Anterior] | <<v19-32-0,Topo>> | xref:019-psalm/019-psalm-033.adoc#v19-33-0[Próximo Capítulo &#62;]

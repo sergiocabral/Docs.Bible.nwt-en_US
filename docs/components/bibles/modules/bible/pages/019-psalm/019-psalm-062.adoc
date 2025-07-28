@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-62-0]]
+=== Psalm, 62
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; of Je·duʹthun.^&#42;1^ A melody of David._
+
+[[v19-62-1]]
+
+^<<v19-62-1,1>>^ Indeed, I wait^&#42;1^ silently for God.
+My salvation comes from him.
+
+[NOTE]
+====
+. Or “my soul waits.”
+====
+
+[[v19-62-2]]
+
+^<<v19-62-2,2>>^ Indeed, he is my rock and my salvation, my secure refuge;^&#42;1^
+I will never be greatly shaken.
+
+[NOTE]
+====
+. Or “secure height.”
+====
+
+[[v19-62-3]]
+
+^<<v19-62-3,3>>^ How long will you assault a man in order to murder him?
+All of you are as dangerous as a leaning wall, a stone wall ready to collapse.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “All of you, as if he were a leaning wall, a stone wall ready to collapse.”
+====
+
+[[v19-62-4]]
+
+^<<v19-62-4,4>>^ For they consult together to topple him from his high position;^&#42;1^
+They take pleasure in lying.
+With their mouth they bless, but inside they are cursing. (Selah)
+
+[NOTE]
+====
+. Or “his dignity.”
+====
+
+[[v19-62-5]]
+
+^<<v19-62-5,5>>^ Indeed, I wait silently^&#42;1^ for God
+Because my hope comes from him.
+
+[NOTE]
+====
+. Or “wait silently, O my soul.”
+====
+
+[[v19-62-6]]
+
+^<<v19-62-6,6>>^ Indeed, he is my rock and my salvation, my secure refuge;
+I will never be shaken.
+
+[[v19-62-7]]
+
+^<<v19-62-7,7>>^ Upon God depends my salvation and my glory.
+My strong rock, my refuge, is God.
+
+[[v19-62-8]]
+
+^<<v19-62-8,8>>^ Trust in him at all times, O people.
+Pour out your hearts before him.
+God is a refuge for us. (Selah)
+
+[[v19-62-9]]
+
+^<<v19-62-9,9>>^ The sons of men are a mere breath,
+The sons of mankind are a delusion.
+When laid together on the scales, they are lighter than a mere breath.
+
+[[v19-62-10]]
+
+^<<v19-62-10,10>>^ Do not trust in extortion
+Or put false hopes in robbery.
+If your wealth increases, do not set your heart on it.
+
+[[v19-62-11]]
+
+^<<v19-62-11,11>>^ Once God has spoken, twice I have heard this:
+That strength belongs to God.
+
+[[v19-62-12]]
+
+^<<v19-62-12,12>>^ Also loyal love is yours, O Jehovah,
+For you repay each one according to his deeds.
+
+'''
+
+xref:019-psalm/019-psalm-061.adoc#v19-61-0[&#60; Capítulo Anterior] | <<v19-62-0,Topo>> | xref:019-psalm/019-psalm-063.adoc#v19-63-0[Próximo Capítulo &#62;]

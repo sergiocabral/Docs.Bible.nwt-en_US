@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v18-26-0]]
+=== Job, 26
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-26-1]]
+
+^<<v18-26-1,1>>^ Job said in reply:
+
+[[v18-26-2]]
+
+^<<v18-26-2,2>>^ “How you have helped the one with no power!
+How you have saved the arm that has no strength!
+
+[[v18-26-3]]
+
+^<<v18-26-3,3>>^ What great advice you have given to the one lacking wisdom!
+How freely^&#42;1^ you have revealed your practical wisdom!^&#42;2^
+
+[NOTE]
+====
+. Or “abundantly.”
+. Or “common sense.”
+====
+
+[[v18-26-4]]
+
+^<<v18-26-4,4>>^ To whom are you trying to speak,
+And who inspired you to say such things?^&#42;1^
+
+[NOTE]
+====
+. Lit., “And whose breath (spirit) has come out from you?”
+====
+
+[[v18-26-5]]
+
+^<<v18-26-5,5>>^ Those who are powerless in death tremble;
+They are even lower than the waters and their inhabitants.
+
+[[v18-26-6]]
+
+^<<v18-26-6,6>>^ The Grave^&#42;1^ is naked in front of God,^&#42;2^
+And the place of destruction^&#42;3^ lies uncovered.
+
+[NOTE]
+====
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+. Lit., “him.”
+. Or “And Abaddon.”
+====
+
+[[v18-26-7]]
+
+^<<v18-26-7,7>>^ He stretches out the northern sky^&#42;1^ over empty space,^&#42;2^
+Suspending the earth upon nothing;
+
+[NOTE]
+====
+. Lit., “the north.”
+. Lit., “emptiness.”
+====
+
+[[v18-26-8]]
+
+^<<v18-26-8,8>>^ He wraps up the waters in his clouds,
+So that the clouds do not burst under their weight;
+
+[[v18-26-9]]
+
+^<<v18-26-9,9>>^ He shuts off the view of his throne,
+Spreading out his cloud over it.
+
+[[v18-26-10]]
+
+^<<v18-26-10,10>>^ He marks out the horizon^&#42;1^ on the surface of the waters;
+He makes a boundary between light and darkness.
+
+[NOTE]
+====
+. Lit., “a circle.”
+====
+
+[[v18-26-11]]
+
+^<<v18-26-11,11>>^ The very pillars of heaven shake;
+They are stunned by his rebuke.
+
+[[v18-26-12]]
+
+^<<v18-26-12,12>>^ He stirs up the sea with his power,
+And by his understanding he breaks the sea monster^&#42;1^ to pieces.
+
+[NOTE]
+====
+. Lit., “Rahab.”
+====
+
+[[v18-26-13]]
+
+^<<v18-26-13,13>>^ With his breath^&#42;1^ he makes the skies clear;
+His hand pierces the elusive^&#42;2^ serpent.
+
+[NOTE]
+====
+. Or “wind.”
+. Or “gliding.”
+====
+
+[[v18-26-14]]
+
+^<<v18-26-14,14>>^ Look! These are just the fringes of his ways;
+Only a faint whisper has been heard of him!
+So who can understand his mighty thunder?”
+
+'''
+
+xref:018-job/018-job-025.adoc#v18-25-0[&#60; Capítulo Anterior] | <<v18-26-0,Topo>> | xref:018-job/018-job-027.adoc#v18-27-0[Próximo Capítulo &#62;]

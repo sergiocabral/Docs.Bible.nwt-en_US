@@ -1,0 +1,235 @@
+include::./index.adoc[]
+
+[[v20-14-0]]
+=== Proverbs, 14
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-14-1]]
+
+^<<v20-14-1,1>>^ The truly wise woman builds up her house,
+But the foolish one tears it down with her own hands.
+
+[[v20-14-2]]
+
+^<<v20-14-2,2>>^ The one walking in his uprightness fears Jehovah,
+But the one whose ways are devious^&#42;1^ despises Him.
+
+[NOTE]
+====
+. Or “crooked.”
+====
+
+[[v20-14-3]]
+
+^<<v20-14-3,3>>^ The rod of haughtiness is in the mouth of the fool,
+But the lips of the wise will protect them.
+
+[[v20-14-4]]
+
+^<<v20-14-4,4>>^ Where there are no cattle the manger is clean,
+But the power of a bull yields an abundant harvest.
+
+[[v20-14-5]]
+
+^<<v20-14-5,5>>^ A faithful witness will not lie,
+But a false witness lies with every breath.
+
+[[v20-14-6]]
+
+^<<v20-14-6,6>>^ The scoffer seeks wisdom and finds none,
+But knowledge comes easily to the person with understanding.
+
+[[v20-14-7]]
+
+^<<v20-14-7,7>>^ Stay away from the foolish man,
+For you will not find knowledge on his lips.
+
+[[v20-14-8]]
+
+^<<v20-14-8,8>>^ By wisdom the shrewd man understands the way he is going,
+But the stupid are deceived^&#42;1^ by their foolishness.
+
+[NOTE]
+====
+. Or possibly, “the stupid deceive others.”
+====
+
+[[v20-14-9]]
+
+^<<v20-14-9,9>>^ Fools make fun of guilt,^&#42;1^
+But among the upright, there is a willingness to reconcile.^&#42;2^
+
+[NOTE]
+====
+. Or “of making amends.”
+. Or “there is goodwill.”
+====
+
+[[v20-14-10]]
+
+^<<v20-14-10,10>>^ The heart knows its own bitterness,^&#42;1^
+And no outsider can share in its joy.
+
+[NOTE]
+====
+. Or “the bitterness of its soul.”
+====
+
+[[v20-14-11]]
+
+^<<v20-14-11,11>>^ The house of the wicked will be destroyed,
+But the tent of the upright will flourish.
+
+[[v20-14-12]]
+
+^<<v20-14-12,12>>^ There is a way that seems right to a man,
+But in the end it leads to death.
+
+[[v20-14-13]]
+
+^<<v20-14-13,13>>^ Even in laughter the heart may feel pain,
+And rejoicing may end in grief.
+
+[[v20-14-14]]
+
+^<<v20-14-14,14>>^ The one wayward at heart will reap the results of his ways,
+But the good man reaps the reward of his dealings.
+
+[[v20-14-15]]
+
+^<<v20-14-15,15>>^ The naive^&#42;1^ person believes every word,
+But the shrewd one ponders each step.
+
+[NOTE]
+====
+. Or “inexperienced.”
+====
+
+[[v20-14-16]]
+
+^<<v20-14-16,16>>^ The wise one is cautious and turns away from evil,
+But the stupid one is reckless^&#42;1^ and overconfident.
+
+[NOTE]
+====
+. Or “furious.”
+====
+
+[[v20-14-17]]
+
+^<<v20-14-17,17>>^ The one who is quick to anger acts foolishly,
+But the man who thinks things out^&#42;1^ is hated.
+
+[NOTE]
+====
+. Or “the man of thinking abilities.”
+====
+
+[[v20-14-18]]
+
+^<<v20-14-18,18>>^ The naive^&#42;1^ will inherit foolishness,
+But the shrewd are crowned with knowledge.
+
+[NOTE]
+====
+. Or “inexperienced.”
+====
+
+[[v20-14-19]]
+
+^<<v20-14-19,19>>^ Bad people will have to bow down before the good,
+And the wicked will bow at the gates of the righteous.
+
+[[v20-14-20]]
+
+^<<v20-14-20,20>>^ The poor man is hated even by his neighbors,
+But many are the friends of the rich person.
+
+[[v20-14-21]]
+
+^<<v20-14-21,21>>^ The one who despises his neighbor sins,
+But whoever shows compassion to the lowly is happy.
+
+[[v20-14-22]]
+
+^<<v20-14-22,22>>^ Will not those who plot mischief go astray?
+But those intent on doing good will receive loyal love and faithfulness.
+
+[[v20-14-23]]
+
+^<<v20-14-23,23>>^ There is benefit in every kind of hard work,
+But mere talk leads to want.
+
+[[v20-14-24]]
+
+^<<v20-14-24,24>>^ The crown of the wise is their wealth;
+But the foolishness of the stupid is only foolishness.
+
+[[v20-14-25]]
+
+^<<v20-14-25,25>>^ A true witness saves lives,^&#42;1^
+But a deceitful one lies with every breath.
+
+[NOTE]
+====
+. Or “souls.”
+====
+
+[[v20-14-26]]
+
+^<<v20-14-26,26>>^ There is strong confidence in the fear of Jehovah,
+And it will be a refuge for his children.
+
+[[v20-14-27]]
+
+^<<v20-14-27,27>>^ The fear of Jehovah is a fountain of life,
+To turn one away from the snares of death.
+
+[[v20-14-28]]
+
+^<<v20-14-28,28>>^ A multitude of people are a king’s majesty,
+But a ruler without subjects is ruined.
+
+[[v20-14-29]]
+
+^<<v20-14-29,29>>^ The one who is slow to anger has great discernment,
+But the impatient one displays his foolishness.
+
+[[v20-14-30]]
+
+^<<v20-14-30,30>>^ A calm heart gives life^&#42;1^ to the body,
+But jealousy is rottenness to the bones.
+
+[NOTE]
+====
+. Or “health.”
+====
+
+[[v20-14-31]]
+
+^<<v20-14-31,31>>^ The one who defrauds the lowly one insults his Maker,
+But whoever shows compassion to the poor glorifies Him.
+
+[[v20-14-32]]
+
+^<<v20-14-32,32>>^ The wicked one will be brought down by his own evil,
+But the righteous one will find refuge in his integrity.
+
+[[v20-14-33]]
+
+^<<v20-14-33,33>>^ Wisdom rests quietly in the heart of an understanding person,
+But among the stupid it must make itself known.
+
+[[v20-14-34]]
+
+^<<v20-14-34,34>>^ Righteousness exalts a nation,
+But sin is disgraceful to a people.
+
+[[v20-14-35]]
+
+^<<v20-14-35,35>>^ The king finds pleasure in a servant who acts with insight,
+But his fury is against the one who acts shamefully.
+
+'''
+
+xref:020-proverbs/020-proverbs-013.adoc#v20-13-0[&#60; Capítulo Anterior] | <<v20-14-0,Topo>> | xref:020-proverbs/020-proverbs-015.adoc#v20-15-0[Próximo Capítulo &#62;]

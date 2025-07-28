@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-98-0]]
+=== Psalm, 98
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody._
+
+[[v19-98-1]]
+
+^<<v19-98-1,1>>^ Sing to Jehovah a new song,
+For he has done wonderful things.
+His right hand, his holy arm, has brought about salvation.^&#42;1^
+
+[NOTE]
+====
+. Or “has won him victory.”
+====
+
+[[v19-98-2]]
+
+^<<v19-98-2,2>>^ Jehovah has made known his salvation;
+He has revealed his righteousness before the nations.
+
+[[v19-98-3]]
+
+^<<v19-98-3,3>>^ He has remembered his loyal love and faithfulness to the house of Israel.
+All the ends of the earth have seen the salvation by our God.^&#42;1^
+
+[NOTE]
+====
+. Or “the victory of our God.”
+====
+
+[[v19-98-4]]
+
+^<<v19-98-4,4>>^ Shout in triumph to Jehovah, all the earth.
+Be cheerful and shout joyfully and sing praises.^&#42;1^
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-98-5]]
+
+^<<v19-98-5,5>>^ Sing praises^&#42;1^ to Jehovah with the harp,
+With the harp and the melodious song.
+
+[NOTE]
+====
+. Or “Make music.”
+====
+
+[[v19-98-6]]
+
+^<<v19-98-6,6>>^ With the trumpets and the sound of the horn,
+Shout in triumph before the King, Jehovah.
+
+[[v19-98-7]]
+
+^<<v19-98-7,7>>^ Let the sea thunder and all that fills it,
+The earth^&#42;1^ and those dwelling in it.
+
+[NOTE]
+====
+. Or “productive land.”
+====
+
+[[v19-98-8]]
+
+^<<v19-98-8,8>>^ Let the rivers clap their hands;
+Let the mountains shout joyfully together
+
+[[v19-98-9]]
+
+^<<v19-98-9,9>>^ Before Jehovah, for he is coming^&#42;1^ to judge the earth.
+He will judge the inhabited earth^&#42;2^ with righteousness
+And the peoples with fairness.
+
+[NOTE]
+====
+. Or “has come.”
+. Or “the productive land.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-097.adoc#v19-97-0[&#60; Capítulo Anterior] | <<v19-98-0,Topo>> | xref:019-psalm/019-psalm-099.adoc#v19-99-0[Próximo Capítulo &#62;]

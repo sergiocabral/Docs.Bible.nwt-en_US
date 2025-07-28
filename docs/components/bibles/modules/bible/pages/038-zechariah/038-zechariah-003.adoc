@@ -1,0 +1,60 @@
+include::./index.adoc[]
+
+[[v38-3-0]]
+=== Zechariah, 3
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v38-3-1]]
+
+^<<v38-3-1,1>>^ And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan was standing at his right hand to resist him.
+
+[[v38-3-2]]
+
+^<<v38-3-2,2>>^ Then the angel of Jehovah said to Satan: “May Jehovah rebuke you, O Satan, yes, may Jehovah, who has chosen Jerusalem, rebuke you! Is not this one a burning log snatched out of the fire?”
+
+[[v38-3-3]]
+
+^<<v38-3-3,3>>^ Now Joshua was clothed in filthy garments and standing before the angel.
+
+[[v38-3-4]]
+
+^<<v38-3-4,4>>^ The angel said to those standing before him, “Remove his filthy garments.” Then he said to him, “See, I have caused your error^&#42;1^ to pass away from you, and you will be clothed with fine garments.”^&#42;2^
+
+[NOTE]
+====
+. Or “guilt.”
+. Or “with robes of state.”
+====
+
+[[v38-3-5]]
+
+^<<v38-3-5,5>>^ So I said: “Let a clean turban be put on his head.” And they put the clean turban on his head and clothed him with garments; and the angel of Jehovah was standing nearby.
+
+[[v38-3-6]]
+
+^<<v38-3-6,6>>^ The angel of Jehovah then declared to Joshua:
+
+[[v38-3-7]]
+
+^<<v38-3-7,7>>^ “This is what Jehovah of armies says, ‘If you will walk in my ways and carry out your responsibilities before me, then you will serve as a judge in my house and take care of^&#42;1^ my courtyards; and I will give you free access among these who are standing here.’
+
+[NOTE]
+====
+. Or “have charge of; guard.”
+====
+
+[[v38-3-8]]
+
+^<<v38-3-8,8>>^ “‘Hear, please, O High Priest Joshua, you and your companions who sit before you, for these men serve as a sign; look! I am bringing in my servant Sprout!
+
+[[v38-3-9]]
+
+^<<v38-3-9,9>>^ See the stone that I have set before Joshua! On the one stone are seven eyes; and I am engraving an inscription on it,’ declares Jehovah of armies, ‘and I will take away the guilt of that land in one day.’
+
+[[v38-3-10]]
+
+^<<v38-3-10,10>>^ “‘In that day,’ declares Jehovah of armies, ‘each of you will invite your neighbor to come under your vine and under your fig tree.’”
+
+'''
+
+xref:038-zechariah/038-zechariah-002.adoc#v38-2-0[&#60; Capítulo Anterior] | <<v38-3-0,Topo>> | xref:038-zechariah/038-zechariah-004.adoc#v38-4-0[Próximo Capítulo &#62;]

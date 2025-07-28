@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v19-30-0]]
+=== Psalm, 30
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_A melody. A song of inauguration of the house. Of David._
+
+[[v19-30-1]]
+
+^<<v19-30-1,1>>^ I will exalt you, O Jehovah, for you have lifted^&#42;1^ me up;
+You did not let my enemies rejoice over me.
+
+[NOTE]
+====
+. Or “drawn.”
+====
+
+[[v19-30-2]]
+
+^<<v19-30-2,2>>^ O Jehovah my God, I cried to you for help, and you healed me.
+
+[[v19-30-3]]
+
+^<<v19-30-3,3>>^ O Jehovah, you have lifted me^&#42;1^ up from the Grave.^&#42;2^
+You kept me alive; you spared me from sinking into the pit.^&#42;3^
+
+[NOTE]
+====
+. Or “my soul.”
+. Or “Sheol,” that is, the common grave of mankind. See Glossary.
+. Or “grave.”
+====
+
+[[v19-30-4]]
+
+^<<v19-30-4,4>>^ Sing praises^&#42;1^ to Jehovah, you his loyal ones,
+Give thanks to his holy name;^&#42;2^
+
+[NOTE]
+====
+. Or “Make music.”
+. Lit., “memorial.”
+====
+
+[[v19-30-5]]
+
+^<<v19-30-5,5>>^ Because being under his anger is only for a moment,
+But being in his favor^&#42;1^ is for a lifetime.
+Weeping may come in the evening, but in the morning, there is a joyful cry.
+
+[NOTE]
+====
+. Or “goodwill.”
+====
+
+[[v19-30-6]]
+
+^<<v19-30-6,6>>^ When I was untroubled, I said:
+“I will never be shaken.”^&#42;1^
+
+[NOTE]
+====
+. Or “will never stagger (totter).”
+====
+
+[[v19-30-7]]
+
+^<<v19-30-7,7>>^ O Jehovah, while I was in your favor,^&#42;1^ you made me as strong as a mountain.
+But when you hid your face, I became terrified.
+
+[NOTE]
+====
+. Or “goodwill.”
+====
+
+[[v19-30-8]]
+
+^<<v19-30-8,8>>^ To you, O Jehovah, I kept calling;
+And to Jehovah, I kept pleading for favor.
+
+[[v19-30-9]]
+
+^<<v19-30-9,9>>^ What profit is there in my death,^&#42;1^ in my going down to the pit?^&#42;2^
+Will the dust praise you? Will it tell of your faithfulness?
+
+[NOTE]
+====
+. Lit., “blood.”
+. Or “grave.”
+====
+
+[[v19-30-10]]
+
+^<<v19-30-10,10>>^ Hear, O Jehovah, and show me favor.
+O Jehovah, become my helper.
+
+[[v19-30-11]]
+
+^<<v19-30-11,11>>^ You have changed my mourning into dancing;
+You have removed my sackcloth, and you clothe me with rejoicing,
+
+[[v19-30-12]]
+
+^<<v19-30-12,12>>^ So that I^&#42;1^ may sing your praise and not keep silent.
+O Jehovah my God, I will praise you forever.
+
+[NOTE]
+====
+. Or “my glory.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-029.adoc#v19-29-0[&#60; Capítulo Anterior] | <<v19-30-0,Topo>> | xref:019-psalm/019-psalm-031.adoc#v19-31-0[Próximo Capítulo &#62;]

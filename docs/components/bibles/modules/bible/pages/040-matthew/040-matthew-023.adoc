@@ -1,0 +1,216 @@
+include::./index.adoc[]
+
+[[v40-23-0]]
+=== According to Matthew, 23
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v40-23-1]]
+
+^<<v40-23-1,1>>^ Then Jesus spoke to the crowds and to his disciples, saying:
+
+[[v40-23-2]]
+
+^<<v40-23-2,2>>^ “The scribes and the Pharisees have seated themselves in the seat of Moses.
+
+[[v40-23-3]]
+
+^<<v40-23-3,3>>^ Therefore, all the things they tell you, do and observe, but do not do according to their deeds, for they say but they do not practice what they say.
+
+[[v40-23-4]]
+
+^<<v40-23-4,4>>^ They bind up heavy loads and put them on the shoulders of men, but they themselves are not willing to budge them with their finger.
+
+[[v40-23-5]]
+
+^<<v40-23-5,5>>^ All the works they do, they do to be seen by men, for they broaden the scripture-containing cases that they wear as safeguards^&#42;1^ and lengthen the fringes of their garments.
+
+[NOTE]
+====
+. Or “broaden their phylacteries.”
+====
+
+[[v40-23-6]]
+
+^<<v40-23-6,6>>^ They like the most prominent place at evening meals and the front^&#42;1^ seats in the synagogues
+
+[NOTE]
+====
+. Or “best.”
+====
+
+[[v40-23-7]]
+
+^<<v40-23-7,7>>^ and the greetings in the marketplaces and to be called Rabbi^&#42;1^ by men.
+
+[NOTE]
+====
+. Or “Teacher.”
+====
+
+[[v40-23-8]]
+
+^<<v40-23-8,8>>^ But you, do not you be called Rabbi, for one is your Teacher, and all of you are brothers.
+
+[[v40-23-9]]
+
+^<<v40-23-9,9>>^ Moreover, do not call anyone your father on earth, for one is your Father, the heavenly One.
+
+[[v40-23-10]]
+
+^<<v40-23-10,10>>^ Neither be called leaders, for your Leader is one, the Christ.
+
+[[v40-23-11]]
+
+^<<v40-23-11,11>>^ But the greatest one among you must be your minister.
+
+[[v40-23-12]]
+
+^<<v40-23-12,12>>^ Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
+
+[[v40-23-13]]
+
+^<<v40-23-13,13>>^ “Woe to you, scribes and Pharisees, hypocrites! because you shut up the Kingdom of the heavens before men; for you yourselves do not go in, neither do you permit those on their way in to go in.
+
+[[v40-23-14]]
+
+^<<v40-23-14,14>>^ ^&#42;1^ ——
+
+[NOTE]
+====
+. See App. A3.
+====
+
+[[v40-23-15]]
+
+^<<v40-23-15,15>>^ “Woe to you, scribes and Pharisees, hypocrites! because you travel over sea and dry land to make one proselyte,^&#42;1^ and when he becomes one, you make him a subject for Ge·henʹna^&#42;2^ twice as much so as yourselves.
+
+[NOTE]
+====
+. Or “convert.”
+. See Glossary.
+====
+
+[[v40-23-16]]
+
+^<<v40-23-16,16>>^ “Woe to you, blind guides, who say, ‘If anyone swears by the temple, it is nothing; but if anyone swears by the gold of the temple, he is under obligation.’
+
+[[v40-23-17]]
+
+^<<v40-23-17,17>>^ Fools and blind ones! Which, in fact, is greater, the gold or the temple that has sanctified the gold?
+
+[[v40-23-18]]
+
+^<<v40-23-18,18>>^ Moreover, ‘If anyone swears by the altar, it is nothing; but if anyone swears by the gift on it, he is under obligation.’
+
+[[v40-23-19]]
+
+^<<v40-23-19,19>>^ Blind ones! Which, in fact, is greater, the gift or the altar that sanctifies the gift?
+
+[[v40-23-20]]
+
+^<<v40-23-20,20>>^ Therefore, whoever swears by the altar is swearing by it and by all the things on it;
+
+[[v40-23-21]]
+
+^<<v40-23-21,21>>^ and whoever swears by the temple is swearing by it and by the One inhabiting it;
+
+[[v40-23-22]]
+
+^<<v40-23-22,22>>^ and whoever swears by heaven is swearing by the throne of God and by the One sitting on it.
+
+[[v40-23-23]]
+
+^<<v40-23-23,23>>^ “Woe to you, scribes and Pharisees, hypocrites! because you give the tenth of the mint and the dill and the cumin, but you have disregarded the weightier matters of the Law, namely, justice and mercy and faithfulness. These things it was necessary to do, yet not to disregard the other things.
+
+[[v40-23-24]]
+
+^<<v40-23-24,24>>^ Blind guides, who strain out the gnat but gulp down the camel!
+
+[[v40-23-25]]
+
+^<<v40-23-25,25>>^ “Woe to you, scribes and Pharisees, hypocrites! because you cleanse the outside of the cup and of the dish, but inside they are full of greediness^&#42;1^ and self-indulgence.
+
+[NOTE]
+====
+. Or “plunder.”
+====
+
+[[v40-23-26]]
+
+^<<v40-23-26,26>>^ Blind Pharisee, cleanse first the inside of the cup and of the dish, so that the outside of it may also become clean.
+
+[[v40-23-27]]
+
+^<<v40-23-27,27>>^ “Woe to you, scribes and Pharisees, hypocrites! because you resemble whitewashed graves, which outwardly indeed appear beautiful but inside are full of dead men’s bones and of every sort of uncleanness.
+
+[[v40-23-28]]
+
+^<<v40-23-28,28>>^ In the same way, on the outside you appear righteous to men, but inside you are full of hypocrisy and lawlessness.
+
+[[v40-23-29]]
+
+^<<v40-23-29,29>>^ “Woe to you, scribes and Pharisees, hypocrites! because you build the graves of the prophets and decorate the tombs^&#42;1^ of the righteous ones,
+
+[NOTE]
+====
+. Or “memorial tombs.”
+====
+
+[[v40-23-30]]
+
+^<<v40-23-30,30>>^ and you say, ‘If we had lived in the days of our forefathers, we would not have shared with them in shedding the blood of the prophets.’
+
+[[v40-23-31]]
+
+^<<v40-23-31,31>>^ Therefore, you are testifying against yourselves that you are sons of those who murdered the prophets.
+
+[[v40-23-32]]
+
+^<<v40-23-32,32>>^ Well, then, fill up the measure of your forefathers.
+
+[[v40-23-33]]
+
+^<<v40-23-33,33>>^ “Serpents, offspring of vipers, how will you flee from the judgment of Ge·henʹna?^&#42;1^
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v40-23-34]]
+
+^<<v40-23-34,34>>^ For this reason, I am sending to you prophets and wise men and public instructors. Some of them you will kill and execute on stakes, and some of them you will scourge in your synagogues and persecute from city to city,
+
+[[v40-23-35]]
+
+^<<v40-23-35,35>>^ so that there may come upon you all the righteous blood spilled on earth, from the blood of righteous Abel to the blood of Zech·a·riʹah son of Bar·a·chiʹah, whom you murdered between the sanctuary and the altar.
+
+[[v40-23-36]]
+
+^<<v40-23-36,36>>^ Truly I say to you, all these things will come upon this generation.
+
+[[v40-23-37]]
+
+^<<v40-23-37,37>>^ “Jerusalem, Jerusalem, the killer of the prophets and stoner of those sent to her—how often I wanted to gather your children together the way a hen gathers her chicks under her wings! But you did not want it.
+
+[[v40-23-38]]
+
+^<<v40-23-38,38>>^ Look! Your house is abandoned to you.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “is left to you desolate.”
+====
+
+[[v40-23-39]]
+
+^<<v40-23-39,39>>^ For I say to you, you will by no means see me from now until you say, ‘Blessed is the one who comes in Jehovah’s^&#42;1^ name!’”
+
+[NOTE]
+====
+. See App. A5.
+====
+
+'''
+
+xref:040-matthew/040-matthew-022.adoc#v40-22-0[&#60; Capítulo Anterior] | <<v40-23-0,Topo>> | xref:040-matthew/040-matthew-024.adoc#v40-24-0[Próximo Capítulo &#62;]

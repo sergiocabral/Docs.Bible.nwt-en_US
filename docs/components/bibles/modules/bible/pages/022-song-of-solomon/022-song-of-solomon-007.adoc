@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v22-7-0]]
+=== The Song of Solomon, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v22-7-1]]
+
+^<<v22-7-1,1>>^ “How beautiful your feet are in your sandals,
+O noble daughter!
+The curves of your thighs are like ornaments,
+The work of an artisan’s hands.
+
+[[v22-7-2]]
+
+^<<v22-7-2,2>>^ Your navel is a round bowl.
+May it never lack mixed wine.
+Your belly is a heap of wheat,
+Encircled by lilies.
+
+[[v22-7-3]]
+
+^<<v22-7-3,3>>^ Your two breasts are like two fawns,
+The twins of a gazelle.
+
+[[v22-7-4]]
+
+^<<v22-7-4,4>>^ Your neck is like an ivory tower.
+Your eyes are like the pools in Heshʹbon,
+By the gate of Bath-rabʹbim.
+Your nose is like the tower of Lebʹa·non,
+Which looks toward Damascus.
+
+[[v22-7-5]]
+
+^<<v22-7-5,5>>^ Your head crowns you like Carʹmel,
+And the locks of your hair^&#42;1^ are like purple wool.
+The king is captivated^&#42;2^ by the flowing tresses.
+
+[NOTE]
+====
+. Lit., “your head.”
+. Or “held bound.”
+====
+
+[[v22-7-6]]
+
+^<<v22-7-6,6>>^ How beautiful you are, and how pleasant you are,
+O beloved girl, above all exquisite delights!
+
+[[v22-7-7]]
+
+^<<v22-7-7,7>>^ Your stature is like a palm tree,
+And your breasts are like date clusters.
+
+[[v22-7-8]]
+
+^<<v22-7-8,8>>^ I said, ‘I will climb the palm tree
+To take hold of its stalks of fruit.’
+May your breasts be like clusters of grapes,
+Your breath as fragrant as apples,
+
+[[v22-7-9]]
+
+^<<v22-7-9,9>>^ And your mouth^&#42;1^ like the best wine.”
+“May it go down smoothly for my dear one,
+Softly flowing over the lips of those asleep.
+
+[NOTE]
+====
+. Lit., “palate.”
+====
+
+[[v22-7-10]]
+
+^<<v22-7-10,10>>^ I am my dear one’s,
+And his desire is for me.
+
+[[v22-7-11]]
+
+^<<v22-7-11,11>>^ Come, O my dear one,
+Let us go out to the fields;
+Let us lodge among the henna plants.
+
+[[v22-7-12]]
+
+^<<v22-7-12,12>>^ Let us rise early and go to the vineyards
+To see if the vine has sprouted,^&#42;1^
+If the blossoms have opened,
+If the pomegranates are in bloom.
+There I will express my affection for you.
+
+[NOTE]
+====
+. Or “budded.”
+====
+
+[[v22-7-13]]
+
+^<<v22-7-13,13>>^ The mandrakes give off their fragrance;
+At our doors are all sorts of choice fruits.
+The new as well as the old,
+O my dear one, I have kept in store for you.
+
+'''
+
+xref:022-song-of-solomon/022-song-of-solomon-006.adoc#v22-6-0[&#60; Capítulo Anterior] | <<v22-7-0,Topo>> | xref:022-song-of-solomon/022-song-of-solomon-008.adoc#v22-8-0[Próximo Capítulo &#62;]

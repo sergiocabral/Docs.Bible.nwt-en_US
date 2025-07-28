@@ -1,0 +1,143 @@
+include::./index.adoc[]
+
+[[v4-6-0]]
+=== Numbers, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v4-6-1]]
+
+^<<v4-6-1,1>>^ Jehovah spoke further to Moses and said:
+
+[[v4-6-2]]
+
+^<<v4-6-2,2>>^ “Speak to the Israelites and tell them, ‘If a man or a woman takes a special vow to live as a Nazʹi·rite^&#42;1^ to Jehovah,
+
+[NOTE]
+====
+. Hebrew, na·zirʹ, meaning “One Singled Out; Dedicated One; Separated One.”
+====
+
+[[v4-6-3]]
+
+^<<v4-6-3,3>>^ he should keep away from wine and other alcoholic beverages. He should not drink the vinegar of wine or the vinegar of anything alcoholic. He should not drink any liquid made from grapes, nor eat grapes, whether fresh or dried.
+
+[[v4-6-4]]
+
+^<<v4-6-4,4>>^ All the days of his Naziriteship he should not eat anything made from the grapevine, from the unripe grapes to the skins.
+
+[[v4-6-5]]
+
+^<<v4-6-5,5>>^ “‘All the days of the vow of his Naziriteship no razor should pass over his head. He is to remain holy by letting the hair of his head grow until the days of his being set apart to Jehovah are completed.
+
+[[v4-6-6]]
+
+^<<v4-6-6,6>>^ He should not approach^&#42;1^ a dead person^&#42;2^ during all the days he remains separated to Jehovah.
+
+[NOTE]
+====
+. Or “come anywhere near.”
+. Or “soul.” See Glossary.
+====
+
+[[v4-6-7]]
+
+^<<v4-6-7,7>>^ Even if his father or his mother or his brother or his sister should die, he may not defile himself, because the sign of his Naziriteship to his God is upon his head.
+
+[[v4-6-8]]
+
+^<<v4-6-8,8>>^ “‘He is holy to Jehovah all the days of his Naziriteship.
+
+[[v4-6-9]]
+
+^<<v4-6-9,9>>^ But if someone should suddenly die alongside him and he defiles the hair symbolizing his separation to God,^&#42;1^ he must shave his head on the day he establishes his purification. He should shave it on the seventh day.
+
+[NOTE]
+====
+. Or “defiles the head of his Naziriteship.”
+====
+
+[[v4-6-10]]
+
+^<<v4-6-10,10>>^ And on the eighth day, he should bring two turtledoves or two young pigeons to the priest at the entrance of the tent of meeting.
+
+[[v4-6-11]]
+
+^<<v4-6-11,11>>^ The priest will prepare one as a sin offering and the other as a burnt offering and make atonement for him for his sin in connection with the dead person.^&#42;1^ Then he must sanctify his head on that day.
+
+[NOTE]
+====
+. Or “with a soul.” See Glossary.
+====
+
+[[v4-6-12]]
+
+^<<v4-6-12,12>>^ And he must separate himself again to Jehovah for the days of his Naziriteship, and he will bring a young ram in its first year as a guilt offering. However, the former days will go uncounted because he defiled his Naziriteship.
+
+[[v4-6-13]]
+
+^<<v4-6-13,13>>^ “‘Now this is the law about the Nazʹi·rite: When he completes the days of his Naziriteship, he will be brought to the entrance of the tent of meeting.
+
+[[v4-6-14]]
+
+^<<v4-6-14,14>>^ There he must present his offering to Jehovah: one sound young ram in its first year as a burnt offering, one sound female lamb in its first year as a sin offering, one sound ram as a communion sacrifice,
+
+[[v4-6-15]]
+
+^<<v4-6-15,15>>^ a basket of unleavened ring-shaped loaves of fine flour mixed with oil, unleavened wafers smeared with oil, and their grain offering and their drink offerings.
+
+[[v4-6-16]]
+
+^<<v4-6-16,16>>^ The priest will present them before Jehovah and will offer up his sin offering and his burnt offering.
+
+[[v4-6-17]]
+
+^<<v4-6-17,17>>^ He will offer the ram as a communion sacrifice to Jehovah along with the basket of unleavened loaves, and the priest will present its grain offering and its drink offering.
+
+[[v4-6-18]]
+
+^<<v4-6-18,18>>^ “‘The Nazʹi·rite must then shave the uncut hair of his head^&#42;1^ at the entrance of the tent of meeting, and he will take the hair of his head grown during his Naziriteship and put it on the fire that is under the communion sacrifice.
+
+[NOTE]
+====
+. Or “the head of his Naziriteship.”
+====
+
+[[v4-6-19]]
+
+^<<v4-6-19,19>>^ And the priest must take a boiled shoulder from the ram, one unleavened ring-shaped loaf from the basket, and one unleavened wafer, and put them on the palms of the Nazʹi·rite after he has had the sign of his Naziriteship shaved off.
+
+[[v4-6-20]]
+
+^<<v4-6-20,20>>^ And the priest must wave them back and forth as a wave offering before Jehovah. It is something holy for the priest, along with the breast of the wave offering and the leg of the contribution. Afterward, the Nazʹi·rite may drink wine.
+
+[[v4-6-21]]
+
+^<<v4-6-21,21>>^ “‘This is the law about the Nazʹi·rite who makes a vow: If he vows and can afford to make an offering to Jehovah that is beyond the requirements of his Naziriteship, he must then carry out his vow out of regard for the law of his Naziriteship.’”
+
+[[v4-6-22]]
+
+^<<v4-6-22,22>>^ Then Jehovah said to Moses:
+
+[[v4-6-23]]
+
+^<<v4-6-23,23>>^ “Tell Aaron and his sons, ‘This is the way you should bless the people of Israel. Say to them:
+
+[[v4-6-24]]
+
+^<<v4-6-24,24>>^ “May Jehovah bless you and safeguard you.
+
+[[v4-6-25]]
+
+^<<v4-6-25,25>>^ May Jehovah make his face shine upon you, and may he favor you.
+
+[[v4-6-26]]
+
+^<<v4-6-26,26>>^ May Jehovah lift up his face toward you and grant you peace.”’
+
+[[v4-6-27]]
+
+^<<v4-6-27,27>>^ And they must place my name upon the people of Israel, that I may bless them.”
+
+'''
+
+xref:004-numbers/004-numbers-005.adoc#v4-5-0[&#60; Capítulo Anterior] | <<v4-6-0,Topo>> | xref:004-numbers/004-numbers-007.adoc#v4-7-0[Próximo Capítulo &#62;]

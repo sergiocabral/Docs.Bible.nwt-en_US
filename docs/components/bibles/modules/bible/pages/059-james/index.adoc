@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v59-0-0]]
+== James
+
+[cols="8*^"]
+|===
+| xref:059-james/059-james-001.adoc#v59-1-0[1]
+| xref:059-james/059-james-002.adoc#v59-2-0[2]
+| xref:059-james/059-james-003.adoc#v59-3-0[3]
+| xref:059-james/059-james-004.adoc#v59-4-0[4]
+| xref:059-james/059-james-005.adoc#v59-5-0[5]
+|
+|
+|
+|===

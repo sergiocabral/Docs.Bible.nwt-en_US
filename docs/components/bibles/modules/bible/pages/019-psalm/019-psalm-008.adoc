@@ -1,0 +1,71 @@
+include::./index.adoc[]
+
+[[v19-8-0]]
+=== Psalm, 8
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_To the director; upon the Gitʹtith.^&#42;1^ A melody of David._
+
+[[v19-8-1]]
+
+^<<v19-8-1,1>>^ O Jehovah our Lord, how majestic your name is throughout the earth;
+You have set your splendor even higher than the heavens!^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “You whose splendor is recounted above the heavens!”
+====
+
+[[v19-8-2]]
+
+^<<v19-8-2,2>>^ Out of the mouth of children and infants you have established strength
+On account of your adversaries,
+To silence the enemy and the avenger.
+
+[[v19-8-3]]
+
+^<<v19-8-3,3>>^ When I see your heavens, the works of your fingers,
+The moon and the stars that you have prepared,
+
+[[v19-8-4]]
+
+^<<v19-8-4,4>>^ What is mortal man that you keep him in mind,
+And a son of man that you take care of him?
+
+[[v19-8-5]]
+
+^<<v19-8-5,5>>^ You made him a little lower than godlike ones,^&#42;1^
+And you crowned him with glory and splendor.
+
+[NOTE]
+====
+. Or “than angels.”
+====
+
+[[v19-8-6]]
+
+^<<v19-8-6,6>>^ You gave him dominion over the works of your hands;
+You have put everything under his feet:
+
+[[v19-8-7]]
+
+^<<v19-8-7,7>>^ All the flocks and cattle,
+As well as the wild animals,^&#42;1^
+
+[NOTE]
+====
+. Lit., “the beasts of the field.”
+====
+
+[[v19-8-8]]
+
+^<<v19-8-8,8>>^ The birds of the heavens and the fish of the sea,
+Whatever passes through the paths of the seas.
+
+[[v19-8-9]]
+
+^<<v19-8-9,9>>^ O Jehovah our Lord, how majestic your name is throughout the earth!
+
+'''
+
+xref:019-psalm/019-psalm-007.adoc#v19-7-0[&#60; Capítulo Anterior] | <<v19-8-0,Topo>> | xref:019-psalm/019-psalm-009.adoc#v19-9-0[Próximo Capítulo &#62;]

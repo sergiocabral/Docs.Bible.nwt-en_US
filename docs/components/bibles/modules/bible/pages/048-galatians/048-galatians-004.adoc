@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v48-4-0]]
+=== To the Galatians, 4
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v48-4-1]]
+
+^<<v48-4-1,1>>^ Now I say that as long as the heir is a young child, he is no different from a slave, although he is the lord of all things,
+
+[[v48-4-2]]
+
+^<<v48-4-2,2>>^ but he is under supervisors and stewards until the day set ahead of time by his father.
+
+[[v48-4-3]]
+
+^<<v48-4-3,3>>^ Likewise, we too, when we were children, were enslaved by the elementary things of the world.
+
+[[v48-4-4]]
+
+^<<v48-4-4,4>>^ But when the full limit of the time arrived, God sent his Son, who was born of a woman and who was under law,
+
+[[v48-4-5]]
+
+^<<v48-4-5,5>>^ that he might release by purchase those under law, so that we might receive the adoption as sons.
+
+[[v48-4-6]]
+
+^<<v48-4-6,6>>^ Now because you are sons, God has sent the spirit of his Son into our hearts, and it cries out: “Abba,^&#42;1^ Father!”
+
+[NOTE]
+====
+. A Hebrew or an Aramaic word meaning “O Father!”
+====
+
+[[v48-4-7]]
+
+^<<v48-4-7,7>>^ So you are no longer a slave but a son; and if a son, then you are also an heir through God.
+
+[[v48-4-8]]
+
+^<<v48-4-8,8>>^ Nevertheless, when you did not know God, you were enslaved to those who are not really gods.
+
+[[v48-4-9]]
+
+^<<v48-4-9,9>>^ But now that you have come to know God or, rather, have come to be known by God, how is it that you are turning back again to the weak and beggarly elementary things and want to slave for them over again?
+
+[[v48-4-10]]
+
+^<<v48-4-10,10>>^ You are scrupulously observing days and months and seasons and years.
+
+[[v48-4-11]]
+
+^<<v48-4-11,11>>^ I fear for you, that somehow I have wasted my efforts on you.
+
+[[v48-4-12]]
+
+^<<v48-4-12,12>>^ Brothers, I beg you, become as I am, because I also used to be as you are. You did me no wrong.
+
+[[v48-4-13]]
+
+^<<v48-4-13,13>>^ But you know that it was because of a physical illness that I had my first opportunity to declare the good news to you.
+
+[[v48-4-14]]
+
+^<<v48-4-14,14>>^ And though my physical condition was a trial for you, you did not treat me with contempt or disgust;^&#42;1^ but you received me like an angel of God, like Christ Jesus.
+
+[NOTE]
+====
+. Or “spit at me.”
+====
+
+[[v48-4-15]]
+
+^<<v48-4-15,15>>^ Where is that happiness you had? For I bear you witness that, if it had been possible, you would have gouged out your eyes and given them to me.
+
+[[v48-4-16]]
+
+^<<v48-4-16,16>>^ So, then, have I become your enemy because I tell you the truth?
+
+[[v48-4-17]]
+
+^<<v48-4-17,17>>^ They are zealous to win you over, but not for a good purpose; they want to alienate you from me, so that you may be eager to follow them.
+
+[[v48-4-18]]
+
+^<<v48-4-18,18>>^ However, it is always fine for someone to seek zealously after you for a good purpose and not just when I am present with you,
+
+[[v48-4-19]]
+
+^<<v48-4-19,19>>^ my little children, for whom I am again experiencing birth pains until Christ is formed^&#42;1^ in you.
+
+[NOTE]
+====
+. Or “takes shape.”
+====
+
+[[v48-4-20]]
+
+^<<v48-4-20,20>>^ I wish I could be present with you just now and speak in a different way, because I am perplexed over you.
+
+[[v48-4-21]]
+
+^<<v48-4-21,21>>^ Tell me, you who want to be under law, Do you not hear the Law?
+
+[[v48-4-22]]
+
+^<<v48-4-22,22>>^ For example, it is written that Abraham had two sons, one by the servant girl and one by the free woman;
+
+[[v48-4-23]]
+
+^<<v48-4-23,23>>^ but the one by the servant girl was actually born through natural descent^&#42;1^ and the other by the free woman through a promise.
+
+[NOTE]
+====
+. Lit., “according to the flesh.”
+====
+
+[[v48-4-24]]
+
+^<<v48-4-24,24>>^ These things may be taken as a symbolic drama; for these women mean two covenants, the one from Mount Siʹnai, which bears children for slavery and which is Haʹgar.
+
+[[v48-4-25]]
+
+^<<v48-4-25,25>>^ Now Haʹgar means Siʹnai, a mountain in Arabia, and she corresponds with the Jerusalem today, for she is in slavery with her children.
+
+[[v48-4-26]]
+
+^<<v48-4-26,26>>^ But the Jerusalem above is free, and she is our mother.
+
+[[v48-4-27]]
+
+^<<v48-4-27,27>>^ For it is written: “Be glad, you barren woman who does not give birth; break into joyful shouting, you woman who does not have birth pains; for the children of the desolate woman are more numerous than those of her who has the husband.”
+
+[[v48-4-28]]
+
+^<<v48-4-28,28>>^ Now you, brothers, are children of the promise the same as Isaac was.
+
+[[v48-4-29]]
+
+^<<v48-4-29,29>>^ But just as then the one born through natural descent^&#42;1^ began persecuting the one born through spirit, so also now.
+
+[NOTE]
+====
+. Lit., “according to the flesh.”
+====
+
+[[v48-4-30]]
+
+^<<v48-4-30,30>>^ Nevertheless, what does the scripture say? “Drive out the servant girl and her son, for the son of the servant girl will by no means be an heir with the son of the free woman.”
+
+[[v48-4-31]]
+
+^<<v48-4-31,31>>^ So, brothers, we are children, not of a servant girl, but of the free woman.
+
+'''
+
+xref:048-galatians/048-galatians-003.adoc#v48-3-0[&#60; Capítulo Anterior] | <<v48-4-0,Topo>> | xref:048-galatians/048-galatians-005.adoc#v48-5-0[Próximo Capítulo &#62;]

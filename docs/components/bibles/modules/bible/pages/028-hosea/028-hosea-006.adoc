@@ -1,0 +1,78 @@
+include::./index.adoc[]
+
+[[v28-6-0]]
+=== Hosea, 6
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v28-6-1]]
+
+^<<v28-6-1,1>>^ “Come, and let us return to Jehovah,
+For he has torn us to pieces, but he will heal us.
+He struck us, but he will bind our wounds.
+
+[[v28-6-2]]
+
+^<<v28-6-2,2>>^ He will revive us after two days.
+On the third day he will raise us up,
+And we will live before him.
+
+[[v28-6-3]]
+
+^<<v28-6-3,3>>^ We will know, we will earnestly seek to know Jehovah.
+His going out is as certain as the dawn;
+He will come to us like a pouring rain,
+Like a spring rain that saturates the earth.”
+
+[[v28-6-4]]
+
+^<<v28-6-4,4>>^ “What should I do with you, Eʹphra·im?
+What should I do with you, Judah?
+For your loyal love is like the morning clouds,
+Like the dew that quickly vanishes.
+
+[[v28-6-5]]
+
+^<<v28-6-5,5>>^ That is why I will cut them down by means of the prophets;
+I will kill them with the words of my mouth.
+And the judgments on you will shine as the light.
+
+[[v28-6-6]]
+
+^<<v28-6-6,6>>^ For in loyal love^&#42;1^ I delight, not in sacrifice,
+And in the knowledge of God, rather than in whole burnt offerings.
+
+[NOTE]
+====
+. Or “in mercy.”
+====
+
+[[v28-6-7]]
+
+^<<v28-6-7,7>>^ But they, like mere men, have violated the covenant.
+There they have betrayed me.
+
+[[v28-6-8]]
+
+^<<v28-6-8,8>>^ Gilʹe·ad is a town of evildoers,
+Covered with footprints of blood.
+
+[[v28-6-9]]
+
+^<<v28-6-9,9>>^ The company of priests are like marauder bands lying in ambush for a man.
+They murder on the road at Sheʹchem,
+For their conduct is shameful.
+
+[[v28-6-10]]
+
+^<<v28-6-10,10>>^ I have seen a horrible thing in the house of Israel.
+There Eʹphra·im practices prostitution;
+Israel has defiled itself.
+
+[[v28-6-11]]
+
+^<<v28-6-11,11>>^ Furthermore, O Judah, a harvest is set for you,
+When I gather back the captives of my people.”
+
+'''
+
+xref:028-hosea/028-hosea-005.adoc#v28-5-0[&#60; Capítulo Anterior] | <<v28-6-0,Topo>> | xref:028-hosea/028-hosea-007.adoc#v28-7-0[Próximo Capítulo &#62;]

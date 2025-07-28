@@ -1,0 +1,176 @@
+include::./index.adoc[]
+
+[[v5-5-0]]
+=== Deuteronomy, 5
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v5-5-1]]
+
+^<<v5-5-1,1>>^ Moses then summoned all Israel and said to them: “Hear, O Israel, the regulations and the judicial decisions that I am announcing to you today, and you must learn them and carefully observe them.
+
+[[v5-5-2]]
+
+^<<v5-5-2,2>>^ Jehovah our God made a covenant with us in Horʹeb.
+
+[[v5-5-3]]
+
+^<<v5-5-3,3>>^ It was not with our forefathers that Jehovah made this covenant, but with us, all of us alive here today.
+
+[[v5-5-4]]
+
+^<<v5-5-4,4>>^ Jehovah spoke face-to-face with you in the mountain, out of the fire.
+
+[[v5-5-5]]
+
+^<<v5-5-5,5>>^ I was standing between Jehovah and you at that time to convey to you the word of Jehovah, for you were afraid because of the fire and did not go up the mountain. He said:
+
+[[v5-5-6]]
+
+^<<v5-5-6,6>>^ “‘I am Jehovah your God, who brought you out of the land of Egypt, out of the house of slavery.
+
+[[v5-5-7]]
+
+^<<v5-5-7,7>>^ You must never have any other gods besides me.^&#42;1^
+
+[NOTE]
+====
+. Or “in defiance of me.” Lit., “against my face.”
+====
+
+[[v5-5-8]]
+
+^<<v5-5-8,8>>^ “‘You must not make for yourself a carved image or a form^&#42;1^ like anything that is in the heavens above or on the earth below or in the waters under the earth.
+
+[NOTE]
+====
+. Or “representation.”
+====
+
+[[v5-5-9]]
+
+^<<v5-5-9,9>>^ You must not bow down to them nor be led to serve them, for I, Jehovah your God, am a God who requires exclusive devotion, bringing punishment for the error of fathers upon sons, upon the third generation and upon the fourth generation of those who hate me,
+
+[[v5-5-10]]
+
+^<<v5-5-10,10>>^ but showing loyal love^&#42;1^ to the thousandth generation of those who love me and keep my commandments.
+
+[NOTE]
+====
+. Or “loving-kindness.”
+====
+
+[[v5-5-11]]
+
+^<<v5-5-11,11>>^ “‘You must not take up the name of Jehovah your God in a worthless way, for Jehovah will not leave anyone unpunished who takes up his name in a worthless way.
+
+[[v5-5-12]]
+
+^<<v5-5-12,12>>^ “‘Observe the Sabbath day to keep it sacred, just as Jehovah your God commanded you.
+
+[[v5-5-13]]
+
+^<<v5-5-13,13>>^ You are to labor and do all your work in six days,
+
+[[v5-5-14]]
+
+^<<v5-5-14,14>>^ but the seventh day is a sabbath to Jehovah your God. You must not do any work, neither you nor your son nor your daughter nor your slave man nor your slave girl nor your bull nor your donkey nor any of your domestic animals nor your foreign resident who is inside your cities,^&#42;1^ in order that your slave man and your slave girl may rest the same as you.
+
+[NOTE]
+====
+. Lit., “gates.”
+====
+
+[[v5-5-15]]
+
+^<<v5-5-15,15>>^ Remember that you became a slave in the land of Egypt and that Jehovah your God brought you out of there with a mighty hand and an outstretched arm. That is why Jehovah your God commanded you to observe the Sabbath day.
+
+[[v5-5-16]]
+
+^<<v5-5-16,16>>^ “‘Honor your father and your mother, just as Jehovah your God has commanded you, so that you may live a long time and you may prosper^&#42;1^ in the land that Jehovah your God is giving you.
+
+[NOTE]
+====
+. Or “and it may go well with you.”
+====
+
+[[v5-5-17]]
+
+^<<v5-5-17,17>>^ “‘You must not murder.
+
+[[v5-5-18]]
+
+^<<v5-5-18,18>>^ “‘Neither must you commit adultery.
+
+[[v5-5-19]]
+
+^<<v5-5-19,19>>^ “‘Neither must you steal.
+
+[[v5-5-20]]
+
+^<<v5-5-20,20>>^ “‘Neither must you testify to a falsehood against your fellow man.
+
+[[v5-5-21]]
+
+^<<v5-5-21,21>>^ “‘Neither must you desire your fellow man’s wife. Neither must you selfishly desire your fellow man’s house nor his field nor his slave man nor his slave girl nor his bull nor his donkey nor anything that belongs to your fellow man.’
+
+[[v5-5-22]]
+
+^<<v5-5-22,22>>^ “These commandments^&#42;1^ Jehovah spoke to all your congregation on the mountain, out of the fire, the cloud, and the thick gloom, with a loud voice, and he added nothing further; then he wrote them on two tablets of stone and gave them to me.
+
+[NOTE]
+====
+. Lit., “words.”
+====
+
+[[v5-5-23]]
+
+^<<v5-5-23,23>>^ “But as soon as you had heard the voice out of the darkness, while the mountain was burning with fire, all the heads of your tribes and the elders approached me.
+
+[[v5-5-24]]
+
+^<<v5-5-24,24>>^ Then you said, ‘Here Jehovah our God has shown us his glory and his greatness, and we have heard his voice out of the fire. Today we have seen that God can speak with man and he can keep living.
+
+[[v5-5-25]]
+
+^<<v5-5-25,25>>^ Now, why should we die? For this great fire may consume us. If we continue hearing the voice of Jehovah our God, we are sure to die.
+
+[[v5-5-26]]
+
+^<<v5-5-26,26>>^ For who is there of all flesh^&#42;1^ who has heard the voice of the living God speaking out of the fire as we did and yet goes on living?
+
+[NOTE]
+====
+. Or “all mankind.”
+====
+
+[[v5-5-27]]
+
+^<<v5-5-27,27>>^ You yourself must go near to hear all that Jehovah our God will say, and you will be the one to tell us all that Jehovah our God says to you, and we will listen and do it.’
+
+[[v5-5-28]]
+
+^<<v5-5-28,28>>^ “So Jehovah heard the words you spoke to me, and Jehovah said to me, ‘I have heard the words that this people have spoken to you. All they have said is good.
+
+[[v5-5-29]]
+
+^<<v5-5-29,29>>^ If only they would always have a heart inclined to fear me and to keep all my commandments; then it would go well with them and their sons forever!
+
+[[v5-5-30]]
+
+^<<v5-5-30,30>>^ Go say to them: “Return to your tents.”
+
+[[v5-5-31]]
+
+^<<v5-5-31,31>>^ But you should stay here with me, and let me tell you all the commandments, the regulations, and the judicial decisions that you should teach to them and that they are to observe in the land that I am giving them to take possession of.’
+
+[[v5-5-32]]
+
+^<<v5-5-32,32>>^ Now you people should be careful to do just as Jehovah your God has commanded you. You must not turn to the right or to the left.
+
+[[v5-5-33]]
+
+^<<v5-5-33,33>>^ You should walk in all the way that Jehovah your God has commanded you, in order that you may live and prosper and prolong your days in the land that you will take possession of.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-004.adoc#v5-4-0[&#60; Capítulo Anterior] | <<v5-5-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-006.adoc#v5-6-0[Próximo Capítulo &#62;]

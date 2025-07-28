@@ -1,0 +1,128 @@
+include::./index.adoc[]
+
+[[v5-16-0]]
+=== Deuteronomy, 16
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v5-16-1]]
+
+^<<v5-16-1,1>>^ “Observe the month of Aʹbib,^&#42;1^ and celebrate the Passover to Jehovah your God, for in the month of Aʹbib, Jehovah your God brought you out of Egypt by night.
+
+[NOTE]
+====
+. See App. B15.
+====
+
+[[v5-16-2]]
+
+^<<v5-16-2,2>>^ And you should sacrifice the Passover offering to Jehovah your God, from the flock and the herd, in the place that Jehovah chooses to have his name reside.
+
+[[v5-16-3]]
+
+^<<v5-16-3,3>>^ You must not eat anything leavened along with it; for seven days you should eat unleavened bread, the bread of affliction, because you came out of the land of Egypt in haste. Do this so that you may remember the day you came out of the land of Egypt as long as you live.
+
+[[v5-16-4]]
+
+^<<v5-16-4,4>>^ No sourdough should be found with you in all your territory for seven days, nor should any of the meat that you will sacrifice in the evening on the first day remain all night until the next morning.
+
+[[v5-16-5]]
+
+^<<v5-16-5,5>>^ You will not be allowed to sacrifice the Passover offering in just any of the cities that Jehovah your God is giving you.
+
+[[v5-16-6]]
+
+^<<v5-16-6,6>>^ But it should be done at the place that Jehovah your God chooses to have his name reside. You should sacrifice the Passover offering in the evening as soon as the sun sets, at the appointed time of your coming out of Egypt.
+
+[[v5-16-7]]
+
+^<<v5-16-7,7>>^ You must cook it and eat it in the place that Jehovah your God will choose, and in the morning you may return to your own tents.
+
+[[v5-16-8]]
+
+^<<v5-16-8,8>>^ Six days you should eat unleavened bread, and on the seventh day there will be a solemn assembly to Jehovah your God. You must do no work.
+
+[[v5-16-9]]
+
+^<<v5-16-9,9>>^ “You should count off seven weeks. You should begin counting off seven weeks from the time you first put the sickle to the standing grain.
+
+[[v5-16-10]]
+
+^<<v5-16-10,10>>^ Then you are to celebrate the Festival of Weeks to Jehovah your God with the voluntary offering from your hand, given in proportion to how Jehovah your God blesses you.
+
+[[v5-16-11]]
+
+^<<v5-16-11,11>>^ And you are to rejoice before Jehovah your God, you and your son, your daughter, your male slave, your female slave, the Levite who is inside your cities,^&#42;1^ the foreign resident, the fatherless child,^&#42;2^ and the widow, who are in your midst, in the place that Jehovah your God chooses to have his name reside.
+
+[NOTE]
+====
+. Lit., “gates.”
+. Or “the orphan.”
+====
+
+[[v5-16-12]]
+
+^<<v5-16-12,12>>^ Remember that you became a slave in Egypt, and observe and carry out these regulations.
+
+[[v5-16-13]]
+
+^<<v5-16-13,13>>^ “You should celebrate the Festival of Booths^&#42;1^ for seven days when you make an ingathering from your threshing floor and from your press for oil and wine.
+
+[NOTE]
+====
+. Or “Temporary Shelters.”
+====
+
+[[v5-16-14]]
+
+^<<v5-16-14,14>>^ Rejoice during your festival, you and your son, your daughter, your male slave, your female slave, the Levite, the foreign resident, the fatherless child, and the widow, who are inside your cities.
+
+[[v5-16-15]]
+
+^<<v5-16-15,15>>^ Seven days you will celebrate the festival to Jehovah your God in the place that Jehovah chooses, for Jehovah your God will bless all your produce and all that you do, and you will become nothing but joyful.
+
+[[v5-16-16]]
+
+^<<v5-16-16,16>>^ “Three times a year, all your males should appear before Jehovah your God in the place that he chooses: at the Festival of Unleavened Bread, the Festival of Weeks, and the Festival of Booths,^&#42;1^ and none of them should appear before Jehovah empty-handed.
+
+[NOTE]
+====
+. Or “Temporary Shelters.”
+====
+
+[[v5-16-17]]
+
+^<<v5-16-17,17>>^ The gift that each one brings should be in proportion to the blessing that Jehovah your God has given you.
+
+[[v5-16-18]]
+
+^<<v5-16-18,18>>^ “You should appoint judges and officers for each tribe in all the cities^&#42;1^ that Jehovah your God is giving you, and they must judge the people with righteous judgment.
+
+[NOTE]
+====
+. Lit., “inside all your gates.”
+====
+
+[[v5-16-19]]
+
+^<<v5-16-19,19>>^ You must not pervert justice, show partiality, or accept a bribe, for the bribe blinds the eyes of the wise and distorts the words of the righteous.
+
+[[v5-16-20]]
+
+^<<v5-16-20,20>>^ Justice—justice you should pursue, so that you may keep living and take possession of the land that Jehovah your God is giving you.
+
+[[v5-16-21]]
+
+^<<v5-16-21,21>>^ “You should not plant any sort of tree as a sacred pole^&#42;1^ near the altar of Jehovah your God that you make for yourself.
+
+[NOTE]
+====
+. See Glossary.
+====
+
+[[v5-16-22]]
+
+^<<v5-16-22,22>>^ “Neither should you set up a sacred pillar for yourself, something Jehovah your God hates.
+
+'''
+
+xref:005-deuteronomy/005-deuteronomy-015.adoc#v5-15-0[&#60; Capítulo Anterior] | <<v5-16-0,Topo>> | xref:005-deuteronomy/005-deuteronomy-017.adoc#v5-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v15-1-0]]
+=== Ezra, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v15-1-1]]
+
+^<<v15-1-1,1>>^ In the first year of King Cyrus of Persia, in order that Jehovah’s word spoken by Jeremiah would be fulfilled, Jehovah stirred the spirit of King Cyrus of Persia to make a proclamation throughout his kingdom, which he also put in writing, saying:
+
+[[v15-1-2]]
+
+^<<v15-1-2,2>>^ “This is what King Cyrus of Persia says, ‘Jehovah the God of the heavens has given me all the kingdoms of the earth, and he has commissioned me to build him a house in Jerusalem, which is in Judah.
+
+[[v15-1-3]]
+
+^<<v15-1-3,3>>^ Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of Jehovah the God of Israel—he is the true God—whose house was in Jerusalem.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “who is in Jerusalem.”
+====
+
+[[v15-1-4]]
+
+^<<v15-1-4,4>>^ Anyone who is residing as a foreigner, wherever he may be, let him be helped by his neighbors^&#42;1^ by their giving him silver and gold, goods and livestock, along with the voluntary offering for the house of the true God, which was in Jerusalem.’”
+
+[NOTE]
+====
+. Lit., “the men of his place.”
+====
+
+[[v15-1-5]]
+
+^<<v15-1-5,5>>^ Then the heads of the paternal houses of Judah and of Benjamin and the priests and the Levites—everyone whose spirit the true God had stirred—prepared to go up and rebuild the house of Jehovah, which was in Jerusalem.
+
+[[v15-1-6]]
+
+^<<v15-1-6,6>>^ All those around them supported them by giving them^&#42;1^ utensils of silver and of gold, goods, livestock, and valuable things, besides all the voluntary offerings.
+
+[NOTE]
+====
+. Lit., “strengthened their hands with.”
+====
+
+[[v15-1-7]]
+
+^<<v15-1-7,7>>^ King Cyrus also brought out the utensils of the house of Jehovah that Neb·u·chad·nezʹzar had taken from Jerusalem and had put in the house of his god.
+
+[[v15-1-8]]
+
+^<<v15-1-8,8>>^ King Cyrus of Persia brought them out under the supervision of Mithʹre·dath the treasurer, who made an inventory of them for Shesh·bazʹzar^&#42;1^ the chieftain of Judah.
+
+[NOTE]
+====
+. Possibly Zerubbabel at Ezr 2:2; 3:8.
+====
+
+[[v15-1-9]]
+
+^<<v15-1-9,9>>^ Now this was the inventory: 30 basket-shaped vessels of gold, 1,000 basket-shaped vessels of silver, 29 replacement vessels,
+
+[[v15-1-10]]
+
+^<<v15-1-10,10>>^ 30 small gold bowls, 410 small silver bowls, 1,000 other utensils.
+
+[[v15-1-11]]
+
+^<<v15-1-11,11>>^ All the utensils of gold and of silver were 5,400. Shesh·bazʹzar brought all of these up when the exiles were brought out of Babylon to Jerusalem.
+
+'''
+
+xref:014-2-chronicles/014-2-chronicles-036.adoc#v14-36-0[&#60; Capítulo Anterior] | <<v15-1-0,Topo>> | xref:015-ezra/015-ezra-002.adoc#v15-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v22-1-0]]
+=== The Song of Solomon, 1
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v22-1-1]]
+
+^<<v22-1-1,1>>^ The song of songs,^&#42;1^ which is Solʹo·mon’s:
+
+[NOTE]
+====
+. Or “The superlative song.”
+====
+
+[[v22-1-2]]
+
+^<<v22-1-2,2>>^ “May he kiss me with the kisses of his mouth,
+For your expressions of affection are better than wine.
+
+[[v22-1-3]]
+
+^<<v22-1-3,3>>^ The fragrance of your oils is pleasant.
+Your name is like a fragrant oil poured out.
+That is why the young women love you.
+
+[[v22-1-4]]
+
+^<<v22-1-4,4>>^ Take me with you;^&#42;1^ let us run.
+The king has brought me into his interior rooms!
+Let us be joyful and rejoice in you.
+Let us praise^&#42;2^ your expressions of affection more than wine.
+Rightly they^&#42;3^ love you.
+
+[NOTE]
+====
+. Lit., “Draw me after you.”
+. Or “recount.”
+. That is, the young women.
+====
+
+[[v22-1-5]]
+
+^<<v22-1-5,5>>^ I am dark,^&#42;1^ but lovely, O daughters of Jerusalem,
+Like the tents of Keʹdar, like the tent cloths of Solʹo·mon.
+
+[NOTE]
+====
+. Lit., “black.”
+====
+
+[[v22-1-6]]
+
+^<<v22-1-6,6>>^ Do not stare at me because I am swarthy,
+Because the sun has gazed upon me.
+The sons of my mother were angry with me;
+They appointed me the keeper of the vineyards,
+But my own vineyard I did not keep.
+
+[[v22-1-7]]
+
+^<<v22-1-7,7>>^ Tell me, you whom I love^&#42;1^ so much,
+Where you pasture your flock,
+Where you have them lie down at midday.
+Why should I be like a woman wrapped in a veil^&#42;2^
+Among the flocks of your companions?”
+
+[NOTE]
+====
+. Or “my soul loves.”
+. Or “a veil of mourning.”
+====
+
+[[v22-1-8]]
+
+^<<v22-1-8,8>>^ “If you do not know, O most beautiful of women,
+Go follow the tracks of the flock
+And pasture your young goats next to the tents of the shepherds.”
+
+[[v22-1-9]]
+
+^<<v22-1-9,9>>^ “I liken you, my beloved, to a^&#42;1^ mare among the chariots of Pharʹaoh.
+
+[NOTE]
+====
+. Or “my.”
+====
+
+[[v22-1-10]]
+
+^<<v22-1-10,10>>^ Your cheeks are lovely with ornaments,^&#42;1^
+Your neck with strings of beads.
+
+[NOTE]
+====
+. Or possibly, “among the braids of hair.”
+====
+
+[[v22-1-11]]
+
+^<<v22-1-11,11>>^ We will make for you gold ornaments^&#42;1^
+Studded with silver.”
+
+[NOTE]
+====
+. Or “circlets.”
+====
+
+[[v22-1-12]]
+
+^<<v22-1-12,12>>^ “While the king sits at his round table,
+My perfume^&#42;1^ gives off its fragrance.
+
+[NOTE]
+====
+. Lit., “spikenard.”
+====
+
+[[v22-1-13]]
+
+^<<v22-1-13,13>>^ My dear one is to me like a fragrant bag of myrrh
+Spending the night between my breasts.
+
+[[v22-1-14]]
+
+^<<v22-1-14,14>>^ My dear one is to me like a cluster of henna
+Among the vineyards of En-gedʹi.”
+
+[[v22-1-15]]
+
+^<<v22-1-15,15>>^ “Look! You are beautiful, my beloved.
+Look! You are beautiful. Your eyes are those of doves.”
+
+[[v22-1-16]]
+
+^<<v22-1-16,16>>^ “Look! You are beautiful,^&#42;1^ my dear one, and delightful.
+Our bed is among the foliage.
+
+[NOTE]
+====
+. Or “handsome.”
+====
+
+[[v22-1-17]]
+
+^<<v22-1-17,17>>^ The beams of our house^&#42;1^ are cedars,
+Our rafters are juniper trees.
+
+[NOTE]
+====
+. Or “grand house.”
+====
+
+'''
+
+xref:021-ecclesiastes/021-ecclesiastes-012.adoc#v21-12-0[&#60; Capítulo Anterior] | <<v22-1-0,Topo>> | xref:022-song-of-solomon/022-song-of-solomon-002.adoc#v22-2-0[Próximo Capítulo &#62;]

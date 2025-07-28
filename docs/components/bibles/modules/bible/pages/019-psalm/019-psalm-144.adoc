@@ -1,0 +1,126 @@
+include::./index.adoc[]
+
+[[v19-144-0]]
+=== Psalm, 144
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+_Of David._
+
+[[v19-144-1]]
+
+^<<v19-144-1,1>>^ May Jehovah, my Rock, be praised,
+Who trains my hands for battle,
+My fingers for warfare.
+
+[[v19-144-2]]
+
+^<<v19-144-2,2>>^ He is my loyal love and my stronghold,
+My secure refuge^&#42;1^ and my rescuer,
+My shield and the One in whom I have taken shelter,
+The One subduing peoples under me.
+
+[NOTE]
+====
+. Or “secure height.”
+====
+
+[[v19-144-3]]
+
+^<<v19-144-3,3>>^ O Jehovah, what is man that you should notice him,
+The son of mortal man that you should pay attention to him?
+
+[[v19-144-4]]
+
+^<<v19-144-4,4>>^ Man resembles a mere breath;
+His days are like a passing shadow.
+
+[[v19-144-5]]
+
+^<<v19-144-5,5>>^ O Jehovah, lower^&#42;1^ your heavens and descend;
+Touch the mountains and make them smoke.
+
+[NOTE]
+====
+. Or “bend.”
+====
+
+[[v19-144-6]]
+
+^<<v19-144-6,6>>^ Make lightning flash and scatter the enemy;
+Shoot your arrows and throw them into confusion.
+
+[[v19-144-7]]
+
+^<<v19-144-7,7>>^ Stretch out your hands from above;
+Rescue me and save me from the surging waters,
+From the hand^&#42;1^ of the foreigners,
+
+[NOTE]
+====
+. Or “grip.”
+====
+
+[[v19-144-8]]
+
+^<<v19-144-8,8>>^ Whose mouths speak lies
+And who raise their right hand to swear to what is false.^&#42;1^
+
+[NOTE]
+====
+. Lit., “And their right hand is a right hand of falsehood.”
+====
+
+[[v19-144-9]]
+
+^<<v19-144-9,9>>^ O God, I will sing to you a new song.
+I will sing praises^&#42;1^ to you, accompanied by a ten-stringed instrument,
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-144-10]]
+
+^<<v19-144-10,10>>^ To the One who gives victory^&#42;1^ to kings,
+The One rescuing his servant David from the deadly sword.
+
+[NOTE]
+====
+. Or “salvation.”
+====
+
+[[v19-144-11]]
+
+^<<v19-144-11,11>>^ Rescue me and save me from the hand of the foreigners,
+Whose mouths speak lies
+And who raise their right hand to swear to what is false.
+
+[[v19-144-12]]
+
+^<<v19-144-12,12>>^ Then our sons will be like young plants that grow up quickly,
+Our daughters like corner pillars carved for a palace.
+
+[[v19-144-13]]
+
+^<<v19-144-13,13>>^ Our storehouses will overflow with every kind of produce;
+Our flocks in our fields will multiply by the thousands, by the tens of thousands.
+
+[[v19-144-14]]
+
+^<<v19-144-14,14>>^ Our cattle, heavy with young, will suffer no mishap^&#42;1^ or miscarriage;
+There will be no cry of distress in our public squares.
+
+[NOTE]
+====
+. Or “rupture.”
+====
+
+[[v19-144-15]]
+
+^<<v19-144-15,15>>^ Happy is the people for whom it is this way!
+Happy is the people whose God is Jehovah!
+
+'''
+
+xref:019-psalm/019-psalm-143.adoc#v19-143-0[&#60; Capítulo Anterior] | <<v19-144-0,Topo>> | xref:019-psalm/019-psalm-145.adoc#v19-145-0[Próximo Capítulo &#62;]

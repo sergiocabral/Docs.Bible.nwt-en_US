@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v26-33-0]]
+=== Ezekiel, 33
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v26-33-1]]
+
+^<<v26-33-1,1>>^ And the word of Jehovah came to me, saying:
+
+[[v26-33-2]]
+
+^<<v26-33-2,2>>^ “Son of man, speak to the sons of your people, and say to them,
+“‘Suppose that I bring a sword upon a land, and all the people of that land take a man and make him their watchman,
+
+[[v26-33-3]]
+
+^<<v26-33-3,3>>^ and he sees the sword coming upon the land and blows the horn and warns the people.
+
+[[v26-33-4]]
+
+^<<v26-33-4,4>>^ If someone hears the sound of the horn but does not heed the warning and a sword comes and takes his life,^&#42;1^ his blood will be on his own head.
+
+[NOTE]
+====
+. Lit., “takes him away.”
+====
+
+[[v26-33-5]]
+
+^<<v26-33-5,5>>^ He heard the sound of the horn, but he did not heed the warning. His blood will be upon himself. If he had heeded the warning, his life^&#42;1^ would have been saved.
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v26-33-6]]
+
+^<<v26-33-6,6>>^ “‘But if the watchman sees the sword coming and he does not blow the horn and the people receive no warning and a sword comes and takes the life^&#42;1^ of one of them, that person will die for his own error, but I will ask his blood back from the watchman.’^&#42;2^
+
+[NOTE]
+====
+. Or “soul.”
+. Or “I will hold the watchman accountable for his blood.”
+====
+
+[[v26-33-7]]
+
+^<<v26-33-7,7>>^ “As for you, son of man, I have appointed you as a watchman to the house of Israel; and when you hear a word from my mouth you must warn them from me.
+
+[[v26-33-8]]
+
+^<<v26-33-8,8>>^ When I say to someone wicked, ‘Wicked one, you will surely die!’ but you do not speak out to warn the wicked one to change his course, he will die as a wicked man because of his own error, but I will ask his blood back from you.
+
+[[v26-33-9]]
+
+^<<v26-33-9,9>>^ But if you warn someone wicked to turn back from his way and he refuses to change his course, he will die for his error, but you will certainly save your own life.^&#42;1^
+
+[NOTE]
+====
+. Or “soul.”
+====
+
+[[v26-33-10]]
+
+^<<v26-33-10,10>>^ “And you, son of man, say to the house of Israel, ‘You have said: “Our revolts and our sins weigh heavily upon us, causing us to waste away; so how will we keep living?”’
+
+[[v26-33-11]]
+
+^<<v26-33-11,11>>^ Tell them, ‘“As surely as I am alive,” declares the Sovereign Lord Jehovah, “I take no pleasure in the death of the wicked, but rather that someone wicked changes his way and keeps living. Turn back, turn back from your bad ways, for why should you die, O house of Israel?”’
+
+[[v26-33-12]]
+
+^<<v26-33-12,12>>^ “And you, son of man, tell the sons of your people, ‘The righteousness of the righteous man will not save him when he revolts; nor will the wickedness of the wicked man make him stumble when he turns away from his wickedness; nor will anyone righteous be able to keep living because of his righteousness in the day that he sins.
+
+[[v26-33-13]]
+
+^<<v26-33-13,13>>^ When I say to the righteous one: “You will surely keep living,” and he trusts in his own righteousness and does what is wrong,^&#42;1^ none of his righteous acts will be remembered, but he will die for the wrong that he has done.
+
+[NOTE]
+====
+. Or “does injustice.”
+====
+
+[[v26-33-14]]
+
+^<<v26-33-14,14>>^ “‘And when I say to the wicked one: “You will surely die,” and he turns away from his sin and does what is just and righteous,
+
+[[v26-33-15]]
+
+^<<v26-33-15,15>>^ and the wicked one returns what was taken in pledge and pays back what was taken by robbery, and he walks in the statutes of life by not doing what is wrong, he will surely keep living. He will not die.
+
+[[v26-33-16]]
+
+^<<v26-33-16,16>>^ None of the sins he committed will be held^&#42;1^ against him. For doing what is just and righteous, he will surely keep living.’
+
+[NOTE]
+====
+. Lit., “remembered.”
+====
+
+[[v26-33-17]]
+
+^<<v26-33-17,17>>^ “But your people have said, ‘The way of Jehovah is unjust,’ when it is actually their way that is unjust.
+
+[[v26-33-18]]
+
+^<<v26-33-18,18>>^ “When someone righteous abandons his righteousness and does what is wrong, he must die for it.
+
+[[v26-33-19]]
+
+^<<v26-33-19,19>>^ But when someone wicked turns away from his wickedness and does what is just and righteous, he will keep living for doing so.
+
+[[v26-33-20]]
+
+^<<v26-33-20,20>>^ “But you have said, ‘The way of Jehovah is unjust.’ I will judge each of you according to his ways, O house of Israel.”
+
+[[v26-33-21]]
+
+^<<v26-33-21,21>>^ At length in the 12th year, in the tenth month, on the fifth day of the month of our exile, a man who had escaped from Jerusalem came to me and said: “The city has been struck down!”
+
+[[v26-33-22]]
+
+^<<v26-33-22,22>>^ Now the evening before the escaped man came, the hand of Jehovah had come upon me, and he had opened my mouth before the man came to me in the morning. So my mouth was opened, and I was no longer speechless.
+
+[[v26-33-23]]
+
+^<<v26-33-23,23>>^ Then the word of Jehovah came to me, saying:
+
+[[v26-33-24]]
+
+^<<v26-33-24,24>>^ “Son of man, the inhabitants of these ruins are saying concerning the land of Israel, ‘Abraham was just one man, and yet he took possession of the land. But we are many; surely the land has been given to us as a possession.’
+
+[[v26-33-25]]
+
+^<<v26-33-25,25>>^ “Therefore say to them, ‘This is what the Sovereign Lord Jehovah says: “You are eating food with the blood, and you lift up your eyes to your disgusting idols,^&#42;1^ and you keep shedding blood. So why should you possess the land?
+
+[NOTE]
+====
+. The Hebrew term may be related to a word for “dung” and is used as an expression of contempt.
+====
+
+[[v26-33-26]]
+
+^<<v26-33-26,26>>^ You have relied on your sword, you engage in detestable practices, and each of you has defiled his neighbor’s wife. So why should you possess the land?”’
+
+[[v26-33-27]]
+
+^<<v26-33-27,27>>^ “This is what you should say to them, ‘This is what the Sovereign Lord Jehovah says: “As surely as I am alive, those living in the ruins will fall by the sword; those in the open field, I will give as food to the wild beasts; and those in the strongholds and the caves will die by disease.
+
+[[v26-33-28]]
+
+^<<v26-33-28,28>>^ I will make the land an utterly desolate wasteland, and its arrogant pride will be brought to an end, and the mountains of Israel will be desolated, with no one passing through.
+
+[[v26-33-29]]
+
+^<<v26-33-29,29>>^ And they will have to know that I am Jehovah when I make the land an utterly desolate wasteland because of all the detestable things that they have done.”’
+
+[[v26-33-30]]
+
+^<<v26-33-30,30>>^ “As for you, son of man, your people are speaking with one another about you beside the walls and in the doorways of the houses. They are saying to each other, each to his brother, ‘Come, and let us hear the word that comes from Jehovah.’
+
+[[v26-33-31]]
+
+^<<v26-33-31,31>>^ They will crowd in to sit before you as my people; and they will hear your words, but they will not do them. For with their mouth they flatter you,^&#42;1^ but their heart is greedy for dishonest gain.
+
+[NOTE]
+====
+. Or “they speak lustfully.”
+====
+
+[[v26-33-32]]
+
+^<<v26-33-32,32>>^ Look! You are to them like a romantic love song, sung with a beautiful voice and skillfully played on a stringed instrument. They will hear your words, but no one will act on them.
+
+[[v26-33-33]]
+
+^<<v26-33-33,33>>^ And when it comes true—and it will come true—they will have to know that a prophet has been among them.”
+
+'''
+
+xref:026-ezekiel/026-ezekiel-032.adoc#v26-32-0[&#60; Capítulo Anterior] | <<v26-33-0,Topo>> | xref:026-ezekiel/026-ezekiel-034.adoc#v26-34-0[Próximo Capítulo &#62;]

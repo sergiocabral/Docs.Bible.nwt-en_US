@@ -1,0 +1,79 @@
+include::./index.adoc[]
+
+[[v19-99-0]]
+=== Psalm, 99
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-99-1]]
+
+^<<v19-99-1,1>>^ Jehovah has become King. Let the peoples tremble.
+He sits enthroned above^&#42;1^ the cherubs. Let the earth shake.
+
+[NOTE]
+====
+. Or possibly, “between.”
+====
+
+[[v19-99-2]]
+
+^<<v19-99-2,2>>^ Jehovah is great in Zion,
+And he is high over all the peoples.
+
+[[v19-99-3]]
+
+^<<v19-99-3,3>>^ Let them praise your great name,
+For it is awe-inspiring and holy.
+
+[[v19-99-4]]
+
+^<<v19-99-4,4>>^ He is a mighty king who loves justice.
+You have firmly established what is upright.
+You have brought about justice and righteousness in Jacob.
+
+[[v19-99-5]]
+
+^<<v19-99-5,5>>^ Exalt Jehovah our God and bow down^&#42;1^ at his footstool;
+He is holy.
+
+[NOTE]
+====
+. Or “worship.”
+====
+
+[[v19-99-6]]
+
+^<<v19-99-6,6>>^ Moses and Aaron were among his priests,
+And Samuel was among those calling on his name.
+They would call to Jehovah,
+And he would answer them.
+
+[[v19-99-7]]
+
+^<<v19-99-7,7>>^ He would speak to them from the pillar of cloud.
+They kept his reminders and the decree that he gave to them.
+
+[[v19-99-8]]
+
+^<<v19-99-8,8>>^ O Jehovah our God, you answered them.
+You were a God who pardoned them,
+But you punished^&#42;1^ them for their sinful deeds.
+
+[NOTE]
+====
+. Lit., “executed vengeance against.”
+====
+
+[[v19-99-9]]
+
+^<<v19-99-9,9>>^ Exalt Jehovah our God
+And bow down^&#42;1^ before his holy mountain,
+For Jehovah our God is holy.
+
+[NOTE]
+====
+. Or “worship.”
+====
+
+'''
+
+xref:019-psalm/019-psalm-098.adoc#v19-98-0[&#60; Capítulo Anterior] | <<v19-99-0,Topo>> | xref:019-psalm/019-psalm-100.adoc#v19-100-0[Próximo Capítulo &#62;]

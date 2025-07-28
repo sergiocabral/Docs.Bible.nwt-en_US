@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v18-35-0]]
+=== Job, 35
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v18-35-1]]
+
+^<<v18-35-1,1>>^ E·liʹhu continued his response:
+
+[[v18-35-2]]
+
+^<<v18-35-2,2>>^ “Are you so convinced that you are right that you would say,
+‘I am more righteous than God’?
+
+[[v18-35-3]]
+
+^<<v18-35-3,3>>^ For you say, ‘What does it matter to you?^&#42;1^
+Am I better off than if I had sinned?’
+
+[NOTE]
+====
+. Likely referring to God.
+====
+
+[[v18-35-4]]
+
+^<<v18-35-4,4>>^ I will reply to you
+And to your companions with you.
+
+[[v18-35-5]]
+
+^<<v18-35-5,5>>^ Look up to heaven and see,
+Observe the clouds, which are high above you.
+
+[[v18-35-6]]
+
+^<<v18-35-6,6>>^ If you sin, how do you hurt him?
+If your transgressions multiply, what do you do to him?
+
+[[v18-35-7]]
+
+^<<v18-35-7,7>>^ If you are righteous, what do you give him;
+What does he receive from you?
+
+[[v18-35-8]]
+
+^<<v18-35-8,8>>^ Your wickedness affects only a human like yourself,
+And your righteousness, a son of man.
+
+[[v18-35-9]]
+
+^<<v18-35-9,9>>^ People cry out when under great oppression;
+They cry for relief from the domination^&#42;1^ of the powerful.
+
+[NOTE]
+====
+. Lit., “arm.”
+====
+
+[[v18-35-10]]
+
+^<<v18-35-10,10>>^ But no one says, ‘Where is God, my Grand Maker,
+The one causing songs to be sung in the night?’
+
+[[v18-35-11]]
+
+^<<v18-35-11,11>>^ He teaches us more than the beasts of the earth,
+And he makes us wiser than the birds of the heavens.
+
+[[v18-35-12]]
+
+^<<v18-35-12,12>>^ People cry out, but he does not answer,
+Because of the pride of the wicked.
+
+[[v18-35-13]]
+
+^<<v18-35-13,13>>^ Surely God does not hear an empty cry;^&#42;1^
+The Almighty does not pay attention to it.
+
+[NOTE]
+====
+. Or “a lie.”
+====
+
+[[v18-35-14]]
+
+^<<v18-35-14,14>>^ How much less, then, when you complain that you do not see him!
+Your legal case is before him, so you should wait anxiously for him.
+
+[[v18-35-15]]
+
+^<<v18-35-15,15>>^ For he has not angrily called for an accounting;
+Nor has he taken note of your extreme rashness.
+
+[[v18-35-16]]
+
+^<<v18-35-16,16>>^ Job opens his mouth wide in vain;
+He multiplies words without knowledge.”
+
+'''
+
+xref:018-job/018-job-034.adoc#v18-34-0[&#60; Capítulo Anterior] | <<v18-35-0,Topo>> | xref:018-job/018-job-036.adoc#v18-36-0[Próximo Capítulo &#62;]

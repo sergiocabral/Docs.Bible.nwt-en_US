@@ -1,0 +1,170 @@
+include::./index.adoc[]
+
+[[v23-13-0]]
+=== Isaiah, 13
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v23-13-1]]
+
+^<<v23-13-1,1>>^ A pronouncement against Babylon that Isaiah the son of Aʹmoz saw in vision:
+
+[[v23-13-2]]
+
+^<<v23-13-2,2>>^ “Raise up a signal^&#42;1^ on a mountain of bare rocks.
+Call out to them, wave your hand,
+So that they may come into the entrances of the nobles.
+
+[NOTE]
+====
+. Or “signal pole.”
+====
+
+[[v23-13-3]]
+
+^<<v23-13-3,3>>^ I have issued the command to those whom I have appointed.^&#42;1^
+I have summoned my warriors to express my anger,
+My proudly exultant ones.
+
+[NOTE]
+====
+. Lit., “to my sanctified ones.”
+====
+
+[[v23-13-4]]
+
+^<<v23-13-4,4>>^ Listen! A crowd in the mountains;
+It sounds like a numerous people!
+Listen! The uproar of kingdoms,
+Of nations gathered together!
+Jehovah of armies is mustering the army for war.
+
+[[v23-13-5]]
+
+^<<v23-13-5,5>>^ They are coming from a distant land,
+From the extremity of the heavens,
+Jehovah and the weapons of his wrath,
+To bring ruin to all the earth.
+
+[[v23-13-6]]
+
+^<<v23-13-6,6>>^ Wail, for the day of Jehovah is near!
+It will come as a destruction from the Almighty.
+
+[[v23-13-7]]
+
+^<<v23-13-7,7>>^ That is why all hands will go limp,
+And every man’s heart will melt with fear.
+
+[[v23-13-8]]
+
+^<<v23-13-8,8>>^ The people are panic-stricken.
+They are seized with convulsions and pain,
+Like a woman in labor.
+They look at one another in horror,
+With faces inflamed by anguish.
+
+[[v23-13-9]]
+
+^<<v23-13-9,9>>^ Look! The day of Jehovah is coming,
+Cruel both with fury and with burning anger,
+To make the land an object of horror,
+And to annihilate the land’s sinners from it.
+
+[[v23-13-10]]
+
+^<<v23-13-10,10>>^ For the stars of the heavens and their constellations^&#42;1^
+Will not give off their light;
+The sun will be dark when it rises,
+And the moon will not shed its light.
+
+[NOTE]
+====
+. Lit., “and their Kesils,” perhaps referring to Orion and surrounding constellations.
+====
+
+[[v23-13-11]]
+
+^<<v23-13-11,11>>^ I will call the inhabited earth to account for its badness,
+And the wicked for their error.
+I will put an end to the pride of the presumptuous,
+And I will humble the haughtiness of tyrants.
+
+[[v23-13-12]]
+
+^<<v23-13-12,12>>^ I will make mortal man scarcer than refined gold,
+And humans scarcer than the gold of Oʹphir.
+
+[[v23-13-13]]
+
+^<<v23-13-13,13>>^ That is why I will make the heavens tremble,
+And the earth will be shaken out of its place
+At the fury of Jehovah of armies in the day of his burning anger.
+
+[[v23-13-14]]
+
+^<<v23-13-14,14>>^ Like a hunted gazelle and like a flock with no one to gather them,
+Each will return to his own people;
+Each will flee to his own land.
+
+[[v23-13-15]]
+
+^<<v23-13-15,15>>^ Whoever is found will be pierced through,
+And whoever is caught will fall by the sword.
+
+[[v23-13-16]]
+
+^<<v23-13-16,16>>^ Their children will be dashed to pieces before their eyes,
+Their houses will be looted,
+And their wives will be raped.
+
+[[v23-13-17]]
+
+^<<v23-13-17,17>>^ Here I am raising up against them the Medes,
+Who regard silver as nothing
+And who take no delight in gold.
+
+[[v23-13-18]]
+
+^<<v23-13-18,18>>^ Their bows will shatter young men;
+They will show no pity on the fruit of the womb
+Nor mercy to children.
+
+[[v23-13-19]]
+
+^<<v23-13-19,19>>^ And Babylon, the most glorious^&#42;1^ of kingdoms,
+The beauty and the pride of the Chal·deʹans,
+Will be like Sodʹom and Go·morʹrah when God overthrew them.
+
+[NOTE]
+====
+. Or “the decoration.”
+====
+
+[[v23-13-20]]
+
+^<<v23-13-20,20>>^ She will never be inhabited,
+Nor will she be a place to reside in throughout all generations.
+No Arab will pitch his tent there,
+And no shepherds will rest their flocks there.
+
+[[v23-13-21]]
+
+^<<v23-13-21,21>>^ The desert creatures will lie down there;
+Their houses will be filled with eagle owls.
+The ostriches will reside there,
+And wild goats^&#42;1^ will skip about there.
+
+[NOTE]
+====
+. Or possibly, “And goatlike demons.”
+====
+
+[[v23-13-22]]
+
+^<<v23-13-22,22>>^ Howling creatures will cry out in her towers,
+And jackals in her luxurious palaces.
+Her time is near, and her days will not be prolonged.”
+
+'''
+
+xref:023-isaiah/023-isaiah-012.adoc#v23-12-0[&#60; Capítulo Anterior] | <<v23-13-0,Topo>> | xref:023-isaiah/023-isaiah-014.adoc#v23-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v19-146-0]]
+=== Psalm, 146
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v19-146-1]]
+
+^<<v19-146-1,1>>^ Praise Jah!^&#42;1^
+Let my whole being^&#42;2^ praise Jehovah.
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+. Or “my soul.”
+====
+
+[[v19-146-2]]
+
+^<<v19-146-2,2>>^ I will praise Jehovah all my life.
+I will sing praises^&#42;1^ to my God as long as I live.
+
+[NOTE]
+====
+. Or “make music.”
+====
+
+[[v19-146-3]]
+
+^<<v19-146-3,3>>^ Do not put your trust in princes^&#42;1^
+Nor in a son of man, who cannot bring salvation.
+
+[NOTE]
+====
+. Or “nobles.”
+====
+
+[[v19-146-4]]
+
+^<<v19-146-4,4>>^ His spirit^&#42;1^ goes out, he returns to the ground;
+On that very day his thoughts perish.
+
+[NOTE]
+====
+. Or “breath.”
+====
+
+[[v19-146-5]]
+
+^<<v19-146-5,5>>^ Happy is the one who has the God of Jacob as his helper,
+Whose hope is in Jehovah his God,
+
+[[v19-146-6]]
+
+^<<v19-146-6,6>>^ The Maker of heaven and earth,
+Of the sea, and of all that is in them,
+The One who always remains faithful,
+
+[[v19-146-7]]
+
+^<<v19-146-7,7>>^ The One securing justice for those defrauded,
+The One giving bread to the hungry.
+Jehovah is releasing the prisoners.^&#42;1^
+
+[NOTE]
+====
+. Lit., “bound ones.”
+====
+
+[[v19-146-8]]
+
+^<<v19-146-8,8>>^ Jehovah is opening the eyes of the blind;
+Jehovah is raising up those bowed down;
+Jehovah loves the righteous.
+
+[[v19-146-9]]
+
+^<<v19-146-9,9>>^ Jehovah is protecting the foreign residents;
+He sustains the fatherless child and the widow,
+But he thwarts the plans of the wicked.^&#42;1^
+
+[NOTE]
+====
+. Or “makes the way of the wicked crooked.”
+====
+
+[[v19-146-10]]
+
+^<<v19-146-10,10>>^ Jehovah will be King forever,
+Your God, O Zion, for generation after generation.
+Praise Jah!^&#42;1^
+
+[NOTE]
+====
+. Or “Hallelujah!” “Jah” is a shortened form of the name Jehovah.
+====
+
+'''
+
+xref:019-psalm/019-psalm-145.adoc#v19-145-0[&#60; Capítulo Anterior] | <<v19-146-0,Topo>> | xref:019-psalm/019-psalm-147.adoc#v19-147-0[Próximo Capítulo &#62;]

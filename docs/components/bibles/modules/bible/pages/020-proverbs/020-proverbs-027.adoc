@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Proverbs, 27
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Do not boast about tomorrow,
+For you do not know what a day will bring.^&#42;1^
+
+[NOTE]
+====
+. Lit., “will give birth to.”
+====
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Let someone else^&#42;1^ praise you, and not your own mouth;
+Others,^&#42;2^ and not your own lips.
+
+[NOTE]
+====
+. Lit., “a stranger.”
+. Lit., “A foreigner.”
+====
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ A stone is heavy and sand is weighty,
+But the irritation caused by a fool is heavier than both.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ There is the cruelty of rage and the flood of anger,
+But who can withstand jealousy?
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ Open reproof is better than concealed love.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ The wounds inflicted by a friend are faithful,
+But an enemy’s kisses are plentiful.^&#42;1^
+
+[NOTE]
+====
+. Or possibly, “insincere; forced.”
+====
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ One whose appetite^&#42;1^ is satisfied turns down^&#42;2^ honey from the comb,
+But to the hungry,^&#42;3^ even what is bitter tastes sweet.
+
+[NOTE]
+====
+. Or “A soul who.”
+. Lit., “treads down.”
+. Or “the hungry soul.”
+====
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Like a bird that strays^&#42;1^ from its nest
+Is a man who strays from his home.
+
+[NOTE]
+====
+. Or “is fleeing away.”
+====
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ Oil and incense make the heart rejoice;
+So does sweet friendship springing from sincere counsel.^&#42;1^
+
+[NOTE]
+====
+. Or “from counsel of the soul.”
+====
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Do not forsake your friend or your father’s friend,
+And do not enter your own brother’s house on the day of your disaster;
+Better is a neighbor nearby than a brother far away.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Be wise, my son, and make my heart rejoice,
+So that I can make a reply to him who taunts me.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ The shrewd person sees the danger and conceals himself,
+But the inexperienced keep right on going and suffer the consequences.^&#42;1^
+
+[NOTE]
+====
+. Or “penalty.”
+====
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Take a man’s garment if he has given security for a stranger;
+Seize the pledge from him if he did so for a foreign woman.^&#42;1^
+
+[NOTE]
+====
+. Or “a foreigner.”
+====
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ When someone blesses his fellow man with a loud voice early in the morning,
+It will be counted as a curse to him.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ A quarrelsome^&#42;1^ wife is like a constantly leaking roof on a rainy day.
+
+[NOTE]
+====
+. Or “nagging.”
+====
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ Whoever can restrain her can restrain the wind
+And can grip oil with his right hand.
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ As iron sharpens iron,
+So one man sharpens his friend.^&#42;1^
+
+[NOTE]
+====
+. Lit., “the face of his friend.”
+====
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ The one who cares for a fig tree will eat its fruit,
+And the one who takes care of his master will be honored.
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ As water reflects one’s face,
+So the heart of one man reflects another’s.
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ The Grave and the place of destruction^&#42;1^ are never satisfied,
+Nor are a man’s eyes ever satisfied.
+
+[NOTE]
+====
+. Or “Sheol and Abaddon.”
+====
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ As the refining pot is for silver and the furnace for gold,
+So a person is tested by the praise he receives.^&#42;1^
+
+[NOTE]
+====
+. Or “So a man is according to his praise.”
+====
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Even if you pound a fool with a pestle
+Like crushed grain in a mortar,
+His foolishness will not leave him.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ You should know well the appearance of your flock.
+Take good care of^&#42;1^ your sheep,
+
+[NOTE]
+====
+. Or “Set your heart on; Pay attention to.”
+====
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ For wealth does not last forever,
+Nor a crown^&#42;1^ for all generations.
+
+[NOTE]
+====
+. Or “diadem.”
+====
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ The green grass disappears, new grass appears,
+And the vegetation of the mountains is gathered in.
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ The young rams provide your clothing,
+And the male goats provide the price of a field.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ And there will be enough goat’s milk to feed you,
+To feed your household, and to sustain your servant girls.
+
+'''
+
+xref:020-proverbs/020-proverbs-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbs/020-proverbs-028.adoc#v20-28-0[Próximo Capítulo &#62;]

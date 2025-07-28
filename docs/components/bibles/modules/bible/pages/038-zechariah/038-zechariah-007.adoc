@@ -1,0 +1,96 @@
+include::./index.adoc[]
+
+[[v38-7-0]]
+=== Zechariah, 7
+// nwt 2013, nwt - New World Translation of the Holy Scriptures
+
+[[v38-7-1]]
+
+^<<v38-7-1,1>>^ And in the fourth year of King Da·riʹus, the word of Jehovah came to Zech·a·riʹah on the fourth day of the ninth month, that is, the month of Chisʹlev.^&#42;1^
+
+[NOTE]
+====
+. See App. B15.
+====
+
+[[v38-7-2]]
+
+^<<v38-7-2,2>>^ The people of Bethʹel sent Shar·eʹzer and Reʹgem-melʹech and his men to beg for the favor^&#42;1^ of Jehovah,
+
+[NOTE]
+====
+. Or “soften the face.”
+====
+
+[[v38-7-3]]
+
+^<<v38-7-3,3>>^ saying to the priests of the house^&#42;1^ of Jehovah of armies and to the prophets: “Should I weep in the fifth month and abstain from food, as I have done for so many years?”
+
+[NOTE]
+====
+. Or “temple.”
+====
+
+[[v38-7-4]]
+
+^<<v38-7-4,4>>^ The word of Jehovah of armies again came to me, saying:
+
+[[v38-7-5]]
+
+^<<v38-7-5,5>>^ “Say to all the people of the land and to the priests, ‘When you fasted and wailed in the fifth month and in the seventh month for 70 years, did you really fast for me?
+
+[[v38-7-6]]
+
+^<<v38-7-6,6>>^ And when you would eat and drink, were you not eating for yourselves and drinking for yourselves?
+
+[[v38-7-7]]
+
+^<<v38-7-7,7>>^ Should you not obey the words that Jehovah proclaimed through the former prophets, while Jerusalem and her surrounding cities were inhabited and at peace, and while the Negʹeb and the She·pheʹlah were inhabited?’”
+
+[[v38-7-8]]
+
+^<<v38-7-8,8>>^ The word of Jehovah again came to Zech·a·riʹah, saying:
+
+[[v38-7-9]]
+
+^<<v38-7-9,9>>^ “This is what Jehovah of armies says, ‘Judge with true justice, and deal with one another in loyal love and mercy.
+
+[[v38-7-10]]
+
+^<<v38-7-10,10>>^ Do not defraud the widow or the fatherless child,^&#42;1^ the foreigner or the poor; and do not scheme evil against one another in your hearts.’
+
+[NOTE]
+====
+. Or “the orphan.”
+====
+
+[[v38-7-11]]
+
+^<<v38-7-11,11>>^ But they kept refusing to pay attention, and they stubbornly turned their backs, and they stopped up their ears so as not to hear.
+
+[[v38-7-12]]
+
+^<<v38-7-12,12>>^ They made their heart like a diamond^&#42;1^ and would not obey the law^&#42;2^ and the words that Jehovah of armies sent by his spirit through the former prophets. So there came great indignation from Jehovah of armies.”
+
+[NOTE]
+====
+. Or possibly, “a hard stone,” such as an emery stone.
+. Or “instruction.”
+====
+
+[[v38-7-13]]
+
+^<<v38-7-13,13>>^ “‘Just as they did not listen when I^&#42;1^ called, so I would not listen when they called,’ says Jehovah of armies.
+
+[NOTE]
+====
+. Lit., “he.”
+====
+
+[[v38-7-14]]
+
+^<<v38-7-14,14>>^ ‘And I scattered them with a storm wind throughout all the nations that they had not known, and the land was left desolate behind them, with no one passing through or returning; for they turned the desirable land into an object of horror.’”
+
+'''
+
+xref:038-zechariah/038-zechariah-006.adoc#v38-6-0[&#60; Capítulo Anterior] | <<v38-7-0,Topo>> | xref:038-zechariah/038-zechariah-008.adoc#v38-8-0[Próximo Capítulo &#62;]

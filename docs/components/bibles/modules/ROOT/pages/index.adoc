@@ -1,4 +1,18 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |nwt
+|🌐 Idioma  |Inglês (Estados Unidos)
+|📅 Ano     |2013
+|📖 Título  |New World Translation of the Holy Scriptures
+|===
+
+Tradução da Bíblia publicada em inglês dos Estados Unidos em 2013.
+Essa edição é atualmente utilizada pelas Testemunhas de Jeová e substituiu a versão anterior de 1984 em português, que foi usada por um longo período.
+A versão oficial está disponível em: https://www.jw.org/en/library/bible/nwt/
+
+:include: https://www.raciocinios.com.br/support-projects.adoc

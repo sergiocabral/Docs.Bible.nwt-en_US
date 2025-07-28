@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: New World Translation of the Holy Scriptures (nwt, en_US, 2013)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://nwt-en-us.bible.raciocinios.com.br/
 
 ---
 
